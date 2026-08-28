@@ -2,17 +2,6 @@
 
 Machine-generated review queue. Nothing here is a curated assertion until promoted into `entities/`.
 
-## Southall Deserves Better
-
-- **Class hint:** person_or_body
-- **Posts:** 2
-- **Mentions:** 2
-- **Score:** 22
-- **First / last:** 2026-04-28T13:21:52+0100 / 2026-04-30T00:13:23+0100
-
-- `posts/2026/04/28/this-place-has-turned-into.md` — y there is nothing remotely like this at the Dominion Centre, or anywhere else in the town. The ECI banner was up, the "Southall Deserves Better" poster on the wall. On the screen: images of Southall. Construction cranes. High-rises going up. The same rubbish-fill
-- `posts/2026/04/30/when-is-a-hustings-not.md` — d job, you get to vote me out" --- You get to vote him out. Get Mason Out! Vote Ealing Community Independents on 7 May. Southall Deserves Better.
-
 ## Southall Market
 
 - **Class hint:** place_or_site
@@ -23,17 +12,6 @@ Machine-generated review queue. Nothing here is a curated assertion until promot
 
 - `posts/2026/01/18/demolition-man-peter-masons-legacy.md` — ing Council prior to awarding these contracts? --- Like Norwood Road, we now find that the much larger development site Southall Market Car Park, may have to be demolished, too, and built all over again at great extra cost. --- From Funding to Failure 201
 - `posts/2026/02/14/section-money-where-did-southalls.md` — en you look at the project lists, most of the Southall spending falls into a few categories. The biggest single project Southall Market affordable housing - Around £899,000 in S106 spending - The largest single Southall project across the five years This
-
-## Southall Reset
-
-- **Class hint:** person_or_body
-- **Posts:** 2
-- **Mentions:** 2
-- **Score:** 22
-- **First / last:** 2025-07-11T13:50:30+0100 / 2026-05-07T17:09:21+0100
-
-- `posts/2025/07/11/perceval-house-w-where-local.md` — rch assistant to attend a jolly. Nothing to see here! Here's where things get even more interesting. The Council's own "Southall Reset" [pdf] document acknowledges that "challenges of deprivation, low pay, are particularly acute" in Southall, contributin
-- `posts/2026/05/07/who-does-peter-mason-really.md` — s remediating the contaminated Gasworks site adjacent to Blair Peach Primary School. He launched a programme called the Southall Reset — the fourth major regeneration framework in fifteen years — while planning to close three of Southall's six children's
 
 ## Southall Town Team
 
@@ -68,17 +46,6 @@ Machine-generated review queue. Nothing here is a curated assertion until promot
 - `posts/2026/04/23/canvassing-with-minni-dogra-a.md` — ear later, Anand — allegedly — falsely accused the same neighbour's daughter (who went on to be the world famous singer Tasha Tah) of assaulting her. Tah was arrested, but the case never went to court and she was cleared of any wrongdoing. Tah said
 - `posts/2026/05/06/sixtyfour-years-on-your-side.md` — in damages, paid only under threat of bankruptcy; a 2007 allegation against the same neighbour's daughter — the singer Tasha Tah — which led to Tah's arrest before the case was dropped; and her now-infamous remark to a room of disabled residents wh
 
-## Ten Years Sorting Out Fly-Tipping
-
-- **Class hint:** unknown
-- **Posts:** 2
-- **Mentions:** 2
-- **Score:** 22
-- **First / last:** 2026-03-01T11:41:26+0100 / 2026-04-05T00:02:41+0100
-
-- `posts/2026/03/01/boomerang-ten-years-sorting-out.md` — Boomerang! Ten Years Sorting Out Fly-tipping Fly-tipping in Ealing has doubled since the council changed waste collection to biweekly in 2016, leading to increased
-- `posts/2026/04/05/on-the-bins-again.md` — a, actually show. This is a follow-up to Bangarang! Pirate Pete and the Lost Bin Collections of Southall and Boomerang! Ten Years Sorting Out Fly-Tipping, which documented how fly-tipping in Ealing doubled the year weekly black bag collections were scrapped in 2016 — and r
-
 ## The Defra
 
 - **Class hint:** person_or_body
@@ -100,28 +67,6 @@ Machine-generated review queue. Nothing here is a curated assertion until promot
 
 - `posts/2026/04/21/you-never-forget-the-smell.md` — cal Government Association's Corporate Peer Challenge found the notice remained in place and progress had been minimal. The Housing Ombudsman issued findings of severe maladministration against the council, specifically citing failures around damp, mould and re
 - `posts/2026/05/02/the-smell-of-success.md` — as the foundation of his claim to understand what bad housing does to people. --- --- The auditors, the regulator, and the Housing Ombudsman have since offered their own assessment of how that understanding translated into leadership. Ealing Council self-refer
-
-## The Institute
-
-- **Class hint:** person_or_body
-- **Posts:** 2
-- **Mentions:** 2
-- **Score:** 22
-- **First / last:** 2026-04-24T22:48:40+0100 / 2026-05-07T17:09:21+0100
-
-- `posts/2026/04/24/when-deport-six-million-becomes.md` — apply the very European Court of Human Rights provisions that protect people from deportation to dangerous situations. The Institute for Government is unambiguous: there is now "a race to toughen immigration controls among parties that lead the electio
-- `posts/2026/05/07/who-does-peter-mason-really.md` — ourts apply the European Court of Human Rights provisions that protect people from deportation to dangerous situations. The Institute for Government is unambiguous: there is now "a race to toughen immigration controls among parties that lead the electio
-
-## The Israeli
-
-- **Class hint:** person_or_body
-- **Posts:** 2
-- **Mentions:** 2
-- **Score:** 22
-- **First / last:** 2026-05-03T23:52:46+0100 / 2026-05-09T18:20:45+0100
-
-- `posts/2026/05/03/cactuses-never-die.md` — Deir Yassin and be silent about something much worse?" --- Yousef's father was not in the village when Battalion 89 of the Israeli 8th Armoured Brigade arrived that Friday morning, approaching along three roads simultaneously. It was October. The oli
-- `posts/2026/05/09/liftoff-ealing-elections-special.md` — me in. He had not been briefed by Labour HQ. Or if he had been, he was overwhelmed by his feelings. 🏗️ Wrecking Ball 🏗️ The Israeli divestment campaign is one of several issues on which Ealing Labour has held a line that increasingly few residents sup
 
 ## The Johnson Street
 

@@ -1,32 +1,5 @@
 [
   {
-    "name": "Southall Deserves Better",
-    "class_hint": "person_or_body",
-    "score": 22,
-    "post_count": 2,
-    "mention_count": 2,
-    "first_mention": "2026-04-28T13:21:52+0100",
-    "last_mention": "2026-04-30T00:13:23+0100",
-    "variant_forms": [
-      "Southall Deserves Better"
-    ],
-    "representative_posts": [
-      "posts/2026/04/28/this-place-has-turned-into.md",
-      "posts/2026/04/30/when-is-a-hustings-not.md"
-    ],
-    "contexts": [
-      {
-        "post": "posts/2026/04/28/this-place-has-turned-into.md",
-        "snippet": "y there is nothing remotely like this at the Dominion Centre, or anywhere else in the town. The ECI banner was up, the \"Southall Deserves Better\" poster on the wall. On the screen: images of Southall. Construction cranes. High-rises going up. The same rubbish-fill"
-      },
-      {
-        "post": "posts/2026/04/30/when-is-a-hustings-not.md",
-        "snippet": "d job, you get to vote me out\" --- You get to vote him out. Get Mason Out! Vote Ealing Community Independents on 7 May. Southall Deserves Better."
-      }
-    ],
-    "review_status": "candidate"
-  },
-  {
     "name": "Southall Market",
     "class_hint": "place_or_site",
     "score": 22,
@@ -49,33 +22,6 @@
       {
         "post": "posts/2026/02/14/section-money-where-did-southalls.md",
         "snippet": "en you look at the project lists, most of the Southall spending falls into a few categories. The biggest single project Southall Market affordable housing - Around £899,000 in S106 spending - The largest single Southall project across the five years This"
-      }
-    ],
-    "review_status": "candidate"
-  },
-  {
-    "name": "Southall Reset",
-    "class_hint": "person_or_body",
-    "score": 22,
-    "post_count": 2,
-    "mention_count": 2,
-    "first_mention": "2025-07-11T13:50:30+0100",
-    "last_mention": "2026-05-07T17:09:21+0100",
-    "variant_forms": [
-      "Southall Reset"
-    ],
-    "representative_posts": [
-      "posts/2025/07/11/perceval-house-w-where-local.md",
-      "posts/2026/05/07/who-does-peter-mason-really.md"
-    ],
-    "contexts": [
-      {
-        "post": "posts/2025/07/11/perceval-house-w-where-local.md",
-        "snippet": "rch assistant to attend a jolly. Nothing to see here! Here's where things get even more interesting. The Council's own \"Southall Reset\" [pdf] document acknowledges that \"challenges of deprivation, low pay, are particularly acute\" in Southall, contributin"
-      },
-      {
-        "post": "posts/2026/05/07/who-does-peter-mason-really.md",
-        "snippet": "s remediating the contaminated Gasworks site adjacent to Blair Peach Primary School. He launched a programme called the Southall Reset — the fourth major regeneration framework in fifteen years — while planning to close three of Southall's six children's"
       }
     ],
     "review_status": "candidate"
@@ -162,34 +108,6 @@
     "review_status": "candidate"
   },
   {
-    "name": "Ten Years Sorting Out Fly-Tipping",
-    "class_hint": "unknown",
-    "score": 22,
-    "post_count": 2,
-    "mention_count": 2,
-    "first_mention": "2026-03-01T11:41:26+0100",
-    "last_mention": "2026-04-05T00:02:41+0100",
-    "variant_forms": [
-      "Ten Years Sorting Out Fly-Tipping",
-      "Ten Years Sorting Out Fly-tipping"
-    ],
-    "representative_posts": [
-      "posts/2026/03/01/boomerang-ten-years-sorting-out.md",
-      "posts/2026/04/05/on-the-bins-again.md"
-    ],
-    "contexts": [
-      {
-        "post": "posts/2026/03/01/boomerang-ten-years-sorting-out.md",
-        "snippet": "Boomerang! Ten Years Sorting Out Fly-tipping Fly-tipping in Ealing has doubled since the council changed waste collection to biweekly in 2016, leading to increased"
-      },
-      {
-        "post": "posts/2026/04/05/on-the-bins-again.md",
-        "snippet": "a, actually show. This is a follow-up to Bangarang! Pirate Pete and the Lost Bin Collections of Southall and Boomerang! Ten Years Sorting Out Fly-Tipping, which documented how fly-tipping in Ealing doubled the year weekly black bag collections were scrapped in 2016 — and r"
-      }
-    ],
-    "review_status": "candidate"
-  },
-  {
     "name": "The Defra",
     "class_hint": "person_or_body",
     "score": 22,
@@ -239,60 +157,6 @@
       {
         "post": "posts/2026/05/02/the-smell-of-success.md",
         "snippet": "as the foundation of his claim to understand what bad housing does to people. --- --- The auditors, the regulator, and the Housing Ombudsman have since offered their own assessment of how that understanding translated into leadership. Ealing Council self-refer"
-      }
-    ],
-    "review_status": "candidate"
-  },
-  {
-    "name": "The Institute",
-    "class_hint": "person_or_body",
-    "score": 22,
-    "post_count": 2,
-    "mention_count": 2,
-    "first_mention": "2026-04-24T22:48:40+0100",
-    "last_mention": "2026-05-07T17:09:21+0100",
-    "variant_forms": [
-      "The Institute"
-    ],
-    "representative_posts": [
-      "posts/2026/04/24/when-deport-six-million-becomes.md",
-      "posts/2026/05/07/who-does-peter-mason-really.md"
-    ],
-    "contexts": [
-      {
-        "post": "posts/2026/04/24/when-deport-six-million-becomes.md",
-        "snippet": "apply the very European Court of Human Rights provisions that protect people from deportation to dangerous situations. The Institute for Government is unambiguous: there is now \"a race to toughen immigration controls among parties that lead the electio"
-      },
-      {
-        "post": "posts/2026/05/07/who-does-peter-mason-really.md",
-        "snippet": "ourts apply the European Court of Human Rights provisions that protect people from deportation to dangerous situations. The Institute for Government is unambiguous: there is now \"a race to toughen immigration controls among parties that lead the electio"
-      }
-    ],
-    "review_status": "candidate"
-  },
-  {
-    "name": "The Israeli",
-    "class_hint": "person_or_body",
-    "score": 22,
-    "post_count": 2,
-    "mention_count": 2,
-    "first_mention": "2026-05-03T23:52:46+0100",
-    "last_mention": "2026-05-09T18:20:45+0100",
-    "variant_forms": [
-      "The Israeli"
-    ],
-    "representative_posts": [
-      "posts/2026/05/03/cactuses-never-die.md",
-      "posts/2026/05/09/liftoff-ealing-elections-special.md"
-    ],
-    "contexts": [
-      {
-        "post": "posts/2026/05/03/cactuses-never-die.md",
-        "snippet": "Deir Yassin and be silent about something much worse?\" --- Yousef's father was not in the village when Battalion 89 of the Israeli 8th Armoured Brigade arrived that Friday morning, approaching along three roads simultaneously. It was October. The oli"
-      },
-      {
-        "post": "posts/2026/05/09/liftoff-ealing-elections-special.md",
-        "snippet": "me in. He had not been briefed by Labour HQ. Or if he had been, he was overwhelmed by his feelings. 🏗️ Wrecking Ball 🏗️ The Israeli divestment campaign is one of several issues on which Ealing Labour has held a line that increasingly few residents sup"
       }
     ],
     "review_status": "candidate"
