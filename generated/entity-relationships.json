@@ -294,5 +294,50 @@
     "review_status": "reviewed",
     "to": "air-quality-scrutiny-panel",
     "type": "appeared_before"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2022/12/17/the-property-lobby-the-hidden.md",
+      "posts/2026/05/07/who-does-peter-mason-really.md"
+    ],
+    "from": "peter-mason",
+    "id": "peter-mason-mipim-trip-sponsored-in-part-by-berkeley-group",
+    "note": "The cited reporting records that Mason's 2019 MIPIM attendance was jointly funded by a sponsor consortium that included Berkeley Group; Mason later described accepting the sponsorship as a mistake.",
+    "review_status": "reviewed",
+    "to": "berkeley-group",
+    "type": "mipim_trip_sponsored_in_part_by"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2022/12/17/the-property-lobby-the-hidden.md",
+      "posts/2025/09/26/ealing-for-sale.md"
+    ],
+    "from": "julian-bell",
+    "id": "julian-bell-mipim-delegation-sponsored-in-part-by-berkeley-group",
+    "note": "The cited reporting records Bell's MIPIM attendance through Ealing's developer-sponsored delegation; official council records list Berkeley Homes among the sponsors.",
+    "review_status": "reviewed",
+    "to": "berkeley-group",
+    "type": "mipim_trip_sponsored_in_part_by"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2022/12/17/the-property-lobby-the-hidden.md",
+      "posts/2025/09/26/ealing-for-sale.md"
+    ],
+    "from": "ealing-council",
+    "id": "ealing-council-received-mipim-sponsorship-from-berkeley-group",
+    "note": "Official Ealing Council records list Berkeley Homes among sponsors of the council's MIPIM delegation. This records sponsorship, not any inferred effect on planning decisions.",
+    "review_status": "reviewed",
+    "to": "berkeley-group",
+    "type": "received_mipim_sponsorship_from"
   }
 ]

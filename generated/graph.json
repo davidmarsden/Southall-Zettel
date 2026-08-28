@@ -10244,6 +10244,48 @@
       "type": "appeared_before"
     },
     {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "posts/2022/12/17/the-property-lobby-the-hidden.md",
+        "posts/2026/05/07/who-does-peter-mason-really.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:peter-mason",
+      "target": "entity:berkeley-group",
+      "type": "mipim_trip_sponsored_in_part_by"
+    },
+    {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "posts/2022/12/17/the-property-lobby-the-hidden.md",
+        "posts/2025/09/26/ealing-for-sale.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:julian-bell",
+      "target": "entity:berkeley-group",
+      "type": "mipim_trip_sponsored_in_part_by"
+    },
+    {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "posts/2022/12/17/the-property-lobby-the-hidden.md",
+        "posts/2025/09/26/ealing-for-sale.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:ealing-council",
+      "target": "entity:berkeley-group",
+      "type": "received_mipim_sponsorship_from"
+    },
+    {
       "provenance": "reviewed-source-record",
       "source": "post:posts/2026/03/01/boomerang-ten-years-sorting-out.md",
       "target": "source:bbc-london-politics-show",

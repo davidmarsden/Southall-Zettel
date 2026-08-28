@@ -192,3 +192,33 @@ Curated edges with explicit evidence. These are assertions, not co-occurrence.
   - `posts/2019/08/25/southall-under-siege-the-neighbours.md`
   - `posts/2018/09/12/countering-the-southall-waterside-narrative.md`
 - **Note:** The cited reporting records Leydon answering questions at the panel's September 2018 meeting.
+
+## Peter Mason → Berkeley Group
+
+- **Type:** `mipim_trip_sponsored_in_part_by`
+- **Confidence:** high
+- **Review:** reviewed
+- **Evidence:**
+  - `posts/2022/12/17/the-property-lobby-the-hidden.md`
+  - `posts/2026/05/07/who-does-peter-mason-really.md`
+- **Note:** The cited reporting records that Mason's 2019 MIPIM attendance was jointly funded by a sponsor consortium that included Berkeley Group; Mason later described accepting the sponsorship as a mistake.
+
+## Julian Bell → Berkeley Group
+
+- **Type:** `mipim_trip_sponsored_in_part_by`
+- **Confidence:** high
+- **Review:** reviewed
+- **Evidence:**
+  - `posts/2022/12/17/the-property-lobby-the-hidden.md`
+  - `posts/2025/09/26/ealing-for-sale.md`
+- **Note:** The cited reporting records Bell's MIPIM attendance through Ealing's developer-sponsored delegation; official council records list Berkeley Homes among the sponsors.
+
+## Ealing Council → Berkeley Group
+
+- **Type:** `received_mipim_sponsorship_from`
+- **Confidence:** high
+- **Review:** reviewed
+- **Evidence:**
+  - `posts/2022/12/17/the-property-lobby-the-hidden.md`
+  - `posts/2025/09/26/ealing-for-sale.md`
+- **Note:** Official Ealing Council records list Berkeley Homes among sponsors of the council's MIPIM delegation. This records sponsorship, not any inferred effect on planning decisions.
