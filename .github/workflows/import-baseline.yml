@@ -16,18 +16,91 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Reconstruct and verify baseline archive
+      - name: Recover and verify exact baseline archive
         shell: bash
         run: |
           set -euo pipefail
-          : > /tmp/Southall-Zettel-baseline-full.b64
-          for i in $(seq -w 0 14); do
-            git show "origin/baseline-import-staging-2:.staging/chunk-$i" >> /tmp/Southall-Zettel-baseline-full.b64
-          done
-          base64 --decode /tmp/Southall-Zettel-baseline-full.b64 > /tmp/Southall-Zettel-baseline-full.tar.xz
-          echo '7c34203eb9aa4d7c965327e82d6c9eaf8f9b3b651292b1b4c07b83d62eecb867  /tmp/Southall-Zettel-baseline-full.tar.xz' | sha256sum -c -
+          python3 - <<'PY'
+          from pathlib import Path
+          import base64, hashlib
 
-      - name: Unpack baseline into repository root
+          root = Path('.staging')
+          target = '7c34203eb9aa4d7c965327e82d6c9eaf8f9b3b651292b1b4c07b83d62eecb867'
+
+          names = [f'chunk-{i:03d}' for i in range(17)]
+          names += [
+              'chunk-017-00', 'chunk-017-01', 'chunk-017-02',
+              'chunk-018-00', 'chunk-018-01', 'chunk-018-02',
+          ]
+          b64_18 = ''.join((root / n).read_text().strip() for n in names)
+          p18 = base64.b64decode(b64_18, validate=True)
+          b64_19 = b64_18 + (root / 'chunk-019-00').read_text().strip()
+          p19 = base64.b64decode(b64_19, validate=True)
+          tail = bytes.fromhex(''.join((root / f'hex-{i:02d}').read_text() for i in range(7)))
+
+          # Cross-check the beginning against the independently staged canonical hex prefix.
+          fresh = bytes.fromhex(''.join((Path('.fresh') / f'hex-{i:02d}').read_text() for i in range(4)))
+          if p18[:len(fresh)] != fresh:
+              raise SystemExit('Canonical prefix mismatch: an early staged base64 chunk is corrupt')
+          print(f'Canonical prefix verified: {len(fresh)} bytes')
+          print(f'p18={len(p18)} bytes p19={len(p19)} bytes tail={len(tail)} bytes')
+
+          def digest(data: bytes) -> str:
+              return hashlib.sha256(data).hexdigest()
+
+          found = None
+          label = None
+
+          direct = [
+              ('p18+tail', p18 + tail),
+              ('p19+tail', p19 + tail),
+          ]
+          for name, data in direct:
+              h = digest(data)
+              print(name, len(data), h)
+              if h == target:
+                  found, label = data, name
+                  break
+
+          # If the transport switched from base64 to hex inside chunk-019,
+          # locate the hex tail's opening bytes inside the decoded prefix.
+          if found is None and len(tail) >= 64:
+              pos = p19.find(tail[:64], max(0, len(p18) - 64))
+              if pos >= 0:
+                  data = p19[:pos] + tail
+                  print('tail-prefix-match', pos, len(data), digest(data))
+                  if digest(data) == target:
+                      found, label = data, f'p19[:{pos}]+tail'
+
+          # Exhaust every possible base64→hex cut across the 4.5 KB represented
+          # by chunk-019-00. This is small, deterministic, and checksum-gated.
+          if found is None:
+              for cut in range(len(p18), len(p19) + 1):
+                  data = p19[:cut] + tail
+                  if digest(data) == target:
+                      found, label = data, f'p19[:{cut}]+tail'
+                      break
+
+          # Also allow for the hex tail to overlap the end of p18.
+          if found is None:
+              max_skip = min(6000, len(tail))
+              for skip in range(max_skip + 1):
+                  data = p18 + tail[skip:]
+                  if digest(data) == target:
+                      found, label = data, f'p18+tail[{skip}:]'
+                      break
+
+          if found is None:
+              raise SystemExit('No staged transition reconstructs the verified archive SHA-256')
+
+          out = Path('/tmp/Southall-Zettel-baseline-full.tar.xz')
+          out.write_bytes(found)
+          print(f'RECOVERED via {label}: {len(found)} bytes, sha256={digest(found)}')
+          PY
+          echo '7c34203eb9aa4d7c965327e82d6c9eaf8f9b3b651292b1b4c07b83d62eecb867  /tmp/Southall-Zettel-baseline-full.tar.xz' | sha256sum -c -
+          xz -t /tmp/Southall-Zettel-baseline-full.tar.xz
+
+      - name: Unpack and verify corpus
         shell: bash
         run: |
           set -euo pipefail
@@ -35,13 +108,27 @@ jobs:
           test "$(find posts -type f -name '*.md' | wc -l)" -eq 69
           test -f generated/posts.json
           test -f indexes/years.md
+          test -f indexes/categories.md
+          test -f indexes/sources.md
           test -f original/baseline-2026-08-27.json
+          python3 - <<'PY'
+          from pathlib import Path
+          import hashlib, json
+          records = json.loads(Path('generated/posts.json').read_text())
+          assert len(records) == 69, len(records)
+          for record in records:
+              p = Path(record['path'])
+              assert p.is_file(), p
+              actual = hashlib.sha256(p.read_bytes()).hexdigest()
+              assert actual == record['sha256'], (p, actual, record['sha256'])
+          print('Verified 69 post files against generated/posts.json SHA-256 manifest')
+          PY
 
-      - name: Commit baseline corpus and clean staging
+      - name: Commit corpus and clean bootstrap files
         shell: bash
         run: |
           set -euo pipefail
-          rm -rf .staging
+          rm -rf .staging .fresh .bootstrap
           rm -f .github/workflows/import-baseline.yml
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
