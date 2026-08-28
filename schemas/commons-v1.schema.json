@@ -95,7 +95,7 @@
           "items": {
             "type": "object",
             "required": ["id"],
-            "properties": {"id": {"type": "string", "pattern": "^post:"}},
+            "properties": {"id": {"type": "string", "pattern": "^(post|source):"}},
             "additionalProperties": false
           }
         },
