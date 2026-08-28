@@ -1,0 +1,12 @@
+{
+  "snapshot_date": "2026-08-27",
+  "source_archive": "southall_d7fca9.zip",
+  "source_archive_sha256": "025933e9326edc68c29c98a54ad53ba5dbf70f0886726dbba9d3eada2d0ea1f2",
+  "dated_posts": 69,
+  "year_span": [
+    "2018",
+    "2026"
+  ],
+  "categories": 23,
+  "outbound_domains": 187
+}

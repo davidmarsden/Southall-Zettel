@@ -1,0 +1,25 @@
+# Categories
+
+- **Commentary** — 54
+- **Local Democracy** — 41
+- **Ealing Labour** — 37
+- **Environment** — 35
+- **Health** — 29
+- **Community** — 28
+- **Investigations** — 24
+- **Gasworks** — 24
+- **Exposes** — 23
+- **Pollution** — 22
+- **Berkeley Group** — 20
+- **Features** — 19
+- **Corruption** — 16
+- **Campaigns** — 15
+- **Research** — 12
+- **Personal** — 10
+- **Housing** — 9
+- **Ethics** — 8
+- **AI** — 8
+- **Children's Centres** — 5
+- **BREAKING NEWS** — 4
+- **Podcast** — 3
+- **Updates** — 3
