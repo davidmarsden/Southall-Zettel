@@ -10368,5 +10368,7 @@
     }
   ],
   "new_problem_count": 0,
-  "problem_count": 48
+  "problem_count": 48,
+  "resolved_since_last_check": [],
+  "resolved_since_last_check_count": 0
 }
