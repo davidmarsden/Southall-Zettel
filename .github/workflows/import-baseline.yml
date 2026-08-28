@@ -28,10 +28,10 @@ jobs:
           root = Path('.staging')
 
           def show(path: str) -> str:
-              return subprocess.check_output(
-                  ['git', 'show', f'origin/canonical-recovery:{path}'],
-                  text=True,
-              )
+              return subprocess.check_output(['git', 'show', f'origin/canonical-recovery:{path}'], text=True)
+
+          def compact(s: str) -> str:
+              return ''.join(s.split())
 
           names = [f'chunk-{i:03d}' for i in range(17)] + [
               'chunk-017-00', 'chunk-017-01', 'chunk-017-02',
@@ -45,46 +45,82 @@ jobs:
           print('staged candidate', len(candidate), hashlib.sha256(candidate).hexdigest())
           assert len(candidate) == 236480, len(candidate)
 
-          # Canonical stream layout created from the verified original archive:
-          # hex-00..07 = first 80,000 hex chars = bytes 0..39,999.
-          first = bytes.fromhex(''.join(show(f'.fresh/hex-{i:02d}') for i in range(8)))
-          print('canonical first', len(first))
-          candidate[0:len(first)] = first
+          # Rebuild canonical first 40 KB. Every source part should be exactly
+          # 10,000 hex chars. hex-04 acquired one extra relay character; remove
+          # it only if doing so exactly matches the independent staged byte range.
+          hex_parts = []
+          for i in range(8):
+              h = compact(show(f'.fresh/hex-{i:02d}'))
+              print(f'hex-{i:02d} compact chars', len(h))
+              if i == 4 and len(h) == 10001:
+                  ref = bytes(candidate[20000:25000]).hex()
+                  repaired = None
+                  repair_at = None
+                  # Fast path: locate the first shift against the 10,000-char reference.
+                  j = 0
+                  while j < len(ref) and h[j] == ref[j]:
+                      j += 1
+                  for pos in {j, max(0, j-1), min(10000, j+1), 10000}:
+                      trial = h[:pos] + h[pos+1:]
+                      if trial == ref:
+                          repaired, repair_at = trial, pos
+                          break
+                  # Exhaustive fallback is still tiny (10k candidates).
+                  if repaired is None:
+                      for pos in range(len(h)):
+                          if h[:pos] + h[pos+1:] == ref:
+                              repaired, repair_at = h[:pos] + h[pos+1:], pos
+                              break
+                  if repaired is None:
+                      raise SystemExit('hex-04 has 10001 chars but no single deletion matches staged reference')
+                  print('hex-04 repaired single inserted char at', repair_at)
+                  h = repaired
+              if len(h) != 10000:
+                  raise SystemExit(f'Unexpected canonical hex-{i:02d} length {len(h)}')
+              hex_parts.append(h)
 
-          # tail-00..10 are consecutive 14,000-hex-char slices beginning at
-          # hex offset 80,000, i.e. byte offset 40,000.
+          first = bytes.fromhex(''.join(hex_parts))
+          assert len(first) == 40000
+          candidate[:40000] = first
+
+          # tail-00..10: exact 14,000-hex-char slices at byte 40,000 onward.
           pos = 40000
           for i in range(11):
-              part = bytes.fromhex(show(f'.fresh/tail-{i:02d}'))
-              print(f'tail-{i:02d}', len(part), 'at', pos)
-              candidate[pos:pos+len(part)] = part
+              h = compact(show(f'.fresh/tail-{i:02d}'))
+              print(f'tail-{i:02d} compact chars', len(h), 'at byte', pos)
+              if len(h) != 14000:
+                  raise SystemExit(f'Unexpected tail-{i:02d} length {len(h)}')
+              part = bytes.fromhex(h)
+              candidate[pos:pos+7000] = part
               pos += 7000
-          assert pos == 117000, pos
+          assert pos == 117000
 
-          # tail-11 was truncated during relay, but its surviving prefix is still
-          # canonical. Overlay whatever exact bytes survived at byte 117,000.
-          part11 = bytes.fromhex(show('.fresh/tail-11'))
-          print('tail-11 surviving', len(part11), 'at 117000')
+          # tail-11 is a surviving canonical prefix of the intended 14k hex slice.
+          h11 = compact(show('.fresh/tail-11'))
+          print('tail-11 compact chars', len(h11), 'at byte 117000')
+          if len(h11) % 2:
+              raise SystemExit('tail-11 surviving prefix has odd hex length')
+          part11 = bytes.fromhex(h11)
           candidate[117000:117000+len(part11)] = part11
 
-          # tail-12..21 were generated from fixed original offsets, independently
-          # of the truncated tail-11 relay, so restore them at their intended slots.
+          # tail-12..21: exact 14k slices at their original fixed offsets.
           for i in range(12, 22):
-              part = bytes.fromhex(show(f'.fresh/tail-{i:02d}'))
+              h = compact(show(f'.fresh/tail-{i:02d}'))
+              print(f'tail-{i:02d} compact chars', len(h))
+              if len(h) != 14000:
+                  raise SystemExit(f'Unexpected tail-{i:02d} length {len(h)}')
+              part = bytes.fromhex(h)
               intended = 124000 + (i - 12) * 7000
-              print(f'tail-{i:02d}', len(part), 'at', intended)
-              candidate[intended:intended+len(part)] = part
+              candidate[intended:intended+7000] = part
 
           repaired = bytes(candidate)
           h = hashlib.sha256(repaired).hexdigest()
-          print('repaired', len(repaired), h)
+          print('repaired candidate', len(repaired), h)
           if h != target:
-              # Give a bounded diagnostic of the still-unknown regions.
-              print('UNKNOWN regions remain approximately bytes 122000:124000 and 194000:236480')
+              print('Still-unknown windows: bytes 122000:124000 and 194000:236480')
               raise SystemExit('Canonical overlay did not yet recover the target SHA-256')
 
-          out = Path('/tmp/Southall-Zettel-baseline-full.tar.xz')
-          out.write_bytes(repaired)
+          Path('/tmp/Southall-Zettel-baseline-full.tar.xz').write_bytes(repaired)
           print('RECOVERED exact original archive')
           PY
           echo '7c34203eb9aa4d7c965327e82d6c9eaf8f9b3b651292b1b4c07b83d62eecb867  /tmp/Southall-Zettel-baseline-full.tar.xz' | sha256sum -c -
