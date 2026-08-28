@@ -57,3 +57,76 @@ relationships:
     created_by: human
     review_status: reviewed
     note: The cited post identifies the Southall Air Quality Focus Area as a defined area within Southall.
+
+  - id: tony-pidgley-founder-of-berkeley-group
+    from: tony-pidgley
+    to: berkeley-group
+    type: founder_of
+    directional: true
+    evidence:
+      - posts/2019/06/01/pull-the-other-one-julian.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: The cited post identifies Tony Pidgley as founder and chair of Berkeley Group.
+
+  - id: berkeley-group-developer-of-southall-gasworks
+    from: berkeley-group
+    to: southall-gasworks
+    type: developer_of
+    directional: true
+    evidence:
+      - posts/2019/06/01/pull-the-other-one-julian.md
+      - posts/2026/05/07/the-man-in-the-middle.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: The cited reporting identifies Berkeley Group as the developer of the former Southall Gasworks site, branded Southall Waterside and later The Green Quarter.
+
+  - id: jags-sanghera-employed-by-berkeley-group
+    from: jags-sanghera
+    to: berkeley-group
+    type: employed_by
+    directional: true
+    evidence:
+      - posts/2026/05/07/the-man-in-the-middle.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: The cited reporting records Sanghera's Berkeley role and career history.
+
+  - id: jags-sanghera-chair-of-southall-community-alliance
+    from: jags-sanghera
+    to: southall-community-alliance
+    type: chair_of
+    directional: true
+    evidence:
+      - posts/2026/05/07/the-man-in-the-middle.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: The cited reporting and linked SCA governance page identify Jags Sanghera as chair.
+
+  - id: southall-community-alliance-member-of-southall-town-team
+    from: southall-community-alliance
+    to: southall-town-team
+    type: member_of
+    directional: true
+    evidence:
+      - posts/2026/05/07/the-man-in-the-middle.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: The cited reporting states that Southall Community Alliance has a presence on the Southall Town Team.
+
+  - id: southall-town-team-facilitated-by-ealing-council
+    from: southall-town-team
+    to: ealing-council
+    type: facilitated_by
+    directional: true
+    evidence:
+      - posts/2026/05/07/the-man-in-the-middle.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: The cited reporting describes the Town Team as a council-facilitated body.
