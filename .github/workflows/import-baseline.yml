@@ -16,86 +16,76 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Recover and verify exact baseline archive
+      - name: Repair and verify exact baseline archive
         shell: bash
         run: |
           set -euo pipefail
           python3 - <<'PY'
           from pathlib import Path
-          import base64, hashlib
+          import base64, hashlib, subprocess
 
-          root = Path('.staging')
           target = '7c34203eb9aa4d7c965327e82d6c9eaf8f9b3b651292b1b4c07b83d62eecb867'
+          root = Path('.staging')
 
-          names = [f'chunk-{i:03d}' for i in range(17)]
-          names += [
+          def show(path: str) -> str:
+              return subprocess.check_output(
+                  ['git', 'show', f'origin/canonical-recovery:{path}'],
+                  text=True,
+              )
+
+          names = [f'chunk-{i:03d}' for i in range(17)] + [
               'chunk-017-00', 'chunk-017-01', 'chunk-017-02',
               'chunk-018-00', 'chunk-018-01', 'chunk-018-02',
+              'chunk-019-00',
           ]
-          b64_18 = ''.join((root / n).read_text().strip() for n in names)
-          p18 = base64.b64decode(b64_18, validate=True)
-          b64_19 = b64_18 + (root / 'chunk-019-00').read_text().strip()
-          p19 = base64.b64decode(b64_19, validate=True)
+          b64 = ''.join((root / n).read_text().strip() for n in names)
+          prefix = base64.b64decode(b64, validate=True)
           tail = bytes.fromhex(''.join((root / f'hex-{i:02d}').read_text() for i in range(7)))
+          candidate = bytearray(prefix + tail)
+          print('staged candidate', len(candidate), hashlib.sha256(candidate).hexdigest())
+          assert len(candidate) == 236480, len(candidate)
 
-          # Cross-check the beginning against the independently staged canonical hex prefix.
-          fresh = bytes.fromhex(''.join((Path('.fresh') / f'hex-{i:02d}').read_text() for i in range(4)))
-          if p18[:len(fresh)] != fresh:
-              raise SystemExit('Canonical prefix mismatch: an early staged base64 chunk is corrupt')
-          print(f'Canonical prefix verified: {len(fresh)} bytes')
-          print(f'p18={len(p18)} bytes p19={len(p19)} bytes tail={len(tail)} bytes')
+          # Canonical stream layout created from the verified original archive:
+          # hex-00..07 = first 80,000 hex chars = bytes 0..39,999.
+          first = bytes.fromhex(''.join(show(f'.fresh/hex-{i:02d}') for i in range(8)))
+          print('canonical first', len(first))
+          candidate[0:len(first)] = first
 
-          def digest(data: bytes) -> str:
-              return hashlib.sha256(data).hexdigest()
+          # tail-00..10 are consecutive 14,000-hex-char slices beginning at
+          # hex offset 80,000, i.e. byte offset 40,000.
+          pos = 40000
+          for i in range(11):
+              part = bytes.fromhex(show(f'.fresh/tail-{i:02d}'))
+              print(f'tail-{i:02d}', len(part), 'at', pos)
+              candidate[pos:pos+len(part)] = part
+              pos += 7000
+          assert pos == 117000, pos
 
-          found = None
-          label = None
+          # tail-11 was truncated during relay, but its surviving prefix is still
+          # canonical. Overlay whatever exact bytes survived at byte 117,000.
+          part11 = bytes.fromhex(show('.fresh/tail-11'))
+          print('tail-11 surviving', len(part11), 'at 117000')
+          candidate[117000:117000+len(part11)] = part11
 
-          direct = [
-              ('p18+tail', p18 + tail),
-              ('p19+tail', p19 + tail),
-          ]
-          for name, data in direct:
-              h = digest(data)
-              print(name, len(data), h)
-              if h == target:
-                  found, label = data, name
-                  break
+          # tail-12..21 were generated from fixed original offsets, independently
+          # of the truncated tail-11 relay, so restore them at their intended slots.
+          for i in range(12, 22):
+              part = bytes.fromhex(show(f'.fresh/tail-{i:02d}'))
+              intended = 124000 + (i - 12) * 7000
+              print(f'tail-{i:02d}', len(part), 'at', intended)
+              candidate[intended:intended+len(part)] = part
 
-          # If the transport switched from base64 to hex inside chunk-019,
-          # locate the hex tail's opening bytes inside the decoded prefix.
-          if found is None and len(tail) >= 64:
-              pos = p19.find(tail[:64], max(0, len(p18) - 64))
-              if pos >= 0:
-                  data = p19[:pos] + tail
-                  print('tail-prefix-match', pos, len(data), digest(data))
-                  if digest(data) == target:
-                      found, label = data, f'p19[:{pos}]+tail'
-
-          # Exhaust every possible base64→hex cut across the 4.5 KB represented
-          # by chunk-019-00. This is small, deterministic, and checksum-gated.
-          if found is None:
-              for cut in range(len(p18), len(p19) + 1):
-                  data = p19[:cut] + tail
-                  if digest(data) == target:
-                      found, label = data, f'p19[:{cut}]+tail'
-                      break
-
-          # Also allow for the hex tail to overlap the end of p18.
-          if found is None:
-              max_skip = min(6000, len(tail))
-              for skip in range(max_skip + 1):
-                  data = p18 + tail[skip:]
-                  if digest(data) == target:
-                      found, label = data, f'p18+tail[{skip}:]'
-                      break
-
-          if found is None:
-              raise SystemExit('No staged transition reconstructs the verified archive SHA-256')
+          repaired = bytes(candidate)
+          h = hashlib.sha256(repaired).hexdigest()
+          print('repaired', len(repaired), h)
+          if h != target:
+              # Give a bounded diagnostic of the still-unknown regions.
+              print('UNKNOWN regions remain approximately bytes 122000:124000 and 194000:236480')
+              raise SystemExit('Canonical overlay did not yet recover the target SHA-256')
 
           out = Path('/tmp/Southall-Zettel-baseline-full.tar.xz')
-          out.write_bytes(found)
-          print(f'RECOVERED via {label}: {len(found)} bytes, sha256={digest(found)}')
+          out.write_bytes(repaired)
+          print('RECOVERED exact original archive')
           PY
           echo '7c34203eb9aa4d7c965327e82d6c9eaf8f9b3b651292b1b4c07b83d62eecb867  /tmp/Southall-Zettel-baseline-full.tar.xz' | sha256sum -c -
           xz -t /tmp/Southall-Zettel-baseline-full.tar.xz
