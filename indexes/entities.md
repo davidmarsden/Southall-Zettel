@@ -31,6 +31,7 @@ Curated entities with generated mention counts.
 - [Ealing](../entities/places/ealing.md) — 60 posts
 - [Norwood Road](../entities/places/norwood-road.md) — 2 posts
 - [Southall](../entities/places/southall.md) — 63 posts
-- [Southall Gasworks](../entities/places/southall-gasworks.md) — 25 posts
+- [Southall Gasworks](../entities/places/southall-gasworks.md) — 40 posts
 - [Southall Green](../entities/places/southall-green.md) — 22 posts
 - [Southall Market Car Park](../entities/places/southall-market-car-park.md) — 3 posts
+- [Warren Farm](../entities/places/warren-farm.md) — 3 posts

@@ -110,6 +110,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:southall-gasworks",
+      "target": "post:posts/2018/09/11/berkeleys-school-governors-board-member.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "topic:air-pollution",
       "target": "post:posts/2018/09/11/berkeleys-school-governors-board-member.md",
       "type": "mentioned-in"
@@ -284,6 +290,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:southall-gasworks",
+      "target": "post:posts/2019/06/01/pull-the-other-one-julian.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "topic:air-pollution",
       "target": "post:posts/2019/06/01/pull-the-other-one-julian.md",
       "type": "mentioned-in"
@@ -465,6 +477,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall",
+      "target": "post:posts/2019/07/21/phe-coverup-continued.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-gasworks",
       "target": "post:posts/2019/07/21/phe-coverup-continued.md",
       "type": "mentioned-in"
     },
@@ -626,6 +644,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:southall-gasworks",
+      "target": "post:posts/2019/10/01/trigger-vote-for-sharma.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:southall-green",
       "target": "post:posts/2019/10/01/trigger-vote-for-sharma.md",
       "type": "mentioned-in"
@@ -657,6 +681,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall",
+      "target": "post:posts/2020/10/05/high-traffic-neighbourhood.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-gasworks",
       "target": "post:posts/2020/10/05/high-traffic-neighbourhood.md",
       "type": "mentioned-in"
     },
@@ -705,6 +735,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall",
+      "target": "post:posts/2021/04/14/strawberries-for-pigs.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-gasworks",
       "target": "post:posts/2021/04/14/strawberries-for-pigs.md",
       "type": "mentioned-in"
     },
@@ -998,6 +1034,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:southall-gasworks",
+      "target": "post:posts/2022/07/10/weasel-words-on-air-quality.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "topic:air-pollution",
       "target": "post:posts/2022/07/10/weasel-words-on-air-quality.md",
       "type": "mentioned-in"
@@ -1041,6 +1083,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall",
+      "target": "post:posts/2022/12/17/the-property-lobby-the-hidden.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-gasworks",
       "target": "post:posts/2022/12/17/the-property-lobby-the-hidden.md",
       "type": "mentioned-in"
     },
@@ -1119,6 +1167,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall-green",
+      "target": "post:posts/2023/01/26/response-to-ealings-air-quality.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:warren-farm",
       "target": "post:posts/2023/01/26/response-to-ealings-air-quality.md",
       "type": "mentioned-in"
     },
@@ -1424,6 +1478,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:southall-gasworks",
+      "target": "post:posts/2024/12/14/southall-odours.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "topic:air-pollution",
       "target": "post:posts/2024/12/14/southall-odours.md",
       "type": "mentioned-in"
@@ -1497,6 +1557,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall-green",
+      "target": "post:posts/2025/07/11/perceval-house-w-where-local.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:warren-farm",
       "target": "post:posts/2025/07/11/perceval-house-w-where-local.md",
       "type": "mentioned-in"
     },
@@ -1599,6 +1665,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall",
+      "target": "post:posts/2025/07/16/the-pied-piper-of-ealing.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-gasworks",
       "target": "post:posts/2025/07/16/the-pied-piper-of-ealing.md",
       "type": "mentioned-in"
     },
@@ -3020,6 +3092,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:southall-gasworks",
+      "target": "post:posts/2026/04/23/canvassing-with-minni-dogra-a.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:southall-green",
       "target": "post:posts/2026/04/23/canvassing-with-minni-dogra-a.md",
       "type": "mentioned-in"
@@ -3279,6 +3357,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall",
+      "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-gasworks",
       "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
       "type": "mentioned-in"
     },
@@ -3686,6 +3770,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:southall-gasworks",
+      "target": "post:posts/2026/05/02/the-smell-of-success.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:southall-green",
       "target": "post:posts/2026/05/02/the-smell-of-success.md",
       "type": "mentioned-in"
@@ -3986,6 +4076,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:southall-gasworks",
+      "target": "post:posts/2026/05/06/sixtyfour-years-on-your-side.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:southall-green",
       "target": "post:posts/2026/05/06/sixtyfour-years-on-your-side.md",
       "type": "mentioned-in"
@@ -4197,6 +4293,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall",
+      "target": "post:posts/2026/05/06/the-meeting-that-ended-local.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-gasworks",
       "target": "post:posts/2026/05/06/the-meeting-that-ended-local.md",
       "type": "mentioned-in"
     },
@@ -4971,6 +5073,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall-green",
+      "target": "post:posts/2026/05/25/feeling-the-heat.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:warren-farm",
       "target": "post:posts/2026/05/25/feeling-the-heat.md",
       "type": "mentioned-in"
     },
@@ -8790,6 +8898,13 @@
       "id": "entity:southall",
       "label": "Southall",
       "path": "entities/places/southall.md",
+      "subtype": "place",
+      "type": "entity"
+    },
+    {
+      "id": "entity:warren-farm",
+      "label": "Warren Farm",
+      "path": "entities/places/warren-farm.md",
       "subtype": "place",
       "type": "entity"
     },

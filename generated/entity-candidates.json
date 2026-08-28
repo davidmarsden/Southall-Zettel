@@ -502,39 +502,6 @@
     "review_status": "candidate"
   },
   {
-    "name": "Green Quarter",
-    "class_hint": "place_or_site",
-    "score": 47,
-    "post_count": 4,
-    "mention_count": 7,
-    "first_mention": "2026-02-14T17:18:46+0100",
-    "last_mention": "2026-05-07T10:29:47+0100",
-    "variant_forms": [
-      "Green Quarter"
-    ],
-    "representative_posts": [
-      "posts/2026/02/14/section-money-where-did-southalls.md",
-      "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
-      "posts/2026/04/28/this-place-has-turned-into.md",
-      "posts/2026/05/07/the-man-in-the-middle.md"
-    ],
-    "contexts": [
-      {
-        "post": "posts/2026/02/14/section-money-where-did-southalls.md",
-        "snippet": "h areas: - Generated huge S106 income - Received far less in spending than they produced --- Southall Gasworks (aka The Green Quarter): a flagship scheme The council’s own FOI response gives a rare scheme-specific total. Southall Gasworks (aka Green Qua"
-      },
-      {
-        "post": "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
-        "snippet": "me. Enough for ten children's centres. Her food business, AN&, now operates an upmarket coffee cart at Berkeley's toxic Green Quarter development at a prime location opposite Southall station — a commercial relationship that her colleague Jags Sanghera"
-      },
-      {
-        "post": "posts/2026/04/28/this-place-has-turned-into.md",
-        "snippet": "of boulevard to work, as there are no adjacent houses, only the very plush, clean, and inviting boutique shops, private Green Quarter residents' only gym and lounge/workspace, and further down the Italian coffee shop. Outside the café stood a gaggle of"
-      }
-    ],
-    "review_status": "candidate"
-  },
-  {
     "name": "National Front",
     "class_hint": "person_or_body",
     "score": 47,
@@ -563,39 +530,6 @@
       {
         "post": "posts/2026/05/06/the-meeting-that-ended-local.md",
         "snippet": "t it more bluntly: \"This place has turned into a bloody slum.\" Another: \"There's no unity left in Southall. We beat the National Front, but it's all gone. Where is everyone?\" That is the question this article has been trying to answer. The unity is not g"
-      }
-    ],
-    "review_status": "candidate"
-  },
-  {
-    "name": "The Green Quarter",
-    "class_hint": "place_or_site",
-    "score": 47,
-    "post_count": 4,
-    "mention_count": 7,
-    "first_mention": "2018-07-09T20:10:00+0100",
-    "last_mention": "2026-05-07T10:29:47+0100",
-    "variant_forms": [
-      "The Green Quarter"
-    ],
-    "representative_posts": [
-      "posts/2018/07/09/visit-to-southall-waterside-now.md",
-      "posts/2023/01/26/response-to-ealings-air-quality.md",
-      "posts/2026/02/14/section-money-where-did-southalls.md",
-      "posts/2026/05/07/the-man-in-the-middle.md"
-    ],
-    "contexts": [
-      {
-        "post": "posts/2018/07/09/visit-to-southall-waterside-now.md",
-        "snippet": "Visit to Southall Waterside (aka The Green Quarter) Concerns are raised over the safety and environmental impact of the Southall Waterside development and its associated"
-      },
-      {
-        "post": "posts/2023/01/26/response-to-ealings-air-quality.md",
-        "snippet": "hough there are three NO2, PM10 and PM2.5 monitors around the Southall Gasworks site, rather erroneously remarketed as [The Green Quarter][9]. Ealing publishes annual air quality [status reports][10]. Ealing also has [an interactive map showing all its NO2"
-      },
-      {
-        "post": "posts/2026/02/14/section-money-where-did-southalls.md",
-        "snippet": "rowth areas: - Generated huge S106 income - Received far less in spending than they produced --- Southall Gasworks (aka The Green Quarter): a flagship scheme The council’s own FOI response gives a rare scheme-specific total. Southall Gasworks (aka Green Qua"
       }
     ],
     "review_status": "candidate"
@@ -1207,38 +1141,6 @@
     "review_status": "candidate"
   },
   {
-    "name": "London Borough",
-    "class_hint": "person_or_body",
-    "score": 34,
-    "post_count": 3,
-    "mention_count": 4,
-    "first_mention": "2025-07-11T13:50:30+0100",
-    "last_mention": "2026-05-29T22:09:15+0100",
-    "variant_forms": [
-      "London Borough"
-    ],
-    "representative_posts": [
-      "posts/2025/07/11/perceval-house-w-where-local.md",
-      "posts/2026/05/06/it-takes-two-to-tango.md",
-      "posts/2026/05/29/individuality.md"
-    ],
-    "contexts": [
-      {
-        "post": "posts/2025/07/11/perceval-house-w-where-local.md",
-        "snippet": "ncillors vote themselves pay rises. The Children's Centres Crusade Chapter 1: The Art of Political Contradiction In the London Borough of Ealing, our elected representatives have perfected something remarkable: the ability to hold completely contradictor"
-      },
-      {
-        "post": "posts/2026/05/06/it-takes-two-to-tango.md",
-        "snippet": "paign to save ten of Ealing's children's centres was lost in the High Court in April. The approved judgment in R (JO) v London Borough of Ealing is on the record. The claim was dismissed. Ealing Council won. But the judgment is worth reading carefully —"
-      },
-      {
-        "post": "posts/2026/05/29/individuality.md",
-        "snippet": "This isn't a real tree, but a representation of a tree, and what that might mean to anyone who sees it. A symbol of the London Borough of Ealing, its seven towns, and its diverse people. \"while the council supports those distinct 7 towns and their commun"
-      }
-    ],
-    "review_status": "candidate"
-  },
-  {
     "name": "Social Housing",
     "class_hint": "person_or_body",
     "score": 34,
@@ -1266,70 +1168,6 @@
       {
         "post": "posts/2026/05/06/it-takes-two-to-tango.md",
         "snippet": "ve been disclaimed for four consecutive years. Nearly 3,000 households are in temporary accommodation. The Regulator of Social Housing notice remains in place. And the closure of ten children’s centres — including three in Southall, the borough’s most de"
-      }
-    ],
-    "review_status": "candidate"
-  },
-  {
-    "name": "Town Hall",
-    "class_hint": "place_or_site",
-    "score": 34,
-    "post_count": 3,
-    "mention_count": 4,
-    "first_mention": "2025-07-11T13:50:30+0100",
-    "last_mention": "2026-05-06T11:55:52+0100",
-    "variant_forms": [
-      "Town Hall"
-    ],
-    "representative_posts": [
-      "posts/2025/07/11/perceval-house-w-where-local.md",
-      "posts/2025/07/12/so-it-goes-ai-on.md",
-      "posts/2026/05/06/the-drugs-dont-work.md"
-    ],
-    "contexts": [
-      {
-        "post": "posts/2025/07/11/perceval-house-w-where-local.md",
-        "snippet": "ter communities proved they could win by building independent pressure (Save Southall Young Adult Centre, Save Southall Town Hall, Save Warren Farm Nature Reserve), the council is changing the rules to prevent it happening again. Soon residents will"
-      },
-      {
-        "post": "posts/2025/07/12/so-it-goes-ai-on.md",
-        "snippet": "ost puzzling: impossible things keep happening in Ealing. Communities save their Young Adult Centre. They protect their Town Hall. They refuse to accept that decisions have been made. Mrs. Patel might just save her children's centre too. The Save Ea"
-      },
-      {
-        "post": "posts/2026/05/06/the-drugs-dont-work.md",
-        "snippet": "ough's main drug and alcohol treatment service has gone. Out of West Ealing. Into Southall. Specifically: into Southall Town Hall — the same building Southall residents went to court to save when the council tried to dispose of it. The cabinet membe"
-      }
-    ],
-    "review_status": "candidate"
-  },
-  {
-    "name": "Council Leader Peter Mason",
-    "class_hint": "organisation",
-    "score": 33,
-    "post_count": 3,
-    "mention_count": 3,
-    "first_mention": "2026-02-13T14:46:03+0100",
-    "last_mention": "2026-05-09T18:20:45+0100",
-    "variant_forms": [
-      "Council Leader Peter Mason"
-    ],
-    "representative_posts": [
-      "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
-      "posts/2026/04/30/this-is-our-home-its.md",
-      "posts/2026/05/09/liftoff-ealing-elections-special.md"
-    ],
-    "contexts": [
-      {
-        "post": "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
-        "snippet": "ut hey, bangarang, Pete. The syndicate thanks you for your service. . The solution they won't consider In January 2026, Council Leader Peter Mason appeared on BBC Politics London to discuss the council's fly-tipping enforcement campaign. On LinkedIn, he boasted: \"We"
-      },
-      {
-        "post": "posts/2026/04/30/this-is-our-home-its.md",
-        "snippet": "--- There is one further question the 2024-25 figures raise. In a BBC London Politics Show interview earlier this year, Council Leader Peter Mason claimed a 55% reduction in fly-tipping in Southall. Ealing Labour's election leaflet repeated the claim as a 54% reduct"
-      },
-      {
-        "post": "posts/2026/05/09/liftoff-ealing-elections-special.md",
-        "snippet": "running mates Anand and Dhindsa, captioned: \"EALING COUNCIL RESULT — Southall Green — Labour HOLD all 3 seats including Council Leader Peter Mason, who saw a 44% drop in his personal vote compared to 2022.\" What Lynch's photograph shows, intentionally or otherwise,"
       }
     ],
     "review_status": "candidate"
@@ -1623,38 +1461,6 @@
     "review_status": "candidate"
   },
   {
-    "name": "Warren Farm",
-    "class_hint": "person_or_body",
-    "score": 33,
-    "post_count": 3,
-    "mention_count": 3,
-    "first_mention": "2023-01-26T20:32:00+0100",
-    "last_mention": "2026-05-25T15:34:05+0100",
-    "variant_forms": [
-      "Warren Farm"
-    ],
-    "representative_posts": [
-      "posts/2023/01/26/response-to-ealings-air-quality.md",
-      "posts/2025/07/11/perceval-house-w-where-local.md",
-      "posts/2026/05/25/feeling-the-heat.md"
-    ],
-    "contexts": [
-      {
-        "post": "posts/2023/01/26/response-to-ealings-air-quality.md",
-        "snippet": "land. Instead, the council Leader has undemocratically proposed a 'compromise' to [destroy most of the already rewilded Warren Farm Nature Reserve in Southall][15] in order to build new sports pitches that the vast majority of local people he consulte"
-      },
-      {
-        "post": "posts/2025/07/11/perceval-house-w-where-local.md",
-        "snippet": "proved they could win by building independent pressure (Save Southall Young Adult Centre, Save Southall Town Hall, Save Warren Farm Nature Reserve), the council is changing the rules to prevent it happening again. Soon residents will be able to petiti"
-      },
-      {
-        "post": "posts/2026/05/25/feeling-the-heat.md",
-        "snippet": "een spaces. Seven years on, none of the four has been delivered in the borough's most heat-vulnerable neighbourhoods. - Warren Farm Nature Reserve was saved but is scheduled to have building works right next door as new sports pitches and facilities a"
-      }
-    ],
-    "review_status": "candidate"
-  },
-  {
     "name": "West London",
     "class_hint": "person_or_body",
     "score": 33,
@@ -1768,33 +1574,6 @@
     "review_status": "candidate"
   },
   {
-    "name": "The Smell",
-    "class_hint": "person_or_body",
-    "score": 27,
-    "post_count": 2,
-    "mention_count": 7,
-    "first_mention": "2026-05-02T14:18:51+0100",
-    "last_mention": "2026-05-06T13:45:23+0100",
-    "variant_forms": [
-      "The Smell"
-    ],
-    "representative_posts": [
-      "posts/2026/05/02/the-smell-of-success.md",
-      "posts/2026/05/06/it-takes-two-to-tango.md"
-    ],
-    "contexts": [
-      {
-        "post": "posts/2026/05/02/the-smell-of-success.md",
-        "snippet": "The Smell of Success Peter Mason has been shortlisted for Labour Councillor of the Year. Southall Stories investigates his creden"
-      },
-      {
-        "post": "posts/2026/05/06/it-takes-two-to-tango.md",
-        "snippet": "what Mr Justice Kimblin did not find is as instructive as what he did. A reader picked me up on Facebook for writing in The Smell of Success that: \"Mason’s council took a toddler to the high court.\" Strictly, the toddler — JO, through her father CJ"
-      }
-    ],
-    "review_status": "candidate"
-  },
-  {
     "name": "High Court",
     "class_hint": "person_or_body",
     "score": 26,
@@ -1898,33 +1677,6 @@
       {
         "post": "posts/2023/01/26/response-to-ealings-air-quality.md",
         "snippet": "developments until 2030\" [20]: \"Ealing Council's own performance dashboard\" [21]: \"My own review of Bob Colenutt's book The Property Lobby in relation to developments in Ealing\" [22]: \"Ealing News coverage of social homes demolished by London councils\" [23]:"
-      }
-    ],
-    "review_status": "candidate"
-  },
-  {
-    "name": "Warren Farm Nature Reserve",
-    "class_hint": "unknown",
-    "score": 24,
-    "post_count": 2,
-    "mention_count": 4,
-    "first_mention": "2023-01-26T20:32:00+0100",
-    "last_mention": "2026-05-25T15:34:05+0100",
-    "variant_forms": [
-      "Warren Farm Nature Reserve"
-    ],
-    "representative_posts": [
-      "posts/2023/01/26/response-to-ealings-air-quality.md",
-      "posts/2026/05/25/feeling-the-heat.md"
-    ],
-    "contexts": [
-      {
-        "post": "posts/2023/01/26/response-to-ealings-air-quality.md",
-        "snippet": "land. Instead, the council Leader has undemocratically proposed a 'compromise' to [destroy most of the already rewilded Warren Farm Nature Reserve in Southall][15] in order to build new sports pitches that the vast majority of local people he consulted don't want. I"
-      },
-      {
-        "post": "posts/2026/05/25/feeling-the-heat.md",
-        "snippet": "een spaces. Seven years on, none of the four has been delivered in the borough's most heat-vulnerable neighbourhoods. - Warren Farm Nature Reserve was saved but is scheduled to have building works right next door as new sports pitches and facilities are erected. - P"
       }
     ],
     "review_status": "candidate"
@@ -2060,33 +1812,6 @@
       {
         "post": "posts/2026/05/07/computer-says-no.md",
         "snippet": "ask for a minor amendment to this article. Their email arrived without difficulty. --- The April email from the Head of Environmental Health confirmed the council was working to ensure my emails were \"not unnecessarily blocked.\" Presumably, the blocking was, a"
-      }
-    ],
-    "review_status": "candidate"
-  },
-  {
-    "name": "Get Mason Out",
-    "class_hint": "person_or_body",
-    "score": 23,
-    "post_count": 2,
-    "mention_count": 3,
-    "first_mention": "2026-02-19T01:33:53+0100",
-    "last_mention": "2026-04-30T00:13:23+0100",
-    "variant_forms": [
-      "Get Mason Out"
-    ],
-    "representative_posts": [
-      "posts/2026/02/19/ealings-burning.md",
-      "posts/2026/04/30/when-is-a-hustings-not.md"
-    ],
-    "contexts": [
-      {
-        "post": "posts/2026/02/19/ealings-burning.md",
-        "snippet": ". But the setlist never does. --- And somewhere in the distance, if you listen closely, you can hear the chant forming: Get Mason Out… Get Mason Out… {{ }} --- And a special Bangarang Remix: --- Lyrics Verse 1 Every week Another note Different words Sam"
-      },
-      {
-        "post": "posts/2026/04/30/when-is-a-hustings-not.md",
-        "snippet": "--- Peter Mason in 2021: \"If you don't think I've done a good job, you get to vote me out\" --- You get to vote him out. Get Mason Out! Vote Ealing Community Independents on 7 May. Southall Deserves Better."
       }
     ],
     "review_status": "candidate"
@@ -2389,33 +2114,6 @@
     "review_status": "candidate"
   },
   {
-    "name": "Bank Holiday Monday",
-    "class_hint": "person_or_body",
-    "score": 22,
-    "post_count": 2,
-    "mention_count": 2,
-    "first_mention": "2026-04-28T13:21:52+0100",
-    "last_mention": "2026-05-06T17:44:53+0100",
-    "variant_forms": [
-      "Bank Holiday Monday"
-    ],
-    "representative_posts": [
-      "posts/2026/04/28/this-place-has-turned-into.md",
-      "posts/2026/05/06/the-meeting-that-ended-local.md"
-    ],
-    "contexts": [
-      {
-        "post": "posts/2026/04/28/this-place-has-turned-into.md",
-        "snippet": "with almost no opposition, no accountability and no democracy. The meeting closed with a reminder: 3pm, King Street, on Bank Holiday Monday. The campaign's final push before 7 May. --- This was not a polished political event. The room was warm, the lift for d"
-      },
-      {
-        "post": "posts/2026/05/06/the-meeting-that-ended-local.md",
-        "snippet": "didates in his ward at both elections.\" Campaigners, activists and Ealing Community Independents candidates gathered on Bank Holiday Monday to protest the failings of Ealing Labour in Southall and across the borough. The mood is positive and determined to bri"
-      }
-    ],
-    "review_status": "candidate"
-  },
-  {
     "name": "Bassam Mahfouz",
     "class_hint": "person_or_body",
     "score": 22,
@@ -2492,33 +2190,6 @@
       {
         "post": "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
         "snippet": "nt by trumpeting his \"listening to residents\" and his enforcement \"achievements\" on TV and LinkedIn, signing off with a Boris Johnson-esque \"Bangarang\". --- --- Bangarang Pete Ealing Council last week announced their draft budget for the coming financia"
-      }
-    ],
-    "review_status": "candidate"
-  },
-  {
-    "name": "Category Amount",
-    "class_hint": "person_or_body",
-    "score": 22,
-    "post_count": 2,
-    "mention_count": 2,
-    "first_mention": "2026-02-13T14:46:03+0100",
-    "last_mention": "2026-02-14T17:18:46+0100",
-    "variant_forms": [
-      "Category Amount"
-    ],
-    "representative_posts": [
-      "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
-      "posts/2026/02/14/section-money-where-did-southalls.md"
-    ],
-    "contexts": [
-      {
-        "post": "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
-        "snippet": "33 million income Mid-range estimate (£600 average fine): - 3,328 fines × £600 = £2.0 million income Net taxpayer cost: Category Amount ---------- -------- Annual clearance costs £3.0 million Fine income (low estimate) £1.33 million Fine income (mid estim"
-      },
-      {
-        "post": "posts/2026/02/14/section-money-where-did-southalls.md",
-        "snippet": "how much S106 money Southall generated and how much was actually spent there. Five-year totals --- 2019–20 to 2023–24: Category Amount --------- -------: S106 income from Southall developments £13.1 million S106 spending in Southall £4.9 million Net posi"
       }
     ],
     "review_status": "candidate"
