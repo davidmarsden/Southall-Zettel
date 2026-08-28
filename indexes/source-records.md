@@ -58,6 +58,30 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **URL:** https://www.ealing.gov.uk/download/downloads/id/18971/land_and_property_strategy.pdf
 - **Cited by:** 1 post(s)
 
+## Southall Gasworks: Organisational roles and responsibilities
+
+- **ID:** `southall-gasworks-organisational-roles`
+- **Publisher:** Ealing Council
+- **Type:** `guidance`
+- **URL:** https://www.ealing.gov.uk/info/201283/our_neighbourhoods/2613/southall_gasworks/3
+- **Cited by:** 1 post(s)
+
+## Southall Gasworks: Public Health findings
+
+- **ID:** `southall-gasworks-public-health-findings`
+- **Publisher:** Ealing Council
+- **Type:** `guidance`
+- **URL:** https://www.ealing.gov.uk/info/201283/our_neighbourhoods/2613/southall_gasworks/5
+- **Cited by:** 1 post(s)
+
+## Southall Gasworks: Soil remediation
+
+- **ID:** `southall-gasworks-soil-remediation`
+- **Publisher:** Ealing Council
+- **Type:** `guidance`
+- **URL:** https://www.ealing.gov.uk/info/201283/our_neighbourhoods/2613/southall_gasworks/2
+- **Cited by:** 1 post(s)
+
 ## Southall Market Car Park decision record (Decision 958)
 
 - **ID:** `southall-market-car-park-decision-958`
@@ -74,6 +98,22 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **URL:** https://dosomethinggood.ealing.gov.uk/your-voice-your-town/southall-town-team/
 - **Cited by:** 1 post(s)
 
+## Southall Gas Works Health Impact Assessment
+
+- **ID:** `southall-gasworks-health-impact-assessment`
+- **Publisher:** Greater London Authority
+- **Type:** `health-impact-assessment`
+- **URL:** https://www.london.gov.uk/who-we-are/governance-and-spending/sharing-our-information/freedom-information/foi-disclosure-log/eir-southall-gas-works-site
+- **Cited by:** 1 post(s)
+
+## Southall Gas Works public hearing
+
+- **ID:** `southall-gas-works-public-hearing`
+- **Publisher:** Greater London Authority
+- **Type:** `planning-record`
+- **URL:** https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/southall-gas-works-public
+- **Cited by:** 1 post(s)
+
 ## The Property Lobby: The Hidden Reality behind the Housing Crisis
 
 - **ID:** `the-property-lobby`
@@ -81,6 +121,14 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **Type:** `book`
 - **URL:** https://policy.bristoluniversitypress.co.uk/the-property-lobby
 - **Cited by:** 2 post(s)
+
+## Public Health England - Southall Waterside Health Risk Assessment July 2020
+
+- **ID:** `phe-southall-waterside-health-risk-assessment-july-2020`
+- **Publisher:** Public Health England
+- **Type:** `health-risk-assessment`
+- **URL:** https://www.ealing.gov.uk/download/downloads/id/14128/public_health_england_-_southall_waterside_interim_health_risk_assessment.pdf
+- **Cited by:** 1 post(s)
 
 ## Southall Community Alliance trustees and staff
 

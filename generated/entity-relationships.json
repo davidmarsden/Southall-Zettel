@@ -151,5 +151,61 @@
     "review_status": "reviewed",
     "to": "ealing-council",
     "type": "facilitated_by"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+    ],
+    "from": "environment-agency",
+    "id": "environment-agency-regulates-remediation-at-southall-gasworks",
+    "note": "Ealing Council's published roles page identifies the Environment Agency as the regulator for land remediation and soil treatment at the site.",
+    "review_status": "reviewed",
+    "to": "southall-gasworks",
+    "type": "regulates_remediation_at"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+    ],
+    "from": "public-health-england",
+    "id": "public-health-england-health-risk-adviser-for-southall-gasworks",
+    "note": "PHE reviewed air-monitoring data and provided public-health advice for the Southall Waterside development.",
+    "review_status": "reviewed",
+    "to": "southall-gasworks",
+    "type": "health_risk_adviser_for"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+    ],
+    "from": "ealing-council",
+    "id": "ealing-council-planning-authority-for-southall-gasworks",
+    "note": "Ealing Council identifies itself as the local planning authority responsible for overseeing regeneration and contaminated-land treatment requirements at the site.",
+    "review_status": "reviewed",
+    "to": "southall-gasworks",
+    "type": "planning_authority_for"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": false,
+    "evidence": [
+      "posts/2018/09/11/berkeleys-school-governors-board-member.md"
+    ],
+    "from": "blair-peach-primary-school",
+    "id": "blair-peach-primary-school-adjacent-to-southall-gasworks",
+    "note": "The cited reporting explicitly describes Blair Peach Primary School as adjacent to Southall Waterside / the former gasworks site.",
+    "review_status": "reviewed",
+    "to": "southall-gasworks",
+    "type": "adjacent_to"
   }
 ]

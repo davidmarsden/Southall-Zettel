@@ -10111,6 +10111,58 @@
       "type": "facilitated_by"
     },
     {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:environment-agency",
+      "target": "entity:southall-gasworks",
+      "type": "regulates_remediation_at"
+    },
+    {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:public-health-england",
+      "target": "entity:southall-gasworks",
+      "type": "health_risk_adviser_for"
+    },
+    {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:ealing-council",
+      "target": "entity:southall-gasworks",
+      "type": "planning_authority_for"
+    },
+    {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": false,
+      "evidence": [
+        "posts/2018/09/11/berkeleys-school-governors-board-member.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:blair-peach-primary-school",
+      "target": "entity:southall-gasworks",
+      "type": "adjacent_to"
+    },
+    {
       "provenance": "reviewed-source-record",
       "source": "post:posts/2026/03/01/boomerang-ten-years-sorting-out.md",
       "target": "source:bbc-london-politics-show",
@@ -10388,6 +10440,180 @@
     },
     {
       "provenance": "reviewed-source-record",
+      "source": "post:posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "target": "source:phe-southall-waterside-health-risk-assessment-july-2020",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:phe-southall-waterside-health-risk-assessment-july-2020",
+      "target": "entity:public-health-england",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:phe-southall-waterside-health-risk-assessment-july-2020",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:phe-southall-waterside-health-risk-assessment-july-2020",
+      "target": "entity:southall-gasworks",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:phe-southall-waterside-health-risk-assessment-july-2020",
+      "target": "entity:blair-peach-primary-school",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:phe-southall-waterside-health-risk-assessment-july-2020",
+      "target": "topic:air-pollution",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:phe-southall-waterside-health-risk-assessment-july-2020",
+      "target": "topic:public-health",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "target": "source:southall-gasworks-organisational-roles",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-organisational-roles",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-organisational-roles",
+      "target": "entity:environment-agency",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-organisational-roles",
+      "target": "entity:public-health-england",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-organisational-roles",
+      "target": "entity:southall-gasworks",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-organisational-roles",
+      "target": "topic:air-pollution",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-organisational-roles",
+      "target": "topic:public-health",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-organisational-roles",
+      "target": "topic:planning-development",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-organisational-roles",
+      "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "target": "source:southall-gasworks-public-health-findings",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-public-health-findings",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-public-health-findings",
+      "target": "entity:public-health-england",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-public-health-findings",
+      "target": "entity:southall-gasworks",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-public-health-findings",
+      "target": "topic:air-pollution",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-public-health-findings",
+      "target": "topic:public-health",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "target": "source:southall-gasworks-soil-remediation",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-soil-remediation",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-soil-remediation",
+      "target": "entity:environment-agency",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-soil-remediation",
+      "target": "entity:berkeley-group",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-soil-remediation",
+      "target": "entity:southall-gasworks",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-soil-remediation",
+      "target": "topic:air-pollution",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-soil-remediation",
+      "target": "topic:planning-development",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
       "source": "post:posts/2026/01/18/demolition-man-peter-masons-legacy.md",
       "target": "source:southall-market-car-park-decision-958",
       "type": "cites-source"
@@ -10474,6 +10700,84 @@
       "provenance": "reviewed-source-record",
       "source": "source:ealing-southall-town-team",
       "target": "topic:planning-development",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "target": "source:southall-gas-works-public-hearing",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gas-works-public-hearing",
+      "target": "entity:greater-london-authority",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gas-works-public-hearing",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gas-works-public-hearing",
+      "target": "entity:southall-gasworks",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gas-works-public-hearing",
+      "target": "topic:planning-development",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gas-works-public-hearing",
+      "target": "topic:housing",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "target": "source:southall-gasworks-health-impact-assessment",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-health-impact-assessment",
+      "target": "entity:greater-london-authority",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-health-impact-assessment",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-health-impact-assessment",
+      "target": "entity:southall-gasworks",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-health-impact-assessment",
+      "target": "topic:planning-development",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-health-impact-assessment",
+      "target": "topic:public-health",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-health-impact-assessment",
+      "target": "topic:air-pollution",
       "type": "relates-to"
     },
     {
@@ -13103,6 +13407,38 @@
       "type": "source-record"
     },
     {
+      "id": "source:phe-southall-waterside-health-risk-assessment-july-2020",
+      "label": "Public Health England - Southall Waterside Health Risk Assessment July 2020",
+      "path": "sources/ealing-council/phe-southall-waterside-health-risk-assessment-july-2020.md",
+      "publisher": "Public Health England",
+      "source_type": "health-risk-assessment",
+      "type": "source-record"
+    },
+    {
+      "id": "source:southall-gasworks-organisational-roles",
+      "label": "Southall Gasworks: Organisational roles and responsibilities",
+      "path": "sources/ealing-council/southall-gasworks-organisational-roles.md",
+      "publisher": "Ealing Council",
+      "source_type": "guidance",
+      "type": "source-record"
+    },
+    {
+      "id": "source:southall-gasworks-public-health-findings",
+      "label": "Southall Gasworks: Public Health findings",
+      "path": "sources/ealing-council/southall-gasworks-public-health-findings.md",
+      "publisher": "Ealing Council",
+      "source_type": "guidance",
+      "type": "source-record"
+    },
+    {
+      "id": "source:southall-gasworks-soil-remediation",
+      "label": "Southall Gasworks: Soil remediation",
+      "path": "sources/ealing-council/southall-gasworks-soil-remediation.md",
+      "publisher": "Ealing Council",
+      "source_type": "guidance",
+      "type": "source-record"
+    },
+    {
       "id": "source:southall-market-car-park-decision-958",
       "label": "Southall Market Car Park decision record (Decision 958)",
       "path": "sources/ealing-council/southall-market-car-park-decision-958.md",
@@ -13116,6 +13452,22 @@
       "path": "sources/ealing-council/southall-town-team.md",
       "publisher": "Ealing Council",
       "source_type": "civic_programme_page",
+      "type": "source-record"
+    },
+    {
+      "id": "source:southall-gas-works-public-hearing",
+      "label": "Southall Gas Works public hearing",
+      "path": "sources/gla/southall-gas-works-public-hearing.md",
+      "publisher": "Greater London Authority",
+      "source_type": "planning-record",
+      "type": "source-record"
+    },
+    {
+      "id": "source:southall-gasworks-health-impact-assessment",
+      "label": "Southall Gas Works Health Impact Assessment",
+      "path": "sources/gla/southall-gasworks-health-impact-assessment.md",
+      "publisher": "Greater London Authority",
+      "source_type": "health-impact-assessment",
       "type": "source-record"
     },
     {

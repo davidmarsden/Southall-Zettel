@@ -183,6 +183,100 @@
     "title": "Land and Property Strategy 2023-2027"
   },
   {
+    "body": "Final PHE risk assessment in the Southall Waterside monitoring series, published by Ealing Council and based on air-quality monitoring data supplied for the development site.",
+    "canonical_url": "https://www.ealing.gov.uk/download/downloads/id/14128/public_health_england_-_southall_waterside_interim_health_risk_assessment.pdf",
+    "cited_by": [
+      "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+    ],
+    "id": "phe-southall-waterside-health-risk-assessment-july-2020",
+    "path": "sources/ealing-council/phe-southall-waterside-health-risk-assessment-july-2020.md",
+    "publication_date": "2020-07",
+    "publisher": "Public Health England",
+    "related_entities": [
+      "public-health-england",
+      "ealing-council",
+      "southall-gasworks",
+      "blair-peach-primary-school"
+    ],
+    "related_topics": [
+      "air-pollution",
+      "public-health"
+    ],
+    "review_status": "reviewed",
+    "source_type": "health-risk-assessment",
+    "title": "Public Health England - Southall Waterside Health Risk Assessment July 2020"
+  },
+  {
+    "body": "Primary Ealing Council page setting out the respective regulatory and advisory responsibilities of the council, Environment Agency and Public Health England for the Southall Gasworks redevelopment.",
+    "canonical_url": "https://www.ealing.gov.uk/info/201283/our_neighbourhoods/2613/southall_gasworks/3",
+    "cited_by": [
+      "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+    ],
+    "id": "southall-gasworks-organisational-roles",
+    "path": "sources/ealing-council/southall-gasworks-organisational-roles.md",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "environment-agency",
+      "public-health-england",
+      "southall-gasworks"
+    ],
+    "related_topics": [
+      "air-pollution",
+      "public-health",
+      "planning-development",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "guidance",
+    "title": "Southall Gasworks: Organisational roles and responsibilities"
+  },
+  {
+    "body": "Council summary of PHE's successive Southall Waterside health-risk assessments, including recorded exceedances of health-based guideline values for benzene, naphthalene and 4-isopropyltoluene.",
+    "canonical_url": "https://www.ealing.gov.uk/info/201283/our_neighbourhoods/2613/southall_gasworks/5",
+    "cited_by": [
+      "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+    ],
+    "id": "southall-gasworks-public-health-findings",
+    "path": "sources/ealing-council/southall-gasworks-public-health-findings.md",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "public-health-england",
+      "southall-gasworks"
+    ],
+    "related_topics": [
+      "air-pollution",
+      "public-health"
+    ],
+    "review_status": "reviewed",
+    "source_type": "guidance",
+    "title": "Southall Gasworks: Public Health findings"
+  },
+  {
+    "body": "Council page describing contaminants identified at the former gasworks, the remediation method, and the Environment Agency's regulatory role in soil treatment.",
+    "canonical_url": "https://www.ealing.gov.uk/info/201283/our_neighbourhoods/2613/southall_gasworks/2",
+    "cited_by": [
+      "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+    ],
+    "id": "southall-gasworks-soil-remediation",
+    "path": "sources/ealing-council/southall-gasworks-soil-remediation.md",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "environment-agency",
+      "berkeley-group",
+      "southall-gasworks"
+    ],
+    "related_topics": [
+      "air-pollution",
+      "planning-development"
+    ],
+    "review_status": "reviewed",
+    "source_type": "guidance",
+    "title": "Southall Gasworks: Soil remediation"
+  },
+  {
     "body": "Primary ModernGov decision record cited in reporting on the stalled Southall Market Car Park housing development.",
     "canonical_url": "https://ealing.moderngov.co.uk/ieDecisionDetails.aspx?Id=958&LLL=0",
     "cited_by": [
@@ -228,6 +322,51 @@
     "review_status": "reviewed",
     "source_type": "civic_programme_page",
     "title": "Southall Town Team"
+  },
+  {
+    "body": "GLA planning record for reference D&P 2310, including Stage 1-3 reports, representation-hearing documents, final decision notices and the section 106 agreement for the Southall Gas Works development.",
+    "canonical_url": "https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/southall-gas-works-public",
+    "cited_by": [
+      "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+    ],
+    "id": "southall-gas-works-public-hearing",
+    "path": "sources/gla/southall-gas-works-public-hearing.md",
+    "publisher": "Greater London Authority",
+    "related_entities": [
+      "greater-london-authority",
+      "ealing-council",
+      "southall-gasworks"
+    ],
+    "related_topics": [
+      "planning-development",
+      "housing"
+    ],
+    "review_status": "reviewed",
+    "source_type": "planning-record",
+    "title": "Southall Gas Works public hearing"
+  },
+  {
+    "body": "GLA disclosure page containing the original Southall Gas Works planning Health Impact Assessment alongside the remediation strategy and other application documents.",
+    "canonical_url": "https://www.london.gov.uk/who-we-are/governance-and-spending/sharing-our-information/freedom-information/foi-disclosure-log/eir-southall-gas-works-site",
+    "cited_by": [
+      "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+    ],
+    "id": "southall-gasworks-health-impact-assessment",
+    "path": "sources/gla/southall-gasworks-health-impact-assessment.md",
+    "publisher": "Greater London Authority",
+    "related_entities": [
+      "greater-london-authority",
+      "ealing-council",
+      "southall-gasworks"
+    ],
+    "related_topics": [
+      "planning-development",
+      "public-health",
+      "air-pollution"
+    ],
+    "review_status": "reviewed",
+    "source_type": "health-impact-assessment",
+    "title": "Southall Gas Works Health Impact Assessment"
   },
   {
     "body": "Primary Southall Community Alliance governance page used to identify trustee and chair roles.",

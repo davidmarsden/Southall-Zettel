@@ -99,3 +99,39 @@ Curated edges with explicit evidence. These are assertions, not co-occurrence.
 - **Evidence:**
   - `posts/2026/05/07/the-man-in-the-middle.md`
 - **Note:** The cited reporting describes the Town Team as a council-facilitated body.
+
+## Environment Agency → Southall Gasworks
+
+- **Type:** `regulates_remediation_at`
+- **Confidence:** high
+- **Review:** reviewed
+- **Evidence:**
+  - `posts/2019/08/25/southall-under-siege-the-neighbours.md`
+- **Note:** Ealing Council's published roles page identifies the Environment Agency as the regulator for land remediation and soil treatment at the site.
+
+## Public Health England → Southall Gasworks
+
+- **Type:** `health_risk_adviser_for`
+- **Confidence:** high
+- **Review:** reviewed
+- **Evidence:**
+  - `posts/2019/08/25/southall-under-siege-the-neighbours.md`
+- **Note:** PHE reviewed air-monitoring data and provided public-health advice for the Southall Waterside development.
+
+## Ealing Council → Southall Gasworks
+
+- **Type:** `planning_authority_for`
+- **Confidence:** high
+- **Review:** reviewed
+- **Evidence:**
+  - `posts/2019/08/25/southall-under-siege-the-neighbours.md`
+- **Note:** Ealing Council identifies itself as the local planning authority responsible for overseeing regeneration and contaminated-land treatment requirements at the site.
+
+## Blair Peach Primary School → Southall Gasworks
+
+- **Type:** `adjacent_to`
+- **Confidence:** high
+- **Review:** reviewed
+- **Evidence:**
+  - `posts/2018/09/11/berkeleys-school-governors-board-member.md`
+- **Note:** The cited reporting explicitly describes Blair Peach Primary School as adjacent to Southall Waterside / the former gasworks site.
