@@ -25,6 +25,24 @@
       "title": "Lift-Off! Ealing Elections Special "
     }
   ],
+  "around-ealing": [
+    {
+      "date": "2026-05-01T20:19:06+0100",
+      "matched_aliases": [
+        "Around Ealing"
+      ],
+      "path": "posts/2026/05/01/back-to-the-future.md",
+      "title": "Back to the Future"
+    },
+    {
+      "date": "2026-05-25T15:34:05+0100",
+      "matched_aliases": [
+        "Around Ealing"
+      ],
+      "path": "posts/2026/05/25/feeling-the-heat.md",
+      "title": "Feeling the Heat"
+    }
+  ],
   "berkeley-group": [
     {
       "date": "2018-07-09T20:10:00+0100",
@@ -676,6 +694,24 @@
       "title": "Southall under Siege: the Neighbours from Hell"
     }
   ],
+  "dan-cortese": [
+    {
+      "date": "2026-04-28T13:21:52+0100",
+      "matched_aliases": [
+        "Dan Cortese"
+      ],
+      "path": "posts/2026/04/28/this-place-has-turned-into.md",
+      "title": "\"This Place Has Turned Into a Bloody Slum\": Southall Wards Meeting with ECI candidates"
+    },
+    {
+      "date": "2026-05-06T17:44:53+0100",
+      "matched_aliases": [
+        "Dan Cortese"
+      ],
+      "path": "posts/2026/05/06/the-meeting-that-ended-local.md",
+      "title": "The Meeting that Ended Local Democracy in Southall"
+    }
+  ],
   "defra": [
     {
       "date": "2026-02-13T14:46:03+0100",
@@ -766,6 +802,33 @@
       ],
       "path": "posts/2026/05/06/the-meeting-that-ended-local.md",
       "title": "The Meeting that Ended Local Democracy in Southall"
+    }
+  ],
+  "dr-john-freeman": [
+    {
+      "date": "2019-08-25T22:14:32+0100",
+      "matched_aliases": [
+        "John Freeman"
+      ],
+      "path": "posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "title": "Southall under Siege: the Neighbours from Hell"
+    },
+    {
+      "date": "2019-09-26T21:07:00+0100",
+      "matched_aliases": [
+        "John Freeman"
+      ],
+      "path": "posts/2019/09/26/the-gaslighting-zone.md",
+      "title": "The Gaslighting Zone"
+    },
+    {
+      "date": "2026-01-20T16:01:05+0100",
+      "matched_aliases": [
+        "Dr John Freeman",
+        "John Freeman"
+      ],
+      "path": "posts/2026/01/20/the-council-investigation-that-found.md",
+      "title": "The Council Investigation That Found Nothing "
     }
   ],
   "ealing": [
@@ -2371,6 +2434,42 @@
       "title": "Lift-Off! Ealing Elections Special "
     }
   ],
+  "gurdip-singh-chaggar": [
+    {
+      "date": "2026-05-07T17:09:21+0100",
+      "matched_aliases": [
+        "Gurdip Singh Chaggar"
+      ],
+      "path": "posts/2026/05/07/who-does-peter-mason-really.md",
+      "title": "Who Does Peter Mason Really Represent?"
+    },
+    {
+      "date": "2026-05-25T15:34:05+0100",
+      "matched_aliases": [
+        "Gurdip Singh Chaggar"
+      ],
+      "path": "posts/2026/05/25/feeling-the-heat.md",
+      "title": "Feeling the Heat"
+    }
+  ],
+  "hanwell-broadway": [
+    {
+      "date": "2026-05-06T11:55:52+0100",
+      "matched_aliases": [
+        "Hanwell Broadway"
+      ],
+      "path": "posts/2026/05/06/the-drugs-dont-work.md",
+      "title": "The Drugs Don't Work"
+    },
+    {
+      "date": "2026-05-09T18:20:45+0100",
+      "matched_aliases": [
+        "Hanwell Broadway"
+      ],
+      "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "title": "Lift-Off! Ealing Elections Special "
+    }
+  ],
   "henry-construction": [
     {
       "date": "2026-01-18T11:05:37+0100",
@@ -2387,6 +2486,67 @@
       ],
       "path": "posts/2026/04/30/when-is-a-hustings-not.md",
       "title": "When is a Hustings not a Hustings?"
+    }
+  ],
+  "high-court": [
+    {
+      "date": "2025-09-26T11:16:20+0100",
+      "matched_aliases": [
+        "High Court"
+      ],
+      "path": "posts/2025/09/26/ealing-for-sale.md",
+      "title": "Ealing For Sale"
+    },
+    {
+      "date": "2026-05-02T14:18:51+0100",
+      "matched_aliases": [
+        "High Court"
+      ],
+      "path": "posts/2026/05/02/the-smell-of-success.md",
+      "title": "The Smell of Success"
+    },
+    {
+      "date": "2026-05-06T13:45:23+0100",
+      "matched_aliases": [
+        "High Court"
+      ],
+      "path": "posts/2026/05/06/it-takes-two-to-tango.md",
+      "title": "It Takes Two to Tango"
+    },
+    {
+      "date": "2026-05-09T18:20:45+0100",
+      "matched_aliases": [
+        "High Court"
+      ],
+      "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "title": "Lift-Off! Ealing Elections Special "
+    }
+  ],
+  "internet-archive": [
+    {
+      "date": "2023-01-26T20:32:00+0100",
+      "matched_aliases": [
+        "Internet Archive"
+      ],
+      "path": "posts/2023/01/26/response-to-ealings-air-quality.md",
+      "title": "Response to Ealing's Air Quality Strategy and Action Plan"
+    },
+    {
+      "date": "2026-05-01T20:19:06+0100",
+      "matched_aliases": [
+        "Internet Archive",
+        "Wayback Machine"
+      ],
+      "path": "posts/2026/05/01/back-to-the-future.md",
+      "title": "Back to the Future"
+    },
+    {
+      "date": "2026-05-07T17:09:21+0100",
+      "matched_aliases": [
+        "Internet Archive"
+      ],
+      "path": "posts/2026/05/07/who-does-peter-mason-really.md",
+      "title": "Who Does Peter Mason Really Represent?"
     }
   ],
   "jags-sanghera": [
@@ -2761,6 +2921,32 @@
       "title": "Lift-Off! Ealing Elections Special "
     }
   ],
+  "king-street": [
+    {
+      "date": "2023-01-26T20:32:00+0100",
+      "matched_aliases": [
+        "King Street"
+      ],
+      "path": "posts/2023/01/26/response-to-ealings-air-quality.md",
+      "title": "Response to Ealing's Air Quality Strategy and Action Plan"
+    },
+    {
+      "date": "2026-04-28T13:21:52+0100",
+      "matched_aliases": [
+        "King Street"
+      ],
+      "path": "posts/2026/04/28/this-place-has-turned-into.md",
+      "title": "\"This Place Has Turned Into a Bloody Slum\": Southall Wards Meeting with ECI candidates"
+    },
+    {
+      "date": "2026-05-03T23:52:46+0100",
+      "matched_aliases": [
+        "King Street"
+      ],
+      "path": "posts/2026/05/03/cactuses-never-die.md",
+      "title": "Cactuses Never Die"
+    }
+  ],
   "labour-party": [
     {
       "date": "2023-05-01T12:00:38+0100",
@@ -2889,6 +3075,25 @@
       "title": "Individuality"
     }
   ],
+  "lady-margaret": [
+    {
+      "date": "2026-04-24T12:45:22+0100",
+      "matched_aliases": [
+        "Lady Margaret",
+        "Lady Margaret ward"
+      ],
+      "path": "posts/2026/04/24/first-they-came-for-the.md",
+      "title": "First They Came for the Socialists"
+    },
+    {
+      "date": "2026-05-07T17:09:21+0100",
+      "matched_aliases": [
+        "Lady Margaret"
+      ],
+      "path": "posts/2026/05/07/who-does-peter-mason-really.md",
+      "title": "Who Does Peter Mason Really Represent?"
+    }
+  ],
   "liberal-democrats": [
     {
       "date": "2023-11-20T18:35:00+0100",
@@ -2963,6 +3168,25 @@
         "Liberal Democrat",
         "Lib Dem",
         "Lib Dems"
+      ],
+      "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "title": "Lift-Off! Ealing Elections Special "
+    }
+  ],
+  "local-democracy-reporting-service": [
+    {
+      "date": "2026-04-24T12:45:22+0100",
+      "matched_aliases": [
+        "Local Democracy Reporting Service"
+      ],
+      "path": "posts/2026/04/24/first-they-came-for-the.md",
+      "title": "First They Came for the Socialists"
+    },
+    {
+      "date": "2026-05-09T18:20:45+0100",
+      "matched_aliases": [
+        "Local Democracy Reporting Service",
+        "LDRS"
       ],
       "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
       "title": "Lift-Off! Ealing Elections Special "
@@ -3603,6 +3827,26 @@
       ],
       "path": "posts/2026/05/07/computer-says-no.md",
       "title": "Computer Says No"
+    }
+  ],
+  "richard-kimblin": [
+    {
+      "date": "2026-04-30T00:13:23+0100",
+      "matched_aliases": [
+        "Mr Justice Kimblin",
+        "Justice Kimblin"
+      ],
+      "path": "posts/2026/04/30/when-is-a-hustings-not.md",
+      "title": "When is a Hustings not a Hustings?"
+    },
+    {
+      "date": "2026-05-06T13:45:23+0100",
+      "matched_aliases": [
+        "Mr Justice Kimblin",
+        "Justice Kimblin"
+      ],
+      "path": "posts/2026/05/06/it-takes-two-to-tango.md",
+      "title": "It Takes Two to Tango"
     }
   ],
   "scotts-road": [
@@ -5085,6 +5329,67 @@
       ],
       "path": "posts/2025/09/26/ealing-for-sale.md",
       "title": "Ealing For Sale"
+    }
+  ],
+  "virendra-sharma": [
+    {
+      "date": "2019-08-25T22:14:32+0100",
+      "matched_aliases": [
+        "Virendra Sharma"
+      ],
+      "path": "posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "title": "Southall under Siege: the Neighbours from Hell"
+    },
+    {
+      "date": "2019-10-01T15:24:00+0100",
+      "matched_aliases": [
+        "Virendra Sharma",
+        "Mr Sharma"
+      ],
+      "path": "posts/2019/10/01/trigger-vote-for-sharma.md",
+      "title": "Trigger Vote for Sharma"
+    },
+    {
+      "date": "2021-04-14T10:33:42+0100",
+      "matched_aliases": [
+        "Virendra Sharma",
+        "Mr Sharma"
+      ],
+      "path": "posts/2021/04/14/strawberries-for-pigs.md",
+      "title": "Strawberries for Pigs?"
+    },
+    {
+      "date": "2022-03-19T14:43:00+0100",
+      "matched_aliases": [
+        "Virendra Sharma"
+      ],
+      "path": "posts/2022/03/19/ealing-labour-leaks.md",
+      "title": "Ealing Labour Leaks"
+    },
+    {
+      "date": "2026-02-18T23:35:12+0100",
+      "matched_aliases": [
+        "Virendra Sharma"
+      ],
+      "path": "posts/2026/02/18/the-broken-manifesto-promises-that.md",
+      "title": "The Broken Manifesto Promises that show how Labour is Failing Ealing"
+    },
+    {
+      "date": "2026-04-30T00:13:23+0100",
+      "matched_aliases": [
+        "Virendra Sharma",
+        "Virendra Sharma MP"
+      ],
+      "path": "posts/2026/04/30/when-is-a-hustings-not.md",
+      "title": "When is a Hustings not a Hustings?"
+    },
+    {
+      "date": "2026-05-06T17:44:53+0100",
+      "matched_aliases": [
+        "Virendra Sharma"
+      ],
+      "path": "posts/2026/05/06/the-meeting-that-ended-local.md",
+      "title": "The Meeting that Ended Local Democracy in Southall"
     }
   ],
   "warren-farm": [

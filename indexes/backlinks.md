@@ -82,6 +82,7 @@ Generated reverse links between posts plus entity/topic mention counts.
 - **Southall Broadway** — 8
 - **Community Powered Reporting** — 7
 - **Tony Pidgley** — 7
+- **Virendra Sharma** — 7
 - **Your Voice, Your Town** — 7
 - **Jasbir Kaur Anand** — 6
 - **Minni Dogra** — 6
@@ -98,6 +99,7 @@ Generated reverse links between posts plus entity/topic mention counts.
 - **Ealing Southall constituency** — 4
 - **FM Conway** — 4
 - **Green Party** — 4
+- **High Court** — 4
 - **Jags Sanghera** — 4
 - **Joe Bhangu** — 4
 - **Johnson Street** — 4
@@ -107,20 +109,30 @@ Generated reverse links between posts plus entity/topic mention counts.
 - **Swaran Singh Padda** — 4
 - **Angela Fonso** — 3
 - **Damian Leydon** — 3
+- **Dr John Freeman** — 3
 - **Ealing Independent Network** — 3
 - **East Acton** — 3
 - **Greenford Broadway** — 3
+- **Internet Archive** — 3
 - **John Martin** — 3
 - **Kate Crawford** — 3
+- **King Street** — 3
 - **National Grid** — 3
 - **Parkside Yards** — 3
 - **Scotts Road** — 3
 - **Southall Market Car Park** — 3
 - **Warren Farm** — 3
 - **West Ealing** — 3
+- **Around Ealing** — 2
 - **Conal Urquhart** — 2
+- **Dan Cortese** — 2
+- **Gurdip Singh Chaggar** — 2
+- **Hanwell Broadway** — 2
 - **Henry Construction** — 2
+- **Lady Margaret** — 2
+- **Local Democracy Reporting Service** — 2
 - **Norwood Road** — 2
+- **Richard Kimblin** — 2
 
 ## Most-mentioned topics
 

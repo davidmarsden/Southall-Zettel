@@ -33,3 +33,11 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **Type:** `decision_record`
 - **URL:** https://ealing.moderngov.co.uk/ieDecisionDetails.aspx?Id=958&LLL=0
 - **Cited by:** 1 post(s)
+
+## The Property Lobby: The Hidden Reality behind the Housing Crisis
+
+- **ID:** `the-property-lobby`
+- **Publisher:** Policy Press
+- **Type:** `book`
+- **URL:** https://policy.bristoluniversitypress.co.uk/the-property-lobby
+- **Cited by:** 2 post(s)

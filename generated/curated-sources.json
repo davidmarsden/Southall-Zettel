@@ -1,5 +1,27 @@
 [
   {
+    "author": "Bob Colenutt",
+    "body": "Book by Bob Colenutt used in the corpus to examine the influence of property interests on housing and planning policy.",
+    "canonical_url": "https://policy.bristoluniversitypress.co.uk/the-property-lobby",
+    "cited_by": [
+      "posts/2022/12/17/the-property-lobby-the-hidden.md",
+      "posts/2023/01/26/response-to-ealings-air-quality.md"
+    ],
+    "id": "the-property-lobby",
+    "isbn": "9781447340492",
+    "path": "sources/books/the-property-lobby.md",
+    "publication_date": "2020",
+    "publisher": "Policy Press",
+    "related_topics": [
+      "housing",
+      "planning-development",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "book",
+    "title": "The Property Lobby: The Hidden Reality behind the Housing Crisis"
+  },
+  {
     "archive_urls": [
       "https://web.archive.org/web/20220120143225/https://ealingperformance.inphase.com/Detail/865_17759",
       "https://web.archive.org/web/20220120134535/https://ealingperformance.inphase.com/Detail/865_17759?s=09"

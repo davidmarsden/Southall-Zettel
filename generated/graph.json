@@ -578,6 +578,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:dr-john-freeman",
+      "target": "post:posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:ealing",
       "target": "post:posts/2019/08/25/southall-under-siege-the-neighbours.md",
       "type": "mentioned-in"
@@ -650,6 +656,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:virendra-sharma",
+      "target": "post:posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "topic:air-pollution",
       "target": "post:posts/2019/08/25/southall-under-siege-the-neighbours.md",
       "type": "mentioned-in"
@@ -682,6 +694,12 @@
       "provenance": "deterministic-alias-match",
       "source": "topic:waste-flytipping",
       "target": "post:posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:dr-john-freeman",
+      "target": "post:posts/2019/09/26/the-gaslighting-zone.md",
       "type": "mentioned-in"
     },
     {
@@ -741,6 +759,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall-green",
+      "target": "post:posts/2019/10/01/trigger-vote-for-sharma.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:virendra-sharma",
       "target": "post:posts/2019/10/01/trigger-vote-for-sharma.md",
       "type": "mentioned-in"
     },
@@ -843,6 +867,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall-gasworks",
+      "target": "post:posts/2021/04/14/strawberries-for-pigs.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:virendra-sharma",
       "target": "post:posts/2021/04/14/strawberries-for-pigs.md",
       "type": "mentioned-in"
     },
@@ -1041,6 +1071,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall",
+      "target": "post:posts/2022/03/19/ealing-labour-leaks.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:virendra-sharma",
       "target": "post:posts/2022/03/19/ealing-labour-leaks.md",
       "type": "mentioned-in"
     },
@@ -1286,7 +1322,19 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:internet-archive",
+      "target": "post:posts/2023/01/26/response-to-ealings-air-quality.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:julian-bell",
+      "target": "post:posts/2023/01/26/response-to-ealings-air-quality.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:king-street",
       "target": "post:posts/2023/01/26/response-to-ealings-air-quality.md",
       "type": "mentioned-in"
     },
@@ -1970,6 +2018,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:high-court",
+      "target": "post:posts/2025/09/26/ealing-for-sale.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:julian-bell",
       "target": "post:posts/2025/09/26/ealing-for-sale.md",
       "type": "mentioned-in"
@@ -2385,6 +2439,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:clean-air-for-southall-and-hayes",
+      "target": "post:posts/2026/01/20/the-council-investigation-that-found.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:dr-john-freeman",
       "target": "post:posts/2026/01/20/the-council-investigation-that-found.md",
       "type": "mentioned-in"
     },
@@ -3008,6 +3068,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:virendra-sharma",
+      "target": "post:posts/2026/02/18/the-broken-manifesto-promises-that.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "topic:air-pollution",
       "target": "post:posts/2026/02/18/the-broken-manifesto-promises-that.md",
       "type": "mentioned-in"
@@ -3614,7 +3680,19 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:lady-margaret",
+      "target": "post:posts/2026/04/24/first-they-came-for-the.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:liberal-democrats",
+      "target": "post:posts/2026/04/24/first-they-came-for-the.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:local-democracy-reporting-service",
       "target": "post:posts/2026/04/24/first-they-came-for-the.md",
       "type": "mentioned-in"
     },
@@ -3812,6 +3890,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:dan-cortese",
+      "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:dominion-centre",
       "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
       "type": "mentioned-in"
@@ -3843,6 +3927,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:joe-bhangu",
+      "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:king-street",
       "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
       "type": "mentioned-in"
     },
@@ -4130,6 +4220,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:richard-kimblin",
+      "target": "post:posts/2026/04/30/when-is-a-hustings-not.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:southall",
       "target": "post:posts/2026/04/30/when-is-a-hustings-not.md",
       "type": "mentioned-in"
@@ -4155,6 +4251,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:the-green",
+      "target": "post:posts/2026/04/30/when-is-a-hustings-not.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:virendra-sharma",
       "target": "post:posts/2026/04/30/when-is-a-hustings-not.md",
       "type": "mentioned-in"
     },
@@ -4238,6 +4340,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:around-ealing",
+      "target": "post:posts/2026/05/01/back-to-the-future.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:ealing",
       "target": "post:posts/2026/05/01/back-to-the-future.md",
       "type": "mentioned-in"
@@ -4251,6 +4359,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:ealing-labour",
+      "target": "post:posts/2026/05/01/back-to-the-future.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:internet-archive",
       "target": "post:posts/2026/05/01/back-to-the-future.md",
       "type": "mentioned-in"
     },
@@ -4335,6 +4449,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:greater-london-authority",
+      "target": "post:posts/2026/05/02/the-smell-of-success.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:high-court",
       "target": "post:posts/2026/05/02/the-smell-of-success.md",
       "type": "mentioned-in"
     },
@@ -4526,6 +4646,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:king-street",
+      "target": "post:posts/2026/05/03/cactuses-never-die.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:labour-party",
       "target": "post:posts/2026/05/03/cactuses-never-die.md",
       "type": "mentioned-in"
@@ -4592,6 +4718,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:high-court",
+      "target": "post:posts/2026/05/06/it-takes-two-to-tango.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:liberal-democrats",
       "target": "post:posts/2026/05/06/it-takes-two-to-tango.md",
       "type": "mentioned-in"
@@ -4599,6 +4731,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:peter-mason",
+      "target": "post:posts/2026/05/06/it-takes-two-to-tango.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:richard-kimblin",
       "target": "post:posts/2026/05/06/it-takes-two-to-tango.md",
       "type": "mentioned-in"
     },
@@ -4832,6 +4970,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:hanwell-broadway",
+      "target": "post:posts/2026/05/06/the-drugs-dont-work.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:jasbir-kaur-anand",
       "target": "post:posts/2026/05/06/the-drugs-dont-work.md",
       "type": "mentioned-in"
@@ -4941,6 +5085,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
+      "target": "post:posts/2026/05/06/the-meeting-that-ended-local.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:dan-cortese",
       "target": "post:posts/2026/05/06/the-meeting-that-ended-local.md",
       "type": "mentioned-in"
     },
@@ -5067,6 +5217,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:swaran-singh-padda",
+      "target": "post:posts/2026/05/06/the-meeting-that-ended-local.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:virendra-sharma",
       "target": "post:posts/2026/05/06/the-meeting-that-ended-local.md",
       "type": "mentioned-in"
     },
@@ -5516,6 +5672,18 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:gurdip-singh-chaggar",
+      "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:internet-archive",
+      "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:jeremy-corbyn",
       "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
       "type": "mentioned-in"
@@ -5535,6 +5703,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:labour-party",
+      "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:lady-margaret",
       "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
       "type": "mentioned-in"
     },
@@ -5768,6 +5942,18 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:hanwell-broadway",
+      "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:high-court",
+      "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:jasbir-kaur-anand",
       "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
       "type": "mentioned-in"
@@ -5799,6 +5985,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:liberal-democrats",
+      "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:local-democracy-reporting-service",
       "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
       "type": "mentioned-in"
     },
@@ -6014,6 +6206,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:around-ealing",
+      "target": "post:posts/2026/05/25/feeling-the-heat.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
       "target": "post:posts/2026/05/25/feeling-the-heat.md",
       "type": "mentioned-in"
@@ -6051,6 +6249,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:greater-london-authority",
+      "target": "post:posts/2026/05/25/feeling-the-heat.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:gurdip-singh-chaggar",
       "target": "post:posts/2026/05/25/feeling-the-heat.md",
       "type": "mentioned-in"
     },
@@ -9174,6 +9378,36 @@
     },
     {
       "provenance": "reviewed-source-record",
+      "source": "post:posts/2022/12/17/the-property-lobby-the-hidden.md",
+      "target": "source:the-property-lobby",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2023/01/26/response-to-ealings-air-quality.md",
+      "target": "source:the-property-lobby",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:the-property-lobby",
+      "target": "topic:housing",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:the-property-lobby",
+      "target": "topic:planning-development",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:the-property-lobby",
+      "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
       "source": "post:posts/2026/01/18/demolition-man-peter-masons-legacy.md",
       "target": "source:affordable-homes-performance-dashboard",
       "type": "cites-source"
@@ -9796,6 +10030,13 @@
       "type": "post"
     },
     {
+      "id": "entity:around-ealing",
+      "label": "Around Ealing",
+      "path": "entities/organisations/around-ealing.md",
+      "subtype": "organisation",
+      "type": "entity"
+    },
+    {
       "id": "entity:berkeley-group",
       "label": "Berkeley Group",
       "path": "entities/organisations/berkeley-group.md",
@@ -9901,6 +10142,20 @@
       "type": "entity"
     },
     {
+      "id": "entity:high-court",
+      "label": "High Court",
+      "path": "entities/organisations/high-court.md",
+      "subtype": "organisation",
+      "type": "entity"
+    },
+    {
+      "id": "entity:internet-archive",
+      "label": "Internet Archive",
+      "path": "entities/organisations/internet-archive.md",
+      "subtype": "organisation",
+      "type": "entity"
+    },
+    {
       "id": "entity:labour-party",
       "label": "Labour Party",
       "path": "entities/organisations/labour-party.md",
@@ -9911,6 +10166,13 @@
       "id": "entity:liberal-democrats",
       "label": "Liberal Democrats",
       "path": "entities/organisations/liberal-democrats.md",
+      "subtype": "organisation",
+      "type": "entity"
+    },
+    {
+      "id": "entity:local-democracy-reporting-service",
+      "label": "Local Democracy Reporting Service",
+      "path": "entities/organisations/local-democracy-reporting-service.md",
       "subtype": "organisation",
       "type": "entity"
     },
@@ -9985,6 +10247,27 @@
       "type": "entity"
     },
     {
+      "id": "entity:dan-cortese",
+      "label": "Dan Cortese",
+      "path": "entities/people/dan-cortese.md",
+      "subtype": "person",
+      "type": "entity"
+    },
+    {
+      "id": "entity:dr-john-freeman",
+      "label": "Dr John Freeman",
+      "path": "entities/people/dr-john-freeman.md",
+      "subtype": "person",
+      "type": "entity"
+    },
+    {
+      "id": "entity:gurdip-singh-chaggar",
+      "label": "Gurdip Singh Chaggar",
+      "path": "entities/people/gurdip-singh-chaggar.md",
+      "subtype": "person",
+      "type": "entity"
+    },
+    {
       "id": "entity:jags-sanghera",
       "label": "Jags Sanghera",
       "path": "entities/people/jags-sanghera.md",
@@ -10048,6 +10331,13 @@
       "type": "entity"
     },
     {
+      "id": "entity:richard-kimblin",
+      "label": "Richard Kimblin",
+      "path": "entities/people/richard-kimblin.md",
+      "subtype": "person",
+      "type": "entity"
+    },
+    {
       "id": "entity:swaran-singh-padda",
       "label": "Swaran Singh Padda",
       "path": "entities/people/swaran-singh-padda.md",
@@ -10058,6 +10348,13 @@
       "id": "entity:tony-pidgley",
       "label": "Tony Pidgley",
       "path": "entities/people/tony-pidgley.md",
+      "subtype": "person",
+      "type": "entity"
+    },
+    {
+      "id": "entity:virendra-sharma",
+      "label": "Virendra Sharma",
+      "path": "entities/people/virendra-sharma.md",
       "subtype": "person",
       "type": "entity"
     },
@@ -10097,9 +10394,30 @@
       "type": "entity"
     },
     {
+      "id": "entity:hanwell-broadway",
+      "label": "Hanwell Broadway",
+      "path": "entities/places/hanwell-broadway.md",
+      "subtype": "place",
+      "type": "entity"
+    },
+    {
       "id": "entity:johnson-street",
       "label": "Johnson Street",
       "path": "entities/places/johnson-street.md",
+      "subtype": "place",
+      "type": "entity"
+    },
+    {
+      "id": "entity:king-street",
+      "label": "King Street",
+      "path": "entities/places/king-street.md",
+      "subtype": "place",
+      "type": "entity"
+    },
+    {
+      "id": "entity:lady-margaret",
+      "label": "Lady Margaret",
+      "path": "entities/places/lady-margaret.md",
       "subtype": "place",
       "type": "entity"
     },
@@ -11456,6 +11774,14 @@
       "label": "youtube.com",
       "post_count": 7,
       "type": "source-domain"
+    },
+    {
+      "id": "source:the-property-lobby",
+      "label": "The Property Lobby: The Hidden Reality behind the Housing Crisis",
+      "path": "sources/books/the-property-lobby.md",
+      "publisher": "Policy Press",
+      "source_type": "book",
+      "type": "source-record"
     },
     {
       "id": "source:affordable-homes-performance-dashboard",
