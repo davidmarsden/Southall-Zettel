@@ -15,6 +15,7 @@
     "posts",
     "relationships",
     "sources",
+    "citations",
     "links"
   ],
   "properties": {
@@ -24,10 +25,11 @@
     "canonical_corpus": {"type": "string", "format": "uri"},
     "policy": {
       "type": "object",
-      "required": ["candidates_exported", "raw_source_urls_exported", "full_post_text_exported", "reviewed_relationships_only"],
+      "required": ["candidates_exported", "raw_source_urls_exported", "article_citations_exported", "full_post_text_exported", "reviewed_relationships_only"],
       "properties": {
         "candidates_exported": {"const": false},
         "raw_source_urls_exported": {"const": false},
+        "article_citations_exported": {"const": true},
         "full_post_text_exported": {"const": false},
         "reviewed_relationships_only": {"const": true}
       },
@@ -39,6 +41,7 @@
     "posts": {"type": "array", "items": {"$ref": "#/$defs/post"}},
     "relationships": {"type": "array", "items": {"$ref": "#/$defs/relationship"}},
     "sources": {"type": "array", "items": {"$ref": "#/$defs/source"}},
+    "citations": {"type": "array", "items": {"$ref": "#/$defs/citation"}},
     "links": {"type": "array", "items": {"$ref": "#/$defs/link"}}
   },
   "$defs": {
@@ -127,6 +130,18 @@
         "temporal_status": {"type": ["string", "null"]},
         "provenance": {"const": "reviewed-source-record"}
       }
+    },
+    "citation": {
+      "type": "object",
+      "required": ["post", "label", "url", "domain", "provenance"],
+      "properties": {
+        "post": {"type": "string", "pattern": "^post:"},
+        "label": {"type": "string"},
+        "url": {"type": "string", "format": "uri"},
+        "domain": {"type": "string"},
+        "provenance": {"const": "source-post-link"}
+      },
+      "additionalProperties": false
     },
     "link": {
       "type": "object",
