@@ -21,6 +21,8 @@ def main() -> None:
         title = metadata.get("destination_title")
         if not title:
             continue
+        citation["article_label"] = citation.get("label")
+        citation["label"] = title
         citation["destination_title"] = title
         citation["title_source"] = metadata.get("title_source")
         citation["resolved_url"] = metadata.get("resolved_url")
