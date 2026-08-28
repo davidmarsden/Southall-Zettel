@@ -60,7 +60,7 @@
       "domain": "aresok.org",
       "health": "unreachable",
       "http_status": null,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Retry before editing; the site may be blocking automated checks or temporarily unavailable.",
       "resolved_url": null,
       "url": "http://www.aresok.org/npg/nioshdbs/calc.htm"
@@ -117,7 +117,7 @@
       "domain": "archive.ph",
       "health": "unreachable",
       "http_status": 429,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Retry before editing; the site may be blocking automated checks or temporarily unavailable.",
       "resolved_url": "https://archive.ph/JZAll",
       "url": "https://archive.ph/JZAll"
@@ -212,7 +212,7 @@
       "domain": "assets.publishing.service.gov.uk",
       "health": "gone",
       "http_status": 410,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Use Micro.blog’s archived version or replace the source URL.",
       "resolved_url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf",
       "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf"
@@ -231,7 +231,7 @@
       "domain": "assets.publishing.service.gov.uk",
       "health": "gone",
       "http_status": 410,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Use Micro.blog’s archived version or replace the source URL.",
       "resolved_url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/825197/Benzene_incident_management_PHE_2019.pdf",
       "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/522459/Benzene_IM_PHE_050516.pdf"
@@ -250,7 +250,7 @@
       "domain": "assets.publishing.service.gov.uk",
       "health": "gone",
       "http_status": 410,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Use Micro.blog’s archived version or replace the source URL.",
       "resolved_url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/791325/Benzene_general_information_2019.pdf",
       "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/561046/benzene_general_information.pdf"
@@ -908,7 +908,7 @@
       "domain": "docs.google.com",
       "health": "gone",
       "http_status": 404,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Use Micro.blog’s archived version or replace the source URL.",
       "resolved_url": "https://docs.google.com/document/d/e/2PACX1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zEoDwo205cAiMcRsCxoy2x8DogF/pub",
       "url": "https://docs.google.com/document/d/e/2PACX1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zEoDwo205cAiMcRsCxoy2x8DogF/pub"
@@ -2602,7 +2602,7 @@
       "domain": "onlinelibrary.wiley.com",
       "health": "unreachable",
       "http_status": 403,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Retry before editing; the site may be blocking automated checks or temporarily unavailable.",
       "resolved_url": "https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1553-2712.2000.tb01889.x",
       "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1553-2712.2000.tb01889.x"
@@ -5121,7 +5121,7 @@
       "domain": "t2m.io",
       "health": "unreachable",
       "http_status": null,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Retry before editing; the site may be blocking automated checks or temporarily unavailable.",
       "resolved_url": null,
       "url": "https://t2m.io/z6shGyFn"
@@ -10367,6 +10367,6 @@
       "url": "https://youngealingfoundation.org.uk/images/downloads/ealing/TACKLING-YOUTH-VIOLENCE-IN-SNG-22-1.pdf"
     }
   ],
-  "new_problem_count": 8,
+  "new_problem_count": 0,
   "problem_count": 48
 }

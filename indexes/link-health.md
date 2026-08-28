@@ -4,7 +4,7 @@ Automated health checks for external links cited by the Southall Stories researc
 
 - Checked/cached links: **530**
 - Actionable problems: **48**
-- Newly degraded since the previous report: **8**
+- Newly degraded since the previous report: **0**
 - Ordinary redirects: **26**
 
 `gone` means HTTP 404/410. `unreachable` can include temporary failures or automation blocking. `suspicious-redirect` means a URL resolves successfully but appears to have been repointed to unrelated content.
