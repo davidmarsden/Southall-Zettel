@@ -2,17 +2,25 @@
   "canonical_corpus": "https://southallstories.uk",
   "citations": [
     {
+      "article_label": "Southall Gasworks",
+      "destination_title": "The Southall Gasworks Story",
       "domain": "davidmarsden.info",
-      "label": "Southall Gasworks",
+      "label": "The Southall Gasworks Story",
       "post": "post:5543309",
       "provenance": "source-post-link",
+      "resolved_url": "https://davidmarsden.info/2024/10/29/the-southall-gasworks.html",
+      "title_source": "og:title",
       "url": "https://davidmarsden.info/2024/10/29/the-southall-gasworks.html"
     },
     {
+      "article_label": "studies show",
+      "destination_title": "Client Challenge",
       "domain": "nature.com",
-      "label": "studies show",
+      "label": "Client Challenge",
       "post": "post:5543309",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.nature.com/articles/s41598-024-67210-7",
+      "title_source": "html-title",
       "url": "https://www.nature.com/articles/s41598-024-67210-7"
     },
     {
@@ -23,66 +31,102 @@
       "url": "https://drive.google.com/file/d/18k_2hRx7EC4ov1mVrzH0GzV3v-6hUH4W/view?usp=sharing"
     },
     {
+      "article_label": "Southall Under Siege",
+      "destination_title": "Southall Under Siege: The Neighbours From Hell",
       "domain": "davidmarsden.info",
-      "label": "Southall Under Siege",
+      "label": "Southall Under Siege: The Neighbours From Hell",
       "post": "post:5543316",
       "provenance": "source-post-link",
+      "resolved_url": "https://davidmarsden.info/2019/08/25/southall-under-siege.html",
+      "title_source": "og:title",
       "url": "https://davidmarsden.info/2019/08/25/southall-under-siege.html"
     },
     {
+      "article_label": "The Property Lobby",
+      "destination_title": "The Property Lobby: The Hidden Reality Behind the Housing Crisis in Ealing",
       "domain": "davidmarsden.info",
-      "label": "The Property Lobby",
+      "label": "The Property Lobby: The Hidden Reality Behind the Housing Crisis in Ealing",
       "post": "post:5543316",
       "provenance": "source-post-link",
+      "resolved_url": "https://davidmarsden.info/2022/12/16/the-property-lobby.html",
+      "title_source": "og:title",
       "url": "https://davidmarsden.info/2022/12/16/the-property-lobby.html"
     },
     {
+      "article_label": "Air Quality Strategy Response",
+      "destination_title": "Response to Ealing's air quality strategy and action plan",
       "domain": "davidmarsden.info",
-      "label": "Air Quality Strategy Response",
+      "label": "Response to Ealing's air quality strategy and action plan",
       "post": "post:5543316",
       "provenance": "source-post-link",
+      "resolved_url": "https://davidmarsden.info/2023/01/16/air-quality-strategy.html",
+      "title_source": "og:title",
       "url": "https://davidmarsden.info/2023/01/16/air-quality-strategy.html"
     },
     {
+      "article_label": "Action you can take",
+      "destination_title": "Save Ealing's Children's Centres",
       "domain": "davidmarsden.info",
-      "label": "Action you can take",
+      "label": "Save Ealing's Children's Centres",
       "post": "post:5543316",
       "provenance": "source-post-link",
+      "resolved_url": "https://davidmarsden.info/2025/03/09/save-ealings-childrens-centres.html",
+      "title_source": "og:title",
       "url": "https://davidmarsden.info/2025/03/09/save-ealings-childrens-centres.html"
     },
     {
+      "article_label": "Think of the children",
+      "destination_title": "Think of the children",
       "domain": "davidmarsden.info",
       "label": "Think of the children",
       "post": "post:5543316",
       "provenance": "source-post-link",
+      "resolved_url": "https://davidmarsden.info/2025/03/12/ealing-council-are-consulting-on.html",
+      "title_source": "og:title",
       "url": "https://davidmarsden.info/2025/03/12/ealing-council-are-consulting-on.html"
     },
     {
+      "article_label": "https://davidmarsden.info/2025/07/11/perceval-house-w-where-local.html",
+      "destination_title": "Perceval House W5: Where Local Democracy In Ealing Goes To Die",
       "domain": "davidmarsden.info",
-      "label": "https://davidmarsden.info/2025/07/11/perceval-house-w-where-local.html",
+      "label": "Perceval House W5: Where Local Democracy In Ealing Goes To Die",
       "post": "post:5543316",
       "provenance": "source-post-link",
+      "resolved_url": "https://davidmarsden.info/2025/07/11/perceval-house-w-where-local.html",
+      "title_source": "og:title",
       "url": "https://davidmarsden.info/2025/07/11/perceval-house-w-where-local.html"
     },
     {
+      "article_label": "Monopoly",
+      "destination_title": "Ealing Monopoly.pdf",
       "domain": "drive.google.com",
-      "label": "Monopoly",
+      "label": "Ealing Monopoly.pdf",
       "post": "post:5543316",
       "provenance": "source-post-link",
+      "resolved_url": "https://drive.google.com/file/d/1W2HRPD00OiidxP9iAlLPDFHPVwZcEfeM/view?usp=drivesdk",
+      "title_source": "og:title",
       "url": "https://drive.google.com/file/d/1W2HRPD00OiidxP9iAlLPDFHPVwZcEfeM/view?usp=drivesdk"
     },
     {
+      "article_label": "reporting asthma and headaches",
+      "destination_title": "Appendix 1. Blair Peach Primary School.pdf",
       "domain": "drive.google.com",
-      "label": "reporting asthma and headaches",
+      "label": "Appendix 1. Blair Peach Primary School.pdf",
       "post": "post:5543316",
       "provenance": "source-post-link",
+      "resolved_url": "https://drive.google.com/file/d/1hB66yX40-q-YYi6EKOTvE20DTx422_g3/view?usp=drivesdk",
+      "title_source": "og:title",
       "url": "https://drive.google.com/file/d/1hB66yX40-q-YYi6EKOTvE20DTx422_g3/view?usp=drivesdk"
     },
     {
+      "article_label": "leaked WhatsApp messages",
+      "destination_title": "Ealing Labour Leaks (unredacted).pdf",
       "domain": "drive.google.com",
-      "label": "leaked WhatsApp messages",
+      "label": "Ealing Labour Leaks (unredacted).pdf",
       "post": "post:5543316",
       "provenance": "source-post-link",
+      "resolved_url": "https://drive.google.com/file/d/1hZfSB-RR7OzeCIHclKdiJd_FTnUtT7KA/view?usp=drivesdk",
+      "title_source": "og:title",
       "url": "https://drive.google.com/file/d/1hZfSB-RR7OzeCIHclKdiJd_FTnUtT7KA/view?usp=drivesdk"
     },
     {
@@ -122,24 +166,36 @@
       "url": "https://ealing.news/ealing-council/ealing-council-leader-peter-mason-massive-allowance-rise-by-over-70-along-with-increases-for-his-cabinet/"
     },
     {
+      "article_label": "investing £112 million",
+      "destination_title": "LGPS Investment Database - LGPS Divest",
       "domain": "lgpsdivest.org",
-      "label": "investing £112 million",
+      "label": "LGPS Investment Database - LGPS Divest",
       "post": "post:5543316",
       "provenance": "source-post-link",
+      "resolved_url": "https://lgpsdivest.org/lgps-investments/",
+      "title_source": "og:title",
       "url": "https://lgpsdivest.org/lgps-investments/"
     },
     {
+      "article_label": "fatal to some people with African and Asian heritage",
+      "destination_title": "Naphthalene Mothballs: Emerging and Recurring Issues and their Relevance to Environmental Health",
       "domain": "pmc.ncbi.nlm.nih.gov",
-      "label": "fatal to some people with African and Asian heritage",
+      "label": "Naphthalene Mothballs: Emerging and Recurring Issues and their Relevance to Environmental Health",
       "post": "post:5543316",
       "provenance": "source-post-link",
+      "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3850774/",
+      "title_source": "og:title",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3850774/"
     },
     {
+      "article_label": "Save Ealing Children's Centres (official campaign website)",
+      "destination_title": "Save Ealing Children's Centres",
       "domain": "saveealingchildrenscentres.wordpress.com",
-      "label": "Save Ealing Children's Centres (official campaign website)",
+      "label": "Save Ealing Children's Centres",
       "post": "post:5543316",
       "provenance": "source-post-link",
+      "resolved_url": "https://saveealingchildrenscentres.wordpress.com/",
+      "title_source": "og:title",
       "url": "https://saveealingchildrenscentres.wordpress.com/"
     },
     {
@@ -154,10 +210,14 @@
       "url": "https://sketchplanations.com/mobius-strip"
     },
     {
+      "article_label": "booze 'n' hookerfest",
+      "destination_title": "The MIPIM jolly – Stop The Towers in West Ealing",
       "domain": "stopthetowers.info",
-      "label": "booze 'n' hookerfest",
+      "label": "The MIPIM jolly – Stop The Towers in West Ealing",
       "post": "post:5543316",
       "provenance": "source-post-link",
+      "resolved_url": "https://stopthetowers.info/the-mipim-jolly",
+      "title_source": "html-title",
       "url": "https://stopthetowers.info/the-mipim-jolly"
     },
     {
@@ -172,17 +232,25 @@
       "url": "https://www.bbc.co.uk/news/articles/c8xv1ylplzzo"
     },
     {
+      "article_label": "bad idea",
+      "destination_title": "Family hubs to open in every council in England",
       "domain": "bbc.co.uk",
-      "label": "bad idea",
+      "label": "Family hubs to open in every council in England",
       "post": "post:5543316",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.bbc.co.uk/news/articles/cpvj1jr0kz0o",
+      "title_source": "og:title",
       "url": "https://www.bbc.co.uk/news/articles/cpvj1jr0kz0o"
     },
     {
+      "article_label": "kids can be locked in class without ventilation on hot days",
+      "destination_title": "BBC TV London News Report yesterday",
       "domain": "change.org",
-      "label": "kids can be locked in class without ventilation on hot days",
+      "label": "BBC TV London News Report yesterday",
       "post": "post:5543316",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.change.org/p/cleanair-for-southall-and-hayes-stop-berkeleygroupuk-s-southallwaterside-polluting-our-kids-southalllivesmatter/u/23019750",
+      "title_source": "og:title",
       "url": "https://www.change.org/p/cleanair-for-southall-and-hayes-stop-berkeleygroupuk-s-southallwaterside-polluting-our-kids-southalllivesmatter/u/23019750"
     },
     {
@@ -233,10 +301,14 @@
       "url": "https://www.mylondon.news/news/west-london-news/3-ealing-childrens-centres-saved-31844687"
     },
     {
+      "article_label": "mini-Manhattan",
+      "destination_title": "Fresh pictures reveal what Ealing 'mini Manhattan' could look like",
       "domain": "mylondon.news",
-      "label": "mini-Manhattan",
+      "label": "Fresh pictures reveal what Ealing 'mini Manhattan' could look like",
       "post": "post:5543316",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.mylondon.news/news/west-london-news/fresh-pictures-reveal-what-london-22320564",
+      "title_source": "og:title",
       "url": "https://www.mylondon.news/news/west-london-news/fresh-pictures-reveal-what-london-22320564"
     },
     {
@@ -254,10 +326,14 @@
       "url": "https://www.unwomen.org/en/news-stories/news/2025/05/un-women-estimates-over-28000-women-and-girls-killed-in-gaza-since-october-2023"
     },
     {
+      "article_label": "won",
+      "destination_title": "Southall Young Adult Centre saved from demolition - Southall News",
       "domain": "visitsouthall.co.uk",
-      "label": "won",
+      "label": "Southall Young Adult Centre saved from demolition - Southall News",
       "post": "post:5543316",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.visitsouthall.co.uk/News/NewsDetails.php?recordID=1235",
+      "title_source": "og:title",
       "url": "https://www.visitsouthall.co.uk/News/NewsDetails.php?recordID=1235"
     },
     {
@@ -393,10 +469,14 @@
       "url": "https://www.royalalberthall.com/tickets/events/2025/ealing-together-harmony-in-diversity"
     },
     {
+      "article_label": "The Property Lobby: The Hidden Reality behind the Housing Crisis",
+      "destination_title": "The Property Lobby: The Hidden Reality behind the Housing Crisis",
       "domain": "micro.blog",
       "label": "The Property Lobby: The Hidden Reality behind the Housing Crisis",
       "post": "post:5543519",
       "provenance": "source-post-link",
+      "resolved_url": "https://micro.blog/books/9781447348160",
+      "title_source": "html-title",
       "url": "https://micro.blog/books/9781447348160"
     },
     {
@@ -411,31 +491,47 @@
       "url": "https://stopthetowers.info/other-campaigns"
     },
     {
+      "article_label": "ToryBoy The Movie",
+      "destination_title": "Tory Boy The Movie",
       "domain": "toryboythemovie.com",
-      "label": "ToryBoy The Movie",
+      "label": "Tory Boy The Movie",
       "post": "post:5543522",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.toryboythemovie.com/",
+      "title_source": "html-title",
       "url": "https://www.toryboythemovie.com/"
     },
     {
+      "article_label": "cuckoo in the nest",
+      "destination_title": "Former Ealing Council housing leader admits he 'made a mistake' accepting £3,000 from developer for Cannes property conference",
       "domain": "ealing.nub.news",
-      "label": "cuckoo in the nest",
+      "label": "Former Ealing Council housing leader admits he 'made a mistake' accepting £3,000 from developer for Cannes property conference",
       "post": "post:5543696",
       "provenance": "source-post-link",
+      "resolved_url": "https://ealing.nub.news/news/local-news/former-ealing-council-housing-leader-admits-he-39made-a-mistake39-accepting-3000-from-developer-for-cannes-property-conference",
+      "title_source": "og:title",
       "url": "https://ealing.nub.news/news/local-news/former-ealing-council-housing-leader-admits-he-39made-a-mistake39-accepting-3000-from-developer-for-cannes-property-conference"
     },
     {
+      "article_label": "\"I own half of Southall\"",
+      "destination_title": "S.A.D. - The Campaign To Save Ealing Day Care",
       "domain": "sadealing.blogspot.com",
-      "label": "\"I own half of Southall\"",
+      "label": "S.A.D. - The Campaign To Save Ealing Day Care",
       "post": "post:5543696",
       "provenance": "source-post-link",
+      "resolved_url": "https://sadealing.blogspot.com/2010_10_03_archive.html?m=1",
+      "title_source": "og:title",
       "url": "https://sadealing.blogspot.com/2010_10_03_archive.html?m=1"
     },
     {
+      "article_label": "here",
+      "destination_title": "Party-imposed London council candidate used ‘holocaust language’ against Gypsy Roma Travellers",
       "domain": "skwawkbox.org",
-      "label": "here",
+      "label": "Party-imposed London council candidate used ‘holocaust language’ against Gypsy Roma Travellers",
       "post": "post:5543696",
       "provenance": "source-post-link",
+      "resolved_url": "https://skwawkbox.org/2022/02/14/party-imposed-london-council-candidate-used-holocaust-language-against-gypsy-roma-travellers/",
+      "title_source": "og:title",
       "url": "https://skwawkbox.org/2022/02/14/party-imposed-london-council-candidate-used-holocaust-language-against-gypsy-roma-travellers/"
     },
     {
@@ -457,31 +553,47 @@
       "url": "https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf"
     },
     {
+      "article_label": "surveys",
+      "destination_title": "Southall Shaping Ealing summary | Ealing Council",
       "domain": "ealing.gov.uk",
-      "label": "surveys",
+      "label": "Southall Shaping Ealing summary | Ealing Council",
       "post": "post:5543696",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.gov.uk/downloads/download/6838/southall_shaping_ealing_summary",
+      "title_source": "html-title",
       "url": "https://www.ealing.gov.uk/downloads/download/6838/southall_shaping_ealing_summary"
     },
     {
+      "article_label": "plans",
+      "destination_title": "Southall Reset - Spatial Planning Framework | Ealing Council",
       "domain": "ealing.gov.uk",
-      "label": "plans",
+      "label": "Southall Reset - Spatial Planning Framework | Ealing Council",
       "post": "post:5543696",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.gov.uk/downloads/download/6999/southall_reset_%E2%80%93_spatial_planning_framework",
+      "title_source": "html-title",
       "url": "https://www.ealing.gov.uk/downloads/download/6999/southall_reset_%E2%80%93_spatial_planning_framework"
     },
     {
+      "article_label": "failed",
+      "destination_title": "The Southall (Big Plan) AGM - Southall News",
       "domain": "visitsouthall.co.uk",
-      "label": "failed",
+      "label": "The Southall (Big Plan) AGM - Southall News",
       "post": "post:5543696",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.visitsouthall.co.uk/News/NewsDetails.php?recordID=1006",
+      "title_source": "og:title",
       "url": "https://www.visitsouthall.co.uk/News/NewsDetails.php?recordID=1006"
     },
     {
+      "article_label": "playing monopoly",
+      "destination_title": "Tweets",
       "domain": "davidmarsden.info",
-      "label": "playing monopoly",
+      "label": "Tweets",
       "post": "post:5550924",
       "provenance": "source-post-link",
+      "resolved_url": "https://davidmarsden.info/tweets/?q=like+they+were+playing+Monopoly",
+      "title_source": "og:title",
       "url": "https://davidmarsden.info/tweets/?q=like+they+were+playing+Monopoly"
     },
     {
@@ -723,10 +835,14 @@
       "url": "https://pbs.twimg.com/media/FOw_SGlXMAQgm6V.jpg"
     },
     {
+      "article_label": "web.archive.org/web/20220...",
+      "destination_title": "Wayback Machine",
       "domain": "web.archive.org",
-      "label": "web.archive.org/web/20220...",
+      "label": "Wayback Machine",
       "post": "post:5550924",
       "provenance": "source-post-link",
+      "resolved_url": "https://web.archive.org/web/20220328221833/https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf",
+      "title_source": "html-title",
       "url": "https://web.archive.org/web/20220328221833/https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf"
     },
     {
@@ -744,10 +860,14 @@
       "url": "http://neighbournet.com/server/common/ldrseacouncil014.htm?site=2"
     },
     {
+      "article_label": "lead-day-50b.notion.site/Peter-Mason-s-…",
+      "destination_title": "Notion | Where teams and agents work together",
       "domain": "lead-day-50b.notion.site",
-      "label": "lead-day-50b.notion.site/Peter-Mason-s-…",
+      "label": "Notion | Where teams and agents work together",
       "post": "post:5550930",
       "provenance": "source-post-link",
+      "resolved_url": "https://lead-day-50b.notion.site/Peter-Mason-s-Racism-7018398a9fe54c538fcd8b7aad929d4a",
+      "title_source": "og:title",
       "url": "https://lead-day-50b.notion.site/Peter-Mason-s-Racism-7018398a9fe54c538fcd8b7aad929d4a"
     },
     {
@@ -919,10 +1039,14 @@
       "url": "https://twitter.com/threadreaderapp"
     },
     {
+      "article_label": "dailymail.co.uk/news/article-8…",
+      "destination_title": "Labour council leader admits plan to 'take advantage' of Covid",
       "domain": "dailymail.co.uk",
-      "label": "dailymail.co.uk/news/article-8…",
+      "label": "Labour council leader admits plan to 'take advantage' of Covid",
       "post": "post:5550930",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.dailymail.com/news/article-8780309/Labour-council-leader-admits-plan-advantage-Covid.html",
+      "title_source": "og:title",
       "url": "https://www.dailymail.co.uk/news/article-8780309/Labour-council-leader-admits-plan-advantage-Covid.html"
     },
     {
@@ -1150,17 +1274,25 @@
       "url": "https://x.com/juliangbell/status/1010621649111183360"
     },
     {
+      "article_label": "Weasel words",
+      "destination_title": "Tweets",
       "domain": "davidmarsden.info",
-      "label": "Weasel words",
+      "label": "Tweets",
       "post": "post:5551021",
       "provenance": "source-post-link",
+      "resolved_url": "https://davidmarsden.info/tweets/?q=Weasel+words+from+Ealing",
+      "title_source": "og:title",
       "url": "https://davidmarsden.info/tweets/?q=Weasel+words+from+Ealing"
     },
     {
+      "article_label": "aroundealing.com/news/240000-in…",
+      "destination_title": "£240,000 investment in air quality monitoring devices in local schools - Around Ealing",
       "domain": "aroundealing.com",
-      "label": "aroundealing.com/news/240000-in…",
+      "label": "£240,000 investment in air quality monitoring devices in local schools - Around Ealing",
       "post": "post:5551021",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.aroundealing.com/news/240000-investment-in-air-quality-monitoring-devices-in-local-schools/",
+      "title_source": "og:title",
       "url": "https://www.aroundealing.com/news/240000-investment-in-air-quality-monitoring-devices-in-local-schools/"
     },
     {
@@ -1199,10 +1331,14 @@
       "url": "https://ealingperformance.inphase.com/Detail/865_17759?s=09"
     },
     {
+      "article_label": "ealingperformance.inphase.com/Plan/853#865",
+      "destination_title": "Eali|3249| Safe and genuinely affordable homes",
       "domain": "ealingperformance.inphase.com",
-      "label": "ealingperformance.inphase.com/Plan/853#865",
+      "label": "Eali|3249| Safe and genuinely affordable homes",
       "post": "post:5551023",
       "provenance": "source-post-link",
+      "resolved_url": "https://ealingperformance.inphase.com/Plan/853#865",
+      "title_source": "html-title",
       "url": "https://ealingperformance.inphase.com/Plan/853#865"
     },
     {
@@ -5855,9 +5991,9 @@
     }
   ],
   "counts": {
-    "citation_titles_rejected_as_stale_redirects": 3,
+    "citation_titles_rejected_as_stale_redirects": 4,
     "citations": 668,
-    "citations_with_destination_titles": 294,
+    "citations_with_destination_titles": 328,
     "entities": 115,
     "links": 1192,
     "posts": 69,
