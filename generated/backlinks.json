@@ -142,6 +142,21 @@
       "posts/2026/05/25/feeling-the-heat.md",
       "posts/2026/05/29/individuality.md"
     ],
+    "ealing-community-independents": [
+      "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
+      "posts/2026/04/24/first-they-came-for-the.md",
+      "posts/2026/04/24/when-deport-six-million-becomes.md",
+      "posts/2026/04/28/this-place-has-turned-into.md",
+      "posts/2026/04/30/when-is-a-hustings-not.md",
+      "posts/2026/05/02/the-smell-of-success.md",
+      "posts/2026/05/03/cactuses-never-die.md",
+      "posts/2026/05/06/sixtyfour-years-on-your-side.md",
+      "posts/2026/05/06/the-meeting-that-ended-local.md",
+      "posts/2026/05/07/computer-says-no.md",
+      "posts/2026/05/07/the-man-in-the-middle.md",
+      "posts/2026/05/07/who-does-peter-mason-really.md",
+      "posts/2026/05/09/liftoff-ealing-elections-special.md"
+    ],
     "ealing-council": [
       "posts/2018/09/12/countering-the-southall-waterside-narrative.md",
       "posts/2018/11/02/lies-damned-lies-and-statistics.md",
@@ -248,6 +263,25 @@
       "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
       "posts/2026/04/30/when-is-a-hustings-not.md"
     ],
+    "jags-sanghera": [
+      "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
+      "posts/2026/05/06/sixtyfour-years-on-your-side.md",
+      "posts/2026/05/07/the-man-in-the-middle.md"
+    ],
+    "jeremy-corbyn": [
+      "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "posts/2026/04/24/first-they-came-for-the.md",
+      "posts/2026/04/24/when-deport-six-million-becomes.md",
+      "posts/2026/05/03/cactuses-never-die.md",
+      "posts/2026/05/07/who-does-peter-mason-really.md"
+    ],
+    "johnson-street": [
+      "posts/2026/01/12/a-fire-we-were-warned.md",
+      "posts/2026/01/20/the-council-investigation-that-found.md",
+      "posts/2026/01/25/the-ea-files-what-regulators.md",
+      "posts/2026/05/07/computer-says-no.md"
+    ],
     "julian-bell": [
       "posts/2019/06/01/pull-the-other-one-julian.md",
       "posts/2019/08/25/southall-under-siege-the-neighbours.md",
@@ -288,6 +322,21 @@
       "posts/2026/04/24/when-deport-six-million-becomes.md",
       "posts/2026/04/30/when-is-a-hustings-not.md",
       "posts/2026/05/06/the-drugs-dont-work.md",
+      "posts/2026/05/07/who-does-peter-mason-really.md",
+      "posts/2026/05/09/liftoff-ealing-elections-special.md"
+    ],
+    "minni-dogra": [
+      "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
+      "posts/2026/04/28/this-place-has-turned-into.md",
+      "posts/2026/05/02/the-smell-of-success.md",
+      "posts/2026/05/06/sixtyfour-years-on-your-side.md",
+      "posts/2026/05/06/the-drugs-dont-work.md",
+      "posts/2026/05/06/the-meeting-that-ended-local.md"
+    ],
+    "norwood-green": [
+      "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
+      "posts/2026/04/24/first-they-came-for-the.md",
+      "posts/2026/05/07/the-man-in-the-middle.md",
       "posts/2026/05/07/who-does-peter-mason-really.md",
       "posts/2026/05/09/liftoff-ealing-elections-special.md"
     ],
@@ -341,6 +390,12 @@
       "posts/2026/01/20/the-council-investigation-that-found.md",
       "posts/2026/05/06/the-meeting-that-ended-local.md",
       "posts/2026/05/07/computer-says-no.md"
+    ],
+    "south-road": [
+      "posts/2023/01/26/response-to-ealings-air-quality.md",
+      "posts/2026/02/14/section-money-where-did-southalls.md",
+      "posts/2026/04/28/this-place-has-turned-into.md",
+      "posts/2026/05/25/feeling-the-heat.md"
     ],
     "southall": [
       "posts/2018/07/09/visit-to-southall-waterside-now.md",
@@ -406,6 +461,23 @@
       "posts/2026/05/09/liftoff-ealing-elections-special.md",
       "posts/2026/05/25/feeling-the-heat.md",
       "posts/2026/05/29/individuality.md"
+    ],
+    "southall-broadway": [
+      "posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "posts/2023/01/26/response-to-ealings-air-quality.md",
+      "posts/2026/03/01/boomerang-ten-years-sorting-out.md",
+      "posts/2026/04/28/this-place-has-turned-into.md",
+      "posts/2026/05/06/the-drugs-dont-work.md",
+      "posts/2026/05/06/the-meeting-that-ended-local.md",
+      "posts/2026/05/07/who-does-peter-mason-really.md",
+      "posts/2026/05/09/liftoff-ealing-elections-special.md"
+    ],
+    "southall-community-alliance": [
+      "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
+      "posts/2026/05/06/the-meeting-that-ended-local.md",
+      "posts/2026/05/07/the-man-in-the-middle.md",
+      "posts/2026/05/07/who-does-peter-mason-really.md",
+      "posts/2026/05/25/feeling-the-heat.md"
     ],
     "southall-gasworks": [
       "posts/2018/07/09/visit-to-southall-waterside-now.md",
@@ -483,6 +555,27 @@
       "posts/2026/05/06/the-meeting-that-ended-local.md",
       "posts/2026/05/07/who-does-peter-mason-really.md",
       "posts/2026/05/09/liftoff-ealing-elections-special.md"
+    ],
+    "the-green": [
+      "posts/2018/07/09/visit-to-southall-waterside-now.md",
+      "posts/2023/01/26/response-to-ealings-air-quality.md",
+      "posts/2026/02/14/section-money-where-did-southalls.md",
+      "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
+      "posts/2026/04/24/first-they-came-for-the.md",
+      "posts/2026/04/28/this-place-has-turned-into.md",
+      "posts/2026/04/30/when-is-a-hustings-not.md",
+      "posts/2026/05/02/the-smell-of-success.md",
+      "posts/2026/05/07/the-man-in-the-middle.md",
+      "posts/2026/05/09/liftoff-ealing-elections-special.md"
+    ],
+    "tony-pidgley": [
+      "posts/2018/09/12/countering-the-southall-waterside-narrative.md",
+      "posts/2018/11/02/lies-damned-lies-and-statistics.md",
+      "posts/2019/06/01/pull-the-other-one-julian.md",
+      "posts/2019/07/21/phe-coverup-continued.md",
+      "posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "posts/2022/03/25/ealing-monopoly.md",
+      "posts/2025/09/26/ealing-for-sale.md"
     ],
     "warren-farm": [
       "posts/2023/01/26/response-to-ealings-air-quality.md",

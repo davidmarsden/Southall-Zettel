@@ -2,127 +2,6 @@
 
 Machine-generated review queue. Nothing here is a curated assertion until promoted into `entities/`.
 
-## Ealing Community Independents
-
-- **Class hint:** organisation
-- **Posts:** 10
-- **Mentions:** 13
-- **Score:** 113
-- **First / last:** 2026-04-23T20:27:40+0100 / 2026-05-09T18:20:45+0100
-
-- `posts/2026/04/23/canvassing-with-minni-dogra-a.md` — Canvassing with Minni Dogra: A Councillor in All But Name Southall Stories joins Ealing Community Independents candidate Minni Dogra on the campaign trail in Southall Green — and passes the house where a sitting Labour cabinet mem
-- `posts/2026/04/24/first-they-came-for-the.md` — debate on Gaza. Mason had opposed the debate. In October 2025, Padda attended an event organised and hosted jointly by Ealing Community Independents (ECI), the Indian Workers Association (GB) and Southall Monitoring Group in Southall, at which Jeremy Corbyn was presen
-
-## Southall Broadway
-
-- **Class hint:** person_or_body
-- **Posts:** 7
-- **Mentions:** 14
-- **Score:** 84
-- **First / last:** 2019-08-25T22:14:32+0100 / 2026-05-09T18:20:45+0100
-
-- `posts/2019/08/25/southall-under-siege-the-neighbours.md` — te, and two of the twenty percent most economically deprived council wards in England. Southall Green to the south, and Southall Broadway to the north and north-east. ‘The last thing we want to do is upset residents,’ says Damian. It’s a bit late for that.
-- `posts/2023/01/26/response-to-ealings-air-quality.md` — inequity of exposure to air pollution for non-white poor people Southall has a [BAME population of more than 90%][23]. Southall Broadway/West and Southall Green are the two council wards that border the old Gasworks site, and which are downwind from the FM
-
-## Tony Pidgley
-
-- **Class hint:** person_or_body
-- **Posts:** 7
-- **Mentions:** 8
-- **Score:** 78
-- **First / last:** 2018-09-12T20:40:00+0100 / 2025-09-26T11:16:20+0100
-
-- `posts/2018/09/12/countering-the-southall-waterside-narrative.md` — 'facts'. They may even threaten to have you escorted out of the room if you are in a face to face encounter with them. Tony Pidgley accused me of continually 'having a pop' at him when we met. We have every right to be angry and upset. Berkeley Group
-- `posts/2018/11/02/lies-damned-lies-and-statistics.md` — above the legal limit) was "within acceptable limits." From my original Facebook note. Berkeley Group founder and chair Tony Pidgley promised to share their onsite air quality monitoring data with us almost two months ago. We're still waiting. Today,I
-
-## Norwood Green
-
-- **Class hint:** place_or_site
-- **Posts:** 5
-- **Mentions:** 13
-- **Score:** 63
-- **First / last:** 2026-04-23T20:27:40+0100 / 2026-05-09T18:20:45+0100
-
-- `posts/2026/04/23/canvassing-with-minni-dogra-a.md` — simultaneously Berkeley's community engagement manager, chair of Southall Community Alliance, and a Labour candidate in Norwood Green — has helped to promote. That is a story for another day. Minni Dogra It is not easy talking to people on the doorstep.
-- `posts/2026/04/24/first-they-came-for-the.md` — ce. That is not discipline. That is not scrutiny. That is a council leader who cannot tolerate dissent. --- John Martin Norwood Green Labour councillor John Martin has resigned from the party and is standing as an independent in his own ward. This was t
-
-## Minni Dogra
-
-- **Class hint:** person_or_body
-- **Posts:** 5
-- **Mentions:** 10
-- **Score:** 60
-- **First / last:** 2026-04-23T20:27:40+0100 / 2026-05-06T17:44:53+0100
-
-- `posts/2026/04/23/canvassing-with-minni-dogra-a.md` — Canvassing with Minni Dogra: A Councillor in All But Name Southall Stories joins Ealing Community Independents candidate Minni Dogra on the campaig
-- `posts/2026/04/28/this-place-has-turned-into.md` — nd don't care. That the Labour leadership of Ealing Council is not accountable to Southall — is hard to argue with. --- Minni Dogra, ECI candidate for Southall Green, was clear-eyed about the trajectory. "It's been a long journey," she said. The South
-
-## Southall Community Alliance
-
-- **Class hint:** organisation
-- **Posts:** 5
-- **Mentions:** 10
-- **Score:** 60
-- **First / last:** 2026-04-23T20:27:40+0100 / 2026-05-25T15:34:05+0100
-
-- `posts/2026/04/23/canvassing-with-minni-dogra-a.md` — ercial relationship that her colleague Jags Sanghera — simultaneously Berkeley's community engagement manager, chair of Southall Community Alliance, and a Labour candidate in Norwood Green — has helped to promote. That is a story for another day. Minni Dogra It is no
-- `posts/2026/05/06/the-meeting-that-ended-local.md` — e only." Look at the Town Team membership and the council's justification for scrapping ward forums collapses entirely. Southall Community Alliance. Let's Go Southall. APNA Youth. Southall Residents' Alliance. Hope for Southall Street Homeless. Asian Community Concer
-
-## The Green
-
-- **Class hint:** place_or_site
-- **Posts:** 5
-- **Mentions:** 7
-- **Score:** 57
-- **First / last:** 2023-01-26T20:32:00+0100 / 2026-05-09T18:20:45+0100
-
-- `posts/2023/01/26/response-to-ealings-air-quality.md` — ate matter. There are eight Air Quality Focus Areas, including one in Southall covering South Road (remember the name), The Green, King Street and Western Road. Ealing has 67 air quality monitors across the borough, all recording levels of nitrogen
-- `posts/2026/04/23/canvassing-with-minni-dogra-a.md` — most deprived town in the borough), and secured a public inquiry into the legality of the compulsory purchase orders on The Green — orders designed to buy out small local businesses to make way for yet more residential tower blocks. The inquiry foun
-
-## Jeremy Corbyn
-
-- **Class hint:** person_or_body
-- **Posts:** 5
-- **Mentions:** 5
-- **Score:** 55
-- **First / last:** 2026-02-13T14:46:03+0100 / 2026-05-07T17:09:21+0100
-
-- `posts/2026/02/13/bangarang-pirate-pete-and-the.md` — Peter Mandelson - the disgraced best friend of convicted paedophile financier Jeffrey Epstein - in trying to undermine Jeremy Corbyn every single day. Corbyn isn't perfect, but a Corbyn-led Labour government in 2019 would certainly have provided increa
-- `posts/2026/04/24/first-they-came-for-the.md` — g Community Independents (ECI), the Indian Workers Association (GB) and Southall Monitoring Group in Southall, at which Jeremy Corbyn was present and spoke. Peter Mason had some of his own supporters in the hall who photographed Padda with Corbyn. Mason
-
-## Johnson Street
-
-- **Class hint:** place_or_site
-- **Posts:** 4
-- **Mentions:** 11
-- **Score:** 51
-- **First / last:** 2026-01-12T19:00:00+0100 / 2026-05-07T07:12:57+0100
-
-- `posts/2026/01/12/a-fire-we-were-warned.md` — at this site. On the evening of 11 January, approximately 15 tonnes of mixed recycling caught fire at Sam’s Recycling , Johnson Street, Southall. The blaze required eight fire engines and around 60 firefighters , produced dense smoke across nearby reside
-- `posts/2026/01/20/the-council-investigation-that-found.md` — nvestigation That Found Nothing A year-long investigation by the council into complaints about harmful practices at the Johnson Street recycling site that burned last week ultimately failed to identify any issues, revealing a systemic problem in regulato
-
-## Jags Sanghera
-
-- **Class hint:** person_or_body
-- **Posts:** 4
-- **Mentions:** 9
-- **Score:** 49
-- **First / last:** 2026-02-13T14:46:03+0100 / 2026-05-07T10:29:47+0100
-
-- `posts/2026/02/13/bangarang-pirate-pete-and-the.md` — e for their sales teams. Please get your thinking caps on and submit your applications to the Southall Town Team led by Jags Sanghera... oh, wait, I feel another story coming on! --- Methodology note All data sourced from: - Defra Fly-tipping Statistics
-- `posts/2026/04/23/canvassing-with-minni-dogra-a.md` — Green Quarter development at a prime location opposite Southall station — a commercial relationship that her colleague Jags Sanghera — simultaneously Berkeley's community engagement manager, chair of Southall Community Alliance, and a Labour candidate
-
-## South Road
-
-- **Class hint:** place_or_site
-- **Posts:** 4
-- **Mentions:** 9
-- **Score:** 49
-- **First / last:** 2023-01-26T20:32:00+0100 / 2026-05-25T15:34:05+0100
-
-- `posts/2023/01/26/response-to-ealings-air-quality.md` — om nitrogen dioxide and particulate matter. There are eight Air Quality Focus Areas, including one in Southall covering South Road (remember the name), The Green, King Street and Western Road. Ealing has 67 air quality monitors across the borough, al
-- `posts/2026/02/14/section-money-where-did-southalls.md` — ge that was never built One of the biggest infrastructure promises tied to Southall’s redevelopment was the widening of South Road bridge, the main road over the railway near the station. This was not a minor improvement. It was a core mitigation pro
-
 ## Southall Town Hall
 
 - **Class hint:** place_or_site
@@ -1101,3 +980,124 @@ Machine-generated review queue. Nothing here is a curated assertion until promot
 
 - `posts/2026/04/24/when-deport-six-million-becomes.md` — 345 people had been arrested. Dozens were injured. And Blair Peach was murdered, struck on the head by a member of the Metropolitan Police's Special Patrol Group. No police officer was ever charged. The internal police inquiry, suppressed for thirty years, c
 - `posts/2026/05/06/the-drugs-dont-work.md` — g at 299% and 314% of the national crime rate respectively. At ward level, the picture is just as telling. According to Metropolitan Police data for Southall Broadway, anti-social behaviour alone accounts for 37.8% of all reported crime over the last three ye
+
+## Minet Park
+
+- **Class hint:** place_or_site
+- **Posts:** 2
+- **Mentions:** 2
+- **Score:** 22
+- **First / last:** 2019-07-21T19:39:00+0100 / 2019-08-25T22:14:32+0100
+
+- `posts/2019/07/21/phe-coverup-continued.md` — r lowering the published averages. 1. Since the soil ‘hospital’ closed, three new off-site monitors are located, one in Minet Park to the north-west of the site, and two in Randolph Road to the east, and behind several rows of houses. Again, includin
+- `posts/2019/08/25/southall-under-siege-the-neighbours.md` — uthall Waterside', as the gasworks site is being marketed. It's wedged between the grand union canal, Yeading Brook and Minet Park to the north-west of the site, and two of the twenty percent most economically deprived council wards in England. South
+
+## National Executive Committee
+
+- **Class hint:** organisation
+- **Posts:** 2
+- **Mentions:** 2
+- **Score:** 22
+- **First / last:** 2026-04-24T22:48:40+0100 / 2026-05-07T17:09:21+0100
+
+- `posts/2026/04/24/when-deport-six-million-becomes.md` — He is right that Grace Hunter's remarks represent something extreme. But his own national Labour Party, whose governing National Executive Committee he sits on, is implementing policies that the Institute for Government describes as a fundamental departure from decade
+- `posts/2026/05/07/who-does-peter-mason-really.md` — (2013–2021), Mason moved to Labour's National Constitutional Committee including as Vice Chair (2016–2024), then to the National Executive Committee in September 2024 on the 'Labour to Win' slate, and now sits as Deputy Leader of the LGA Labour Group, Deputy Chair of
+
+## Nigel Giffin KC
+
+- **Class hint:** person_or_body
+- **Posts:** 2
+- **Mentions:** 2
+- **Score:** 22
+- **First / last:** 2026-05-03T23:52:46+0100 / 2026-05-07T17:09:21+0100
+
+- `posts/2026/05/03/cactuses-never-die.md` — d of the Local Government Association. Three months later, the LGA commissioned the legal opinion from senior barrister Nigel Giffin KC that has since been cited by other councils as a reason not to divest. The report is careful to note there is no public
+- `posts/2026/05/07/who-does-peter-mason-really.md` — departed. Three months later, the LGA — on whose board Mason now sits as a Director — commissioned a legal opinion from Nigel Giffin KC concluding that local authorities were under no public law obligation to divest. That opinion is now the primary instit
+
+## Onkar Sahota AM
+
+- **Class hint:** person_or_body
+- **Posts:** 2
+- **Mentions:** 2
+- **Score:** 22
+- **First / last:** 2026-05-09T18:20:45+0100 / 2026-05-25T15:34:05+0100
+
+- `posts/2026/05/09/liftoff-ealing-elections-special.md` — He was selected for Elthorne in 2014 and won. He served Elthorne as a councillor while also working as a researcher for Onkar Sahota AM at the Greater London Authority. In 2018, with Swarn Singh Kang's retirement creating a vacancy in Southall Green, Maso
+- `posts/2026/05/25/feeling-the-heat.md` — ortable households." In November 2021, the London Assembly published a written answer from the Mayor to a question from Onkar Sahota AM. The question recorded that "Ealing has only enough funding to start work on 68 council homes out of the 5,000 that are
+
+## Pirate Pete
+
+- **Class hint:** person_or_body
+- **Posts:** 2
+- **Mentions:** 2
+- **Score:** 22
+- **First / last:** 2026-02-13T14:46:03+0100 / 2026-04-05T00:02:41+0100
+
+- `posts/2026/02/13/bangarang-pirate-pete-and-the.md` — Bangarang! Pirate Pete and the Lost Bin Collections of Southall The Lost Boys were right all along. They saw what Peter Pan couldn't: that ref
+- `posts/2026/04/05/on-the-bins-again.md` — look the same. Here’s what four boroughs, and ten years of Defra data, actually show. This is a follow-up to Bangarang! Pirate Pete and the Lost Bin Collections of Southall and Boomerang! Ten Years Sorting Out Fly-Tipping, which documented how fly-tip
+
+## Poison Park
+
+- **Class hint:** place_or_site
+- **Posts:** 2
+- **Mentions:** 2
+- **Score:** 22
+- **First / last:** 2023-01-26T20:32:00+0100 / 2026-05-25T15:34:05+0100
+
+- `posts/2023/01/26/response-to-ealings-air-quality.md` — ' outside Lidl on the High Street, and a couple of mini-'orchards' planted in existing parks, instead. And we have the 'Poison Park' to look forward to, the 'green space' crafted by Berkeley Group from the contaminated old Gasworks land. If the counci
+- `posts/2026/05/25/feeling-the-heat.md` — council is commissioning a new canopy survey in 2026 — after most of the planting has been completed. Berkeley Group's "Poison Park" — the so-called "green" space grafted on to contaminated Gasworks land — will be counted towards Southall's green infr
+
+## Pollution Control
+
+- **Class hint:** person_or_body
+- **Posts:** 2
+- **Mentions:** 2
+- **Score:** 22
+- **First / last:** 2026-01-22T13:02:00+0100 / 2026-05-07T07:12:57+0100
+
+- `posts/2026/01/22/its-never-enough-until-its.md` — ity (the Smokescreen Chapter) At no point are you told clearly whether your report is handled by: Environmental Health, Pollution Control, Planning Enforcement, the Council, or the Environment Agency. You may be told — encouragingly — that it is “good” you
+- `posts/2026/05/07/computer-says-no.md` — t the evidence was already in the council's own file when my Stage 1 complaint was closed. The response itself quoted a Pollution Control email from June 2025 stating: "Our IT systems must have blocked it due to links included within the email." The council
+
+## Private Eye Magazine
+
+- **Class hint:** person_or_body
+- **Posts:** 2
+- **Mentions:** 2
+- **Score:** 22
+- **First / last:** 2022-12-17T02:30:00+0100 / 2023-01-26T20:32:00+0100
+
+- `posts/2022/12/17/the-property-lobby-the-hidden.md` — ars to holiday in the south of France at the MIPIM property festival in Cannes described as a "booze 'n' hookerfest" by Private Eye Magazine. Bell says, "it didn't cost the taxpayer a penny", but in Southall we are already paying with our health and quality of
+- `posts/2023/01/26/response-to-ealings-air-quality.md` — 0,000 in gifts and hospitality from developers including Berkeley Group][27] to fly (!) to the south of France for what Private Eye Magazine describes as [a booze and hookerfest][28]? The new council leader claims he went there to negotiate hard. If that's the
+
+## Regulatory Services Officer
+
+- **Class hint:** person_or_body
+- **Posts:** 2
+- **Mentions:** 2
+- **Score:** 22
+- **First / last:** 2019-08-25T22:14:32+0100 / 2026-04-30T00:13:23+0100
+
+- `posts/2019/08/25/southall-under-siege-the-neighbours.md` — hile council leaders accepted £30,000 in gifts from the developer responsible. ‘A lack of scrutiny,’ says John Freeman, Regulatory Services Officer at Ealing Council. He’s talking about lessons to be learned from the council’s response to the new asphalt plant built
+- `posts/2026/04/30/when-is-a-hustings-not.md` — ether these repeated assurances constituted "a rather significant error" that was "extremely misleading," the council's Regulatory Services Officer replied that he did not agree — defending each revised deadline as based on "the best information available at the time
+
+## Richard Watler
+
+- **Class hint:** person_or_body
+- **Posts:** 2
+- **Mentions:** 2
+- **Score:** 22
+- **First / last:** 2018-09-11T18:28:00+0100 / 2018-09-12T20:40:00+0100
+
+- `posts/2018/09/11/berkeleys-school-governors-board-member.md` — ay. She replied to say she has nothing to say, and that if I try to contact her again she will seek legal advice). RW = Richard Watler (@rickwatler, who has now blocked me on Twitter) 6/7 Southall children being physically harmed by @BerkeleyGroupUK's ai
+- `posts/2018/09/12/countering-the-southall-waterside-narrative.md` — ks site last year, which caused headaches and asthma. This was at the same meeting where she and the governors co-opted Richard Watler, Head of Construction at Southall Waterside, on to the board.... 6. There's benzene in your home already! Yes, there is
+
+## River Brent
+
+- **Class hint:** person_or_body
+- **Posts:** 2
+- **Mentions:** 2
+- **Score:** 22
+- **First / last:** 2025-07-11T13:50:30+0100 / 2026-01-20T16:01:05+0100
+
+- `posts/2025/07/11/perceval-house-w-where-local.md` — ss follows a precise hierarchy, documented through his public responses: Tier 1 Emergency Response: Eels gasping in the River Brent receive immediate action pdf) and public concern. Tier 2 Public Complaint: Someone's "bag and/or small child" taking up
+- `posts/2026/01/20/the-council-investigation-that-found.md` — sponsors, and how eels are treated by our new council leader and Southall Green ward councillor." --- When eels in the River Brent faced toxic exposure, Mason tweeted demanding immediate enforcement action against "disgusting and depressing" pollutio
