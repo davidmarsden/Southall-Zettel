@@ -1,4 +1,34 @@
 {
+  "http://data.defra.gov.uk/statistics_2019/env/wte/Flytipping_notes_on_datasets.pdf": {
+    "checked_at": 1787952021,
+    "content_type": "application/pdf",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "http://data.defra.gov.uk/statistics_2019/env/wte/Flytipping_notes_on_datasets.pdf",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://Ealing.moderngov.co.uk/ieDecisionDetails.aspx?Id=958&LLL=0": {
+    "checked_at": 1787952028,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": 403,
+    "resolved_url": "https://Ealing.moderngov.co.uk/ieDecisionDetails.aspx?Id=958&LLL=0",
+    "status": "http-403",
+    "title_source": null
+  },
+  "https://archive.ph/kfpaA": {
+    "checked_at": 1787952024,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": 429,
+    "resolved_url": "https://archive.ph/kfpaA",
+    "status": "http-429",
+    "title_source": null
+  },
   "https://archives.battleofideas.org.uk/2024/speaker/yair-zivan/": {
     "checked_at": 1787951161,
     "content_type": "text/html",
@@ -15,11 +45,31 @@
     "status": "unresolved",
     "title_source": null
   },
+  "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1179075/SoS_letter_to_Ealing_Council.pdf": {
+    "checked_at": 1787952028,
+    "content_type": "application/pdf",
+    "destination_title": "Letter from the Secretary of State to Ealing Council",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1179075/SoS_letter_to_Ealing_Council.pdf",
+    "status": "resolved",
+    "title_source": "pdf-title"
+  },
   "https://awards.lgcplus.com/lgca2026/en/page/2026-shortlist": {
     "checked_at": 1787951271,
     "content_type": "text/html",
     "destination_title": "LGC Awards 2027",
     "resolved_url": "https://awards.lgcplus.com/lgca2027/en/page/home",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://bassammahfouz.wordpress.com/2017/02/27/astonishing-numbers-fined-for-fly-tipping-in-ealing/": {
+    "checked_at": 1787952021,
+    "content_type": "text/html",
+    "destination_title": "Astonishing numbers fined for fly-tipping in Ealing",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://bassammahfouz.wordpress.com/2017/02/27/astonishing-numbers-fined-for-fly-tipping-in-ealing/",
     "status": "resolved",
     "title_source": "og:title"
   },
@@ -103,6 +153,26 @@
     "status": "resolved",
     "title_source": "pdf-title"
   },
+  "https://davidmarsden.info/2026/01/12/some-amazing-photos-of-last.html": {
+    "checked_at": 1787952029,
+    "content_type": "text/html",
+    "destination_title": "David Marsden",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://davidmarsden.info/2026/01/12/some-amazing-photos-of-last.html",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://davidmarsden.info/tweets/?q=Incinerator+": {
+    "checked_at": 1787952029,
+    "content_type": "text/html",
+    "destination_title": "Tweets",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://davidmarsden.info/tweets/?q=Incinerator+",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://democracy.brent.gov.uk/Data/Executive/20050912/Agenda/ENV%20Brent%20Municipal%20Waste%20Strategy%20App%201.pdf": {
     "checked_at": 1787951274,
     "content_type": "application/pdf",
@@ -131,6 +201,16 @@
     "checked_at": 1787951280,
     "content_type": null,
     "destination_title": null,
+    "resolved_url": null,
+    "status": "fetch-failed",
+    "title_source": null
+  },
+  "https://democracy.brent.gov.uk/documents/s2949/ec_waste_strategy_AppA_v2.pdf": {
+    "checked_at": 1787952028,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": null,
     "resolved_url": null,
     "status": "fetch-failed",
     "title_source": null
@@ -183,6 +263,16 @@
     "status": "resolved",
     "title_source": "html-title"
   },
+  "https://drive.google.com/file/d/10zKlK6NTcB8pu1TbX4S8alIl-UJwjokH/view?usp=drivesdk": {
+    "checked_at": 1787952023,
+    "content_type": "text/html",
+    "destination_title": "Ealing Labour 2018 - A Manifesto For The Many.pdf",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://drive.google.com/file/d/10zKlK6NTcB8pu1TbX4S8alIl-UJwjokH/view?usp=drivesdk",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://drive.google.com/file/d/1NZEHS3AV-h-pDZkP5dcT_hJ4tKNt5mXv/view?usp=drivesdk": {
     "checked_at": 1787951162,
     "content_type": "text/html",
@@ -215,11 +305,41 @@
     "status": "http-403",
     "title_source": null
   },
+  "https://ealing.moderngov.co.uk/Data/Southall%20Broadway%20Ward%20Forum/201607121900/Agenda/Southall%20Broadway%20ward%20forum%20notes%2012%20July%2016.pdf": {
+    "checked_at": 1787952021,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": 403,
+    "resolved_url": "https://ealing.moderngov.co.uk/Data/Southall%20Broadway%20Ward%20Forum/201607121900/Agenda/Southall%20Broadway%20ward%20forum%20notes%2012%20July%2016.pdf",
+    "status": "http-403",
+    "title_source": null
+  },
+  "https://ealing.moderngov.co.uk/documents/g6611/Public%20reports%20pack%20Tuesday%2015-Jul-2025%2019.00%20Council.pdf?T=10": {
+    "checked_at": 1787952029,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": 403,
+    "resolved_url": "https://ealing.moderngov.co.uk/documents/g6611/Public%20reports%20pack%20Tuesday%2015-Jul-2025%2019.00%20Council.pdf?T=10",
+    "status": "http-403",
+    "title_source": null
+  },
   "https://ealing.moderngov.co.uk/documents/s11538/Drug%20alcohol%20services%20by%20entering%20into%20two%20new%20leases%20and%20refurbishments.pdf": {
     "checked_at": 1787951264,
     "content_type": null,
     "destination_title": null,
     "resolved_url": null,
+    "status": "http-403",
+    "title_source": null
+  },
+  "https://ealing.moderngov.co.uk/documents/s1725/Council%20Performance%20Year%20End%202021-22.pdf": {
+    "checked_at": 1787952028,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": 403,
+    "resolved_url": "https://ealing.moderngov.co.uk/documents/s1725/Council%20Performance%20Year%20End%202021-22.pdf",
     "status": "http-403",
     "title_source": null
   },
@@ -231,11 +351,31 @@
     "status": "http-403",
     "title_source": null
   },
+  "https://ealing.moderngov.co.uk/documents/s1730/Appendix%204%20South%20Road%20Bridge%20Widening%20June%202022.pdf": {
+    "checked_at": 1787952024,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": 403,
+    "resolved_url": "https://ealing.moderngov.co.uk/documents/s1730/Appendix%204%20South%20Road%20Bridge%20Widening%20June%202022.pdf",
+    "status": "http-403",
+    "title_source": null
+  },
   "https://ealing.moderngov.co.uk/documents/s18496/Housing%20Development%20and%20Regeneration%20Report%20to%20Scrutiny.pdf": {
     "checked_at": 1787951160,
     "content_type": null,
     "destination_title": null,
     "resolved_url": null,
+    "status": "http-403",
+    "title_source": null
+  },
+  "https://ealing.moderngov.co.uk/documents/s18754/Waste%20and%20Recycling%20Update.pdf": {
+    "checked_at": 1787952021,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": 403,
+    "resolved_url": "https://ealing.moderngov.co.uk/documents/s18754/Waste%20and%20Recycling%20Update.pdf",
     "status": "http-403",
     "title_source": null
   },
@@ -287,6 +427,16 @@
     "status": "http-403",
     "title_source": null
   },
+  "https://ealing.moderngov.co.uk/mgAi.aspx?ID=6020": {
+    "checked_at": 1787952020,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": 403,
+    "resolved_url": "https://ealing.moderngov.co.uk/mgAi.aspx?ID=6020",
+    "status": "http-403",
+    "title_source": null
+  },
   "https://ealing.moderngov.co.uk/mgCommitteeDetails.aspx?ID=188": {
     "checked_at": 1787951163,
     "content_type": null,
@@ -327,6 +477,26 @@
     "status": "http-403",
     "title_source": null
   },
+  "https://ealing.netlify.app/interactive.html": {
+    "checked_at": 1787952030,
+    "content_type": "text/html",
+    "destination_title": "Ealing Council: The Contradiction",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://ealing.netlify.app/interactive.html",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
+  "https://ealing.news/ealing-council/ealing-council-leader-peter-mason-massive-allowance-rise-by-over-70-along-with-increases-for-his-cabinet/": {
+    "checked_at": 1787952031,
+    "content_type": "text/html",
+    "destination_title": "Ealing Council leader Peter Mason gets massive allowance rise by over 70% along with more increases for his cabinet and other councillors - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
+    "health": "redirected",
+    "http_status": 200,
+    "resolved_url": "https://www.ealing.news/ealing-council/ealing-council-leader-peter-mason-massive-allowance-rise-by-over-70-along-with-increases-for-his-cabinet/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://ealing.news/news/ealing-council-leader-peter-mason-massive-allowance-rise-by-over-70/": {
     "checked_at": 1787951165,
     "content_type": "text/html",
@@ -342,6 +512,16 @@
     "resolved_url": "https://ealing.nub.news/news/local-news/peter-mason-to-replace-julian-bell-as-ealing-council-leader",
     "status": "resolved",
     "title_source": "og:title"
+  },
+  "https://ealing.u3asite.uk/wp-content/uploads/2024/09/ealingwastemngtandrecyclingpresjune2022.pdf": {
+    "checked_at": 1787952022,
+    "content_type": "application/pdf",
+    "destination_title": "PowerPoint Presentation",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://ealing.u3asite.uk/wp-content/uploads/2024/09/ealingwastemngtandrecyclingpresjune2022.pdf",
+    "status": "resolved",
+    "title_source": "pdf-title"
   },
   "https://ealingindependents.org/": {
     "checked_at": 1787951155,
@@ -366,6 +546,16 @@
     "resolved_url": "https://www.ealinglibdems.org.uk/news/article/ealing-labour-finally-tax-developers-after-15-years-delay",
     "status": "resolved",
     "title_source": "og:title"
+  },
+  "https://ealingmatters.org.uk/wp-content/uploads/2021/09/210901-EM-newsletter-11-final.pdf": {
+    "checked_at": 1787952029,
+    "content_type": "application/pdf",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://ealingmatters.org.uk/wp-content/uploads/2021/09/210901-EM-newsletter-11-final.pdf",
+    "status": "fetched",
+    "title_source": null
   },
   "https://ealingmatters.org.uk/wp-content/uploads/2021/09/210901-NL11-LCox-resignation.pdf": {
     "checked_at": 1787951160,
@@ -399,6 +589,16 @@
     "status": "http-404",
     "title_source": null
   },
+  "https://en.wikipedia.org/wiki/Corby_toxic_waste_case": {
+    "checked_at": 1787952029,
+    "content_type": "text/html",
+    "destination_title": "Corby toxic waste case - Wikipedia",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://en.wikipedia.org/wiki/Corby_toxic_waste_case",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://en.wikipedia.org/wiki/Death_of_Blair_Peach": {
     "checked_at": 1787951161,
     "content_type": "text/html",
@@ -429,6 +629,26 @@
     "destination_title": null,
     "resolved_url": null,
     "status": "http-404",
+    "title_source": null
+  },
+  "https://en.wikipedia.org/wiki/Relationship_of_Peter_Mandelson_and_Jeffrey_Epstein": {
+    "checked_at": 1787952026,
+    "content_type": "text/html",
+    "destination_title": "Relationship of Peter Mandelson and Jeffrey Epstein - Wikipedia",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://en.wikipedia.org/wiki/Relationship_of_Peter_Mandelson_and_Jeffrey_Epstein",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://erec.dosomethinggood.org.uk/wp-content/themes/wp-bootstrap-starter-child/downloads/ealing-race-equality-commission-final-report-27-january-2022.pdf": {
+    "checked_at": 1787952029,
+    "content_type": "application/pdf",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://erec.dosomethinggood.org.uk/wp-content/themes/wp-bootstrap-starter-child/downloads/ealing-race-equality-commission-final-report-27-january-2022.pdf",
+    "status": "fetched",
     "title_source": null
   },
   "https://esnb.org.uk/": {
@@ -479,6 +699,16 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://labour.org.uk/change/": {
+    "checked_at": 1787952022,
+    "content_type": "text/html",
+    "destination_title": "Change – The Labour Party",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://labour.org.uk/change/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://labour.org.uk/whos-on-the-nec/": {
     "checked_at": 1787951271,
     "content_type": "text/html",
@@ -519,6 +749,26 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://luma.com/wu4151lw": {
+    "checked_at": 1787952021,
+    "content_type": "text/html",
+    "destination_title": "Paying the Price: Broken Promises and Dangerous Practices · Luma",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://luma.com/wu4151lw",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://neighbournet.com/server/common/conwheeliebinrecycling001.htm?site=2": {
+    "checked_at": 1787952021,
+    "content_type": "text/html",
+    "destination_title": "Ealing's Wheelie Big Success?",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://neighbournet.com/server/common/conwheeliebinrecycling001.htm?site=2",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
   "https://neighbournet.com/server/common/hounscoun181wheeliebins.htm": {
     "checked_at": 1787951273,
     "content_type": "text/html",
@@ -543,6 +793,16 @@
     "status": "http-403",
     "title_source": null
   },
+  "https://northlondonnews.co.uk/local/brent/brent-council/brent-fly-tipping-fines-surge-500-amid-crackdown-2026/": {
+    "checked_at": 1787952021,
+    "content_type": "text/html",
+    "destination_title": "Brent Fly-Tipping Fines Hit Record High 2026",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://northlondonnews.co.uk/local/brent/brent-council/brent-fly-tipping-fines-surge-500-amid-crackdown-2026/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://one-nation.org.uk": {
     "checked_at": 1787951263,
     "content_type": "text/html",
@@ -559,6 +819,36 @@
     "status": "http-403",
     "title_source": null
   },
+  "https://open.substack.com/pub/southall/p/real-change-not-empty-consultations": {
+    "checked_at": 1787952026,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": 403,
+    "resolved_url": "https://open.substack.com/pub/southall/p/real-change-not-empty-consultations",
+    "status": "http-403",
+    "title_source": null
+  },
+  "https://open.substack.com/pub/southall/p/southall-deserves-better": {
+    "checked_at": 1787952025,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": 403,
+    "resolved_url": "https://open.substack.com/pub/southall/p/southall-deserves-better",
+    "status": "http-403",
+    "title_source": null
+  },
+  "https://open.substack.com/pub/theviewfromw5/p/demolition-of-ealing-homes-part-of-trail-chaos": {
+    "checked_at": 1787952028,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": 403,
+    "resolved_url": "https://open.substack.com/pub/theviewfromw5/p/demolition-of-ealing-homes-part-of-trail-chaos",
+    "status": "http-403",
+    "title_source": null
+  },
   "https://open.substack.com/pub/theviewfromw5/p/ealing-council-hopes-to-recoup-money-from-collapse-of-henry-construction": {
     "checked_at": 1787951267,
     "content_type": null,
@@ -572,6 +862,16 @@
     "content_type": null,
     "destination_title": null,
     "resolved_url": null,
+    "status": "http-403",
+    "title_source": null
+  },
+  "https://open.substack.com/pub/theviewfromw5/p/history-of-insolvency-and-10-million-dividend": {
+    "checked_at": 1787952028,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": 403,
+    "resolved_url": "https://open.substack.com/pub/theviewfromw5/p/history-of-insolvency-and-10-million-dividend",
     "status": "http-403",
     "title_source": null
   },
@@ -615,11 +915,31 @@
     "status": "fetch-failed",
     "title_source": null
   },
+  "https://resource.co/article/ealing-council-switch-co-mingled-collections-10222": {
+    "checked_at": 1787952027,
+    "content_type": "text/html",
+    "destination_title": "Ealing Council to switch to co-mingled collections",
+    "health": "redirected",
+    "http_status": 200,
+    "resolved_url": "https://resourcemedia.eco/article/ealing-council-switch-co-mingled-collections-10222",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://sadealing.blogspot.com/2010/10/sad-tale-ealing-labour-councillors.html": {
     "checked_at": 1787951271,
     "content_type": "text/html",
     "destination_title": "A \"S.A.D.\" Tale - The Ealing Labour Councillor's Contempt For Day Care Centre Users...",
     "resolved_url": "https://sadealing.blogspot.com/2010/10/sad-tale-ealing-labour-councillors.html",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://savethevictoriahall.weebly.com/": {
+    "checked_at": 1787952029,
+    "content_type": "text/html",
+    "destination_title": "Save Ealing's Victoria Hall",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://savethevictoriahall.weebly.com/",
     "status": "resolved",
     "title_source": "og:title"
   },
@@ -631,12 +951,42 @@
     "status": "resolved",
     "title_source": "pdf-title"
   },
+  "https://sketchplanations.com/mobius-strip": {
+    "checked_at": 1787952029,
+    "content_type": "text/html",
+    "destination_title": "Möbius strip",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://sketchplanations.com/mobius-strip",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://socialistworker.co.uk/news/help-respect-do-well-in-southall/": {
     "checked_at": 1787951263,
     "content_type": "text/html",
     "destination_title": null,
     "resolved_url": "https://socialistworker.co.uk/news/help-respect-do-well-in-southall/",
     "status": "unresolved",
+    "title_source": null
+  },
+  "https://southall.davidmarsden.info/2025/07/11/perceval-house-w-where-local/": {
+    "checked_at": 1787952029,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": null,
+    "resolved_url": null,
+    "status": "fetch-failed",
+    "title_source": null
+  },
+  "https://southall.davidmarsden.info/2025/07/12/so-it-goes-ai-on/": {
+    "checked_at": 1787952029,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": null,
+    "resolved_url": null,
+    "status": "fetch-failed",
     "title_source": null
   },
   "https://southallcommunityalliance.com/trustees/": {
@@ -654,6 +1004,16 @@
     "resolved_url": "https://southalltransition.org/wp-content/uploads/2021/02/2021-01-23-making-the-transition.pdf",
     "status": "unresolved",
     "title_source": null
+  },
+  "https://stopthetowers.info/other-campaigns": {
+    "checked_at": 1787952026,
+    "content_type": "text/html",
+    "destination_title": "Other Campaigns – Stop The Towers in West Ealing",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://stopthetowers.info/other-campaigns",
+    "status": "resolved",
+    "title_source": "html-title"
   },
   "https://thegreenquartercommunity.co.uk/community-chest-programmes/": {
     "checked_at": 1787951164,
@@ -703,6 +1063,16 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://threadreaderapp.com/thread/1389215486244708353.html": {
+    "checked_at": 1787952028,
+    "content_type": "text/html",
+    "destination_title": "Thread by @DvdMrsdn on Thread Reader App",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://threadreaderapp.com/thread/1389215486244708353.html",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://trees-cities.files.svdcdn.com/production/files/Ealing-i-Tree-report.pdf": {
     "checked_at": 1787951153,
     "content_type": "application/pdf",
@@ -719,6 +1089,36 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://vm.tiktok.com/ZNRfJ3fLA/": {
+    "checked_at": 1787952026,
+    "content_type": "text/html",
+    "destination_title": null,
+    "health": "redirected",
+    "http_status": 200,
+    "resolved_url": "https://www.tiktok.com/?_r=1",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://wa.me/qr/4MUTFBX64DCIB1": {
+    "checked_at": 1787952029,
+    "content_type": "text/html",
+    "destination_title": "Share on WhatsApp",
+    "health": "redirected",
+    "http_status": 200,
+    "resolved_url": "https://api.whatsapp.com/qr/4MUTFBX64DCIB1?autoload=1&app_absent=0",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf": {
+    "checked_at": 1787952028,
+    "content_type": "text/html",
+    "destination_title": "Wayback Machine",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
   "https://web.archive.org/web/20120115000000*/https://www.ealing.gov.uk/download/downloads/id/488/welcome_guide_for_new_residents": {
     "checked_at": 1787951272,
     "content_type": "text/html",
@@ -734,6 +1134,46 @@
     "resolved_url": null,
     "status": "fetch-failed",
     "title_source": null
+  },
+  "https://web.archive.org/web/20210505132417/https://ealingperformance.inphase.com/Plan/853": {
+    "checked_at": 1787952030,
+    "content_type": "text/html",
+    "destination_title": "Affordable housing",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://web.archive.org/web/20210505132417/https://ealingperformance.inphase.com/Plan/853",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
+  "https://web.archive.org/web/20210505225051/http://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018": {
+    "checked_at": 1787952029,
+    "content_type": "text/html",
+    "destination_title": "Nearly 900 new genuinely affordable homes in Ealing since April 2018 | Ealing Council",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://web.archive.org/web/20210505225051/http://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
+  "https://web.archive.org/web/20220120134535/https://ealingperformance.inphase.com/Detail/865_17759?s=09": {
+    "checked_at": 1787952029,
+    "content_type": "text/html",
+    "destination_title": "Number of genuinely affordable homes completed and onsite",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://web.archive.org/web/20220120134535/https://ealingperformance.inphase.com/Detail/865_17759?s=09",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
+  "https://web.archive.org/web/20220120143225/https://ealingperformance.inphase.com/Detail/865_17759": {
+    "checked_at": 1787952029,
+    "content_type": "text/html",
+    "destination_title": "Number of genuinely affordable homes completed and onsite",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://web.archive.org/web/20220120143225/https://ealingperformance.inphase.com/Detail/865_17759",
+    "status": "resolved",
+    "title_source": "html-title"
   },
   "https://web.archive.org/web/20241201000000*/https://www.ealing.gov.uk/download/downloads/id/488/welcome_guide_for_new_residents": {
     "checked_at": 1787951272,
@@ -790,6 +1230,16 @@
     "resolved_url": "https://www.actonw3.com/default.asp?section=community&spage=common/eahousing021.htm",
     "status": "resolved",
     "title_source": "html-title"
+  },
+  "https://www.aljazeera.com/news/2026/2/12/corbyn-alleges-uk-complicity-after-streetings-admission-of-gaza-abuses": {
+    "checked_at": 1787952026,
+    "content_type": "text/html",
+    "destination_title": "Corbyn alleges UK ‘complicity’ after Streeting’s admission of Gaza abuses",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.aljazeera.com/news/2026/2/12/corbyn-alleges-uk-complicity-after-streetings-admission-of-gaza-abuses",
+    "status": "resolved",
+    "title_source": "og:title"
   },
   "https://www.andrewteale.me.uk/leap/": {
     "checked_at": 1787951157,
@@ -879,11 +1329,41 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://www.aroundealing.com/about/": {
+    "checked_at": 1787952026,
+    "content_type": "text/html",
+    "destination_title": "About - Around Ealing",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.aroundealing.com/about/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.aroundealing.com/category/news/": {
+    "checked_at": 1787952026,
+    "content_type": "text/html",
+    "destination_title": "News Archives - Around Ealing",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.aroundealing.com/category/news/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://www.aroundealing.com/fighting-inequality/london-living-wage-celebration-event/": {
     "checked_at": 1787951272,
     "content_type": "text/html",
     "destination_title": "Celebrating living wage employers - Around Ealing",
     "resolved_url": "https://www.aroundealing.com/children/london-living-wage-celebration-event/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.aroundealing.com/homes/ealing-council-set-to-hit-genuinely-affordable-homes-building-target/": {
+    "checked_at": 1787952030,
+    "content_type": "text/html",
+    "destination_title": "Ealing Council set to hit genuinely affordable homes building target - Around Ealing",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.aroundealing.com/homes/ealing-council-set-to-hit-genuinely-affordable-homes-building-target/",
     "status": "resolved",
     "title_source": "og:title"
   },
@@ -895,11 +1375,111 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://www.aroundealing.com/leaders-notes/": {
+    "checked_at": 1787952024,
+    "content_type": "text/html",
+    "destination_title": "Leader's Notes - Around Ealing",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.aroundealing.com/leaders-notes/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.aroundealing.com/leaders-notes/access-to-nature/": {
+    "checked_at": 1787952025,
+    "content_type": "text/html",
+    "destination_title": "'Access to nature' - Around Ealing",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.aroundealing.com/leaders-notes/access-to-nature/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.aroundealing.com/leaders-notes/cracking-down-on-fly-tipping/": {
+    "checked_at": 1787952023,
+    "content_type": "text/html",
+    "destination_title": "Cracking down on fly-tipping - Around Ealing",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.aroundealing.com/leaders-notes/cracking-down-on-fly-tipping/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.aroundealing.com/news/budget-for-a-safe-clean-and-fair-borough/": {
+    "checked_at": 1787952026,
+    "content_type": "text/html",
+    "destination_title": "Budget for a ‘safe, clean and fair’ borough - Around Ealing",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.aroundealing.com/news/budget-for-a-safe-clean-and-fair-borough/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://www.aroundealing.com/news/climate-challenge/": {
     "checked_at": 1787951155,
     "content_type": "text/html",
     "destination_title": "Ealing’s climate challenge accepted - Around Ealing",
     "resolved_url": "https://www.aroundealing.com/news/climate-challenge/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.aroundealing.com/news/developer-tax-investment-in-towns/": {
+    "checked_at": 1787952026,
+    "content_type": "text/html",
+    "destination_title": "‘Developer tax’ helps investment in our towns - Around Ealing",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.aroundealing.com/news/developer-tax-investment-in-towns/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.aroundealing.com/news/finding-and-fining-the-fly-tippers/": {
+    "checked_at": 1787952023,
+    "content_type": "text/html",
+    "destination_title": "Finding and fining the fly-tippers - Around Ealing",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.aroundealing.com/news/finding-and-fining-the-fly-tippers/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.aroundealing.com/news/fly-tippers-pay-for-their-actions/": {
+    "checked_at": 1787952028,
+    "content_type": "text/html",
+    "destination_title": "Fly-tippers pay for their actions - Around Ealing",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.aroundealing.com/news/fly-tippers-pay-for-their-actions/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.aroundealing.com/news/introducing-ealings-new-mayor-and-cabinet/": {
+    "checked_at": 1787952024,
+    "content_type": "text/html",
+    "destination_title": "Introducing Ealing's new mayor and cabinet - Around Ealing",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.aroundealing.com/news/introducing-ealings-new-mayor-and-cabinet/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.aroundealing.com/news/new-mayor-and-cabinet/attachment/new-cabinet/": {
+    "checked_at": 1787952024,
+    "content_type": "text/html",
+    "destination_title": "New cabinet May 2024 - Around Ealing",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.aroundealing.com/news/new-mayor-and-cabinet/attachment/new-cabinet/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.aroundealing.com/news/open-to-change-council-sets-out-new-policy-direction/": {
+    "checked_at": 1787952030,
+    "content_type": "text/html",
+    "destination_title": "Open to change: Council sets out new policy direction - Around Ealing",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.aroundealing.com/news/open-to-change-council-sets-out-new-policy-direction/",
     "status": "resolved",
     "title_source": "og:title"
   },
@@ -911,11 +1491,51 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://www.bbc.co.uk/news/articles/c2le7lw0092o": {
+    "checked_at": 1787952028,
+    "content_type": "text/html",
+    "destination_title": "Evicted family struggling with unfit flat",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.bbc.co.uk/news/articles/c2le7lw0092o",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://www.bbc.co.uk/news/articles/c4g7ev27yn7o": {
     "checked_at": 1787951266,
     "content_type": "text/html",
     "destination_title": "Southall industrial site to be replaced by data centres",
     "resolved_url": "https://www.bbc.co.uk/news/articles/c4g7ev27yn7o",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.bbc.co.uk/news/articles/c4gqxddg0xyo": {
+    "checked_at": 1787952022,
+    "content_type": "text/html",
+    "destination_title": "Rubbish and recycling: Can London finally clean up its act?",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.bbc.co.uk/news/articles/c4gqxddg0xyo",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.bbc.co.uk/news/articles/c8xv1ylplzzo": {
+    "checked_at": 1787952029,
+    "content_type": "text/html",
+    "destination_title": "Ealing could face legal action over children's centres closures",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.bbc.co.uk/news/articles/c8xv1ylplzzo",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.bbc.co.uk/news/articles/czej4ep882ko": {
+    "checked_at": 1787952026,
+    "content_type": "text/html",
+    "destination_title": "MPs are shocked and angry at Mandelson - and furious with Starmer",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.bbc.co.uk/news/articles/czej4ep882ko",
     "status": "resolved",
     "title_source": "og:title"
   },
@@ -942,6 +1562,16 @@
     "resolved_url": "https://www.brent.gov.uk/-/media/files/business-documents/regeneration/igs-research-base-2019-2040-new-regeneration.pdf",
     "status": "unresolved",
     "title_source": null
+  },
+  "https://www.brent.gov.uk/bins-rubbish-and-recycling/dont-mess-with-brent": {
+    "checked_at": 1787952025,
+    "content_type": "text/html",
+    "destination_title": "Dont Mess With Brent | Brent Council",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.brent.gov.uk/bins-rubbish-and-recycling/dont-mess-with-brent",
+    "status": "resolved",
+    "title_source": "og:title"
   },
   "https://www.changegrowlive.org/service/ealing-rise/our-hubs": {
     "checked_at": 1787951268,
@@ -975,6 +1605,16 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://www.common-wealth.org/interactive/who-owns-britain/data-dashboard/home": {
+    "checked_at": 1787952029,
+    "content_type": "text/html",
+    "destination_title": "Data Dashboard | Who Owns Britain",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.common-wealth.org/interactive/who-owns-britain/data-dashboard/home",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://www.cprelondon.org.uk/news/london-recycling-scorecard-2025/": {
     "checked_at": 1787951274,
     "content_type": "text/html",
@@ -982,6 +1622,26 @@
     "resolved_url": "https://www.cprelondon.org.uk/news/london-recycling-scorecard-2025/",
     "status": "resolved",
     "title_source": "og:title"
+  },
+  "https://www.crowdjustice.com/case/save-ealings-childrens-centres/": {
+    "checked_at": 1787952029,
+    "content_type": "text/html",
+    "destination_title": "Save Ealing's Children's Centres from Closure! URGENT FUNDING NEEDED.",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.crowdjustice.com/case/save-ealings-childrens-centres/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.dailymotion.com/video/x7szfhc": {
+    "checked_at": 1787952029,
+    "content_type": "text/html",
+    "destination_title": "Dailymotion",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.dailymotion.com/video/x7szfhc",
+    "status": "resolved",
+    "title_source": "html-title"
   },
   "https://www.ealing.gov.uk/download/downloads/id/13932/southall_gasworks_faqs.pdf": {
     "checked_at": 1787951154,
@@ -1006,6 +1666,36 @@
     "resolved_url": "https://www.ealing.gov.uk/download/downloads/id/16568/slash_vat_to_help_households_go_green_cllr_deirdre_costigan_urges_minister.pdf",
     "status": "unresolved",
     "title_source": null
+  },
+  "https://www.ealing.gov.uk/download/downloads/id/18312/to_thames_water_-_sewage_entering_into_the_river_brent.pdf": {
+    "checked_at": 1787952030,
+    "content_type": "application/pdf",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealing.gov.uk/download/downloads/id/18312/to_thames_water_-_sewage_entering_into_the_river_brent.pdf",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://www.ealing.gov.uk/download/downloads/id/18503/open_letter_to_cash_from_cllr_peter_mason_leader_of_ealing_council_november_2022.pdf": {
+    "checked_at": 1787952028,
+    "content_type": "application/pdf",
+    "destination_title": "Mr",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealing.gov.uk/download/downloads/id/18503/open_letter_to_cash_from_cllr_peter_mason_leader_of_ealing_council_november_2022.pdf",
+    "status": "resolved",
+    "title_source": "pdf-title"
+  },
+  "https://www.ealing.gov.uk/download/downloads/id/18971/land_and_property_strategy.pdf": {
+    "checked_at": 1787952030,
+    "content_type": "application/pdf",
+    "destination_title": "Ealing Council Land and Property Strategy 2023-2027",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealing.gov.uk/download/downloads/id/18971/land_and_property_strategy.pdf",
+    "status": "resolved",
+    "title_source": "pdf-title"
   },
   "https://www.ealing.gov.uk/download/downloads/id/18977/2023_progress_report.pdf": {
     "checked_at": 1787951156,
@@ -1084,6 +1774,26 @@
     "content_type": "text/html",
     "destination_title": "Air Quality Action Plan 2022-27 | Ealing Council",
     "resolved_url": "https://www.ealing.gov.uk/downloads/download/456/air_quality_action_plan_2022-27",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
+  "https://www.ealing.gov.uk/info/201033/council_and_local_decisions/516/complaints/6": {
+    "checked_at": 1787952027,
+    "content_type": null,
+    "destination_title": null,
+    "health": "gone",
+    "http_status": 404,
+    "resolved_url": "https://www.ealing.gov.uk/info/201033/council_and_local_decisions/516/complaints/6",
+    "status": "http-404",
+    "title_source": null
+  },
+  "https://www.ealing.gov.uk/info/201044/councillors/567/cabinet": {
+    "checked_at": 1787952023,
+    "content_type": "text/html",
+    "destination_title": "Cabinet | Cabinet | Ealing Council",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealing.gov.uk/info/201044/councillors/567/cabinet",
     "status": "resolved",
     "title_source": "html-title"
   },
@@ -1167,6 +1877,76 @@
     "status": "resolved",
     "title_source": "html-title"
   },
+  "https://www.ealing.gov.uk/info/201146/neighbourhood_and_streets/2053/noise_nuisances/2": {
+    "checked_at": 1787952027,
+    "content_type": "text/html",
+    "destination_title": "Report a noise nuisance | Noise nuisances | Ealing Council",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealing.gov.uk/info/201146/neighbourhood_and_streets/2053/noise_nuisances/2",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
+  "https://www.ealing.gov.uk/info/201146/neighbourhood_and_streets/2053/noise_nuisances/3": {
+    "checked_at": 1787952027,
+    "content_type": "text/html",
+    "destination_title": "Investigating your complaint | Noise nuisances | Ealing Council",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealing.gov.uk/info/201146/neighbourhood_and_streets/2053/noise_nuisances/3",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
+  "https://www.ealing.gov.uk/info/201151/pollution/573/industrial_pollution_control": {
+    "checked_at": 1787952028,
+    "content_type": "text/html",
+    "destination_title": "Industrial pollution control | Industrial pollution control | Ealing Council",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealing.gov.uk/info/201151/pollution/573/industrial_pollution_control",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
+  "https://www.ealing.gov.uk/info/201162/planning_policy/1536/community_infrastructure_levy_cil": {
+    "checked_at": 1787952024,
+    "content_type": "text/html",
+    "destination_title": "Community Infrastructure Levy (CIL) | Community Infrastructure Levy (CIL) | Ealing Council",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealing.gov.uk/info/201162/planning_policy/1536/community_infrastructure_levy_cil",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
+  "https://www.ealing.gov.uk/info/201162/planning_policy/2934/infrastructure_funding_statement": {
+    "checked_at": 1787952025,
+    "content_type": "text/html",
+    "destination_title": "Infrastructure funding statement | Infrastructure funding statement | Ealing Council",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealing.gov.uk/info/201162/planning_policy/2934/infrastructure_funding_statement",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
+  "https://www.ealing.gov.uk/info/201199/air_quality/2057/dust_and_odours_from_commercial_premises": {
+    "checked_at": 1787952027,
+    "content_type": "text/html",
+    "destination_title": "Dust and odours from commercial premises | Dust and odours from commercial premises | Ealing Council",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealing.gov.uk/info/201199/air_quality/2057/dust_and_odours_from_commercial_premises",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
+  "https://www.ealing.gov.uk/info/201199/air_quality/2058/report_an_air_pollution_problem": {
+    "checked_at": 1787952028,
+    "content_type": "text/html",
+    "destination_title": "Report an air pollution problem | Report an air pollution problem | Ealing Council",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealing.gov.uk/info/201199/air_quality/2058/report_an_air_pollution_problem",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
   "https://www.ealing.gov.uk/info/201276/council_elections/401/council_elections_4_may_2006/22": {
     "checked_at": 1787951157,
     "content_type": "text/html",
@@ -1190,6 +1970,26 @@
     "resolved_url": null,
     "status": "http-404",
     "title_source": null
+  },
+  "https://www.ealing.gov.uk/info/201283/our_neighbourhoods/2613/southall_gasworks/4": {
+    "checked_at": 1787952028,
+    "content_type": "text/html",
+    "destination_title": "Air monitoring | Southall Gasworks | Ealing Council",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealing.gov.uk/info/201283/our_neighbourhoods/2613/southall_gasworks/4",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
+  "https://www.ealing.gov.uk/info/201283/our_neighbourhoods/2613/southall_gasworks/6": {
+    "checked_at": 1787952028,
+    "content_type": "text/html",
+    "destination_title": "Air quality concerns | Southall Gasworks | Ealing Council",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealing.gov.uk/info/201283/our_neighbourhoods/2613/southall_gasworks/6",
+    "status": "resolved",
+    "title_source": "html-title"
   },
   "https://www.ealing.gov.uk/info/201343/housing_performance/3497/housing_asset_management_compliance/2": {
     "checked_at": 1787951273,
@@ -1247,11 +2047,31 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://www.ealing.news/news/ealing-council-unveils-2026-27-budget-plans/": {
+    "checked_at": 1787952026,
+    "content_type": "text/html",
+    "destination_title": "Ealing Council unveils 2026/27 budget plans - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealing.news/news/ealing-council-unveils-2026-27-budget-plans/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://www.ealing.news/news/east-acton-councillor-criticises-labour-leadership-after-defection/": {
     "checked_at": 1787951273,
     "content_type": "text/html",
     "destination_title": "East Acton councillor criticises Labour leadership after defection - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
     "resolved_url": "https://www.ealing.news/news/east-acton-councillor-criticises-labour-leadership-after-defection/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.ealing.news/news/family-left-in-limbo-after-delays-to-adapted-home-for-disabled-son/": {
+    "checked_at": 1787952030,
+    "content_type": "text/html",
+    "destination_title": "Family “left in limbo” after delays to adapted home for disabled son - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealing.news/news/family-left-in-limbo-after-delays-to-adapted-home-for-disabled-son/",
     "status": "resolved",
     "title_source": "og:title"
   },
@@ -1268,6 +2088,16 @@
     "content_type": "text/html",
     "destination_title": "High Court upholds Ealing Council children’s centres closure - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
     "resolved_url": "https://www.ealing.news/news/high-court-upholds-ealing-council-childrens-centres-closure/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.ealing.news/news/local-jobs-decline-in-ealing/": {
+    "checked_at": 1787952024,
+    "content_type": "text/html",
+    "destination_title": "Local jobs decline in Ealing - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealing.news/news/local-jobs-decline-in-ealing/",
     "status": "resolved",
     "title_source": "og:title"
   },
@@ -1351,6 +2181,36 @@
     "status": "fetch-failed",
     "title_source": null
   },
+  "https://www.ealinglabour.co.uk/2020/03/02/tall-buildings-and-the-genuinely-affordable-homes-crisis/": {
+    "checked_at": 1787952024,
+    "content_type": "text/html",
+    "destination_title": "Tall Buildings and the Genuinely Affordable Homes Crisis - Ealing Labour",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealinglabour.co.uk/2020/03/02/tall-buildings-and-the-genuinely-affordable-homes-crisis/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.ealinglabour.co.uk/2022/03/02/our-2022-pledges/": {
+    "checked_at": 1787952023,
+    "content_type": "text/html",
+    "destination_title": "Our 2022 Pledges - Ealing Labour",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealinglabour.co.uk/2022/03/02/our-2022-pledges/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.ealinglabour.co.uk/2026/02/03/ealing-labour-announce-first-no-cuts-budget-in-16-years/": {
+    "checked_at": 1787952022,
+    "content_type": "text/html",
+    "destination_title": "Ealing Labour announce first ‘No Cuts’ budget in 16 years - Ealing Labour",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealinglabour.co.uk/2026/02/03/ealing-labour-announce-first-no-cuts-budget-in-16-years/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://www.ealinglabour.co.uk/profile/jags-sanghera-2/": {
     "checked_at": 1787951163,
     "content_type": "text/html",
@@ -1359,11 +2219,51 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://www.ealinglabour.co.uk/profile/peter-mason-2/": {
+    "checked_at": 1787952022,
+    "content_type": "text/html",
+    "destination_title": "Peter Mason - Ealing Labour",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealinglabour.co.uk/profile/peter-mason-2/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.ealinglabour.com/manifesto2022/": {
+    "checked_at": 1787952026,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": 421,
+    "resolved_url": "https://www.bighokiajaib.com/",
+    "status": "http-421",
+    "title_source": null
+  },
+  "https://www.ealinglibdems.org.uk/news/article/ealing-labour-finally-tax-developers-after-15-years-delay": {
+    "checked_at": 1787952024,
+    "content_type": "text/html",
+    "destination_title": "Ealing Labour finally tax developers after 15 years delay!",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealinglibdems.org.uk/news/article/ealing-labour-finally-tax-developers-after-15-years-delay",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://www.ealingtimes.co.uk/news/1228875.arrested-student-may-sue-councillor/": {
     "checked_at": 1787951272,
     "content_type": "text/html",
     "destination_title": "Arrested student may sue councillor",
     "resolved_url": "https://www.ealingtimes.co.uk/news/1228875.arrested-student-may-sue-councillor/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.ealingtimes.co.uk/news/54754.southalls-inner-city-deprivation/": {
+    "checked_at": 1787952026,
+    "content_type": "text/html",
+    "destination_title": "Southall's inner city deprivation",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealingtimes.co.uk/news/54754.southalls-inner-city-deprivation/",
     "status": "resolved",
     "title_source": "og:title"
   },
@@ -1407,6 +2307,16 @@
     "status": "resolved",
     "title_source": "html-title"
   },
+  "https://www.ealingtoday.co.uk/default.asp?section=info&spage=common/eawheeliecolours001.htm": {
+    "checked_at": 1787952026,
+    "content_type": "text/html",
+    "destination_title": "Ealing's Local Web site",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.ealingtoday.co.uk/default.asp?section=info&spage=common/eawheeliecolours001.htm",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
   "https://www.economist.com/britain/2026/03/30/right-wingers-want-ice-style-mass-deportations-in-britain": {
     "checked_at": 1787951271,
     "content_type": null,
@@ -1447,6 +2357,16 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://www.gov.uk/government/publications/the-7-principles-of-public-life/the-7-principles-of-public-life--2": {
+    "checked_at": 1787952022,
+    "content_type": "text/html",
+    "destination_title": "The Seven Principles of Public Life",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.gov.uk/government/publications/the-7-principles-of-public-life/the-7-principles-of-public-life--2",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england": {
     "checked_at": 1787951270,
     "content_type": "text/html",
@@ -1462,6 +2382,16 @@
     "resolved_url": "https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england/fly-tipping-statistics-for-england-2024-to-2025",
     "status": "resolved",
     "title_source": "og:title"
+  },
+  "https://www.governmentevents.co.uk/wp-content/uploads/2022/05/Beau-Stanford-Francis-.pdf": {
+    "checked_at": 1787952022,
+    "content_type": "application/pdf",
+    "destination_title": "PowerPoint Presentation",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.governmentevents.co.uk/wp-content/uploads/2022/05/Beau-Stanford-Francis-.pdf",
+    "status": "resolved",
+    "title_source": "pdf-title"
   },
   "https://www.hwa.uk.com/site/wp-content/uploads/2022/08/M-Dogra.pdf": {
     "checked_at": 1787951267,
@@ -1487,6 +2417,16 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://www.itv.com/news/london/2026-02-25/croydon-named-englands-fly-tipping-hotspot-with-seven-boroughs-in-top-ten": {
+    "checked_at": 1787952028,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": null,
+    "resolved_url": null,
+    "status": "fetch-failed",
+    "title_source": null
+  },
   "https://www.jewishnews.co.uk/best-of-british-three-uk-jews-now-working-in-the-heart-of-israels-government/": {
     "checked_at": 1787951159,
     "content_type": null,
@@ -1495,11 +2435,31 @@
     "status": "http-403",
     "title_source": null
   },
+  "https://www.jewishvoiceforlabour.org.uk/statement/a-shameful-day-for-the-jlm/": {
+    "checked_at": 1787952026,
+    "content_type": "text/html",
+    "destination_title": "A shameful day for the JLM - Jewish Voice for Liberation",
+    "health": "redirected",
+    "http_status": 200,
+    "resolved_url": "https://jewishvoiceforliberation.org.uk/statement/a-shameful-day-for-the-jlm/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://www.kilburntimes.co.uk/news/22005398.fly-tipping-surge-costs-brent-500k/": {
     "checked_at": 1787951273,
     "content_type": "text/html",
     "destination_title": "Fly tipping surge costs Brent £500k",
     "resolved_url": "https://www.kilburntimes.co.uk/news/22005398.fly-tipping-surge-costs-brent-500k/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.kilburntimes.co.uk/news/25894644.huge-rise-fly-tipping-fines-crackdown-brent-london/": {
+    "checked_at": 1787952021,
+    "content_type": "text/html",
+    "destination_title": "Fly-tipping crackdown sees 500 rise in fines",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.kilburntimes.co.uk/news/25894644.huge-rise-fly-tipping-fines-crackdown-brent-london/",
     "status": "resolved",
     "title_source": "og:title"
   },
@@ -1526,6 +2486,16 @@
     "resolved_url": "https://www.lder.org/",
     "status": "resolved",
     "title_source": "html-title"
+  },
+  "https://www.letsrecycle.com/news/brent-awards-veolia-274m-deal-and-opts-for-twin-steam/": {
+    "checked_at": 1787952021,
+    "content_type": "text/html",
+    "destination_title": "Brent awards Veolia £274m deal and opts for twin-stream - letsrecycle.com",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.letsrecycle.com/news/brent-awards-veolia-274m-deal-and-opts-for-twin-steam/",
+    "status": "resolved",
+    "title_source": "og:title"
   },
   "https://www.letsrecycle.com/news/hounslow-council-leader-faces-wheeled-bin-protest/": {
     "checked_at": 1787951273,
@@ -1567,11 +2537,51 @@
     "status": "http-999",
     "title_source": null
   },
+  "https://www.linkedin.com/posts/peter-mason-5a377941_i-was-on-bbc-politics-london-this-morning-activity-7403388834643857408-VXEM": {
+    "checked_at": 1787952027,
+    "content_type": "text/html",
+    "destination_title": "I was on BBC Politics London this morning talking rubbish. Fly-tipping to be precise. We’ve been running a campaign across Ealing this year aimed at changing behaviour: to increase resident… | Peter Mason",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.linkedin.com/posts/peter-mason-5a377941_i-was-on-bbc-politics-london-this-morning-activity-7403388834643857408-VXEM",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://www.linkedin.com/posts/peter-mason-5a377941_this-weekend-i-headed-back-to-leicester-activity-7301715786824306689-5sFi": {
     "checked_at": 1787951160,
     "content_type": "text/html",
     "destination_title": "This weekend I headed back to Leicester, to attend the East Midlands Labour Party Gala Dinner, and managed to spend a bit of time revisiting the sights and places of my childhood. I discovered my… | Peter Mason",
     "resolved_url": "https://www.linkedin.com/posts/peter-mason-5a377941_this-weekend-i-headed-back-to-leicester-activity-7301715786824306689-5sFi",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.local.gov.uk/about/what-local-government": {
+    "checked_at": 1787952025,
+    "content_type": "text/html",
+    "destination_title": "What is local government?",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.local.gov.uk/about/what-local-government",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.london-fire.gov.uk/incidents/2025/november/warehouse-fire-southall/": {
+    "checked_at": 1787952027,
+    "content_type": "text/html",
+    "destination_title": "Warehouse fire - Southall",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.london-fire.gov.uk/incidents/2025/november/warehouse-fire-southall/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.london-fire.gov.uk/incidents/2026/january/recycling-centre-fire-southall/": {
+    "checked_at": 1787952027,
+    "content_type": "text/html",
+    "destination_title": "Recycling centre fire - Southall",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.london-fire.gov.uk/incidents/2026/january/recycling-centre-fire-southall/",
     "status": "resolved",
     "title_source": "og:title"
   },
@@ -1623,6 +2633,26 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://www.mirror.co.uk/news/uk-news/residents-left-fuming-after-changes-32662715": {
+    "checked_at": 1787952027,
+    "content_type": "text/html",
+    "destination_title": "Residents fuming as changes to bin collections turning area into 'shanty town'",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.mirror.co.uk/news/uk-news/residents-left-fuming-after-changes-32662715",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.mylondon.news/news/increase-recycling-after-ealing-wheelie-11651652": {
+    "checked_at": 1787952021,
+    "content_type": "text/html",
+    "destination_title": "Ealing wheelie bins boost recycling - but at cost of fly tipping?",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.mylondon.news/news/increase-recycling-after-ealing-wheelie-11651652",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://www.mylondon.news/news/west-london-news/3-ealing-childrens-centres-saved-31844687": {
     "checked_at": 1787951274,
     "content_type": "text/html",
@@ -1671,11 +2701,51 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://www.mylondon.news/news/west-london-news/neighbourly-care-southall-fights-back-9700892": {
+    "checked_at": 1787952027,
+    "content_type": "text/html",
+    "destination_title": "Neighbourly Care Southall fights back to defend £290,000 funding allocation",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.mylondon.news/news/west-london-news/neighbourly-care-southall-fights-back-9700892",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.mylondon.news/news/west-london-news/y-tipping-ealing-risen-216-11921289": {
+    "checked_at": 1787952022,
+    "content_type": "text/html",
+    "destination_title": "Fly tipping more than trebles after Ealing bin collection change",
+    "health": "redirected",
+    "http_status": 200,
+    "resolved_url": "https://www.mylondon.news/news/west-london-news/fly-tipping-ealing-risen-216-11921289",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://www.nationalarchives.gov.uk/explore-the-collection/stories/shapurji-saklatvala": {
     "checked_at": 1787951160,
     "content_type": "text/html",
     "destination_title": "Shapurji Saklatvala",
     "resolved_url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/shapurji-saklatvala/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.netflix.com/gb/title/81372304?s=a&trkid=13747225&trg=cp&vlang=en&clip=81971836": {
+    "checked_at": 1787952030,
+    "content_type": "text/html",
+    "destination_title": "Watch Toxic Town | Netflix Official Site",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.netflix.com/gb/title/81372304?s=a&trkid=13747225&trg=cp&vlang=en&clip=81971836",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.newham.gov.uk/news/article/1226/newham-council-bucks-national-trend-on-fly-tipping": {
+    "checked_at": 1787952021,
+    "content_type": "text/html",
+    "destination_title": "Newham Council bucks national trend on fly tipping – Newham Council",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.newham.gov.uk/news/article/1226/newham-council-bucks-national-trend-on-fly-tipping",
     "status": "resolved",
     "title_source": "og:title"
   },
@@ -1702,6 +2772,16 @@
     "resolved_url": null,
     "status": "fetch-failed",
     "title_source": null
+  },
+  "https://www.planningportal.co.uk/planning/planning-applications/the-decision-making-process/conditions-and-obligations": {
+    "checked_at": 1787952025,
+    "content_type": "text/html",
+    "destination_title": "Conditions and obligations - The decision-making process - Planning Portal",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.planningportal.co.uk/planning/planning-applications/the-decision-making-process/conditions-and-obligations/",
+    "status": "resolved",
+    "title_source": "html-title"
   },
   "https://www.plumplot.co.uk/Southall-drugs-crime-statistics.html": {
     "checked_at": 1787951264,
@@ -1767,6 +2847,16 @@
     "status": "resolved",
     "title_source": "html-title"
   },
+  "https://www.reddit.com/r/Ealing/s/JD2n25UHIk": {
+    "checked_at": 1787952025,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": 403,
+    "resolved_url": "https://www.reddit.com/r/Ealing/s/JD2n25UHIk",
+    "status": "http-403",
+    "title_source": null
+  },
   "https://www.researchgate.net/publication/308019398_The_first_one_wins_Distilling_the_primacy_effect": {
     "checked_at": 1787951155,
     "content_type": null,
@@ -1783,11 +2873,41 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://www.royalalberthall.com/tickets/events/2025/ealing-together-harmony-in-diversity": {
+    "checked_at": 1787952029,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": 403,
+    "resolved_url": "https://www.royalalberthall.com/tickets/events/2025/ealing-together-harmony-in-diversity",
+    "status": "http-403",
+    "title_source": null
+  },
+  "https://www.standard.co.uk/news/health/asthma-london-air-pollution-research-ulez-expansion-b1086318.html": {
+    "checked_at": 1787952028,
+    "content_type": "text/html",
+    "destination_title": "Worst asthma hotspots in outer London revealed",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.standard.co.uk/news/health/asthma-london-air-pollution-research-ulez-expansion-b1086318.html",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://www.standard.co.uk/news/politics/local-elections-london-ealing-councillor-kate-crawford-defection-labour-b1276728.html": {
     "checked_at": 1787951159,
     "content_type": "text/html",
     "destination_title": "‘I know where the bodies are buried’ says ex-Labour London councillor",
     "resolved_url": "https://www.standard.co.uk/news/politics/local-elections-london-ealing-councillor-kate-crawford-defection-labour-b1276728.html",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.swlondoner.co.uk/news/02062025-southall-residents-demand-action-amid-fly-tipping-explosion": {
+    "checked_at": 1787952027,
+    "content_type": "text/html",
+    "destination_title": "Southall residents demand action amid fly-tipping 'explosion' | South West Londoner",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.swlondoner.co.uk/news/02062025-southall-residents-demand-action-amid-fly-tipping-explosion",
     "status": "resolved",
     "title_source": "og:title"
   },
@@ -1823,6 +2943,26 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://www.theguardian.com/cities/2016/oct/25/dirty-old-town-fly-tipping-london-data-england": {
+    "checked_at": 1787952021,
+    "content_type": "text/html",
+    "destination_title": "Dirty old town: 40% of fly-tipping takes place in London, data for England shows",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.theguardian.com/cities/2016/oct/25/dirty-old-town-fly-tipping-london-data-england",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.theguardian.com/commentisfree/2026/feb/10/peter-mandelson-new-labour-jeffrey-epstein-corporate-power": {
+    "checked_at": 1787952025,
+    "content_type": "text/html",
+    "destination_title": "There is a lot of convenient amnesia about Peter Mandelson’s New Labour days. Let’s jog some memories | George Monbiot",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.theguardian.com/commentisfree/2026/feb/10/peter-mandelson-new-labour-jeffrey-epstein-corporate-power",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://www.theguardian.com/education/2008/may/14/highereducation.uk": {
     "checked_at": 1787951159,
     "content_type": "text/html",
@@ -1831,11 +2971,41 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://www.theguardian.com/environment/2014/oct/30/flytipping-up-20-percent-england-after-falling-for-years": {
+    "checked_at": 1787952021,
+    "content_type": "text/html",
+    "destination_title": "Flytipping up 20% in England after falling for years",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.theguardian.com/environment/2014/oct/30/flytipping-up-20-percent-england-after-falling-for-years",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://www.theguardian.com/environment/2019/may/04/brownfield-site-new-homes-building-wrecking-health-southall": {
     "checked_at": 1787951155,
     "content_type": "text/html",
     "destination_title": "Families hit out at London gasworks redevelopment",
     "resolved_url": "https://www.theguardian.com/environment/2019/may/04/brownfield-site-new-homes-building-wrecking-health-southall",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.theguardian.com/politics/2019/dec/11/boris-johnsons-record-of-bigotry-antisemitism-and-far-right-politics-must-not-be-forgotten": {
+    "checked_at": 1787952025,
+    "content_type": "text/html",
+    "destination_title": "Boris Johnson’s record of bigotry, antisemitism and far-right politics must not be forgotten | Letters",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.theguardian.com/politics/2019/dec/11/boris-johnsons-record-of-bigotry-antisemitism-and-far-right-politics-must-not-be-forgotten",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.theguardian.com/politics/2019/nov/21/jeremy-corbyn-urges-public-to-vote-for-his-manifesto-of-hope-labour-tax-spend-plans": {
+    "checked_at": 1787952025,
+    "content_type": "text/html",
+    "destination_title": "Jeremy Corbyn urges public to vote for 'manifesto of hope'",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.theguardian.com/politics/2019/nov/21/jeremy-corbyn-urges-public-to-vote-for-his-manifesto-of-hope-labour-tax-spend-plans",
     "status": "resolved",
     "title_source": "og:title"
   },
@@ -1918,5 +3088,35 @@
     "resolved_url": null,
     "status": "http-403",
     "title_source": null
+  },
+  "https://www.whatdotheyknow.com/request/how_many_homes_have_been_complet/response/2002978/attach/5/FOI%20Internal%20Review%2022%200065%20FINAL.pdf": {
+    "checked_at": 1787952023,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": 403,
+    "resolved_url": "https://www.whatdotheyknow.com/request/how_many_homes_have_been_complet/response/2002978/attach/5/FOI%20Internal%20Review%2022%200065%20FINAL.pdf",
+    "status": "http-403",
+    "title_source": null
+  },
+  "https://www.whatdotheyknow.com/request/how_much_section_106_money_has_e/response/2061857/attach/5/EIR%20Internal%20Review%2022%200404%20FINAL.pdf?cookie_passthrough=1": {
+    "checked_at": 1787952024,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": 403,
+    "resolved_url": "https://www.whatdotheyknow.com/request/how_much_section_106_money_has_e/response/2061857/attach/5/EIR%20Internal%20Review%2022%200404%20FINAL.pdf?cookie_passthrough=1",
+    "status": "http-403",
+    "title_source": null
+  },
+  "https://youngealingfoundation.org.uk/images/downloads/ealing/TACKLING-YOUTH-VIOLENCE-IN-SNG-22-1.pdf": {
+    "checked_at": 1787952027,
+    "content_type": "application/pdf",
+    "destination_title": "TACKLING YOUTH VIOLENCE IN S&NG 22",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://youngealingfoundation.org.uk/images/downloads/ealing/TACKLING-YOUTH-VIOLENCE-IN-SNG-22-1.pdf",
+    "status": "resolved",
+    "title_source": "pdf-title"
   }
 }
