@@ -45,3 +45,15 @@ relationships:
     confidence: high
     created_by: human
     review_status: reviewed
+
+  - id: southall-air-quality-focus-area-located-in-southall
+    from: southall-air-quality-focus-area
+    to: southall
+    type: located_in
+    directional: true
+    evidence:
+      - posts/2023/01/26/response-to-ealings-air-quality.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: The cited post identifies the Southall Air Quality Focus Area as a defined area within Southall.
