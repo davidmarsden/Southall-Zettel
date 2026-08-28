@@ -292,3 +292,15 @@ relationships:
     created_by: human
     review_status: reviewed
     note: Official Ealing Council records list Berkeley Homes among sponsors of the council's MIPIM delegation. This records sponsorship, not any inferred effect on planning decisions.
+
+  - id: ealing-council-purchased-affordable-homes-from-berkeley-group
+    from: ealing-council
+    to: berkeley-group
+    type: purchased_affordable_homes_from
+    directional: true
+    evidence:
+      - sources/ealing-council/progress-with-unity-2022-2026.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: Ealing Council's end-of-term progress report records that in June 2025 the council purchased 180 homes from Berkeley Group at the Green Quarter for affordable housing, including 96 social-rent and 84 London Living Rent homes.
