@@ -1,0 +1,72 @@
+[
+  {
+    "archive_urls": [
+      "https://web.archive.org/web/20220120143225/https://ealingperformance.inphase.com/Detail/865_17759",
+      "https://web.archive.org/web/20220120134535/https://ealingperformance.inphase.com/Detail/865_17759?s=09"
+    ],
+    "body": "Archived council performance dashboard cited to compare changing reported counts of genuinely affordable homes.",
+    "canonical_url": "https://ealingperformance.inphase.com/Detail/865_17759",
+    "cited_by": [
+      "posts/2026/01/18/demolition-man-peter-masons-legacy.md"
+    ],
+    "id": "affordable-homes-performance-dashboard",
+    "path": "sources/ealing-council/affordable-homes-performance-dashboard.md",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "peter-mason"
+    ],
+    "related_topics": [
+      "housing",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "performance_dashboard",
+    "title": "Ealing affordable homes performance dashboard"
+  },
+  {
+    "body": "Primary Ealing Council performance report cited for the reported 2,576 genuinely affordable homes figure at the end of March 2022.",
+    "canonical_url": "https://ealing.moderngov.co.uk/documents/s1725/Council%20Performance%20Year%20End%202021-22.pdf",
+    "cited_by": [
+      "posts/2026/01/18/demolition-man-peter-masons-legacy.md"
+    ],
+    "id": "council-performance-year-end-2021-22",
+    "path": "sources/ealing-council/council-performance-year-end-2021-22.md",
+    "publication_date": "2022",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "peter-mason"
+    ],
+    "related_topics": [
+      "housing",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "performance_report",
+    "title": "Council Performance Year End 2021-22"
+  },
+  {
+    "body": "Primary ModernGov decision record cited in reporting on the stalled Southall Market Car Park housing development.",
+    "canonical_url": "https://ealing.moderngov.co.uk/ieDecisionDetails.aspx?Id=958&LLL=0",
+    "cited_by": [
+      "posts/2026/01/18/demolition-man-peter-masons-legacy.md"
+    ],
+    "id": "southall-market-car-park-decision-958",
+    "path": "sources/ealing-council/southall-market-car-park-decision-958.md",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "southall-market-car-park",
+      "southall"
+    ],
+    "related_topics": [
+      "housing",
+      "planning-development",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "decision_record",
+    "title": "Southall Market Car Park decision record (Decision 958)"
+  }
+]

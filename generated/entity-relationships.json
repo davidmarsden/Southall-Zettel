@@ -1,0 +1,56 @@
+[
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2026/01/18/demolition-man-peter-masons-legacy.md"
+    ],
+    "from": "peter-mason",
+    "id": "peter-mason-leader-of-ealing-council",
+    "note": "Peter Mason is described in the cited reporting as council leader.",
+    "review_status": "reviewed",
+    "to": "ealing-council",
+    "type": "leader_of"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2026/01/18/demolition-man-peter-masons-legacy.md"
+    ],
+    "from": "henry-construction",
+    "id": "henry-construction-developer-of-norwood-road",
+    "note": "The cited post identifies Henry Construction as the builder contracted on the Norwood Road housing scheme.",
+    "review_status": "reviewed",
+    "to": "norwood-road",
+    "type": "developer_of"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+    ],
+    "from": "southall-gasworks",
+    "id": "southall-gasworks-located-in-southall",
+    "review_status": "reviewed",
+    "to": "southall",
+    "type": "located_in"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2026/01/18/demolition-man-peter-masons-legacy.md"
+    ],
+    "from": "southall-green",
+    "id": "southall-green-located-in-southall",
+    "review_status": "reviewed",
+    "to": "southall",
+    "type": "located_in"
+  }
+]
