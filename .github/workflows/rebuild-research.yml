@@ -11,6 +11,7 @@ on:
       - 'relationships/**'
       - 'sources/**'
       - 'config/entity-candidate-ignore.txt'
+      - 'requirements.txt'
       - 'scripts/build_research.py'
       - 'scripts/discover_candidates.py'
       - 'scripts/generate_commons.py'
@@ -40,7 +41,18 @@ jobs:
       - name: Build Civic Commons export
         run: python scripts/generate_commons.py
       - name: Validate Commons JSON
-        run: python -m json.tool generated/commons.json > /dev/null
+        run: |
+          python -m json.tool generated/commons.json > /dev/null
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          import jsonschema
+
+          schema = json.loads(Path('schemas/commons-v1.schema.json').read_text(encoding='utf-8'))
+          data = json.loads(Path('generated/commons.json').read_text(encoding='utf-8'))
+          jsonschema.Draft202012Validator(schema).validate(data)
+          print('Commons export validates against schema v1')
+          PY
       - name: Commit generated research layer
         run: |
           git add generated indexes
