@@ -2,193 +2,6 @@
 
 Machine-generated review queue. Nothing here is a curated assertion until promoted into `entities/`.
 
-## East Acton
-
-- **Class hint:** person_or_body
-- **Posts:** 3
-- **Mentions:** 5
-- **Score:** 35
-- **First / last:** 2026-04-24T12:45:22+0100 / 2026-05-09T18:20:45+0100
-
-- `posts/2026/04/24/first-they-came-for-the.md` — rawford is a different kind of dissenter — and her words are worth quoting in full. A Labour councillor for 28 years in East Acton, she was told in early 2026 that she could not stand as a Labour candidate in the ward she had served for nearly three
-- `posts/2026/05/07/who-does-peter-mason-really.md` — ing as an independent in Mason's own ward. "I only want Mason's votes," he told me. Kate Crawford, Labour councillor in East Acton for 28 years, was told in early 2026 she could not stand again. She joined the Liberal Democrats, calling Mason "a very
-
-## John Martin
-
-- **Class hint:** person_or_body
-- **Posts:** 3
-- **Mentions:** 5
-- **Score:** 35
-- **First / last:** 2026-04-24T12:45:22+0100 / 2026-05-09T18:20:45+0100
-
-- `posts/2026/04/24/first-they-came-for-the.md` — ck-room deals and cronyism." Cox did not stand as an independent. He simply left. Swaran Singh Padda, Kate Crawford and John Martin are not leftists. None of them were part of that movement. The purge has kept going. --- Swaran Singh Padda has represe
-- `posts/2026/05/07/who-does-peter-mason-really.md` — ined the Liberal Democrats, calling Mason "a very controlling leader" and adding, "I know where the bodies are buried." John Martin, Labour councillor for Norwood Green, resigned and is standing as an independent in his own ward, citing principles tha
-
-## Kate Crawford
-
-- **Class hint:** person_or_body
-- **Posts:** 3
-- **Mentions:** 5
-- **Score:** 35
-- **First / last:** 2026-04-24T12:45:22+0100 / 2026-05-09T18:20:45+0100
-
-- `posts/2026/04/24/first-they-came-for-the.md` — d on patronage, back-room deals and cronyism." Cox did not stand as an independent. He simply left. Swaran Singh Padda, Kate Crawford and John Martin are not leftists. None of them were part of that movement. The purge has kept going. --- Swaran Singh P
-- `posts/2026/05/07/who-does-peter-mason-really.md` — ed by Jeremy Corbyn. He is now standing as an independent in Mason's own ward. "I only want Mason's votes," he told me. Kate Crawford, Labour councillor in East Acton for 28 years, was told in early 2026 she could not stand again. She joined the Liberal
-
-## Toxic Town
-
-- **Class hint:** person_or_body
-- **Posts:** 3
-- **Mentions:** 5
-- **Score:** 35
-- **First / last:** 2026-01-11T16:11:23+0100 / 2026-05-09T18:20:45+0100
-
-- `posts/2026/01/11/toxic-town-have-you-been.md` — Toxic Town - Have You Been Affected? After years unable to analyse the contamination data, AI has finally revealed what authoritie
-- `posts/2026/01/12/a-fire-we-were-warned.md` — A Fire We Were Warned About Within hours of publishing an update on Southall’s Toxic Town scandal, the recycling site behind our home burned - an event long predicted by residents and enabled by years of regul
-
-## Cllr Anand
-
-- **Class hint:** person_or_body
-- **Posts:** 3
-- **Mentions:** 4
-- **Score:** 34
-- **First / last:** 2026-04-23T20:27:40+0100 / 2026-05-06T18:41:28+0100
-
-- `posts/2026/04/23/canvassing-with-minni-dogra-a.md` — ear. In 2006, Anand was in the news again. Her new shop was around the corner on Scotts Road opposite the Scotsman pub. Cllr Anand got into a lengthy legal dispute with her new neighbour, which eventually cost her £35,000 in damages. She paid up only
-- `posts/2026/05/06/sixtyfour-years-on-your-side.md` — — are once again asking for your vote. Between them, they have drawn well over £1.5 million in councillor allowances — Cllr Anand alone has received at least three-quarters of a million pounds over her 28 years in office. The figure has accelerated
-
-## Labour MP
-
-- **Class hint:** organisation
-- **Posts:** 3
-- **Mentions:** 4
-- **Score:** 34
-- **First / last:** 2019-10-01T15:24:00+0100 / 2026-05-25T15:34:05+0100
-
-- `posts/2019/10/01/trigger-vote-for-sharma.md` — it. So tonight, I'm voting in favour of the trigger ballot for Mr Sharma, so that we have the opportunity to have a new Labour MP for Ealing Southall, one who will stand up for local people rather than help those who oppress them. And I ask all of y
-- `posts/2023/11/20/toryboy.md` — ToryBoy Inspired by a filmmaker's failed attempt to unseat an invisible Labour MP, David Marsden's own 2022 campaign as an independent candidate in Ealing's safest Labour ward ended in fourth place, bu
-
-## Social Housing
-
-- **Class hint:** person_or_body
-- **Posts:** 3
-- **Mentions:** 4
-- **Score:** 34
-- **First / last:** 2026-04-21T14:05:11+0100 / 2026-05-06T13:45:23+0100
-
-- `posts/2026/04/21/you-never-forget-the-smell.md` — cord shows In May 2022, less than eighteen months into his leadership, Ealing Council self-referred to the Regulator of Social Housing over failures in housing health and safety. A regulatory notice was issued. By 2025 — three years later — the Local Gov
-- `posts/2026/05/02/the-smell-of-success.md` — r own assessment of how that understanding translated into leadership. Ealing Council self-referred to the Regulator of Social Housing over housing health and safety failures in 2022. Three years on, the regulatory notice remains in place. The Housing Om
-
-## Damian Leydon
-
-- **Class hint:** person_or_body
-- **Posts:** 3
-- **Mentions:** 3
-- **Score:** 33
-- **First / last:** 2018-09-12T20:40:00+0100 / 2019-08-25T22:14:32+0100
-
-- `posts/2018/09/12/countering-the-southall-waterside-narrative.md` — prison · They are like 'serial poopers', but very much worse · At the Air Quality Scrutiny Panel meeting in September, Damian Leydon could not say what amount of upset neighbours or odour nuisance would make him think, 'No, that's too much. I must stop
-- `posts/2019/07/09/phe-coverup.md` — Levels of trichloroethene were 4 times greater. 1. Levels of ethylbenzene were 2 times higher. This is contrary to what Damian Leydon, Berkeley Group’s Operations Director assured Ealing Council’s Air Quality Scrutiny Panel (p.12) in September 2018: Why
-
-## Ealing Independent Network
-
-- **Class hint:** person_or_body
-- **Posts:** 3
-- **Mentions:** 3
-- **Score:** 33
-- **First / last:** 2026-02-13T14:46:03+0100 / 2026-05-09T18:20:45+0100
-
-- `posts/2026/02/13/bangarang-pirate-pete-and-the.md` — ing fly-tipping, claiming "packed house, passionate people and ideas a plenty." --- Three years later, in October 2021, Ealing Independent Network commented on the same post: "And 3 years on, this just highlights how impotent in action @ petermason is to Southall &
-- `posts/2026/04/23/canvassing-with-minni-dogra-a.md` — ran an illegal food business for the better part of a decade. Last week I spent a lunch hour with my friend and former Ealing Independent Network "running mate" Minni Dogra, as she canvassed a street near me in her effort to win enough votes to be elected as a coun
-
-## Equalities Impact Assessment
-
-- **Class hint:** person_or_body
-- **Posts:** 3
-- **Mentions:** 3
-- **Score:** 33
-- **First / last:** 2021-04-14T10:33:42+0100 / 2023-01-26T20:32:00+0100
-
-- `posts/2021/04/14/strawberries-for-pigs.md` — , despite being fully aware of the potential dangers to health (and to the environment) failed to carry out any kind of Equalities Impact Assessment, and only helped Berkeley Group to rush through the decontamination process to maximise their profit from Crossrail in
-- `posts/2021/07/27/questions-for-cabinet-leads.md` — y in reference to the ongoing air pollution and odour nuisance from the old Southall Gasworks site. 1) Why was there no Equalities Impact Assessment, taking into account the local area's existing economic and health inequalities? 2) Why weren't local residents informe
-
-## FM Conway
-
-- **Class hint:** person_or_body
-- **Posts:** 3
-- **Mentions:** 3
-- **Score:** 33
-- **First / last:** 2021-07-21T22:29:00+0100 / 2026-01-20T16:01:05+0100
-
-- `posts/2021/07/21/from-the-southall-big-plan.md` — over 20 stories high. Up to 40,000 new residents (and their cars!). If you think traffic is bad now.... Tar odours from FM Conway causing nuisance and nausea since 2014. Who knew? 'I wish I lived in the town you describe'! Julian Bell blaming it all
-- `posts/2023/01/26/response-to-ealings-air-quality.md` — ay/West and Southall Green are the two council wards that border the old Gasworks site, and which are downwind from the FM Conway asphalt and Tarmac plants, and the two wood-burning incinerators, depending on wind direction. They are connected by th
-
-## Greater London Authority
-
-- **Class hint:** organisation
-- **Posts:** 3
-- **Mentions:** 3
-- **Score:** 33
-- **First / last:** 2026-02-18T23:35:12+0100 / 2026-05-09T18:20:45+0100
-
-- `posts/2026/02/18/the-broken-manifesto-promises-that.md` — ny relation to any lived in reality. --- The £100 million question In 2018, the council received a major grant from the Greater London Authority: Around £100 million in funding A target of 1,138 new affordable homes But by early 2026 just 180 of those homes had be
-- `posts/2026/05/07/who-does-peter-mason-really.md` — an Genghis Khan." What the record actually shows is this. In 2018, Ealing was awarded approximately £100 million by the Greater London Authority to deliver 1,138 genuinely affordable homes. By early 2026, just 180 had been completed. 16% of the target. £71.9 milli
-
-## Joe Bhangu
-
-- **Class hint:** person_or_body
-- **Posts:** 3
-- **Mentions:** 3
-- **Score:** 33
-- **First / last:** 2026-04-23T20:27:40+0100 / 2026-05-09T18:20:45+0100
-
-- `posts/2026/04/23/canvassing-with-minni-dogra-a.md` — or in all but name. While she is standing in Southall Green under the ECI umbrella alongside her friends and neighbours Joe Bhangu and Jatinder Rajput, Minni regards her independence as a major asset. She cannot be bought and she does not blindly fol
-- `posts/2026/04/28/this-place-has-turned-into.md` — ither were there any empty seats. And the people who were there had things to say, and they said them. --- "We are you" Joe Bhangu, ECI candidate for Southall Green, opened making a brief video explaining who is standing in which wards and how to vot
-
-## National Grid
-
-- **Class hint:** person_or_body
-- **Posts:** 3
-- **Mentions:** 3
-- **Score:** 33
-- **First / last:** 2018-09-12T20:40:00+0100 / 2023-01-26T20:32:00+0100
-
-- `posts/2018/09/12/countering-the-southall-waterside-narrative.md` — nd remediation works by September/early October 2018. There are three very small areas that will be left due to ongoing National Grid works and the removal of the Information centre (see fig 1 below) these are expected to be low impact and we plan to re
-- `posts/2019/06/01/pull-the-other-one-julian.md` — t all, that you should write to him instead! It’s all over now. Or is it? Bell claims ongoing odour is not Berkeley but National Grid! The work has ended, but it is ongoing! The remediation that is, in a sense not remediation is ongoing until 2038, but
-
-## Private Eye
-
-- **Class hint:** person_or_body
-- **Posts:** 3
-- **Mentions:** 3
-- **Score:** 33
-- **First / last:** 2019-08-25T22:14:32+0100 / 2025-07-11T13:50:30+0100
-
-- `posts/2019/08/25/southall-under-siege-the-neighbours.md` — is holiday in Cannes? The south of France resort hosts the annual MIPIM property developers’ ‘booze and hookerfest’ (as Private Eye magazine calls it). Julian is a regular attendee, all expenses paid for by Damian’s employer Berkeley Group, despite cl
-- `posts/2022/07/10/weasel-words-on-air-quality.md` — Ealing Labour Council leaders and council officers to attend property festivals in Cannes every year since 2013, which Private Eye describes as "a booze 'n' hookerfest". 7/11 --- After the digging and cleaning of the poison land was completed, Ealing
-
-## Scotts Road
-
-- **Class hint:** place_or_site
-- **Posts:** 3
-- **Mentions:** 3
-- **Score:** 33
-- **First / last:** 2020-10-05T09:36:00+0100 / 2026-04-23T20:27:40+0100
-
-- `posts/2020/10/05/high-traffic-neighbourhood.md` — in Southall 'Green'. Like a rat, I tried the side streets and back roads option and found those to be jammed, too, and Scotts Road - although confusingly still two-way throughout - is now No Entry from the eastern end. I would have abandoned my car a
-- `posts/2026/03/01/boomerang-ten-years-sorting-out.md` — well as Ealing Labour’s priorities for genuinely affordable homes and decent jobs, we’ve got to sort out the lorries on Scotts Road, flytipping and the canal…” --- Two years after the spike, the problem was acknowledged publicly. But no formal public
-
-## West London
-
-- **Class hint:** person_or_body
-- **Posts:** 3
-- **Mentions:** 3
-- **Score:** 33
-- **First / last:** 2026-02-14T17:18:46+0100 / 2026-05-07T17:09:21+0100
-
-- `posts/2026/02/14/section-money-where-did-southalls.md` — uarter) S106 (2015–2022) Total received from the development: £1,749,584 For one of the largest housing developments in West London, delivering thousands of homes, that’s: Under £2 million in S106 contributions over seven years. --- What that money pa
-- `posts/2026/04/30/when-is-a-hustings-not.md` — When is a Hustings not a Hustings? When West London Citizens says so. I attended the West London Citizens "Accountability Assembly" at St Anselm's Church in Southall Green
-
 ## Hanwell Broadway
 
 - **Class hint:** person_or_body
@@ -673,17 +486,6 @@ Machine-generated review queue. Nothing here is a curated assertion until promot
 - `posts/2026/05/03/cactuses-never-die.md` — t savings are made. - A pension fund of more than £112 million invested in companies flagged for their role in what the International Court of Justice has found to involve a plausible risk of genocide. - A Pension Fund Panel that has refused, in the face of f
 - `posts/2026/05/09/liftoff-ealing-elections-special.md` — he past two years, petitions on pension fund investments in companies supplying weapons to a state currently subject to International Court of Justice proceedings have been ignored. Council meetings have been managed past the question. The chair of the releva
 
-## Jasbir Anand
-
-- **Class hint:** person_or_body
-- **Posts:** 2
-- **Mentions:** 2
-- **Score:** 22
-- **First / last:** 2026-05-09T18:20:45+0100 / 2026-05-25T15:34:05+0100
-
-- `posts/2026/05/09/liftoff-ealing-elections-special.md` — site and other local pollutants will continue to need monitoring that the council has chosen not to do. Cabinet member Jasbir Anand — Mason's running mate, returned with the highest Labour vote at 1,789 — will continue to be the councillor who signed
-- `posts/2026/05/25/feeling-the-heat.md` — o net zero (E2.2). Ealing knew, in 2021, exactly which residents would bear the cost. Veteran Southall Green councillor Jasbir Anand was appointed to lead the fight for residents. Residents knew Six weeks after the April 2019 declaration of a Climate E
-
 ## Jatinder Rajput
 
 - **Class hint:** person_or_body
@@ -859,17 +661,6 @@ Machine-generated review queue. Nothing here is a curated assertion until promot
 
 - `posts/2026/01/22/its-never-enough-until-its.md` — ity (the Smokescreen Chapter) At no point are you told clearly whether your report is handled by: Environmental Health, Pollution Control, Planning Enforcement, the Council, or the Environment Agency. You may be told — encouragingly — that it is “good” you
 - `posts/2026/05/07/computer-says-no.md` — t the evidence was already in the council's own file when my Stage 1 complaint was closed. The response itself quoted a Pollution Control email from June 2025 stating: "Our IT systems must have blocked it due to links included within the email." The council
-
-## Private Eye Magazine
-
-- **Class hint:** person_or_body
-- **Posts:** 2
-- **Mentions:** 2
-- **Score:** 22
-- **First / last:** 2022-12-17T02:30:00+0100 / 2023-01-26T20:32:00+0100
-
-- `posts/2022/12/17/the-property-lobby-the-hidden.md` — ars to holiday in the south of France at the MIPIM property festival in Cannes described as a "booze 'n' hookerfest" by Private Eye Magazine. Bell says, "it didn't cost the taxpayer a penny", but in Southall we are already paying with our health and quality of
-- `posts/2023/01/26/response-to-ealings-air-quality.md` — 0,000 in gifts and hospitality from developers including Berkeley Group][27] to fly (!) to the south of France for what Private Eye Magazine describes as [a booze and hookerfest][28]? The new council leader claims he went there to negotiate hard. If that's the
 
 ## Regulatory Services Officer
 
@@ -1101,3 +892,91 @@ Machine-generated review queue. Nothing here is a curated assertion until promot
 
 - `posts/2019/06/25/the-health-and-other-impacts.md` — uld investigate and reply to complaints 1. physically walk into the oﬃce each time. 1. a reply would be a good start 1. The MP and councillors need to listed and have regular meetings with residents.
 - `posts/2026/05/06/the-meeting-that-ended-local.md` — l lawyer, the question that mattered: Whose side are you on, the community? Or Berkeley Homes? The panel stayed silent. The MP, Virendra Sharma, slipped in late, said nothing, and left before the end. Sharma had survived a Constituency Labour Par
+
+## The McCreesh
+
+- **Class hint:** person_or_body
+- **Posts:** 2
+- **Mentions:** 2
+- **Score:** 22
+- **First / last:** 2026-01-18T11:05:37+0100 / 2026-04-30T00:13:23+0100
+
+- `posts/2026/01/18/demolition-man-peter-masons-legacy.md` — and a developmental delay was placed by Ealing Council in an inaccessible one bedroom Southall flat on the first floor. The McCreesh family were made homeless and face financial ruin after Ealing failed to deliver their promised accessible new home in
+- `posts/2026/04/30/when-is-a-hustings-not.md` — his site documented some of the human cost in detail: - Half-built homes have rotted on Norwood Road for three years. - The McCreesh family were made homeless after Ealing failed to deliver their promised accessible new home, with council officers tell
+
+## The Pension Fund Panel
+
+- **Class hint:** unknown
+- **Posts:** 2
+- **Mentions:** 2
+- **Score:** 22
+- **First / last:** 2026-05-03T23:52:46+0100 / 2026-05-07T17:09:21+0100
+
+- `posts/2026/05/03/cactuses-never-die.md` — he Who Profits database. --- --- A formal residents' petition demanded Ealing divest. The council refused to debate it. The Pension Fund Panel has not once placed divestment on its agenda. When LCIV divested from Russian holdings within weeks of the invasion of
+- `posts/2026/05/07/who-does-peter-mason-really.md` — m companies linked to the conflict in Gaza gathered thousands of signatures. Under Ealing's rules, it was insufficient. The Pension Fund Panel has never placed divestment on its agenda. Mason sat on the board of London CIV — the body managing those investments —
+
+## The Southall Young Adult Centre
+
+- **Class hint:** place_or_site
+- **Posts:** 2
+- **Mentions:** 2
+- **Score:** 22
+- **First / last:** 2025-07-11T13:50:30+0100 / 2026-04-28T13:21:52+0100
+
+- `posts/2025/07/11/perceval-house-w-where-local.md` — ame only, which is much more efficient than the old democracy where people could actually influence things. Chapter 10: The Southall Young Adult Centre Miracle But here's the thing - resistance is still possible. In 2022, the Council wanted to demolish Southall Young Adu
+- `posts/2026/04/28/this-place-has-turned-into.md` — ed for The Green, she noted, would never have been proposed in a white middle class area. The CPOs. The public inquiry. The Southall Young Adult Centre. The community raised money to rebuild the YAC twenty years ago — and later the Council wanted to knock it down and bui
+
+## The Strategy
+
+- **Class hint:** person_or_body
+- **Posts:** 2
+- **Mentions:** 2
+- **Score:** 22
+- **First / last:** 2023-01-26T20:32:00+0100 / 2026-05-25T15:34:05+0100
+
+- `posts/2023/01/26/response-to-ealings-air-quality.md` — reduce air pollution and its impact on the health of its large, mostly economically deprived and non-white population. The Strategy and Plan must target children and older people, people with lung conditions, and pregnant women: outside schools and sc
+- `posts/2026/05/25/feeling-the-heat.md` — strategy. Ealing Council knew On 11 January 2021, Ealing Council adopted its Climate and Ecological Emergency Strategy. The strategy committed in writing to climate justice, acknowledging in Section 6 that low-income households contribute least to emis
+
+## Tony Blair
+
+- **Class hint:** person_or_body
+- **Posts:** 2
+- **Mentions:** 2
+- **Score:** 22
+- **First / last:** 2025-09-26T11:16:20+0100 / 2026-02-13T14:46:03+0100
+
+- `posts/2025/09/26/ealing-for-sale.md` — uilt facilities across the borough. This is where Mason's true inspiration comes. In January 2014, he posted a photo of Tony Blair's 1994 "Change and National Renewal" manifesto, adding: "Its content is as true now as it was 20 (yes, 20) years ago to
+- `posts/2026/02/13/bangarang-pirate-pete-and-the.md` — abled people's lives unnecessarily poorer. It's a story about an ambitious New Labour leader - politically aligned with Tony Blair and his campaign director in 1997, the three times disgraced ex-Lord Peter Mandelson - who makes bad choices that harm
+
+## Virendra Sharma
+
+- **Class hint:** person_or_body
+- **Posts:** 2
+- **Mentions:** 2
+- **Score:** 22
+- **First / last:** 2026-02-18T23:35:12+0100 / 2026-05-06T17:44:53+0100
+
+- `posts/2026/02/18/the-broken-manifesto-promises-that.md` — lly all Peter Mason's fault. The same happened ten years ago under Julian Bell. The same happened thirty years ago when Virendra Sharma was a councillor before he became an MP. Peter Mason knows why: [E]ver since the 1980’s, and Thatcher’s dismantling of
+- `posts/2026/05/06/the-meeting-that-ended-local.md` — , the question that mattered: Whose side are you on, the community? Or Berkeley Homes? The panel stayed silent. The MP, Virendra Sharma, slipped in late, said nothing, and left before the end. Sharma had survived a Constituency Labour Party trigger ballot
+
+## Young Adult Centre
+
+- **Class hint:** place_or_site
+- **Posts:** 2
+- **Mentions:** 2
+- **Score:** 22
+- **First / last:** 2025-07-11T13:50:30+0100 / 2025-07-12T17:17:01+0100
+
+- `posts/2025/07/11/perceval-house-w-where-local.md` — mocracy. The timing is perfect: after communities proved they could win by building independent pressure (Save Southall Young Adult Centre, Save Southall Town Hall, Save Warren Farm Nature Reserve), the council is changing the rules to prevent it happening a
+- `posts/2025/07/12/so-it-goes-ai-on.md` — t here's the thing the machines found most puzzling: impossible things keep happening in Ealing. Communities save their Young Adult Centre. They protect their Town Hall. They refuse to accept that decisions have been made. Mrs. Patel might just save her chil
+
+## Your Voice Your Town
+
+- **Class hint:** unknown
+- **Posts:** 2
+- **Mentions:** 2
+- **Score:** 22
+- **First / last:** 2026-05-01T20:19:06+0100 / 2026-05-06T17:44:53+0100
+
+- `posts/2026/05/01/back-to-the-future.md` — ments." Ward Forums were abolished in 2020. They have been replaced by Town Forums, which now incorporate the council's Your Voice Your Town participatory budgeting process — a competitive application system with its own governance arrangements. [This site is
+- `posts/2026/05/06/the-meeting-that-ended-local.md` — t says local democracy was always thinly attended; that ward forums attracted activists, not "ordinary residents"; that Your Voice Your Town is genuinely more representative; that Labour's non-attendance at hustings is a national phenomenon, not a Southall one
