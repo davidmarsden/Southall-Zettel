@@ -26,23 +26,29 @@ scripts/        repeatable import/build tools
 docs/           archive conventions and documentation
 ```
 
-Directories are created by the importer as they become needed; empty folders are not committed.
-
 ## Baseline
 
-The first source corpus is the Micro.blog export supplied on **27 August 2026**. Initial inspection found 69 journalistic posts spanning July 2018 to May 2026, with useful front matter including titles, dates, summaries, categories, Micro.blog IDs, canonical URLs and media metadata.
+The first source corpus is the Micro.blog export supplied on **27 August 2026**: 69 journalistic posts spanning July 2018 to May 2026. Every baseline post is preserved byte-for-byte and recorded in `generated/posts.json` with a SHA-256 digest.
 
-## First workflow
+## Import a fresh Micro.blog export
 
 ```bash
 python -m pip install -r requirements.txt
 python scripts/import_microblog.py /path/to/microblog-export
 ```
 
-The importer copies dated posts into `posts/YYYY/MM/DD/`, preserves their source text, and writes a machine-readable inventory to `generated/posts.json` plus simple Markdown indexes.
+The importer copies dated posts into `posts/YYYY/MM/DD/`, preserves their source text, and updates the post inventory and basic indexes.
 
-Future imports should be run against a fresh Micro.blog export. Git then becomes the audit trail for additions and changes to the published corpus.
+## Build the research layer
+
+```bash
+python scripts/build_research.py
+```
+
+This derives entity and topic mentions, internal backlinks, outbound-source records, a source-domain graph, a combined knowledge graph and human-readable research indexes. See [`docs/research-layer.md`](docs/research-layer.md).
+
+Curated knowledge lives in `entities/` and `topics/`; generated relationships live in `generated/`. The GitHub Actions workflow rebuilds the derived layer automatically when posts, curated notes or the research builder change.
 
 ## Status
 
-Early baseline build. The priority is a clean, reproducible corpus before entity extraction or AI-generated cross-linking is added.
+**Baseline corpus complete; research layer v1 active.** The next phase is iterative curation: improve aliases, add entities/topics as reporting demands, preserve high-value primary sources, and enrich reviewed relationships without altering the source corpus.
