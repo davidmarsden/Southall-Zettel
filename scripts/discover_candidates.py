@@ -11,12 +11,12 @@ import yaml
 FRONT_MATTER_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 TAG_RE = re.compile(r"<[^>]+>")
 MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\([^)]*\)")
-# Conservative v1: two-to-five title-cased tokens. Single words are too noisy to auto-rank usefully.
-CANDIDATE_RE = re.compile(r"\b[A-Z][A-Za-z'’&.-]+(?:\s+[A-Z][A-Za-z'’&.-]+){1,4}\b")
+# Conservative v1: two-to-five title-cased tokens. Single words are intentionally excluded.
+CANDIDATE_RE = re.compile(r"\b[A-Z][A-Za-z'’&-]+(?:\s+[A-Z][A-Za-z'’&-]+){1,4}\b")
 
-ORG_HINTS = {"Council", "Ltd", "Limited", "Group", "Agency", "Authority", "Committee", "Party", "Trust", "Association", "Company", "Construction", "Homes", "Labour", "University", "Police"}
-PLACE_HINTS = {"Road", "Street", "Lane", "Park", "Green", "Estate", "House", "Hall", "Centre", "Center", "Market", "Gasworks", "Waterside", "Southall", "Ealing"}
-STOP_PREFIXES = {"This", "That", "These", "Those", "What", "When", "Where", "Why", "How", "They", "There", "Here", "After", "Before", "During", "Meanwhile", "However", "Today", "Yesterday"}
+ORG_HINTS = {"Council", "Ltd", "Limited", "Group", "Agency", "Authority", "Committee", "Party", "Trust", "Association", "Alliance", "Company", "Construction", "Homes", "Labour", "University", "Police", "Independents", "Democrats", "Conservatives", "Greens"}
+PLACE_HINTS = {"Road", "Street", "Lane", "Park", "Green", "Estate", "House", "Hall", "Centre", "Center", "Market", "Gasworks", "Waterside"}
+STOP_PREFIXES = {"This", "That", "These", "Those", "What", "When", "Where", "Why", "How", "They", "There", "Here", "After", "Before", "During", "Meanwhile", "However", "Today", "Yesterday", "In", "On", "At", "By", "As", "For", "From", "To"}
 STOP = {
     "Southall Stories", "Read More", "Local Democracy", "United Kingdom", "New Year", "The Council", "The Labour Party",
     "Ealing Labour", "Ealing Council", "Peter Mason", "Julian Bell", "Berkeley Group", "Environment Agency", "Public Health England",
@@ -102,7 +102,7 @@ def main() -> None:
             seen.add(key)
 
     candidates = []
-    for key, data in occurrences.items():
+    for data in occurrences.values():
         post_count = len(data["posts"])
         if post_count < 2:
             continue
@@ -110,17 +110,11 @@ def main() -> None:
         dates = sorted(d for d in data["dates"] if d)
         mention_count = sum(data["forms"].values())
         candidates.append({
-            "name": canonical,
-            "class_hint": classify(canonical),
-            "score": post_count * 10 + min(mention_count, 20),
-            "post_count": post_count,
-            "mention_count": mention_count,
-            "first_mention": dates[0] if dates else None,
-            "last_mention": dates[-1] if dates else None,
+            "name": canonical, "class_hint": classify(canonical), "score": post_count * 10 + min(mention_count, 20),
+            "post_count": post_count, "mention_count": mention_count,
+            "first_mention": dates[0] if dates else None, "last_mention": dates[-1] if dates else None,
             "variant_forms": sorted(data["forms"], key=lambda x: (-data["forms"][x], x)),
-            "representative_posts": sorted(data["posts"])[:5],
-            "contexts": data["contexts"],
-            "review_status": "candidate",
+            "representative_posts": sorted(data["posts"])[:5], "contexts": data["contexts"], "review_status": "candidate",
         })
 
     candidates.sort(key=lambda x: (-x["score"], x["name"]))
