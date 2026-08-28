@@ -115,6 +115,29 @@
     "title": "Ealing affordable homes performance dashboard"
   },
   {
+    "body": "Primary council action plan. It includes a continuing commitment to commission and maintain air-pollution monitoring around the Southall Gasworks site.",
+    "canonical_url": "https://ealing.moderngov.co.uk/documents/s8333/Appendix%202%20-%20Ealing%20air%20quality%20action%20plan%202022-27.pdf",
+    "cited_by": [
+      "posts/2023/01/26/response-to-ealings-air-quality.md"
+    ],
+    "id": "air-quality-action-plan-2022-27",
+    "path": "sources/ealing-council/air-quality-action-plan-2022-27.md",
+    "publication_date": "2023",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "southall-gasworks"
+    ],
+    "related_topics": [
+      "air-pollution",
+      "public-health",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "action_plan",
+    "title": "Ealing Air Quality Action Plan 2022–2027"
+  },
+  {
     "body": "Primary Ealing Council performance report cited for the reported 2,576 genuinely affordable homes figure at the end of March 2022.",
     "canonical_url": "https://ealing.moderngov.co.uk/documents/s1725/Council%20Performance%20Year%20End%202021-22.pdf",
     "cited_by": [
@@ -157,6 +180,28 @@
     "review_status": "reviewed",
     "source_type": "strategy",
     "title": "Ealing Council Air Quality Strategy 2020-30"
+  },
+  {
+    "body": "Council publication for independent soil monitoring commissioned at the former Southall Gasworks site, retained as a primary monitoring/evidence record.",
+    "canonical_url": "https://www.ealing.gov.uk/downloads/download/6461/independent_testing_at_southall_gasworks",
+    "cited_by": [
+      "posts/2023/01/26/response-to-ealings-air-quality.md"
+    ],
+    "id": "independent-testing-at-southall-gasworks",
+    "path": "sources/ealing-council/independent-testing-at-southall-gasworks.md",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "southall-gasworks"
+    ],
+    "related_topics": [
+      "air-pollution",
+      "public-health",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "monitoring",
+    "title": "Independent testing at Southall Gasworks"
   },
   {
     "body": "Primary Ealing Council land and property strategy, cited in reporting on the council's asset-management and disposal programme.",
@@ -205,6 +250,55 @@
     "review_status": "reviewed",
     "source_type": "health-risk-assessment",
     "title": "Public Health England - Southall Waterside Health Risk Assessment July 2020"
+  },
+  {
+    "body": "Primary council briefing summarising the July 2019 PHE interim health-risk assessment, VOC monitoring, the soil hospital and Environment Agency recommendations.",
+    "canonical_url": "https://ealing.moderngov.co.uk/Data/Southall%20Broadway%20Ward%20Forum/201907291900/Agenda/Southall%20Broadway%20odour%20issue%20July%202019.pdf",
+    "cited_by": [
+      "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+    ],
+    "id": "southall-broadway-air-quality-briefing-2019-07-29",
+    "path": "sources/ealing-council/southall-broadway-air-quality-briefing-2019-07-29.md",
+    "publication_date": "2019-07-29",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "public-health-england",
+      "environment-agency",
+      "berkeley-group",
+      "southall-gasworks"
+    ],
+    "related_topics": [
+      "air-pollution",
+      "public-health",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "briefing",
+    "title": "Southall Broadway Ward Forum — Air quality in Southall, concerns about health and the odour"
+  },
+  {
+    "body": "Council publication containing specialist counsel's opinion on the Southall Gasworks site and the council action plan produced to implement that advice.",
+    "canonical_url": "https://www.ealing.gov.uk/downloads/download/6320/southall_gasworks_-_new_legal_advice",
+    "cited_by": [
+      "posts/2026/05/07/who-does-peter-mason-really.md"
+    ],
+    "id": "southall-gasworks-new-legal-advice-2021",
+    "path": "sources/ealing-council/southall-gasworks-new-legal-advice-2021.md",
+    "publication_date": "2021",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "southall-gasworks"
+    ],
+    "related_topics": [
+      "council-accountability",
+      "planning-development",
+      "air-pollution"
+    ],
+    "review_status": "reviewed",
+    "source_type": "legal_advice",
+    "title": "Southall Gasworks — New Legal Advice"
   },
   {
     "body": "Primary Ealing Council page setting out the respective regulatory and advisory responsibilities of the council, Environment Agency and Public Health England for the Southall Gasworks redevelopment.",
@@ -275,6 +369,30 @@
     "review_status": "reviewed",
     "source_type": "guidance",
     "title": "Southall Gasworks: Soil remediation"
+  },
+  {
+    "body": "Primary council ward-forum record describing Southall Waterside remediation, odour mitigation, regulatory visits and the submission of air-monitoring data to Ealing Council and the Environment Agency.",
+    "canonical_url": "https://ealing.moderngov.co.uk/Data/Southall%20Green%20Ward%20Forum/201710031900/Agenda/Southall%20Green%20Actions%20and%20discussion%20points%203%20October%202017.pdf",
+    "cited_by": [
+      "posts/2018/09/12/countering-the-southall-waterside-narrative.md"
+    ],
+    "id": "southall-green-ward-forum-actions-2017-10-03",
+    "path": "sources/ealing-council/southall-green-ward-forum-actions-2017-10-03.md",
+    "publication_date": "2017-10-03",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "berkeley-group",
+      "environment-agency",
+      "southall-gasworks"
+    ],
+    "related_topics": [
+      "air-pollution",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "meeting_record",
+    "title": "Southall Green Ward Forum Actions and Discussion Points — 3 October 2017"
   },
   {
     "body": "Primary ModernGov decision record cited in reporting on the stalled Southall Market Car Park housing development.",

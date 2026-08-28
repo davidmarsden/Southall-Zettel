@@ -34,6 +34,14 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **URL:** https://ealing.moderngov.co.uk/documents/s1725/Council%20Performance%20Year%20End%202021-22.pdf
 - **Cited by:** 1 post(s)
 
+## Ealing Air Quality Action Plan 2022–2027
+
+- **ID:** `air-quality-action-plan-2022-27`
+- **Publisher:** Ealing Council
+- **Type:** `action_plan`
+- **URL:** https://ealing.moderngov.co.uk/documents/s8333/Appendix%202%20-%20Ealing%20air%20quality%20action%20plan%202022-27.pdf
+- **Cited by:** 1 post(s)
+
 ## Ealing Council Air Quality Strategy 2020-30
 
 - **ID:** `ealing-air-quality-strategy-2020-30`
@@ -50,12 +58,36 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **URL:** https://ealingperformance.inphase.com/Detail/865_17759
 - **Cited by:** 1 post(s)
 
+## Independent testing at Southall Gasworks
+
+- **ID:** `independent-testing-at-southall-gasworks`
+- **Publisher:** Ealing Council
+- **Type:** `monitoring`
+- **URL:** https://www.ealing.gov.uk/downloads/download/6461/independent_testing_at_southall_gasworks
+- **Cited by:** 1 post(s)
+
 ## Land and Property Strategy 2023-2027
 
 - **ID:** `ealing-land-and-property-strategy-2023-2027`
 - **Publisher:** Ealing Council
 - **Type:** `strategy`
 - **URL:** https://www.ealing.gov.uk/download/downloads/id/18971/land_and_property_strategy.pdf
+- **Cited by:** 1 post(s)
+
+## Southall Broadway Ward Forum — Air quality in Southall, concerns about health and the odour
+
+- **ID:** `southall-broadway-air-quality-briefing-2019-07-29`
+- **Publisher:** Ealing Council
+- **Type:** `briefing`
+- **URL:** https://ealing.moderngov.co.uk/Data/Southall%20Broadway%20Ward%20Forum/201907291900/Agenda/Southall%20Broadway%20odour%20issue%20July%202019.pdf
+- **Cited by:** 1 post(s)
+
+## Southall Gasworks — New Legal Advice
+
+- **ID:** `southall-gasworks-new-legal-advice-2021`
+- **Publisher:** Ealing Council
+- **Type:** `legal_advice`
+- **URL:** https://www.ealing.gov.uk/downloads/download/6320/southall_gasworks_-_new_legal_advice
 - **Cited by:** 1 post(s)
 
 ## Southall Gasworks: Organisational roles and responsibilities
@@ -80,6 +112,14 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **Publisher:** Ealing Council
 - **Type:** `guidance`
 - **URL:** https://www.ealing.gov.uk/info/201283/our_neighbourhoods/2613/southall_gasworks/2
+- **Cited by:** 1 post(s)
+
+## Southall Green Ward Forum Actions and Discussion Points — 3 October 2017
+
+- **ID:** `southall-green-ward-forum-actions-2017-10-03`
+- **Publisher:** Ealing Council
+- **Type:** `meeting_record`
+- **URL:** https://ealing.moderngov.co.uk/Data/Southall%20Green%20Ward%20Forum/201710031900/Agenda/Southall%20Green%20Actions%20and%20discussion%20points%203%20October%202017.pdf
 - **Cited by:** 1 post(s)
 
 ## Southall Market Car Park decision record (Decision 958)

@@ -207,5 +207,92 @@
     "review_status": "reviewed",
     "to": "southall-gasworks",
     "type": "adjacent_to"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2019/06/01/pull-the-other-one-julian.md",
+      "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+    ],
+    "from": "julian-bell",
+    "id": "julian-bell-leader-of-ealing-council",
+    "note": "The cited reporting identifies Julian Bell as Ealing Council leader at the time.",
+    "review_status": "reviewed",
+    "to": "ealing-council",
+    "type": "leader_of"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+    ],
+    "from": "dr-john-freeman",
+    "id": "dr-john-freeman-officer-of-ealing-council",
+    "note": "The cited reporting identifies Dr John Freeman as a Regulatory Services Officer at Ealing Council.",
+    "review_status": "reviewed",
+    "to": "ealing-council",
+    "type": "officer_of"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+    ],
+    "from": "damian-leydon",
+    "id": "damian-leydon-employed-by-berkeley-group",
+    "note": "The cited reporting identifies Berkeley Group as Damian Leydon's employer and describes him as Operations Director at Southall Waterside.",
+    "review_status": "reviewed",
+    "to": "berkeley-group",
+    "type": "employed_by"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+    ],
+    "from": "air-quality-scrutiny-panel",
+    "id": "air-quality-scrutiny-panel-panel-of-ealing-council",
+    "note": "The Air Quality Scrutiny Panel is described in the corpus as an Ealing Council scrutiny panel.",
+    "review_status": "reviewed",
+    "to": "ealing-council",
+    "type": "panel_of"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "posts/2018/09/12/countering-the-southall-waterside-narrative.md"
+    ],
+    "from": "air-quality-scrutiny-panel",
+    "id": "air-quality-scrutiny-panel-scrutinised-southall-gasworks",
+    "note": "The cited reporting records Southall Waterside remediation and odour as evidence considered at the panel's September 2018 meeting.",
+    "review_status": "reviewed",
+    "to": "southall-gasworks",
+    "type": "scrutinised"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "posts/2018/09/12/countering-the-southall-waterside-narrative.md"
+    ],
+    "from": "damian-leydon",
+    "id": "damian-leydon-appeared-before-air-quality-scrutiny-panel",
+    "note": "The cited reporting records Leydon answering questions at the panel's September 2018 meeting.",
+    "review_status": "reviewed",
+    "to": "air-quality-scrutiny-panel",
+    "type": "appeared_before"
   }
 ]

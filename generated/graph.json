@@ -10163,6 +10163,87 @@
       "type": "adjacent_to"
     },
     {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "posts/2019/06/01/pull-the-other-one-julian.md",
+        "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:julian-bell",
+      "target": "entity:ealing-council",
+      "type": "leader_of"
+    },
+    {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:dr-john-freeman",
+      "target": "entity:ealing-council",
+      "type": "officer_of"
+    },
+    {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:damian-leydon",
+      "target": "entity:berkeley-group",
+      "type": "employed_by"
+    },
+    {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "posts/2019/08/25/southall-under-siege-the-neighbours.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:air-quality-scrutiny-panel",
+      "target": "entity:ealing-council",
+      "type": "panel_of"
+    },
+    {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "posts/2019/08/25/southall-under-siege-the-neighbours.md",
+        "posts/2018/09/12/countering-the-southall-waterside-narrative.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:air-quality-scrutiny-panel",
+      "target": "entity:southall-gasworks",
+      "type": "scrutinised"
+    },
+    {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "posts/2019/08/25/southall-under-siege-the-neighbours.md",
+        "posts/2018/09/12/countering-the-southall-waterside-narrative.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:damian-leydon",
+      "target": "entity:air-quality-scrutiny-panel",
+      "type": "appeared_before"
+    },
+    {
       "provenance": "reviewed-source-record",
       "source": "post:posts/2026/03/01/boomerang-ten-years-sorting-out.md",
       "target": "source:bbc-london-politics-show",
@@ -10332,6 +10413,42 @@
     },
     {
       "provenance": "reviewed-source-record",
+      "source": "post:posts/2023/01/26/response-to-ealings-air-quality.md",
+      "target": "source:air-quality-action-plan-2022-27",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:air-quality-action-plan-2022-27",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:air-quality-action-plan-2022-27",
+      "target": "entity:southall-gasworks",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:air-quality-action-plan-2022-27",
+      "target": "topic:air-pollution",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:air-quality-action-plan-2022-27",
+      "target": "topic:public-health",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:air-quality-action-plan-2022-27",
+      "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
       "source": "post:posts/2026/01/18/demolition-man-peter-masons-legacy.md",
       "target": "source:council-performance-year-end-2021-22",
       "type": "cites-source"
@@ -10394,6 +10511,42 @@
       "provenance": "reviewed-source-record",
       "source": "source:ealing-air-quality-strategy-2020-30",
       "target": "topic:public-health",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2023/01/26/response-to-ealings-air-quality.md",
+      "target": "source:independent-testing-at-southall-gasworks",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:independent-testing-at-southall-gasworks",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:independent-testing-at-southall-gasworks",
+      "target": "entity:southall-gasworks",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:independent-testing-at-southall-gasworks",
+      "target": "topic:air-pollution",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:independent-testing-at-southall-gasworks",
+      "target": "topic:public-health",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:independent-testing-at-southall-gasworks",
+      "target": "topic:council-accountability",
       "type": "relates-to"
     },
     {
@@ -10478,6 +10631,96 @@
       "provenance": "reviewed-source-record",
       "source": "source:phe-southall-waterside-health-risk-assessment-july-2020",
       "target": "topic:public-health",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "target": "source:southall-broadway-air-quality-briefing-2019-07-29",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-broadway-air-quality-briefing-2019-07-29",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-broadway-air-quality-briefing-2019-07-29",
+      "target": "entity:public-health-england",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-broadway-air-quality-briefing-2019-07-29",
+      "target": "entity:environment-agency",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-broadway-air-quality-briefing-2019-07-29",
+      "target": "entity:berkeley-group",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-broadway-air-quality-briefing-2019-07-29",
+      "target": "entity:southall-gasworks",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-broadway-air-quality-briefing-2019-07-29",
+      "target": "topic:air-pollution",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-broadway-air-quality-briefing-2019-07-29",
+      "target": "topic:public-health",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-broadway-air-quality-briefing-2019-07-29",
+      "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "target": "source:southall-gasworks-new-legal-advice-2021",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-new-legal-advice-2021",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-new-legal-advice-2021",
+      "target": "entity:southall-gasworks",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-new-legal-advice-2021",
+      "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-new-legal-advice-2021",
+      "target": "topic:planning-development",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-gasworks-new-legal-advice-2021",
+      "target": "topic:air-pollution",
       "type": "relates-to"
     },
     {
@@ -10610,6 +10853,48 @@
       "provenance": "reviewed-source-record",
       "source": "source:southall-gasworks-soil-remediation",
       "target": "topic:planning-development",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2018/09/12/countering-the-southall-waterside-narrative.md",
+      "target": "source:southall-green-ward-forum-actions-2017-10-03",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-green-ward-forum-actions-2017-10-03",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-green-ward-forum-actions-2017-10-03",
+      "target": "entity:berkeley-group",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-green-ward-forum-actions-2017-10-03",
+      "target": "entity:environment-agency",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-green-ward-forum-actions-2017-10-03",
+      "target": "entity:southall-gasworks",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-green-ward-forum-actions-2017-10-03",
+      "target": "topic:air-pollution",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-green-ward-forum-actions-2017-10-03",
+      "target": "topic:council-accountability",
       "type": "relates-to"
     },
     {
@@ -13383,6 +13668,14 @@
       "type": "source-record"
     },
     {
+      "id": "source:air-quality-action-plan-2022-27",
+      "label": "Ealing Air Quality Action Plan 2022–2027",
+      "path": "sources/ealing-council/air-quality-action-plan-2022-27.md",
+      "publisher": "Ealing Council",
+      "source_type": "action_plan",
+      "type": "source-record"
+    },
+    {
       "id": "source:council-performance-year-end-2021-22",
       "label": "Council Performance Year End 2021-22",
       "path": "sources/ealing-council/council-performance-year-end-2021-22.md",
@@ -13399,6 +13692,14 @@
       "type": "source-record"
     },
     {
+      "id": "source:independent-testing-at-southall-gasworks",
+      "label": "Independent testing at Southall Gasworks",
+      "path": "sources/ealing-council/independent-testing-at-southall-gasworks.md",
+      "publisher": "Ealing Council",
+      "source_type": "monitoring",
+      "type": "source-record"
+    },
+    {
       "id": "source:ealing-land-and-property-strategy-2023-2027",
       "label": "Land and Property Strategy 2023-2027",
       "path": "sources/ealing-council/land-and-property-strategy-2023-2027.md",
@@ -13412,6 +13713,22 @@
       "path": "sources/ealing-council/phe-southall-waterside-health-risk-assessment-july-2020.md",
       "publisher": "Public Health England",
       "source_type": "health-risk-assessment",
+      "type": "source-record"
+    },
+    {
+      "id": "source:southall-broadway-air-quality-briefing-2019-07-29",
+      "label": "Southall Broadway Ward Forum — Air quality in Southall, concerns about health and the odour",
+      "path": "sources/ealing-council/southall-broadway-air-quality-briefing-2019-07-29.md",
+      "publisher": "Ealing Council",
+      "source_type": "briefing",
+      "type": "source-record"
+    },
+    {
+      "id": "source:southall-gasworks-new-legal-advice-2021",
+      "label": "Southall Gasworks — New Legal Advice",
+      "path": "sources/ealing-council/southall-gasworks-new-legal-advice-2021.md",
+      "publisher": "Ealing Council",
+      "source_type": "legal_advice",
       "type": "source-record"
     },
     {
@@ -13436,6 +13753,14 @@
       "path": "sources/ealing-council/southall-gasworks-soil-remediation.md",
       "publisher": "Ealing Council",
       "source_type": "guidance",
+      "type": "source-record"
+    },
+    {
+      "id": "source:southall-green-ward-forum-actions-2017-10-03",
+      "label": "Southall Green Ward Forum Actions and Discussion Points — 3 October 2017",
+      "path": "sources/ealing-council/southall-green-ward-forum-actions-2017-10-03.md",
+      "publisher": "Ealing Council",
+      "source_type": "meeting_record",
       "type": "source-record"
     },
     {

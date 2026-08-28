@@ -135,3 +135,60 @@ Curated edges with explicit evidence. These are assertions, not co-occurrence.
 - **Evidence:**
   - `posts/2018/09/11/berkeleys-school-governors-board-member.md`
 - **Note:** The cited reporting explicitly describes Blair Peach Primary School as adjacent to Southall Waterside / the former gasworks site.
+
+## Julian Bell → Ealing Council
+
+- **Type:** `leader_of`
+- **Confidence:** high
+- **Review:** reviewed
+- **Evidence:**
+  - `posts/2019/06/01/pull-the-other-one-julian.md`
+  - `posts/2019/08/25/southall-under-siege-the-neighbours.md`
+- **Note:** The cited reporting identifies Julian Bell as Ealing Council leader at the time.
+
+## Dr John Freeman → Ealing Council
+
+- **Type:** `officer_of`
+- **Confidence:** high
+- **Review:** reviewed
+- **Evidence:**
+  - `posts/2019/08/25/southall-under-siege-the-neighbours.md`
+- **Note:** The cited reporting identifies Dr John Freeman as a Regulatory Services Officer at Ealing Council.
+
+## Damian Leydon → Berkeley Group
+
+- **Type:** `employed_by`
+- **Confidence:** high
+- **Review:** reviewed
+- **Evidence:**
+  - `posts/2019/08/25/southall-under-siege-the-neighbours.md`
+- **Note:** The cited reporting identifies Berkeley Group as Damian Leydon's employer and describes him as Operations Director at Southall Waterside.
+
+## Air Quality Scrutiny Panel → Ealing Council
+
+- **Type:** `panel_of`
+- **Confidence:** high
+- **Review:** reviewed
+- **Evidence:**
+  - `posts/2019/08/25/southall-under-siege-the-neighbours.md`
+- **Note:** The Air Quality Scrutiny Panel is described in the corpus as an Ealing Council scrutiny panel.
+
+## Air Quality Scrutiny Panel → Southall Gasworks
+
+- **Type:** `scrutinised`
+- **Confidence:** high
+- **Review:** reviewed
+- **Evidence:**
+  - `posts/2019/08/25/southall-under-siege-the-neighbours.md`
+  - `posts/2018/09/12/countering-the-southall-waterside-narrative.md`
+- **Note:** The cited reporting records Southall Waterside remediation and odour as evidence considered at the panel's September 2018 meeting.
+
+## Damian Leydon → Air Quality Scrutiny Panel
+
+- **Type:** `appeared_before`
+- **Confidence:** high
+- **Review:** reviewed
+- **Evidence:**
+  - `posts/2019/08/25/southall-under-siege-the-neighbours.md`
+  - `posts/2018/09/12/countering-the-southall-waterside-narrative.md`
+- **Note:** The cited reporting records Leydon answering questions at the panel's September 2018 meeting.
