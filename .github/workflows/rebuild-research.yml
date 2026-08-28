@@ -2,6 +2,8 @@ name: Rebuild research layer
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '17 5 * * 1'
   push:
     branches: [main]
     paths:
@@ -15,6 +17,7 @@ on:
       - 'scripts/build_research.py'
       - 'scripts/discover_candidates.py'
       - 'scripts/enrich_citation_titles.py'
+      - 'scripts/generate_link_health.py'
       - 'scripts/generate_commons.py'
       - 'scripts/apply_citation_titles.py'
       - 'schemas/commons-v1.schema.json'
@@ -26,6 +29,7 @@ concurrency:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   build:
@@ -40,15 +44,20 @@ jobs:
         run: python scripts/discover_candidates.py
       - name: Build reviewed research graph
         run: python scripts/build_research.py
-      - name: Enrich article citation titles
+      - name: Enrich article citations and check links
+        env:
+          LINK_HEALTH_FULL: ${{ github.event_name == 'schedule' && '1' || '0' }}
         run: python scripts/enrich_citation_titles.py
       - name: Build Civic Commons export
         run: python scripts/generate_commons.py
       - name: Apply citation destination titles
         run: python scripts/apply_citation_titles.py
+      - name: Build link health report
+        run: python scripts/generate_link_health.py
       - name: Validate Commons JSON
         run: |
           python -m json.tool generated/commons.json > /dev/null
+          python -m json.tool generated/link-health.json > /dev/null
           python - <<'PY'
           import json
           from pathlib import Path
@@ -59,6 +68,11 @@ jobs:
           jsonschema.Draft202012Validator(schema).validate(data)
           print('Commons export validates against schema v1')
           PY
+      - name: Notify newly degraded links
+        if: ${{ hashFiles('generated/link-health-alert.md') != '' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "Link health: newly degraded Southall Stories sources" --body-file generated/link-health-alert.md
       - name: Commit generated research layer
         run: |
           git add generated indexes
