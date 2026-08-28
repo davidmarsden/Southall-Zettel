@@ -138,6 +138,7 @@
       "properties": {
         "post": {"type": "string", "pattern": "^post:"},
         "label": {"type": "string"},
+        "article_label": {"type": ["string", "null"]},
         "destination_title": {"type": ["string", "null"]},
         "title_source": {"type": ["string", "null"], "enum": ["og:title", "html-title", "pdf-title", null]},
         "resolved_url": {"type": ["string", "null"]},
