@@ -10032,6 +10032,85 @@
       "type": "located_in"
     },
     {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "posts/2019/06/01/pull-the-other-one-julian.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:tony-pidgley",
+      "target": "entity:berkeley-group",
+      "type": "founder_of"
+    },
+    {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "posts/2019/06/01/pull-the-other-one-julian.md",
+        "posts/2026/05/07/the-man-in-the-middle.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:berkeley-group",
+      "target": "entity:southall-gasworks",
+      "type": "developer_of"
+    },
+    {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "posts/2026/05/07/the-man-in-the-middle.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:jags-sanghera",
+      "target": "entity:berkeley-group",
+      "type": "employed_by"
+    },
+    {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "posts/2026/05/07/the-man-in-the-middle.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:jags-sanghera",
+      "target": "entity:southall-community-alliance",
+      "type": "chair_of"
+    },
+    {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "posts/2026/05/07/the-man-in-the-middle.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:southall-community-alliance",
+      "target": "entity:southall-town-team",
+      "type": "member_of"
+    },
+    {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "posts/2026/05/07/the-man-in-the-middle.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:southall-town-team",
+      "target": "entity:ealing-council",
+      "type": "facilitated_by"
+    },
+    {
       "provenance": "reviewed-source-record",
       "source": "post:posts/2026/03/01/boomerang-ten-years-sorting-out.md",
       "target": "source:bbc-london-politics-show",
@@ -10063,6 +10142,54 @@
     },
     {
       "provenance": "reviewed-source-record",
+      "source": "post:posts/2026/05/07/the-man-in-the-middle.md",
+      "target": "source:berkeley-community-chest-western-road-urban-garden",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:berkeley-community-chest-western-road-urban-garden",
+      "target": "entity:berkeley-group",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:berkeley-community-chest-western-road-urban-garden",
+      "target": "entity:southall-gasworks",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:berkeley-community-chest-western-road-urban-garden",
+      "target": "entity:western-road",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:berkeley-community-chest-western-road-urban-garden",
+      "target": "entity:jags-sanghera",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:berkeley-community-chest-western-road-urban-garden",
+      "target": "entity:southall-community-alliance",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:berkeley-community-chest-western-road-urban-garden",
+      "target": "topic:planning-development",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:berkeley-community-chest-western-road-urban-garden",
+      "target": "topic:governance",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
       "source": "post:posts/2022/12/17/the-property-lobby-the-hidden.md",
       "target": "source:the-property-lobby",
       "type": "cites-source"
@@ -10088,6 +10215,36 @@
     {
       "provenance": "reviewed-source-record",
       "source": "source:the-property-lobby",
+      "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2026/05/07/the-man-in-the-middle.md",
+      "target": "source:charity-commission-southall-community-alliance-register",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:charity-commission-southall-community-alliance-register",
+      "target": "entity:southall-community-alliance",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:charity-commission-southall-community-alliance-register",
+      "target": "entity:jags-sanghera",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:charity-commission-southall-community-alliance-register",
+      "target": "topic:governance",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:charity-commission-southall-community-alliance-register",
       "target": "topic:council-accountability",
       "type": "relates-to"
     },
@@ -10189,6 +10346,48 @@
     },
     {
       "provenance": "reviewed-source-record",
+      "source": "post:posts/2025/09/26/ealing-for-sale.md",
+      "target": "source:ealing-land-and-property-strategy-2023-2027",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-land-and-property-strategy-2023-2027",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-land-and-property-strategy-2023-2027",
+      "target": "entity:peter-mason",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-land-and-property-strategy-2023-2027",
+      "target": "entity:dominion-centre",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-land-and-property-strategy-2023-2027",
+      "target": "topic:planning-development",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-land-and-property-strategy-2023-2027",
+      "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-land-and-property-strategy-2023-2027",
+      "target": "topic:governance",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
       "source": "post:posts/2026/01/18/demolition-man-peter-masons-legacy.md",
       "target": "source:southall-market-car-park-decision-958",
       "type": "cites-source"
@@ -10227,6 +10426,84 @@
       "provenance": "reviewed-source-record",
       "source": "source:southall-market-car-park-decision-958",
       "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2026/05/07/the-man-in-the-middle.md",
+      "target": "source:ealing-southall-town-team",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-southall-town-team",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-southall-town-team",
+      "target": "entity:southall-town-team",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-southall-town-team",
+      "target": "entity:southall-community-alliance",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-southall-town-team",
+      "target": "entity:southall",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-southall-town-team",
+      "target": "topic:local-democracy",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-southall-town-team",
+      "target": "topic:governance",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-southall-town-team",
+      "target": "topic:planning-development",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2026/05/07/the-man-in-the-middle.md",
+      "target": "source:southall-community-alliance-trustees",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-community-alliance-trustees",
+      "target": "entity:southall-community-alliance",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-community-alliance-trustees",
+      "target": "entity:jags-sanghera",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-community-alliance-trustees",
+      "target": "topic:local-democracy",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-community-alliance-trustees",
+      "target": "topic:governance",
       "type": "relates-to"
     }
   ],
@@ -12770,11 +13047,27 @@
       "type": "source-record"
     },
     {
+      "id": "source:berkeley-community-chest-western-road-urban-garden",
+      "label": "Community Chest programme supports Western Road Urban Garden",
+      "path": "sources/berkeley-group/community-chest-western-road-urban-garden.md",
+      "publisher": "Berkeley Group",
+      "source_type": "corporate_news",
+      "type": "source-record"
+    },
+    {
       "id": "source:the-property-lobby",
       "label": "The Property Lobby: The Hidden Reality behind the Housing Crisis",
       "path": "sources/books/the-property-lobby.md",
       "publisher": "Policy Press",
       "source_type": "book",
+      "type": "source-record"
+    },
+    {
+      "id": "source:charity-commission-southall-community-alliance-register",
+      "label": "Southall Community Alliance charity register entry",
+      "path": "sources/charity-commission/southall-community-alliance-register.md",
+      "publisher": "Charity Commission for England and Wales",
+      "source_type": "charity_register",
       "type": "source-record"
     },
     {
@@ -12802,11 +13095,35 @@
       "type": "source-record"
     },
     {
+      "id": "source:ealing-land-and-property-strategy-2023-2027",
+      "label": "Land and Property Strategy 2023-2027",
+      "path": "sources/ealing-council/land-and-property-strategy-2023-2027.md",
+      "publisher": "Ealing Council",
+      "source_type": "strategy",
+      "type": "source-record"
+    },
+    {
       "id": "source:southall-market-car-park-decision-958",
       "label": "Southall Market Car Park decision record (Decision 958)",
       "path": "sources/ealing-council/southall-market-car-park-decision-958.md",
       "publisher": "Ealing Council",
       "source_type": "decision_record",
+      "type": "source-record"
+    },
+    {
+      "id": "source:ealing-southall-town-team",
+      "label": "Southall Town Team",
+      "path": "sources/ealing-council/southall-town-team.md",
+      "publisher": "Ealing Council",
+      "source_type": "civic_programme_page",
+      "type": "source-record"
+    },
+    {
+      "id": "source:southall-community-alliance-trustees",
+      "label": "Southall Community Alliance trustees and staff",
+      "path": "sources/southall-community-alliance/trustees.md",
+      "publisher": "Southall Community Alliance",
+      "source_type": "governance_page",
       "type": "source-record"
     }
   ]

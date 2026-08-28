@@ -22,6 +22,31 @@
     "title": "BBC London Politics Show"
   },
   {
+    "body": "Primary Berkeley Group account of the Community Chest award to the Western Road Urban Garden project, cited in reporting on overlapping corporate and community roles.",
+    "canonical_url": "https://www.berkeleygroup.co.uk/news-and-insights/news-and-features/2024/community-chest-programme-supports-western-road-urban-garden",
+    "cited_by": [
+      "posts/2026/05/07/the-man-in-the-middle.md"
+    ],
+    "id": "berkeley-community-chest-western-road-urban-garden",
+    "path": "sources/berkeley-group/community-chest-western-road-urban-garden.md",
+    "publication_date": "2024-01-23",
+    "publisher": "Berkeley Group",
+    "related_entities": [
+      "berkeley-group",
+      "southall-gasworks",
+      "western-road",
+      "jags-sanghera",
+      "southall-community-alliance"
+    ],
+    "related_topics": [
+      "planning-development",
+      "governance"
+    ],
+    "review_status": "reviewed",
+    "source_type": "corporate_news",
+    "title": "Community Chest programme supports Western Road Urban Garden"
+  },
+  {
     "author": "Bob Colenutt",
     "body": "Book by Bob Colenutt used in the corpus to examine the influence of property interests on housing and planning policy.",
     "canonical_url": "https://policy.bristoluniversitypress.co.uk/the-property-lobby",
@@ -42,6 +67,27 @@
     "review_status": "reviewed",
     "source_type": "book",
     "title": "The Property Lobby: The Hidden Reality behind the Housing Crisis"
+  },
+  {
+    "body": "Official charity register entry for Southall Community Alliance (registered charity 1104671), cited for trustee appointment evidence.",
+    "canonical_url": "https://register.charitycommission.gov.uk/en/charity-details/?regId=1104671",
+    "cited_by": [
+      "posts/2026/05/07/the-man-in-the-middle.md"
+    ],
+    "id": "charity-commission-southall-community-alliance-register",
+    "path": "sources/charity-commission/southall-community-alliance-register.md",
+    "publisher": "Charity Commission for England and Wales",
+    "related_entities": [
+      "southall-community-alliance",
+      "jags-sanghera"
+    ],
+    "related_topics": [
+      "governance",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "charity_register",
+    "title": "Southall Community Alliance charity register entry"
   },
   {
     "archive_urls": [
@@ -113,6 +159,30 @@
     "title": "Ealing Council Air Quality Strategy 2020-30"
   },
   {
+    "body": "Primary Ealing Council land and property strategy, cited in reporting on the council's asset-management and disposal programme.",
+    "canonical_url": "https://www.ealing.gov.uk/download/downloads/id/18971/land_and_property_strategy.pdf",
+    "cited_by": [
+      "posts/2025/09/26/ealing-for-sale.md"
+    ],
+    "id": "ealing-land-and-property-strategy-2023-2027",
+    "path": "sources/ealing-council/land-and-property-strategy-2023-2027.md",
+    "publication_date": "2023",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "peter-mason",
+      "dominion-centre"
+    ],
+    "related_topics": [
+      "planning-development",
+      "council-accountability",
+      "governance"
+    ],
+    "review_status": "reviewed",
+    "source_type": "strategy",
+    "title": "Land and Property Strategy 2023-2027"
+  },
+  {
     "body": "Primary ModernGov decision record cited in reporting on the stalled Southall Market Car Park housing development.",
     "canonical_url": "https://ealing.moderngov.co.uk/ieDecisionDetails.aspx?Id=958&LLL=0",
     "cited_by": [
@@ -134,5 +204,50 @@
     "review_status": "reviewed",
     "source_type": "decision_record",
     "title": "Southall Market Car Park decision record (Decision 958)"
+  },
+  {
+    "body": "Primary Ealing Council page for the Southall Town Team, a council-facilitated civic and regeneration body.",
+    "canonical_url": "https://dosomethinggood.ealing.gov.uk/your-voice-your-town/southall-town-team/",
+    "cited_by": [
+      "posts/2026/05/07/the-man-in-the-middle.md"
+    ],
+    "id": "ealing-southall-town-team",
+    "path": "sources/ealing-council/southall-town-team.md",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "southall-town-team",
+      "southall-community-alliance",
+      "southall"
+    ],
+    "related_topics": [
+      "local-democracy",
+      "governance",
+      "planning-development"
+    ],
+    "review_status": "reviewed",
+    "source_type": "civic_programme_page",
+    "title": "Southall Town Team"
+  },
+  {
+    "body": "Primary Southall Community Alliance governance page used to identify trustee and chair roles.",
+    "canonical_url": "https://southallcommunityalliance.com/trustees/",
+    "cited_by": [
+      "posts/2026/05/07/the-man-in-the-middle.md"
+    ],
+    "id": "southall-community-alliance-trustees",
+    "path": "sources/southall-community-alliance/trustees.md",
+    "publisher": "Southall Community Alliance",
+    "related_entities": [
+      "southall-community-alliance",
+      "jags-sanghera"
+    ],
+    "related_topics": [
+      "local-democracy",
+      "governance"
+    ],
+    "review_status": "reviewed",
+    "source_type": "governance_page",
+    "title": "Southall Community Alliance trustees and staff"
   }
 ]

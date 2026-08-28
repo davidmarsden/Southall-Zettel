@@ -66,5 +66,90 @@
     "review_status": "reviewed",
     "to": "southall",
     "type": "located_in"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2019/06/01/pull-the-other-one-julian.md"
+    ],
+    "from": "tony-pidgley",
+    "id": "tony-pidgley-founder-of-berkeley-group",
+    "note": "The cited post identifies Tony Pidgley as founder and chair of Berkeley Group.",
+    "review_status": "reviewed",
+    "to": "berkeley-group",
+    "type": "founder_of"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2019/06/01/pull-the-other-one-julian.md",
+      "posts/2026/05/07/the-man-in-the-middle.md"
+    ],
+    "from": "berkeley-group",
+    "id": "berkeley-group-developer-of-southall-gasworks",
+    "note": "The cited reporting identifies Berkeley Group as the developer of the former Southall Gasworks site, branded Southall Waterside and later The Green Quarter.",
+    "review_status": "reviewed",
+    "to": "southall-gasworks",
+    "type": "developer_of"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2026/05/07/the-man-in-the-middle.md"
+    ],
+    "from": "jags-sanghera",
+    "id": "jags-sanghera-employed-by-berkeley-group",
+    "note": "The cited reporting records Sanghera's Berkeley role and career history.",
+    "review_status": "reviewed",
+    "to": "berkeley-group",
+    "type": "employed_by"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2026/05/07/the-man-in-the-middle.md"
+    ],
+    "from": "jags-sanghera",
+    "id": "jags-sanghera-chair-of-southall-community-alliance",
+    "note": "The cited reporting and linked SCA governance page identify Jags Sanghera as chair.",
+    "review_status": "reviewed",
+    "to": "southall-community-alliance",
+    "type": "chair_of"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2026/05/07/the-man-in-the-middle.md"
+    ],
+    "from": "southall-community-alliance",
+    "id": "southall-community-alliance-member-of-southall-town-team",
+    "note": "The cited reporting states that Southall Community Alliance has a presence on the Southall Town Team.",
+    "review_status": "reviewed",
+    "to": "southall-town-team",
+    "type": "member_of"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2026/05/07/the-man-in-the-middle.md"
+    ],
+    "from": "southall-town-team",
+    "id": "southall-town-team-facilitated-by-ealing-council",
+    "note": "The cited reporting describes the Town Team as a council-facilitated body.",
+    "review_status": "reviewed",
+    "to": "ealing-council",
+    "type": "facilitated_by"
   }
 ]
