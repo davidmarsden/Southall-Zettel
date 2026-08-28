@@ -140,18 +140,19 @@ def html_title(data: bytes, charset: str | None) -> tuple[str | None, str | None
 
 def classify_health(url: str, result: dict) -> str:
     status = result.get("http_status")
+    state = result.get("status")
     if status in {404, 410}:
         return "gone"
-    if status is None and result.get("status") in {"fetch-failed", "parse-failed"}:
-        return "unreachable"
     if status and status >= 400:
+        return "unreachable"
+    if state in {"fetch-failed", "parse-failed"}:
         return "unreachable"
     resolved = result.get("resolved_url")
     if resolved and resolved.rstrip("/") != url.rstrip("/"):
         return "redirected"
-    if status and 200 <= status < 400:
+    if (status and 200 <= status < 400) or state in {"resolved", "fetched"}:
         return "healthy"
-    return "unreachable"
+    return "unknown"
 
 
 def fetch_metadata(url: str) -> tuple[str, dict]:
@@ -162,7 +163,7 @@ def fetch_metadata(url: str) -> tuple[str, dict]:
         "content_type": None,
         "http_status": None,
         "status": "unresolved",
-        "health": "unreachable",
+        "health": "unknown",
     }
     try:
         request = Request(
@@ -209,6 +210,10 @@ def main() -> None:
     CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
     cache = json.loads(CACHE_PATH.read_text(encoding="utf-8")) if CACHE_PATH.exists() else {}
     urls = discover_urls(repo)
+
+    for url, metadata in cache.items():
+        if "health" not in metadata or metadata.get("health") in {None, "unknown"}:
+            metadata["health"] = classify_health(url, metadata)
 
     if FULL_LINK_CHECK:
         pending = urls
