@@ -45,9 +45,12 @@ jobs:
       - name: Build reviewed research graph
         run: python scripts/build_research.py
       - name: Enrich article citations and check links
-        env:
-          LINK_HEALTH_FULL: ${{ github.event_name == 'schedule' && '1' || '0' }}
-        run: python scripts/enrich_citation_titles.py
+        run: |
+          if [[ "$GITHUB_EVENT_NAME" == "schedule" ]]; then
+            LINK_HEALTH_FULL=1 python scripts/enrich_citation_titles.py
+          else
+            python scripts/enrich_citation_titles.py
+          fi
       - name: Build Civic Commons export
         run: python scripts/generate_commons.py
       - name: Apply citation destination titles
@@ -69,10 +72,14 @@ jobs:
           print('Commons export validates against schema v1')
           PY
       - name: Notify newly degraded links
-        if: ${{ hashFiles('generated/link-health-alert.md') != '' }}
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh issue create --title "Link health: newly degraded Southall Stories sources" --body-file generated/link-health-alert.md
+        run: |
+          if [[ -f generated/link-health-alert.md ]]; then
+            gh issue create --title "Link health: newly degraded Southall Stories sources" --body-file generated/link-health-alert.md
+          else
+            echo "No newly degraded links to notify."
+          fi
       - name: Commit generated research layer
         run: |
           git add generated indexes
