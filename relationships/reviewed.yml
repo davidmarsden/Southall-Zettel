@@ -130,3 +130,51 @@ relationships:
     created_by: human
     review_status: reviewed
     note: The cited reporting describes the Town Team as a council-facilitated body.
+
+  - id: environment-agency-regulates-remediation-at-southall-gasworks
+    from: environment-agency
+    to: southall-gasworks
+    type: regulates_remediation_at
+    directional: true
+    evidence:
+      - posts/2019/08/25/southall-under-siege-the-neighbours.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: Ealing Council's published roles page identifies the Environment Agency as the regulator for land remediation and soil treatment at the site.
+
+  - id: public-health-england-health-risk-adviser-for-southall-gasworks
+    from: public-health-england
+    to: southall-gasworks
+    type: health_risk_adviser_for
+    directional: true
+    evidence:
+      - posts/2019/08/25/southall-under-siege-the-neighbours.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: PHE reviewed air-monitoring data and provided public-health advice for the Southall Waterside development.
+
+  - id: ealing-council-planning-authority-for-southall-gasworks
+    from: ealing-council
+    to: southall-gasworks
+    type: planning_authority_for
+    directional: true
+    evidence:
+      - posts/2019/08/25/southall-under-siege-the-neighbours.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: Ealing Council identifies itself as the local planning authority responsible for overseeing regeneration and contaminated-land treatment requirements at the site.
+
+  - id: blair-peach-primary-school-adjacent-to-southall-gasworks
+    from: blair-peach-primary-school
+    to: southall-gasworks
+    type: adjacent_to
+    directional: false
+    evidence:
+      - posts/2018/09/11/berkeleys-school-governors-board-member.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: The cited reporting explicitly describes Blair Peach Primary School as adjacent to Southall Waterside / the former gasworks site.
