@@ -4,12 +4,16 @@ from __future__ import annotations
 import json
 import re
 from pathlib import Path
+from urllib.parse import urlparse
 
 import yaml
 
 SCHEMA_VERSION = 1
 BASE_URL = "https://southallstories.uk"
 FRONT_MATTER_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
+MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\((https?://[^\s)]+)\)")
+HTML_LINK_RE = re.compile(r'<a\s+[^>]*href=["\'](https?://[^"\']+)["\'][^>]*>(.*?)</a>', re.IGNORECASE | re.DOTALL)
+HTML_TAG_RE = re.compile(r"<[^>]+>")
 
 
 def load_json(path: Path):
@@ -41,6 +45,39 @@ def ensure_unique(items: list[dict], label: str) -> set[str]:
     if len(ids) != len(set(ids)):
         raise ValueError(f"Duplicate {label} IDs in Commons export")
     return set(ids)
+
+
+def clean_link_label(value: str) -> str:
+    value = HTML_TAG_RE.sub("", value)
+    value = re.sub(r"[*_`]+", "", value)
+    return re.sub(r"\s+", " ", value).strip()
+
+
+def article_citations(repo: Path, post_id_by_path: dict[str, str]) -> list[dict]:
+    citations: list[dict] = []
+    for path, post_id in sorted(post_id_by_path.items()):
+        text = (repo / path).read_text(encoding="utf-8")
+        body_match = FRONT_MATTER_RE.match(text)
+        body = text[body_match.end():] if body_match else text
+        found: list[tuple[str, str]] = []
+        found.extend((clean_link_label(label), url) for label, url in MARKDOWN_LINK_RE.findall(body))
+        found.extend((clean_link_label(label), url) for url, label in HTML_LINK_RE.findall(body))
+        seen: set[str] = set()
+        for label, url in found:
+            url = url.rstrip(".,;:")
+            parsed = urlparse(url)
+            domain = (parsed.hostname or "").lower().removeprefix("www.")
+            if not domain or domain == "southallstories.uk" or url in seen:
+                continue
+            seen.add(url)
+            citations.append({
+                "post": post_id,
+                "label": label or domain,
+                "url": url,
+                "domain": domain,
+                "provenance": "source-post-link",
+            })
+    return citations
 
 
 def validate_export(data: dict) -> None:
@@ -75,6 +112,12 @@ def validate_export(data: dict) -> None:
         for ref in source.get("related_topics", []):
             if ref not in topic_ids:
                 raise ValueError(f"Source {source['id']} references unknown topic {ref}")
+
+    for citation in data.get("citations", []):
+        if citation.get("post") not in post_ids:
+            raise ValueError(f"Citation references unknown post: {citation}")
+        if citation.get("provenance") != "source-post-link":
+            raise ValueError(f"Citation has invalid provenance: {citation}")
 
     for edge in data["links"]:
         if edge["source"].startswith("entity:") and edge["source"] not in entity_ids:
@@ -142,10 +185,7 @@ def main() -> None:
             "provenance": "curated-topic",
         })
 
-    source_id_by_path = {
-        path: typed("source", note["id"])
-        for path, note in source_notes
-    }
+    source_id_by_path = {path: typed("source", note["id"]) for path, note in source_notes}
     sources = []
     for _, source in source_notes:
         cited_by = []
@@ -199,28 +239,15 @@ def main() -> None:
     links = []
     for entity_id, mentions in sorted(mentions_entities.items()):
         for mention in mentions:
-            links.append({
-                "source": typed("entity", entity_id),
-                "target": post_id_by_path[mention["path"]],
-                "type": "mentioned-in",
-                "provenance": "deterministic-alias-match",
-            })
+            links.append({"source": typed("entity", entity_id), "target": post_id_by_path[mention["path"]], "type": "mentioned-in", "provenance": "deterministic-alias-match"})
     for topic_id, mentions in sorted(mentions_topics.items()):
         for mention in mentions:
-            links.append({
-                "source": typed("topic", topic_id),
-                "target": post_id_by_path[mention["path"]],
-                "type": "mentioned-in",
-                "provenance": "deterministic-alias-match",
-            })
+            links.append({"source": typed("topic", topic_id), "target": post_id_by_path[mention["path"]], "type": "mentioned-in", "provenance": "deterministic-alias-match"})
     for target_path, source_paths in sorted((backlinks.get("posts") or {}).items()):
         for source_path in source_paths:
-            links.append({
-                "source": post_id_by_path[source_path],
-                "target": post_id_by_path[target_path],
-                "type": "links-to",
-                "provenance": "source-post-link",
-            })
+            links.append({"source": post_id_by_path[source_path], "target": post_id_by_path[target_path], "type": "links-to", "provenance": "source-post-link"})
+
+    citations = article_citations(repo, post_id_by_path)
 
     data = {
         "schema_version": SCHEMA_VERSION,
@@ -230,6 +257,7 @@ def main() -> None:
         "policy": {
             "candidates_exported": False,
             "raw_source_urls_exported": False,
+            "article_citations_exported": True,
             "full_post_text_exported": False,
             "reviewed_relationships_only": True,
         },
@@ -239,6 +267,7 @@ def main() -> None:
             "posts": len(posts),
             "relationships": len(relationships),
             "sources": len(sources),
+            "citations": len(citations),
             "links": len(links),
         },
         "entities": sorted(entities, key=lambda x: x["id"]),
@@ -246,19 +275,18 @@ def main() -> None:
         "posts": sorted(posts, key=lambda x: x["id"]),
         "relationships": sorted(relationships, key=lambda x: x["id"]),
         "sources": sorted(sources, key=lambda x: x["id"]),
+        "citations": sorted(citations, key=lambda x: (x["post"], x["url"])),
         "links": sorted(links, key=lambda x: (x["source"], x["target"], x["type"])),
     }
 
     validate_export(data)
-    (generated / "commons.json").write_text(
-        json.dumps(data, indent=2, ensure_ascii=False, sort_keys=True) + "\n",
-        encoding="utf-8",
-    )
+    (generated / "commons.json").write_text(json.dumps(data, indent=2, ensure_ascii=False, sort_keys=True) + "\n", encoding="utf-8")
 
     print(
         "Commons export v1: "
         f"{len(entities)} entities, {len(topics)} topics, {len(posts)} posts, "
-        f"{len(relationships)} relationships, {len(sources)} sources, {len(links)} links"
+        f"{len(relationships)} relationships, {len(sources)} sources, "
+        f"{len(citations)} article citations, {len(links)} links"
     )
 
 
