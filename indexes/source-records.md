@@ -2,6 +2,14 @@
 
 High-value primary or authoritative evidence promoted from raw outbound links.
 
+## BBC London Politics Show
+
+- **ID:** `bbc-london-politics-show`
+- **Publisher:** BBC
+- **Type:** `broadcast`
+- **URL:** 
+- **Cited by:** 2 post(s)
+
 ## Council Performance Year End 2021-22
 
 - **ID:** `council-performance-year-end-2021-22`

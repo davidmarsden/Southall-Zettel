@@ -81,9 +81,11 @@ Generated reverse links between posts plus entity/topic mention counts.
 - **Liberal Democrats** — 9
 - **Southall Broadway** — 8
 - **Community Powered Reporting** — 7
+- **Conservative Party** — 7
 - **Tony Pidgley** — 7
 - **Virendra Sharma** — 7
 - **Your Voice, Your Town** — 7
+- **Air Quality Scrutiny Panel** — 6
 - **Jasbir Kaur Anand** — 6
 - **Minni Dogra** — 6
 - **West London** — 6
@@ -103,11 +105,14 @@ Generated reverse links between posts plus entity/topic mention counts.
 - **Jags Sanghera** — 4
 - **Joe Bhangu** — 4
 - **Johnson Street** — 4
+- **Local Government Association** — 4
 - **National Front** — 4
 - **Perceval House** — 4
 - **South Road** — 4
 - **Swaran Singh Padda** — 4
 - **Angela Fonso** — 3
+- **Bassam Mahfouz** — 3
+- **Beaconsfield Road** — 3
 - **Damian Leydon** — 3
 - **Dr John Freeman** — 3
 - **Ealing Independent Network** — 3
@@ -123,9 +128,13 @@ Generated reverse links between posts plus entity/topic mention counts.
 - **Southall Market Car Park** — 3
 - **Warren Farm** — 3
 - **West Ealing** — 3
+- **Western Road** — 3
 - **Around Ealing** — 2
+- **Boris Johnson** — 2
 - **Conal Urquhart** — 2
 - **Dan Cortese** — 2
+- **Dormers Wells** — 2
+- **Ealing Common** — 2
 - **Gurdip Singh Chaggar** — 2
 - **Hanwell Broadway** — 2
 - **Henry Construction** — 2
@@ -133,6 +142,11 @@ Generated reverse links between posts plus entity/topic mention counts.
 - **Local Democracy Reporting Service** — 2
 - **Norwood Road** — 2
 - **Richard Kimblin** — 2
+- **Socialist Workers Party** — 2
+- **Southall West** — 2
+- **Sukhi Floria** — 2
+- **Ealing Friends of Palestine** — 1
+- **Ealing Friends of the Earth** — 1
 
 ## Most-mentioned topics
 

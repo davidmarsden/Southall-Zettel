@@ -140,6 +140,18 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:air-quality-scrutiny-panel",
+      "target": "post:posts/2018/09/12/countering-the-southall-waterside-narrative.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:beaconsfield-road",
+      "target": "post:posts/2018/09/12/countering-the-southall-waterside-narrative.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
       "target": "post:posts/2018/09/12/countering-the-southall-waterside-narrative.md",
       "type": "mentioned-in"
@@ -238,6 +250,12 @@
       "provenance": "deterministic-alias-match",
       "source": "topic:waste-flytipping",
       "target": "post:posts/2018/09/12/countering-the-southall-waterside-narrative.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:air-quality-scrutiny-panel",
+      "target": "post:posts/2018/11/02/lies-damned-lies-and-statistics.md",
       "type": "mentioned-in"
     },
     {
@@ -374,6 +392,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:beaconsfield-road",
+      "target": "post:posts/2019/06/25/the-health-and-other-impacts.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
       "target": "post:posts/2019/06/25/the-health-and-other-impacts.md",
       "type": "mentioned-in"
@@ -436,6 +460,12 @@
       "provenance": "deterministic-alias-match",
       "source": "topic:waste-flytipping",
       "target": "post:posts/2019/06/25/the-health-and-other-impacts.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:air-quality-scrutiny-panel",
+      "target": "post:posts/2019/07/09/phe-coverup.md",
       "type": "mentioned-in"
     },
     {
@@ -557,6 +587,12 @@
       "source": "post:posts/2019/07/21/phe-coverup-continued.md",
       "target": "post:posts/2019/07/09/phe-coverup.md",
       "type": "links-to"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:air-quality-scrutiny-panel",
+      "target": "post:posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "type": "mentioned-in"
     },
     {
       "provenance": "deterministic-alias-match",
@@ -698,6 +734,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:air-quality-scrutiny-panel",
+      "target": "post:posts/2019/09/26/the-gaslighting-zone.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:dr-john-freeman",
       "target": "post:posts/2019/09/26/the-gaslighting-zone.md",
       "type": "mentioned-in"
@@ -723,6 +765,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
+      "target": "post:posts/2019/10/01/trigger-vote-for-sharma.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:boris-johnson",
       "target": "post:posts/2019/10/01/trigger-vote-for-sharma.md",
       "type": "mentioned-in"
     },
@@ -813,6 +861,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall-gasworks",
+      "target": "post:posts/2020/10/05/high-traffic-neighbourhood.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:western-road",
       "target": "post:posts/2020/10/05/high-traffic-neighbourhood.md",
       "type": "mentioned-in"
     },
@@ -934,6 +988,12 @@
       "provenance": "deterministic-alias-match",
       "source": "topic:housing",
       "target": "post:posts/2021/05/03/look-at-these-bricks.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:conservative-party",
+      "target": "post:posts/2021/07/21/from-the-southall-big-plan.md",
       "type": "mentioned-in"
     },
     {
@@ -1401,6 +1461,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:warren-farm",
+      "target": "post:posts/2023/01/26/response-to-ealings-air-quality.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:western-road",
       "target": "post:posts/2023/01/26/response-to-ealings-air-quality.md",
       "type": "mentioned-in"
     },
@@ -2426,6 +2492,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:air-quality-scrutiny-panel",
+      "target": "post:posts/2026/01/20/the-council-investigation-that-found.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:blair-peach",
       "target": "post:posts/2026/01/20/the-council-investigation-that-found.md",
       "type": "mentioned-in"
@@ -2708,7 +2780,25 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:bassam-mahfouz",
+      "target": "post:posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:boris-johnson",
+      "target": "post:posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:clean-air-for-southall-and-hayes",
+      "target": "post:posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:conservative-party",
       "target": "post:posts/2026/02/13/bangarang-pirate-pete-and-the.md",
       "type": "mentioned-in"
     },
@@ -3182,6 +3272,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:bassam-mahfouz",
+      "target": "post:posts/2026/03/01/boomerang-ten-years-sorting-out.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:defra",
       "target": "post:posts/2026/03/01/boomerang-ten-years-sorting-out.md",
       "type": "mentioned-in"
@@ -3411,6 +3507,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:ealing-labour",
+      "target": "post:posts/2026/04/21/you-never-forget-the-smell.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:local-government-association",
       "target": "post:posts/2026/04/21/you-never-forget-the-smell.md",
       "type": "mentioned-in"
     },
@@ -3776,6 +3878,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:conservative-party",
+      "target": "post:posts/2026/04/24/when-deport-six-million-becomes.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:ealing",
       "target": "post:posts/2026/04/24/when-deport-six-million-becomes.md",
       "type": "mentioned-in"
@@ -3789,6 +3897,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:ealing-council",
+      "target": "post:posts/2026/04/24/when-deport-six-million-becomes.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:ealing-friends-of-palestine",
       "target": "post:posts/2026/04/24/when-deport-six-million-becomes.md",
       "type": "mentioned-in"
     },
@@ -3831,6 +3945,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:peter-mason",
+      "target": "post:posts/2026/04/24/when-deport-six-million-becomes.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:socialist-workers-party",
       "target": "post:posts/2026/04/24/when-deport-six-million-becomes.md",
       "type": "mentioned-in"
     },
@@ -3885,6 +4005,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:blair-peach",
+      "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:conservative-party",
       "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
       "type": "mentioned-in"
     },
@@ -3993,6 +4119,18 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall-green",
+      "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-west",
+      "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:sukhi-floria",
       "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
       "type": "mentioned-in"
     },
@@ -4136,6 +4274,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:bassam-mahfouz",
+      "target": "post:posts/2026/04/30/when-is-a-hustings-not.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
       "target": "post:posts/2026/04/30/when-is-a-hustings-not.md",
       "type": "mentioned-in"
@@ -4149,6 +4293,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:conal-urquhart",
+      "target": "post:posts/2026/04/30/when-is-a-hustings-not.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:conservative-party",
       "target": "post:posts/2026/04/30/when-is-a-hustings-not.md",
       "type": "mentioned-in"
     },
@@ -4658,6 +4808,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:local-government-association",
+      "target": "post:posts/2026/05/03/cactuses-never-die.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:peter-mason",
       "target": "post:posts/2026/05/03/cactuses-never-die.md",
       "type": "mentioned-in"
@@ -4696,6 +4852,12 @@
       "provenance": "deterministic-alias-match",
       "source": "topic:pensions-divestment",
       "target": "post:posts/2026/05/03/cactuses-never-die.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:dormers-wells",
+      "target": "post:posts/2026/05/06/it-takes-two-to-tango.md",
       "type": "mentioned-in"
     },
     {
@@ -5216,6 +5378,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:sukhi-floria",
+      "target": "post:posts/2026/05/06/the-meeting-that-ended-local.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:swaran-singh-padda",
       "target": "post:posts/2026/05/06/the-meeting-that-ended-local.md",
       "type": "mentioned-in"
@@ -5444,6 +5612,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:beaconsfield-road",
+      "target": "post:posts/2026/05/07/the-man-in-the-middle.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
       "target": "post:posts/2026/05/07/the-man-in-the-middle.md",
       "type": "mentioned-in"
@@ -5468,7 +5642,19 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:conservative-party",
+      "target": "post:posts/2026/05/07/the-man-in-the-middle.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:ealing",
+      "target": "post:posts/2026/05/07/the-man-in-the-middle.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:ealing-common",
       "target": "post:posts/2026/05/07/the-man-in-the-middle.md",
       "type": "mentioned-in"
     },
@@ -5553,6 +5739,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:the-green",
+      "target": "post:posts/2026/05/07/the-man-in-the-middle.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:western-road",
       "target": "post:posts/2026/05/07/the-man-in-the-middle.md",
       "type": "mentioned-in"
     },
@@ -5720,6 +5912,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:local-government-association",
+      "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:national-front",
       "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
       "type": "mentioned-in"
@@ -5739,6 +5937,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:peter-mason",
+      "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:socialist-workers-party",
       "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
       "type": "mentioned-in"
     },
@@ -5888,7 +6092,25 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:conservative-party",
+      "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:dormers-wells",
+      "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:ealing",
+      "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:ealing-common",
       "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
       "type": "mentioned-in"
     },
@@ -5996,6 +6218,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:local-government-association",
+      "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:norwood-green",
       "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
       "type": "mentioned-in"
@@ -6027,6 +6255,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall-green",
+      "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-west",
       "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
       "type": "mentioned-in"
     },
@@ -6237,6 +6471,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:ealing-council",
+      "target": "post:posts/2026/05/25/feeling-the-heat.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:ealing-friends-of-the-earth",
       "target": "post:posts/2026/05/25/feeling-the-heat.md",
       "type": "mentioned-in"
     },
@@ -9378,6 +9618,36 @@
     },
     {
       "provenance": "reviewed-source-record",
+      "source": "post:posts/2026/03/01/boomerang-ten-years-sorting-out.md",
+      "target": "source:bbc-london-politics-show",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2026/04/30/this-is-our-home-its.md",
+      "target": "source:bbc-london-politics-show",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:bbc-london-politics-show",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:bbc-london-politics-show",
+      "target": "entity:peter-mason",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:bbc-london-politics-show",
+      "target": "topic:waste-flytipping",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
       "source": "post:posts/2022/12/17/the-property-lobby-the-hidden.md",
       "target": "source:the-property-lobby",
       "type": "cites-source"
@@ -10030,6 +10300,13 @@
       "type": "post"
     },
     {
+      "id": "entity:air-quality-scrutiny-panel",
+      "label": "Air Quality Scrutiny Panel",
+      "path": "entities/organisations/air-quality-scrutiny-panel.md",
+      "subtype": "organisation",
+      "type": "entity"
+    },
+    {
       "id": "entity:around-ealing",
       "label": "Around Ealing",
       "path": "entities/organisations/around-ealing.md",
@@ -10065,6 +10342,13 @@
       "type": "entity"
     },
     {
+      "id": "entity:conservative-party",
+      "label": "Conservative Party",
+      "path": "entities/organisations/conservative-party.md",
+      "subtype": "organisation",
+      "type": "entity"
+    },
+    {
       "id": "entity:defra",
       "label": "Defra",
       "path": "entities/organisations/defra.md",
@@ -10082,6 +10366,20 @@
       "id": "entity:ealing-council",
       "label": "Ealing Council",
       "path": "entities/organisations/ealing-council.md",
+      "subtype": "organisation",
+      "type": "entity"
+    },
+    {
+      "id": "entity:ealing-friends-of-palestine",
+      "label": "Ealing Friends of Palestine",
+      "path": "entities/organisations/ealing-friends-of-palestine.md",
+      "subtype": "organisation",
+      "type": "entity"
+    },
+    {
+      "id": "entity:ealing-friends-of-the-earth",
+      "label": "Ealing Friends of the Earth",
+      "path": "entities/organisations/ealing-friends-of-the-earth.md",
       "subtype": "organisation",
       "type": "entity"
     },
@@ -10177,6 +10475,13 @@
       "type": "entity"
     },
     {
+      "id": "entity:local-government-association",
+      "label": "Local Government Association",
+      "path": "entities/organisations/local-government-association.md",
+      "subtype": "organisation",
+      "type": "entity"
+    },
+    {
       "id": "entity:national-front",
       "label": "National Front",
       "path": "entities/organisations/national-front.md",
@@ -10205,6 +10510,13 @@
       "type": "entity"
     },
     {
+      "id": "entity:socialist-workers-party",
+      "label": "Socialist Workers Party",
+      "path": "entities/organisations/socialist-workers-party.md",
+      "subtype": "organisation",
+      "type": "entity"
+    },
+    {
       "id": "entity:southall-community-alliance",
       "label": "Southall Community Alliance",
       "path": "entities/organisations/southall-community-alliance.md",
@@ -10226,9 +10538,23 @@
       "type": "entity"
     },
     {
+      "id": "entity:bassam-mahfouz",
+      "label": "Bassam Mahfouz",
+      "path": "entities/people/bassam-mahfouz.md",
+      "subtype": "person",
+      "type": "entity"
+    },
+    {
       "id": "entity:blair-peach",
       "label": "Blair Peach",
       "path": "entities/people/blair-peach.md",
+      "subtype": "person",
+      "type": "entity"
+    },
+    {
+      "id": "entity:boris-johnson",
+      "label": "Boris Johnson",
+      "path": "entities/people/boris-johnson.md",
       "subtype": "person",
       "type": "entity"
     },
@@ -10338,6 +10664,13 @@
       "type": "entity"
     },
     {
+      "id": "entity:sukhi-floria",
+      "label": "Sukhi Floria",
+      "path": "entities/people/sukhi-floria.md",
+      "subtype": "person",
+      "type": "entity"
+    },
+    {
       "id": "entity:swaran-singh-padda",
       "label": "Swaran Singh Padda",
       "path": "entities/people/swaran-singh-padda.md",
@@ -10359,9 +10692,30 @@
       "type": "entity"
     },
     {
+      "id": "entity:beaconsfield-road",
+      "label": "Beaconsfield Road",
+      "path": "entities/places/beaconsfield-road.md",
+      "subtype": "place",
+      "type": "entity"
+    },
+    {
       "id": "entity:dominion-centre",
       "label": "Dominion Centre",
       "path": "entities/places/dominion-centre.md",
+      "subtype": "place",
+      "type": "entity"
+    },
+    {
+      "id": "entity:dormers-wells",
+      "label": "Dormers Wells",
+      "path": "entities/places/dormers-wells.md",
+      "subtype": "place",
+      "type": "entity"
+    },
+    {
+      "id": "entity:ealing-common",
+      "label": "Ealing Common",
+      "path": "entities/places/ealing-common.md",
       "subtype": "place",
       "type": "entity"
     },
@@ -10499,6 +10853,13 @@
       "type": "entity"
     },
     {
+      "id": "entity:southall-west",
+      "label": "Southall West",
+      "path": "entities/places/southall-west.md",
+      "subtype": "place",
+      "type": "entity"
+    },
+    {
       "id": "entity:southall",
       "label": "Southall",
       "path": "entities/places/southall.md",
@@ -10530,6 +10891,13 @@
       "id": "entity:west-london",
       "label": "West London",
       "path": "entities/places/west-london.md",
+      "subtype": "place",
+      "type": "entity"
+    },
+    {
+      "id": "entity:western-road",
+      "label": "Western Road",
+      "path": "entities/places/western-road.md",
       "subtype": "place",
       "type": "entity"
     },
@@ -11774,6 +12142,14 @@
       "label": "youtube.com",
       "post_count": 7,
       "type": "source-domain"
+    },
+    {
+      "id": "source:bbc-london-politics-show",
+      "label": "BBC London Politics Show",
+      "path": "sources/bbc/bbc-london-politics-show.md",
+      "publisher": "BBC",
+      "source_type": "broadcast",
+      "type": "source-record"
     },
     {
       "id": "source:the-property-lobby",

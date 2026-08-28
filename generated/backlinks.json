@@ -1,5 +1,13 @@
 {
   "entities": {
+    "air-quality-scrutiny-panel": [
+      "posts/2018/09/12/countering-the-southall-waterside-narrative.md",
+      "posts/2018/11/02/lies-damned-lies-and-statistics.md",
+      "posts/2019/07/09/phe-coverup.md",
+      "posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "posts/2019/09/26/the-gaslighting-zone.md",
+      "posts/2026/01/20/the-council-investigation-that-found.md"
+    ],
     "angela-fonso": [
       "posts/2026/04/28/this-place-has-turned-into.md",
       "posts/2026/05/06/the-meeting-that-ended-local.md",
@@ -8,6 +16,16 @@
     "around-ealing": [
       "posts/2026/05/01/back-to-the-future.md",
       "posts/2026/05/25/feeling-the-heat.md"
+    ],
+    "bassam-mahfouz": [
+      "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "posts/2026/03/01/boomerang-ten-years-sorting-out.md",
+      "posts/2026/04/30/when-is-a-hustings-not.md"
+    ],
+    "beaconsfield-road": [
+      "posts/2018/09/12/countering-the-southall-waterside-narrative.md",
+      "posts/2019/06/25/the-health-and-other-impacts.md",
+      "posts/2026/05/07/the-man-in-the-middle.md"
     ],
     "berkeley-group": [
       "posts/2018/07/09/visit-to-southall-waterside-now.md",
@@ -69,6 +87,10 @@
       "posts/2026/05/07/the-man-in-the-middle.md",
       "posts/2026/05/07/who-does-peter-mason-really.md"
     ],
+    "boris-johnson": [
+      "posts/2019/10/01/trigger-vote-for-sharma.md",
+      "posts/2026/02/13/bangarang-pirate-pete-and-the.md"
+    ],
     "clean-air-for-southall-and-hayes": [
       "posts/2019/08/25/southall-under-siege-the-neighbours.md",
       "posts/2020/10/05/high-traffic-neighbourhood.md",
@@ -93,6 +115,15 @@
       "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
       "posts/2026/04/30/when-is-a-hustings-not.md"
     ],
+    "conservative-party": [
+      "posts/2021/07/21/from-the-southall-big-plan.md",
+      "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "posts/2026/04/24/when-deport-six-million-becomes.md",
+      "posts/2026/04/28/this-place-has-turned-into.md",
+      "posts/2026/04/30/when-is-a-hustings-not.md",
+      "posts/2026/05/07/the-man-in-the-middle.md",
+      "posts/2026/05/09/liftoff-ealing-elections-special.md"
+    ],
     "damian-leydon": [
       "posts/2018/09/12/countering-the-southall-waterside-narrative.md",
       "posts/2019/07/09/phe-coverup.md",
@@ -115,6 +146,10 @@
       "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
       "posts/2026/04/28/this-place-has-turned-into.md",
       "posts/2026/05/06/the-meeting-that-ended-local.md"
+    ],
+    "dormers-wells": [
+      "posts/2026/05/06/it-takes-two-to-tango.md",
+      "posts/2026/05/09/liftoff-ealing-elections-special.md"
     ],
     "dr-john-freeman": [
       "posts/2019/08/25/southall-under-siege-the-neighbours.md",
@@ -183,6 +218,10 @@
       "posts/2026/05/25/feeling-the-heat.md",
       "posts/2026/05/29/individuality.md"
     ],
+    "ealing-common": [
+      "posts/2026/05/07/the-man-in-the-middle.md",
+      "posts/2026/05/09/liftoff-ealing-elections-special.md"
+    ],
     "ealing-community-independents": [
       "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
       "posts/2026/04/24/first-they-came-for-the.md",
@@ -247,6 +286,12 @@
       "posts/2026/05/09/liftoff-ealing-elections-special.md",
       "posts/2026/05/25/feeling-the-heat.md",
       "posts/2026/05/29/individuality.md"
+    ],
+    "ealing-friends-of-palestine": [
+      "posts/2026/04/24/when-deport-six-million-becomes.md"
+    ],
+    "ealing-friends-of-the-earth": [
+      "posts/2026/05/25/feeling-the-heat.md"
     ],
     "ealing-independent-network": [
       "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
@@ -464,6 +509,12 @@
       "posts/2026/04/24/first-they-came-for-the.md",
       "posts/2026/05/09/liftoff-ealing-elections-special.md"
     ],
+    "local-government-association": [
+      "posts/2026/04/21/you-never-forget-the-smell.md",
+      "posts/2026/05/03/cactuses-never-die.md",
+      "posts/2026/05/07/who-does-peter-mason-really.md",
+      "posts/2026/05/09/liftoff-ealing-elections-special.md"
+    ],
     "minni-dogra": [
       "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
       "posts/2026/04/28/this-place-has-turned-into.md",
@@ -567,6 +618,10 @@
       "posts/2020/10/05/high-traffic-neighbourhood.md",
       "posts/2026/03/01/boomerang-ten-years-sorting-out.md",
       "posts/2026/04/23/canvassing-with-minni-dogra-a.md"
+    ],
+    "socialist-workers-party": [
+      "posts/2026/04/24/when-deport-six-million-becomes.md",
+      "posts/2026/05/07/who-does-peter-mason-really.md"
     ],
     "south-road": [
       "posts/2023/01/26/response-to-ealings-air-quality.md",
@@ -734,6 +789,14 @@
       "posts/2026/05/06/the-meeting-that-ended-local.md",
       "posts/2026/05/07/who-does-peter-mason-really.md"
     ],
+    "southall-west": [
+      "posts/2026/04/28/this-place-has-turned-into.md",
+      "posts/2026/05/09/liftoff-ealing-elections-special.md"
+    ],
+    "sukhi-floria": [
+      "posts/2026/04/28/this-place-has-turned-into.md",
+      "posts/2026/05/06/the-meeting-that-ended-local.md"
+    ],
     "swaran-singh-padda": [
       "posts/2026/04/24/first-they-came-for-the.md",
       "posts/2026/05/06/the-meeting-that-ended-local.md",
@@ -787,6 +850,11 @@
       "posts/2026/04/30/when-is-a-hustings-not.md",
       "posts/2026/05/07/who-does-peter-mason-really.md",
       "posts/2026/05/25/feeling-the-heat.md"
+    ],
+    "western-road": [
+      "posts/2020/10/05/high-traffic-neighbourhood.md",
+      "posts/2023/01/26/response-to-ealings-air-quality.md",
+      "posts/2026/05/07/the-man-in-the-middle.md"
     ],
     "your-voice-your-town": [
       "posts/2024/05/19/the-cuckoos-nest.md",
