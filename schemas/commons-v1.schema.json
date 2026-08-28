@@ -30,6 +30,7 @@
         "candidates_exported": {"const": false},
         "raw_source_urls_exported": {"const": false},
         "article_citations_exported": {"const": true},
+        "citation_destination_titles_enriched": {"const": true},
         "full_post_text_exported": {"const": false},
         "reviewed_relationships_only": {"const": true}
       },
@@ -137,6 +138,9 @@
       "properties": {
         "post": {"type": "string", "pattern": "^post:"},
         "label": {"type": "string"},
+        "destination_title": {"type": ["string", "null"]},
+        "title_source": {"type": ["string", "null"], "enum": ["og:title", "html-title", "pdf-title", null]},
+        "resolved_url": {"type": ["string", "null"]},
         "url": {"type": "string", "format": "uri"},
         "domain": {"type": "string"},
         "provenance": {"const": "source-post-link"}
