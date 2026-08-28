@@ -10,6 +10,14 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **URL:** https://ealing.moderngov.co.uk/documents/s1725/Council%20Performance%20Year%20End%202021-22.pdf
 - **Cited by:** 1 post(s)
 
+## Ealing Council Air Quality Strategy 2020-30
+
+- **ID:** `ealing-air-quality-strategy-2020-30`
+- **Publisher:** Ealing Council
+- **Type:** `strategy`
+- **URL:** https://www.ealing.gov.uk/downloads/download/7039/ealing_council_air_quality_strategy_2020-30
+- **Cited by:** 2 post(s)
+
 ## Ealing affordable homes performance dashboard
 
 - **ID:** `affordable-homes-performance-dashboard`

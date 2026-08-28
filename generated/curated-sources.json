@@ -47,6 +47,28 @@
     "title": "Council Performance Year End 2021-22"
   },
   {
+    "body": "Primary Ealing Council air-quality strategy document. Promoted from the candidate queue as a curated source rather than an entity.",
+    "canonical_url": "https://www.ealing.gov.uk/downloads/download/7039/ealing_council_air_quality_strategy_2020-30",
+    "cited_by": [
+      "posts/2023/01/26/response-to-ealings-air-quality.md",
+      "posts/2026/05/25/feeling-the-heat.md"
+    ],
+    "id": "ealing-air-quality-strategy-2020-30",
+    "path": "sources/ealing-council/ealing-air-quality-strategy-2020-30.md",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "southall"
+    ],
+    "related_topics": [
+      "air-pollution",
+      "public-health"
+    ],
+    "review_status": "reviewed",
+    "source_type": "strategy",
+    "title": "Ealing Council Air Quality Strategy 2020-30"
+  },
+  {
     "body": "Primary ModernGov decision record cited in reporting on the stalled Southall Market Car Park housing development.",
     "canonical_url": "https://ealing.moderngov.co.uk/ieDecisionDetails.aspx?Id=958&LLL=0",
     "cited_by": [
