@@ -21,6 +21,7 @@ jobs:
         run: |
           set -euo pipefail
           cat .staging/chunk-* | base64 --decode > /tmp/Southall-Zettel-baseline-full.tar.xz
+          cat .staging/hex-* | xxd -r -p >> /tmp/Southall-Zettel-baseline-full.tar.xz
           echo '7c34203eb9aa4d7c965327e82d6c9eaf8f9b3b651292b1b4c07b83d62eecb867  /tmp/Southall-Zettel-baseline-full.tar.xz' | sha256sum -c -
 
       - name: Unpack baseline into repository root
