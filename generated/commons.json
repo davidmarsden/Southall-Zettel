@@ -24,10 +24,14 @@
       "url": "https://www.nature.com/articles/s41598-024-67210-7"
     },
     {
+      "article_label": "'Improving access for HGVs'",
+      "destination_title": "Brent Road HGV Access Improvements Consultation.pdf",
       "domain": "drive.google.com",
-      "label": "'Improving access for HGVs'",
+      "label": "Brent Road HGV Access Improvements Consultation.pdf",
       "post": "post:5543312",
       "provenance": "source-post-link",
+      "resolved_url": "https://drive.google.com/file/d/18k_2hRx7EC4ov1mVrzH0GzV3v-6hUH4W/view?usp=sharing",
+      "title_source": "og:title",
       "url": "https://drive.google.com/file/d/18k_2hRx7EC4ov1mVrzH0GzV3v-6hUH4W/view?usp=sharing"
     },
     {
@@ -426,10 +430,14 @@
       "url": "https://www.ealing.gov.uk/info/201283/our_neighbourhoods/2613/southall_gasworks/6"
     },
     {
+      "article_label": "https://www.crowdjustice.com/case/cleanairforsouthallandhayes/",
+      "destination_title": "Stop Poisoning the Southall Community!",
       "domain": "crowdjustice.com",
-      "label": "https://www.crowdjustice.com/case/cleanairforsouthallandhayes/",
+      "label": "Stop Poisoning the Southall Community!",
       "post": "post:5543514",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.crowdjustice.com/case/cleanairforsouthallandhayes/",
+      "title_source": "og:title",
       "url": "https://www.crowdjustice.com/case/cleanairforsouthallandhayes/"
     },
     {
@@ -1099,10 +1107,14 @@
       "url": "http://www.aresok.org/npg/nioshdbs/calc.htm"
     },
     {
+      "article_label": "hse.gov.uk/pubns/indg329.…",
+      "destination_title": "Benzene and you. Working with benzene - are you at risk? INDG329",
       "domain": "hse.gov.uk",
-      "label": "hse.gov.uk/pubns/indg329.…",
+      "label": "Benzene and you. Working with benzene - are you at risk? INDG329",
       "post": "post:5550942",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.hse.gov.uk/pubns/indg329.pdf",
+      "title_source": "pdf-title",
       "url": "http://www.hse.gov.uk/pubns/indg329.pdf"
     },
     {
@@ -1176,17 +1188,25 @@
       "url": "https://twitter.com/EalingCouncil/status/1072457795621060611"
     },
     {
+      "article_label": "convertunits.com/molarmass/Benz…",
+      "destination_title": "Molecular weight of Benzene",
       "domain": "convertunits.com",
-      "label": "convertunits.com/molarmass/Benz…",
+      "label": "Molecular weight of Benzene",
       "post": "post:5550942",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.convertunits.com/molarmass/Benzene",
+      "title_source": "html-title",
       "url": "https://www.convertunits.com/molarmass/Benzene"
     },
     {
+      "article_label": "nhs.uk/conditions/poi…",
+      "destination_title": "Poisoning",
       "domain": "nhs.uk",
-      "label": "nhs.uk/conditions/poi…",
+      "label": "Poisoning",
       "post": "post:5550942",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.nhs.uk/conditions/poisoning/",
+      "title_source": "og:title",
       "url": "https://www.nhs.uk/conditions/poisoning/symptoms/"
     },
     {
@@ -1197,10 +1217,14 @@
       "url": "https://x.com/EalingCouncil/status/1072457795621060611?s=20"
     },
     {
+      "article_label": "nj.gov/health/eoh/rtk…",
+      "destination_title": "Microsoft Word - ASPHALT.doc",
       "domain": "nj.gov",
-      "label": "nj.gov/health/eoh/rtk…",
+      "label": "Microsoft Word - ASPHALT.doc",
       "post": "post:5550943",
       "provenance": "source-post-link",
+      "resolved_url": "https://nj.gov/health/eoh/rtkweb/documents/fs/0170.pdf",
+      "title_source": "pdf-title",
       "url": "https://nj.gov/health/eoh/rtkweb/documents/fs/0170.pdf"
     },
     {
@@ -1260,10 +1284,14 @@
       "url": "https://twitter.com/juliangbell/status/1010621649111183360"
     },
     {
+      "article_label": "getwestlondon.co.uk/news/west-lond…",
+      "destination_title": "Petition for better odour control at asphalt plant gains momentum",
       "domain": "getwestlondon.co.uk",
-      "label": "getwestlondon.co.uk/news/west-lond…",
+      "label": "Petition for better odour control at asphalt plant gains momentum",
       "post": "post:5550943",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.mylondon.news/news/west-london-news/ealing-hillingdon-southall-fm-conway-14255951",
+      "title_source": "og:title",
       "url": "https://www.getwestlondon.co.uk/news/west-london-news/ealing-hillingdon-southall-fm-conway-14255951"
     },
     {
@@ -1483,31 +1511,47 @@
       "url": "https://archive.ph/JZAll"
     },
     {
+      "article_label": "Two Homes",
+      "destination_title": "Ealing council leader under pressure as councillors revolt over home arrangements",
       "domain": "skwawkbox.org",
-      "label": "Two Homes",
+      "label": "Ealing council leader under pressure as councillors revolt over home arrangements",
       "post": "post:5551106",
       "provenance": "source-post-link",
+      "resolved_url": "https://skwawkbox.org/2018/05/26/ealing-council-leader-under-pressure-as-councillors-revolt-over-home-arrangements/",
+      "title_source": "og:title",
       "url": "https://skwawkbox.org/2018/05/26/ealing-council-leader-under-pressure-as-councillors-revolt-over-home-arrangements/"
     },
     {
+      "article_label": "Tony Pidgley, founder and chair of Berkeley Group, bribing estate agents",
+      "destination_title": "How court papers revealed massive boardroom bust-up and bribery allegations at Berkeley Group — Finance Uncovered",
       "domain": "financeuncovered.org",
-      "label": "Tony Pidgley, founder and chair of Berkeley Group, bribing estate agents",
+      "label": "How court papers revealed massive boardroom bust-up and bribery allegations at Berkeley Group — Finance Uncovered",
       "post": "post:5551106",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.financeuncovered.org/stories/berkeley-group-bribery-allegations-court-papers",
+      "title_source": "og:title",
       "url": "https://www.financeuncovered.org/stories/berkeley-group-bribery-allegations-court-papers"
     },
     {
+      "article_label": "£174m",
+      "destination_title": "‘Indefensible’! How housing boss scooped £174m from Britain’s property boom — Finance Uncovered",
       "domain": "financeuncovered.org",
-      "label": "£174m",
+      "label": "‘Indefensible’! How housing boss scooped £174m from Britain’s property boom — Finance Uncovered",
       "post": "post:5551106",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.financeuncovered.org/stories/indefensible-how-housing-boss-scooped-174m-from-britains-property-boom",
+      "title_source": "og:title",
       "url": "https://www.financeuncovered.org/stories/indefensible-how-housing-boss-scooped-174m-from-britains-property-boom"
     },
     {
+      "article_label": "Two Jobs",
+      "destination_title": "OPDC ROI Form",
       "domain": "london.gov.uk",
-      "label": "Two Jobs",
+      "label": "OPDC ROI Form",
       "post": "post:5551106",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.london.gov.uk/sites/default/files/2020_cllr_julian_bell_roi_.pdf",
+      "title_source": "pdf-title",
       "url": "https://www.london.gov.uk/sites/default/files/2020_cllr_julian_bell_roi_.pdf"
     },
     {
@@ -1672,17 +1716,25 @@
       "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1pFSxYfxhXCLO5R5UpE_trh9OamHJCFzV%26fbclid%3DIwZXh0bgNhZW0CMTEAYnJpZBEwUmlIVk1ndU5iSEhKVmZOTwEeWSy7JAM1fFzoqDbDutqLqDCkt-tUZgF8lciNTDxYM1HAYlb-Tnh5YtuDqq4_aem_7p4hfnzoTFwFbuN8Z3UaeA&h=AT0KtMgs9IS8MJpvxrT6vWenqrkVjKnlCYoM8wNTbaLYepvFCx56IHWV5uLfIDy_U7nWPJKvBk3je2oWNzpVgu7-6lNIgn1oSG2Po0HZLCCWlpLb5RpjycJK2sc"
     },
     {
+      "article_label": "Atkins spreadsheet",
+      "destination_title": "Atkins Report data",
       "domain": "docs.google.com",
-      "label": "Atkins spreadsheet",
+      "label": "Atkins Report data",
       "post": "post:5575575",
       "provenance": "source-post-link",
+      "resolved_url": "https://docs.google.com/spreadsheets/d/1C_qXz5cfpdAOL0KqH9n_V3ZRN-SytSFhHpgo3yrq5Vg/edit?usp=drivesdk",
+      "title_source": "og:title",
       "url": "https://docs.google.com/spreadsheets/d/1C_qXz5cfpdAOL0KqH9n_V3ZRN-SytSFhHpgo3yrq5Vg/edit?usp=drivesdk"
     },
     {
+      "article_label": "the original",
+      "destination_title": "Monitoring data B.pdf",
       "domain": "drive.google.com",
-      "label": "the original",
+      "label": "Monitoring data B.pdf",
       "post": "post:5575575",
       "provenance": "source-post-link",
+      "resolved_url": "https://drive.google.com/file/d/1ASzUHquBZ__bp1dy-l9Wfu85zfzceEAy/view?usp=drivesdk",
+      "title_source": "og:title",
       "url": "https://drive.google.com/file/d/1ASzUHquBZ__bp1dy-l9Wfu85zfzceEAy/view?usp=drivesdk"
     },
     {
@@ -1700,24 +1752,36 @@
       "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1dIP7WF5MtN0KxDq2Nit0y6m10KRTFVw5%2Fview%3Fusp%3Dsharing%26fbclid%3DIwZXh0bgNhZW0CMTEAYnJpZBEwUmlIVk1ndU5iSEhKVmZOTwEeCJL5knD4aQ2WwrVKRfYLnui5hyRjtTXdS7v_TyFMvcJ7_E_GHxaYtZ9GkG8_aem_FVPrGZce3P0P3s5QSOTZ3w&h=AT2QBlc2YZevXP51WikAz5AiQOhlyyflyDR5l2Td5ZuD_nZ_9bHjkK4vLKkwR2gEGnyKkcf4voRV9jnbL-9qsb0Y8ro5_TdfqdEopxPhlHSoSEOeMorS17EV_ZQ"
     },
     {
+      "article_label": "original Facebook note",
+      "destination_title": "Countering the Southall Waterside Narrative.pdf",
       "domain": "drive.google.com",
-      "label": "original Facebook note",
+      "label": "Countering the Southall Waterside Narrative.pdf",
       "post": "post:5581131",
       "provenance": "source-post-link",
+      "resolved_url": "https://drive.google.com/file/d/184jDHSA56ywO8CawyXnlbZt4gx8gZiz-/view?usp=drivesdk",
+      "title_source": "og:title",
       "url": "https://drive.google.com/file/d/184jDHSA56ywO8CawyXnlbZt4gx8gZiz-/view?usp=drivesdk"
     },
     {
+      "article_label": "FAQs",
+      "destination_title": "Atkins FAQs",
       "domain": "docs.google.com",
-      "label": "FAQs",
+      "label": "Atkins FAQs",
       "post": "post:5581154",
       "provenance": "source-post-link",
+      "resolved_url": "https://docs.google.com/document/d/e/2PACX-1vT8P3m1TzNCp3g8QQfoeKJJO9EFGSIHwEo1EI7kwwWcuEc0g6Y8jTR4Wfve6G5DMuHQ-f9b8Ge2Mz_y/pub?fbclid=IwAR0QE2ua-iY5RcoyZOmaJNuUV0VMduiJhIY98b8rQ1P1TVMiZp6lrmsDnyg",
+      "title_source": "html-title",
       "url": "https://docs.google.com/document/d/e/2PACX-1vT8P3m1TzNCp3g8QQfoeKJJO9EFGSIHwEo1EI7kwwWcuEc0g6Y8jTR4Wfve6G5DMuHQ-f9b8Ge2Mz_y/pub?fbclid=IwAR0QE2ua-iY5RcoyZOmaJNuUV0VMduiJhIY98b8rQ1P1TVMiZp6lrmsDnyg"
     },
     {
+      "article_label": "Update",
+      "destination_title": "Technical Note for Residents",
       "domain": "docs.google.com",
-      "label": "Update",
+      "label": "Technical Note for Residents",
       "post": "post:5581154",
       "provenance": "source-post-link",
+      "resolved_url": "https://docs.google.com/document/d/e/2PACX-1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zE0Dwo2-05cAiMcRsCx0y2x8D0gF/pub?fbclid=IwY2xjawNCe_UBHVvMQp8wFOoZliZ8wKMJQ3w_DXbDzKkL4v14y2sQlJw2wT_rpijebOZP0A",
+      "title_source": "html-title",
       "url": "https://docs.google.com/document/d/e/2PACX-1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zE0Dwo2-05cAiMcRsCx0y2x8D0gF/pub?fbclid=IwY2xjawNCe_UBHVvMQp8wFOoZliZ8wKMJQ3w_DXbDzKkL4v14y2sQlJw2wT_rpijebOZP0A"
     },
     {
@@ -1728,10 +1792,14 @@
       "url": "https://docs.google.com/document/d/e/2PACX1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zEoDwo205cAiMcRsCxoy2x8DogF/pub"
     },
     {
+      "article_label": "original Facebook note",
+      "destination_title": "Lies, damned lies, and statistics.pdf",
       "domain": "drive.google.com",
-      "label": "original Facebook note",
+      "label": "Lies, damned lies, and statistics.pdf",
       "post": "post:5581154",
       "provenance": "source-post-link",
+      "resolved_url": "https://drive.google.com/file/d/1T9YMBcz6MbwQ2aX0tVhZLT2ZMi9KDotM/view?usp=drivesdk",
+      "title_source": "og:title",
       "url": "https://drive.google.com/file/d/1T9YMBcz6MbwQ2aX0tVhZLT2ZMi9KDotM/view?usp=drivesdk"
     },
     {
@@ -5993,7 +6061,7 @@
   "counts": {
     "citation_titles_rejected_as_stale_redirects": 4,
     "citations": 668,
-    "citations_with_destination_titles": 328,
+    "citations_with_destination_titles": 345,
     "entities": 115,
     "links": 1192,
     "posts": 69,

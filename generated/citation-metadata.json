@@ -19,6 +19,26 @@
     "status": "resolved",
     "title_source": "html-title"
   },
+  "http://www.aresok.org/npg/nioshdbs/calc.htm": {
+    "checked_at": 1787952284,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": null,
+    "resolved_url": null,
+    "status": "fetch-failed",
+    "title_source": null
+  },
+  "http://www.hse.gov.uk/pubns/indg329.pdf": {
+    "checked_at": 1787952278,
+    "content_type": "application/pdf",
+    "destination_title": "Benzene and you. Working with benzene - are you at risk? INDG329",
+    "health": "redirected",
+    "http_status": 200,
+    "resolved_url": "https://www.hse.gov.uk/pubns/indg329.pdf",
+    "status": "resolved",
+    "title_source": "pdf-title"
+  },
   "https://Ealing.moderngov.co.uk/ieDecisionDetails.aspx?Id=958&LLL=0": {
     "checked_at": 1787952028,
     "content_type": null,
@@ -27,6 +47,16 @@
     "http_status": 403,
     "resolved_url": "https://Ealing.moderngov.co.uk/ieDecisionDetails.aspx?Id=958&LLL=0",
     "status": "http-403",
+    "title_source": null
+  },
+  "https://archive.ph/JZAll": {
+    "checked_at": 1787952278,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": 429,
+    "resolved_url": "https://archive.ph/JZAll",
+    "status": "http-429",
     "title_source": null
   },
   "https://archive.ph/kfpaA": {
@@ -66,6 +96,36 @@
     "resolved_url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1179075/SoS_letter_to_Ealing_Council.pdf",
     "status": "resolved",
     "title_source": "pdf-title"
+  },
+  "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf": {
+    "checked_at": 1787952278,
+    "content_type": null,
+    "destination_title": null,
+    "health": "gone",
+    "http_status": 410,
+    "resolved_url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf",
+    "status": "http-410",
+    "title_source": null
+  },
+  "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/522459/Benzene_IM_PHE_050516.pdf": {
+    "checked_at": 1787952278,
+    "content_type": null,
+    "destination_title": null,
+    "health": "gone",
+    "http_status": 410,
+    "resolved_url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/825197/Benzene_incident_management_PHE_2019.pdf",
+    "status": "http-410",
+    "title_source": null
+  },
+  "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/561046/benzene_general_information.pdf": {
+    "checked_at": 1787952278,
+    "content_type": null,
+    "destination_title": null,
+    "health": "gone",
+    "http_status": 410,
+    "resolved_url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/791325/Benzene_general_information_2019.pdf",
+    "status": "http-410",
+    "title_source": null
   },
   "https://awards.lgcplus.com/lgca2026/en/page/2026-shortlist": {
     "checked_at": 1787951271,
@@ -359,12 +419,52 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://docs.google.com/document/d/e/2PACX-1vT8P3m1TzNCp3g8QQfoeKJJO9EFGSIHwEo1EI7kwwWcuEc0g6Y8jTR4Wfve6G5DMuHQ-f9b8Ge2Mz_y/pub?fbclid=IwAR0QE2ua-iY5RcoyZOmaJNuUV0VMduiJhIY98b8rQ1P1TVMiZp6lrmsDnyg": {
+    "checked_at": 1787952277,
+    "content_type": "text/html",
+    "destination_title": "Atkins FAQs",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://docs.google.com/document/d/e/2PACX-1vT8P3m1TzNCp3g8QQfoeKJJO9EFGSIHwEo1EI7kwwWcuEc0g6Y8jTR4Wfve6G5DMuHQ-f9b8Ge2Mz_y/pub?fbclid=IwAR0QE2ua-iY5RcoyZOmaJNuUV0VMduiJhIY98b8rQ1P1TVMiZp6lrmsDnyg",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
+  "https://docs.google.com/document/d/e/2PACX-1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zE0Dwo2-05cAiMcRsCx0y2x8D0gF/pub?fbclid=IwY2xjawNCe_UBHVvMQp8wFOoZliZ8wKMJQ3w_DXbDzKkL4v14y2sQlJw2wT_rpijebOZP0A": {
+    "checked_at": 1787952277,
+    "content_type": "text/html",
+    "destination_title": "Technical Note for Residents",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://docs.google.com/document/d/e/2PACX-1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zE0Dwo2-05cAiMcRsCx0y2x8D0gF/pub?fbclid=IwY2xjawNCe_UBHVvMQp8wFOoZliZ8wKMJQ3w_DXbDzKkL4v14y2sQlJw2wT_rpijebOZP0A",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
+  "https://docs.google.com/document/d/e/2PACX1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zEoDwo205cAiMcRsCxoy2x8DogF/pub": {
+    "checked_at": 1787952277,
+    "content_type": null,
+    "destination_title": null,
+    "health": "gone",
+    "http_status": 404,
+    "resolved_url": "https://docs.google.com/document/d/e/2PACX1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zEoDwo205cAiMcRsCxoy2x8DogF/pub",
+    "status": "http-404",
+    "title_source": null
+  },
   "https://docs.google.com/forms/d/e/1FAIpQLSdF322O7WcchbiC6brfrpAD0cJJ7Y-XAIYAvz2GRB_ONOMNMg/viewform": {
     "checked_at": 1787951266,
     "content_type": "text/html",
     "destination_title": "9th SME4Labour Semi-finalists",
     "health": "healthy",
     "resolved_url": "https://docs.google.com/forms/d/e/1FAIpQLSdF322O7WcchbiC6brfrpAD0cJJ7Y-XAIYAvz2GRB_ONOMNMg/viewform",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://docs.google.com/spreadsheets/d/1C_qXz5cfpdAOL0KqH9n_V3ZRN-SytSFhHpgo3yrq5Vg/edit?usp=drivesdk": {
+    "checked_at": 1787952277,
+    "content_type": "text/html",
+    "destination_title": "Atkins Report data",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://docs.google.com/spreadsheets/d/1C_qXz5cfpdAOL0KqH9n_V3ZRN-SytSFhHpgo3yrq5Vg/edit?usp=drivesdk",
     "status": "resolved",
     "title_source": "og:title"
   },
@@ -396,6 +496,36 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://drive.google.com/file/d/184jDHSA56ywO8CawyXnlbZt4gx8gZiz-/view?usp=drivesdk": {
+    "checked_at": 1787952277,
+    "content_type": "text/html",
+    "destination_title": "Countering the Southall Waterside Narrative.pdf",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://drive.google.com/file/d/184jDHSA56ywO8CawyXnlbZt4gx8gZiz-/view?usp=drivesdk",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://drive.google.com/file/d/18k_2hRx7EC4ov1mVrzH0GzV3v-6hUH4W/view?usp=sharing": {
+    "checked_at": 1787952277,
+    "content_type": "text/html",
+    "destination_title": "Brent Road HGV Access Improvements Consultation.pdf",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://drive.google.com/file/d/18k_2hRx7EC4ov1mVrzH0GzV3v-6hUH4W/view?usp=sharing",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://drive.google.com/file/d/1ASzUHquBZ__bp1dy-l9Wfu85zfzceEAy/view?usp=drivesdk": {
+    "checked_at": 1787952277,
+    "content_type": "text/html",
+    "destination_title": "Monitoring data B.pdf",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://drive.google.com/file/d/1ASzUHquBZ__bp1dy-l9Wfu85zfzceEAy/view?usp=drivesdk",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://drive.google.com/file/d/1NZEHS3AV-h-pDZkP5dcT_hJ4tKNt5mXv/view?usp=drivesdk": {
     "checked_at": 1787951162,
     "content_type": "text/html",
@@ -411,6 +541,16 @@
     "destination_title": "Southall-Waterside-Quarterly-Newsletter Winter 2016.pdf",
     "health": "healthy",
     "resolved_url": "https://drive.google.com/file/d/1O9SsfwPjnmlu3LqxIMfBNtwLtrMLHex0/view?usp=drivesdk",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://drive.google.com/file/d/1T9YMBcz6MbwQ2aX0tVhZLT2ZMi9KDotM/view?usp=drivesdk": {
+    "checked_at": 1787952277,
+    "content_type": "text/html",
+    "destination_title": "Lies, damned lies, and statistics.pdf",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://drive.google.com/file/d/1T9YMBcz6MbwQ2aX0tVhZLT2ZMi9KDotM/view?usp=drivesdk",
     "status": "resolved",
     "title_source": "og:title"
   },
@@ -1081,6 +1221,16 @@
     "status": "http-403",
     "title_source": null
   },
+  "https://nj.gov/health/eoh/rtkweb/documents/fs/0170.pdf": {
+    "checked_at": 1787952278,
+    "content_type": "application/pdf",
+    "destination_title": "Microsoft Word - ASPHALT.doc",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://nj.gov/health/eoh/rtkweb/documents/fs/0170.pdf",
+    "status": "resolved",
+    "title_source": "pdf-title"
+  },
   "https://northlondonnews.co.uk/local/brent/brent-council/brent-fly-tipping-fines-surge-500-amid-crackdown-2026/": {
     "checked_at": 1787952021,
     "content_type": "text/html",
@@ -1099,6 +1249,16 @@
     "resolved_url": "https://one-nation.org.uk",
     "status": "resolved",
     "title_source": "html-title"
+  },
+  "https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1553-2712.2000.tb01889.x": {
+    "checked_at": 1787952276,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": 403,
+    "resolved_url": "https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1553-2712.2000.tb01889.x",
+    "status": "http-403",
+    "title_source": null
   },
   "https://open.substack.com/pub/southall/p/a-town-ignored-southall-after-16": {
     "checked_at": 1787951272,
@@ -1184,6 +1344,216 @@
     "resolved_url": "https://orbooks.com/catalog/weaponising-anti-semitism/",
     "status": "resolved",
     "title_source": "og:title"
+  },
+  "https://pbs.twimg.com/media/D_0ZybaXYAAQzTx.png": {
+    "checked_at": 1787952276,
+    "content_type": "image/png",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/D_0ZybaXYAAQzTx.png",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/D_Q4tO2U4AEE7lw.jpg": {
+    "checked_at": 1787952276,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/D_Q4tO2U4AEE7lw.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/DhsWRRFV4AIAvce.jpg": {
+    "checked_at": 1787952278,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/DhsWRRFV4AIAvce.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/Dioox-tXsAAuubj.jpg": {
+    "checked_at": 1787952278,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/Dioox-tXsAAuubj.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/Dioox-xXkAAwPbm.jpg": {
+    "checked_at": 1787952278,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/Dioox-xXkAAwPbm.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/Dioox-zX4AEYtx_.jpg": {
+    "checked_at": 1787952278,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/Dioox-zX4AEYtx_.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/Dioox_AWAAExExD.jpg": {
+    "checked_at": 1787952278,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/Dioox_AWAAExExD.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/DiopxVFXsAIA3mM.jpg": {
+    "checked_at": 1787952278,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/DiopxVFXsAIA3mM.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/DiopxVNXUAA0tz6.jpg": {
+    "checked_at": 1787952278,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/DiopxVNXUAA0tz6.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/DjBgwTDX0AU8SEG.jpg": {
+    "checked_at": 1787952277,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/DjBgwTDX0AU8SEG.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/DjBikfXXoAA_Oh0.jpg": {
+    "checked_at": 1787952278,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/DjBikfXXoAA_Oh0.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/DjBnE3ZXsAAI2bk.jpg": {
+    "checked_at": 1787952277,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/DjBnE3ZXsAAI2bk.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/DjBngo1XgAAk8uF.jpg": {
+    "checked_at": 1787952278,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/DjBngo1XgAAk8uF.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/DjBnki0XoAAnhkV.jpg": {
+    "checked_at": 1787952278,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/DjBnki0XoAAnhkV.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/DjtHmzeU4AA0PP4.jpg": {
+    "checked_at": 1787952277,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/DjtHmzeU4AA0PP4.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/DjtKfapXoAIHKJs.jpg": {
+    "checked_at": 1787952277,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/DjtKfapXoAIHKJs.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/DjtM52UVAAA_JGQ.jpg": {
+    "checked_at": 1787952277,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/DjtM52UVAAA_JGQ.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/DjtMuumUYAA8su5.jpg": {
+    "checked_at": 1787952277,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/DjtMuumUYAA8su5.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/DjtSS9UW4AEyprG.jpg": {
+    "checked_at": 1787952277,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/DjtSS9UW4AEyprG.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/DjtShhNX0AAl0VL.jpg": {
+    "checked_at": 1787952277,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/DjtShhNX0AAl0VL.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/DmCJhV1XgAA42yC.jpg": {
+    "checked_at": 1787952278,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/DmCJhV1XgAA42yC.jpg",
+    "status": "fetched",
+    "title_source": null
   },
   "https://pbs.twimg.com/media/E0d69uiXoAME0s3.png": {
     "checked_at": 1787952156,
@@ -1372,6 +1742,26 @@
     "health": "healthy",
     "http_status": 200,
     "resolved_url": "https://pbs.twimg.com/media/E7YpkjRXsAMkcy9.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/EFsxjnqWoAE7FUL.png": {
+    "checked_at": 1787952276,
+    "content_type": "image/png",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/EFsxjnqWoAE7FUL.png",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/EFsyG8wXUAAKAgf.png": {
+    "checked_at": 1787952276,
+    "content_type": "image/png",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/EFsyG8wXUAAKAgf.png",
     "status": "fetched",
     "title_source": null
   },
@@ -1945,6 +2335,26 @@
     "status": "fetched",
     "title_source": null
   },
+  "https://pbs.twimg.com/media/FR3jmgwX0AEupfx.jpg": {
+    "checked_at": 1787952276,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/FR3jmgwX0AEupfx.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
+  "https://pbs.twimg.com/media/FR3jpb3XoAAiBbv.jpg": {
+    "checked_at": 1787952276,
+    "content_type": "image/jpeg",
+    "destination_title": null,
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://pbs.twimg.com/media/FR3jpb3XoAAiBbv.jpg",
+    "status": "fetched",
+    "title_source": null
+  },
   "https://photos.app.goo.gl/4dN7oLJizqrSCZeG6": {
     "checked_at": 1787951160,
     "content_type": "text/html",
@@ -2050,6 +2460,16 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://skwawkbox.org/2018/05/26/ealing-council-leader-under-pressure-as-councillors-revolt-over-home-arrangements/": {
+    "checked_at": 1787952277,
+    "content_type": "text/html",
+    "destination_title": "Ealing council leader under pressure as councillors revolt over home arrangements",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://skwawkbox.org/2018/05/26/ealing-council-leader-under-pressure-as-councillors-revolt-over-home-arrangements/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://skwawkbox.org/2022/02/14/party-imposed-london-council-candidate-used-holocaust-language-against-gypsy-roma-travellers/": {
     "checked_at": 1787952153,
     "content_type": "text/html",
@@ -2126,6 +2546,16 @@
     "resolved_url": "https://stopthetowers.info/the-mipim-jolly",
     "status": "resolved",
     "title_source": "html-title"
+  },
+  "https://t2m.io/z6shGyFn": {
+    "checked_at": 1787952284,
+    "content_type": null,
+    "destination_title": null,
+    "health": "unreachable",
+    "http_status": null,
+    "resolved_url": null,
+    "status": "fetch-failed",
+    "title_source": null
   },
   "https://thegreenquartercommunity.co.uk/community-chest-programmes/": {
     "checked_at": 1787951164,
@@ -2807,12 +3237,32 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://www.convertunits.com/molarmass/Benzene": {
+    "checked_at": 1787952277,
+    "content_type": "text/html",
+    "destination_title": "Molecular weight of Benzene",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.convertunits.com/molarmass/Benzene",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
   "https://www.cprelondon.org.uk/news/london-recycling-scorecard-2025/": {
     "checked_at": 1787951274,
     "content_type": "text/html",
     "destination_title": "London Recycling Scorecard 2025",
     "health": "healthy",
     "resolved_url": "https://www.cprelondon.org.uk/news/london-recycling-scorecard-2025/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.crowdjustice.com/case/cleanairforsouthallandhayes/": {
+    "checked_at": 1787952277,
+    "content_type": "text/html",
+    "destination_title": "Stop Poisoning the Southall Community!",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.crowdjustice.com/case/cleanairforsouthallandhayes/",
     "status": "resolved",
     "title_source": "og:title"
   },
@@ -3631,6 +4081,36 @@
     "status": "resolved",
     "title_source": "html-title"
   },
+  "https://www.financeuncovered.org/stories/berkeley-group-bribery-allegations-court-papers": {
+    "checked_at": 1787952277,
+    "content_type": "text/html",
+    "destination_title": "How court papers revealed massive boardroom bust-up and bribery allegations at Berkeley Group — Finance Uncovered",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.financeuncovered.org/stories/berkeley-group-bribery-allegations-court-papers",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.financeuncovered.org/stories/indefensible-how-housing-boss-scooped-174m-from-britains-property-boom": {
+    "checked_at": 1787952277,
+    "content_type": "text/html",
+    "destination_title": "‘Indefensible’! How housing boss scooped £174m from Britain’s property boom — Finance Uncovered",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.financeuncovered.org/stories/indefensible-how-housing-boss-scooped-174m-from-britains-property-boom",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.getwestlondon.co.uk/news/west-london-news/ealing-hillingdon-southall-fm-conway-14255951": {
+    "checked_at": 1787952279,
+    "content_type": "text/html",
+    "destination_title": "Petition for better odour control at asphalt plant gains momentum",
+    "health": "redirected",
+    "http_status": 200,
+    "resolved_url": "https://www.mylondon.news/news/west-london-news/ealing-hillingdon-southall-fm-conway-14255951",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
   "https://www.gov.uk/government/publications/definition-of-trees-and-woodland/definition-of-trees-and-woodland#what-is-a-tree": {
     "checked_at": 1787951154,
     "content_type": "text/html",
@@ -3902,6 +4382,16 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://www.london.gov.uk/sites/default/files/2020_cllr_julian_bell_roi_.pdf": {
+    "checked_at": 1787952277,
+    "content_type": "application/pdf",
+    "destination_title": "OPDC ROI Form",
+    "health": "healthy",
+    "http_status": 200,
+    "resolved_url": "https://www.london.gov.uk/sites/default/files/2020_cllr_julian_bell_roi_.pdf",
+    "status": "resolved",
+    "title_source": "pdf-title"
+  },
   "https://www.london.gov.uk/sites/default/files/opdc_2020.21_audited_annual_report_and_accounts.pdf": {
     "checked_at": 1787952153,
     "content_type": "application/pdf",
@@ -4106,6 +4596,16 @@
     "health": "healthy",
     "http_status": 200,
     "resolved_url": "https://www.newham.gov.uk/news/article/1226/newham-council-bucks-national-trend-on-fly-tipping",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://www.nhs.uk/conditions/poisoning/symptoms/": {
+    "checked_at": 1787952278,
+    "content_type": "text/html",
+    "destination_title": "Poisoning",
+    "health": "redirected",
+    "http_status": 200,
+    "resolved_url": "https://www.nhs.uk/conditions/poisoning/",
     "status": "resolved",
     "title_source": "og:title"
   },
