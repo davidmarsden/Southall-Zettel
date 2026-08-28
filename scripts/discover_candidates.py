@@ -11,10 +11,12 @@ import yaml
 FRONT_MATTER_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 TAG_RE = re.compile(r"<[^>]+>")
 MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\([^)]*\)")
-CANDIDATE_RE = re.compile(r"\b(?:[A-Z][A-Za-z'’&.-]+(?:\s+|$)){1,5}")
+# Conservative v1: two-to-five title-cased tokens. Single words are too noisy to auto-rank usefully.
+CANDIDATE_RE = re.compile(r"\b[A-Z][A-Za-z'’&.-]+(?:\s+[A-Z][A-Za-z'’&.-]+){1,4}\b")
 
-ORG_HINTS = {"Council", "Ltd", "Limited", "Group", "Agency", "Authority", "Committee", "Party", "Trust", "Association", "Company", "Construction", "Homes", "Labour"}
-PLACE_HINTS = {"Road", "Street", "Lane", "Park", "Green", "Estate", "House", "Hall", "Centre", "Center", "Market", "Gasworks", "Southall", "Ealing"}
+ORG_HINTS = {"Council", "Ltd", "Limited", "Group", "Agency", "Authority", "Committee", "Party", "Trust", "Association", "Company", "Construction", "Homes", "Labour", "University", "Police"}
+PLACE_HINTS = {"Road", "Street", "Lane", "Park", "Green", "Estate", "House", "Hall", "Centre", "Center", "Market", "Gasworks", "Waterside", "Southall", "Ealing"}
+STOP_PREFIXES = {"This", "That", "These", "Those", "What", "When", "Where", "Why", "How", "They", "There", "Here", "After", "Before", "During", "Meanwhile", "However", "Today", "Yesterday"}
 STOP = {
     "Southall Stories", "Read More", "Local Democracy", "United Kingdom", "New Year", "The Council", "The Labour Party",
     "Ealing Labour", "Ealing Council", "Peter Mason", "Julian Bell", "Berkeley Group", "Environment Agency", "Public Health England",
@@ -52,9 +54,20 @@ def context(text: str, name: str, radius: int = 120) -> str:
     match = re.search(re.escape(name), text, re.IGNORECASE)
     if not match:
         return ""
-    start = max(0, match.start() - radius)
-    end = min(len(text), match.end() + radius)
-    return text[start:end].strip()
+    return text[max(0, match.start() - radius):min(len(text), match.end() + radius)].strip()
+
+
+def plausible(name: str) -> bool:
+    tokens = name.split()
+    if len(tokens) < 2 or len(name) < 5 or len(name) > 80:
+        return False
+    if tokens[0] in STOP_PREFIXES:
+        return False
+    if any(token.endswith(("'s", "’s")) for token in tokens):
+        return False
+    if all(len(token) <= 2 for token in tokens):
+        return False
+    return True
 
 
 def main() -> None:
@@ -69,7 +82,6 @@ def main() -> None:
         curated_aliases.update(str(a).casefold() for a in (meta.get("aliases") or []))
 
     occurrences: dict[str, dict] = defaultdict(lambda: {"posts": set(), "dates": [], "contexts": [], "forms": defaultdict(int)})
-
     for path in sorted(repo.glob("posts/[0-9][0-9][0-9][0-9]/*/*/*.md")):
         meta, body = front_matter_and_body(path)
         rel = path.relative_to(repo).as_posix()
@@ -78,13 +90,7 @@ def main() -> None:
         seen = set()
         for raw in CANDIDATE_RE.findall(text):
             name = re.sub(r"\s+", " ", raw).strip(" .,:;!?-\n\t")
-            if len(name) < 4 or len(name) > 80 or name in STOP or name in ignored:
-                continue
-            if name.casefold() in curated_aliases:
-                continue
-            if name.lower().startswith(("the ", "this ", "that ", "these ", "those ")):
-                name = name.split(" ", 1)[1]
-            if not name or name.casefold() in curated_aliases or name in ignored:
+            if not plausible(name) or name in STOP or name in ignored or name.casefold() in curated_aliases:
                 continue
             key = name.casefold()
             data = occurrences[key]
@@ -102,13 +108,13 @@ def main() -> None:
             continue
         canonical = sorted(data["forms"].items(), key=lambda kv: (-kv[1], -len(kv[0]), kv[0]))[0][0]
         dates = sorted(d for d in data["dates"] if d)
-        score = post_count * 10 + min(sum(data["forms"].values()), 20)
+        mention_count = sum(data["forms"].values())
         candidates.append({
             "name": canonical,
             "class_hint": classify(canonical),
-            "score": score,
+            "score": post_count * 10 + min(mention_count, 20),
             "post_count": post_count,
-            "mention_count": sum(data["forms"].values()),
+            "mention_count": mention_count,
             "first_mention": dates[0] if dates else None,
             "last_mention": dates[-1] if dates else None,
             "variant_forms": sorted(data["forms"], key=lambda x: (-data["forms"][x], x)),
@@ -118,8 +124,7 @@ def main() -> None:
         })
 
     candidates.sort(key=lambda x: (-x["score"], x["name"]))
-    out = repo / "generated/entity-candidates.json"
-    out.write_text(json.dumps(candidates, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    (repo / "generated/entity-candidates.json").write_text(json.dumps(candidates, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
     lines = ["# Entity candidates", "", "Machine-generated review queue. Nothing here is a curated assertion until promoted into `entities/`.", ""]
     for item in candidates[:100]:
