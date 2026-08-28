@@ -1,4 +1,4 @@
-# False positives and editorial boilerplate suppressed from candidate discovery.
+# False positives, generic fragments and editorial boilerplate suppressed from candidate discovery.
 Southall Stories
 Read More
 Local Democracy
@@ -11,3 +11,10 @@ Julian Bell
 Berkeley Group
 Environment Agency
 Public Health England
+London Borough
+Town Hall
+Council Leader Peter Mason
+The Smell
+Get Mason Out
+Bank Holiday Monday
+Category Amount
