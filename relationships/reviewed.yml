@@ -253,3 +253,42 @@ relationships:
     created_by: human
     review_status: reviewed
     note: The cited reporting records Leydon answering questions at the panel's September 2018 meeting.
+
+  - id: peter-mason-mipim-trip-sponsored-in-part-by-berkeley-group
+    from: peter-mason
+    to: berkeley-group
+    type: mipim_trip_sponsored_in_part_by
+    directional: true
+    evidence:
+      - posts/2022/12/17/the-property-lobby-the-hidden.md
+      - posts/2026/05/07/who-does-peter-mason-really.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: The cited reporting records that Mason's 2019 MIPIM attendance was jointly funded by a sponsor consortium that included Berkeley Group; Mason later described accepting the sponsorship as a mistake.
+
+  - id: julian-bell-mipim-delegation-sponsored-in-part-by-berkeley-group
+    from: julian-bell
+    to: berkeley-group
+    type: mipim_trip_sponsored_in_part_by
+    directional: true
+    evidence:
+      - posts/2022/12/17/the-property-lobby-the-hidden.md
+      - posts/2025/09/26/ealing-for-sale.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: The cited reporting records Bell's MIPIM attendance through Ealing's developer-sponsored delegation; official council records list Berkeley Homes among the sponsors.
+
+  - id: ealing-council-received-mipim-sponsorship-from-berkeley-group
+    from: ealing-council
+    to: berkeley-group
+    type: received_mipim_sponsorship_from
+    directional: true
+    evidence:
+      - posts/2022/12/17/the-property-lobby-the-hidden.md
+      - posts/2025/09/26/ealing-for-sale.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: Official Ealing Council records list Berkeley Homes among sponsors of the council's MIPIM delegation. This records sponsorship, not any inferred effect on planning decisions.
