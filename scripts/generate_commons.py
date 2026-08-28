@@ -1,0 +1,252 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+import json
+import re
+from pathlib import Path
+
+import yaml
+
+SCHEMA_VERSION = 1
+BASE_URL = "https://southallstories.uk"
+FRONT_MATTER_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
+
+
+def load_json(path: Path):
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def load_note(path: Path) -> dict:
+    text = path.read_text(encoding="utf-8")
+    match = FRONT_MATTER_RE.match(text)
+    if not match:
+        raise ValueError(f"Missing YAML front matter: {path}")
+    return yaml.safe_load(match.group(1)) or {}
+
+
+def absolute_post_url(url: str) -> str:
+    if not url:
+        return ""
+    if url.startswith("http://") or url.startswith("https://"):
+        return url
+    return BASE_URL + (url if url.startswith("/") else "/" + url)
+
+
+def typed(kind: str, value) -> str:
+    return f"{kind}:{value}"
+
+
+def ensure_unique(items: list[dict], label: str) -> set[str]:
+    ids = [item["id"] for item in items]
+    if len(ids) != len(set(ids)):
+        raise ValueError(f"Duplicate {label} IDs in Commons export")
+    return set(ids)
+
+
+def validate_export(data: dict) -> None:
+    if data.get("schema_version") != SCHEMA_VERSION:
+        raise ValueError("Unexpected Commons schema version")
+
+    entity_ids = ensure_unique(data["entities"], "entity")
+    topic_ids = ensure_unique(data["topics"], "topic")
+    post_ids = ensure_unique(data["posts"], "post")
+    source_ids = ensure_unique(data["sources"], "source")
+    ensure_unique(data["relationships"], "relationship")
+
+    for rel in data["relationships"]:
+        if rel["from"] not in entity_ids or rel["to"] not in entity_ids:
+            raise ValueError(f"Relationship {rel['id']} has an unknown endpoint")
+        if rel.get("review_status") != "reviewed":
+            raise ValueError(f"Relationship {rel['id']} is not reviewed")
+        for evidence in rel.get("evidence", []):
+            if evidence["id"] not in post_ids:
+                raise ValueError(f"Relationship {rel['id']} has unknown evidence")
+
+    for source in data["sources"]:
+        if source.get("review_status") != "reviewed":
+            raise ValueError(f"Source {source['id']} is not reviewed")
+        for ref in source.get("cited_by", []):
+            if ref not in post_ids:
+                raise ValueError(f"Source {source['id']} cites unknown post {ref}")
+        for ref in source.get("related_entities", []):
+            if ref not in entity_ids:
+                raise ValueError(f"Source {source['id']} references unknown entity {ref}")
+        for ref in source.get("related_topics", []):
+            if ref not in topic_ids:
+                raise ValueError(f"Source {source['id']} references unknown topic {ref}")
+
+    for edge in data["links"]:
+        if edge["source"].startswith("entity:") and edge["source"] not in entity_ids:
+            raise ValueError(f"Link has unknown entity source: {edge}")
+        if edge["source"].startswith("topic:") and edge["source"] not in topic_ids:
+            raise ValueError(f"Link has unknown topic source: {edge}")
+        if edge["source"].startswith("post:") and edge["source"] not in post_ids:
+            raise ValueError(f"Link has unknown post source: {edge}")
+        if edge["target"].startswith("post:") and edge["target"] not in post_ids:
+            raise ValueError(f"Link has unknown post target: {edge}")
+
+
+def main() -> None:
+    repo = Path.cwd()
+    generated = repo / "generated"
+
+    posts_raw = load_json(generated / "posts.json")
+    mentions_entities = load_json(generated / "entity-mentions.json")
+    mentions_topics = load_json(generated / "topic-mentions.json")
+    backlinks = load_json(generated / "backlinks.json")
+    relationships_raw = load_json(generated / "entity-relationships.json")
+
+    entity_notes = [load_note(p) for p in sorted(repo.glob("entities/*/*.md"))]
+    topic_notes = [load_note(p) for p in sorted(repo.glob("topics/*.md"))]
+    source_notes = [load_note(p) for p in sorted(repo.glob("sources/**/*.md"))]
+
+    post_id_by_path: dict[str, str] = {}
+    posts = []
+    for post in posts_raw:
+        stable = post.get("post_id") or post["path"]
+        public_id = typed("post", stable)
+        post_id_by_path[post["path"]] = public_id
+        posts.append({
+            "id": public_id,
+            "title": post.get("title"),
+            "summary": post.get("summary"),
+            "date": post.get("date"),
+            "lastmod": post.get("lastmod"),
+            "url": absolute_post_url(post.get("url") or ""),
+            "categories": post.get("categories") or [],
+            "sha256": post.get("sha256"),
+            "provenance": "southall-stories-corpus",
+        })
+
+    entities = []
+    for note in entity_notes:
+        entities.append({
+            "id": typed("entity", note["id"]),
+            "name": note.get("name"),
+            "type": note.get("type"),
+            "aliases": note.get("aliases") or [],
+            "description": note.get("description"),
+            "review_status": "reviewed",
+            "provenance": "curated-entity",
+        })
+
+    topics = []
+    for note in topic_notes:
+        topics.append({
+            "id": typed("topic", note["id"]),
+            "name": note.get("name"),
+            "aliases": note.get("aliases") or [],
+            "review_status": "reviewed",
+            "provenance": "curated-topic",
+        })
+
+    relationships = []
+    for rel in relationships_raw:
+        evidence = []
+        for path in rel.get("evidence") or []:
+            if path not in post_id_by_path:
+                raise ValueError(f"Commons relationship evidence is not a corpus post: {path}")
+            evidence.append({"id": post_id_by_path[path]})
+        relationships.append({
+            "id": typed("relationship", rel["id"]),
+            "from": typed("entity", rel["from"]),
+            "to": typed("entity", rel["to"]),
+            "type": rel["type"],
+            "directional": bool(rel.get("directional", True)),
+            "evidence": evidence,
+            "confidence": rel.get("confidence"),
+            "created_by": rel.get("created_by"),
+            "review_status": rel.get("review_status"),
+            "valid_from": rel.get("valid_from"),
+            "valid_to": rel.get("valid_to"),
+            "note": rel.get("note"),
+            "provenance": "reviewed-relationship",
+        })
+
+    sources = []
+    for source in source_notes:
+        sources.append({
+            "id": typed("source", source["id"]),
+            "title": source.get("title"),
+            "publisher": source.get("publisher"),
+            "source_type": source.get("source_type"),
+            "canonical_url": source.get("canonical_url"),
+            "archive_urls": source.get("archive_urls") or [],
+            "publication_date": source.get("publication_date"),
+            "meeting_date": source.get("meeting_date"),
+            "cited_by": [post_id_by_path[p] for p in source.get("cited_by") or [] if p in post_id_by_path],
+            "related_entities": [typed("entity", e) for e in source.get("related_entities") or []],
+            "related_topics": [typed("topic", t) for t in source.get("related_topics") or []],
+            "review_status": source.get("review_status"),
+            "temporal_status": source.get("temporal_status"),
+            "provenance": "reviewed-source-record",
+        })
+
+    links = []
+    for entity_id, mentions in sorted(mentions_entities.items()):
+        for mention in mentions:
+            links.append({
+                "source": typed("entity", entity_id),
+                "target": post_id_by_path[mention["path"]],
+                "type": "mentioned-in",
+                "provenance": "deterministic-alias-match",
+            })
+    for topic_id, mentions in sorted(mentions_topics.items()):
+        for mention in mentions:
+            links.append({
+                "source": typed("topic", topic_id),
+                "target": post_id_by_path[mention["path"]],
+                "type": "mentioned-in",
+                "provenance": "deterministic-alias-match",
+            })
+    for target_path, source_paths in sorted((backlinks.get("posts") or {}).items()):
+        for source_path in source_paths:
+            links.append({
+                "source": post_id_by_path[source_path],
+                "target": post_id_by_path[target_path],
+                "type": "links-to",
+                "provenance": "source-post-link",
+            })
+
+    data = {
+        "schema_version": SCHEMA_VERSION,
+        "export_name": "Southall-Zettel Civic Commons Export",
+        "publisher": "Southall-Zettel",
+        "canonical_corpus": "https://southallstories.uk",
+        "policy": {
+            "candidates_exported": False,
+            "raw_source_urls_exported": False,
+            "full_post_text_exported": False,
+            "reviewed_relationships_only": True,
+        },
+        "counts": {
+            "entities": len(entities),
+            "topics": len(topics),
+            "posts": len(posts),
+            "relationships": len(relationships),
+            "sources": len(sources),
+            "links": len(links),
+        },
+        "entities": sorted(entities, key=lambda x: x["id"]),
+        "topics": sorted(topics, key=lambda x: x["id"]),
+        "posts": sorted(posts, key=lambda x: x["id"]),
+        "relationships": sorted(relationships, key=lambda x: x["id"]),
+        "sources": sorted(sources, key=lambda x: x["id"]),
+        "links": sorted(links, key=lambda x: (x["source"], x["target"], x["type"])),
+    }
+
+    validate_export(data)
+    (generated / "commons.json").write_text(
+        json.dumps(data, indent=2, ensure_ascii=False, sort_keys=True) + "\n",
+        encoding="utf-8",
+    )
+
+    print(
+        "Commons export v1: "
+        f"{len(entities)} entities, {len(topics)} topics, {len(posts)} posts, "
+        f"{len(relationships)} relationships, {len(sources)} sources, {len(links)} links"
+    )
+
+
+if __name__ == "__main__":
+    main()
