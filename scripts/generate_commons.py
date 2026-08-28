@@ -52,6 +52,7 @@ def validate_export(data: dict) -> None:
     post_ids = ensure_unique(data["posts"], "post")
     source_ids = ensure_unique(data["sources"], "source")
     ensure_unique(data["relationships"], "relationship")
+    evidence_ids = post_ids | source_ids
 
     for rel in data["relationships"]:
         if rel["from"] not in entity_ids or rel["to"] not in entity_ids:
@@ -59,8 +60,8 @@ def validate_export(data: dict) -> None:
         if rel.get("review_status") != "reviewed":
             raise ValueError(f"Relationship {rel['id']} is not reviewed")
         for evidence in rel.get("evidence", []):
-            if evidence["id"] not in post_ids:
-                raise ValueError(f"Relationship {rel['id']} has unknown evidence")
+            if evidence["id"] not in evidence_ids:
+                raise ValueError(f"Relationship {rel['id']} has unknown evidence {evidence['id']}")
 
     for source in data["sources"]:
         if source.get("review_status") != "reviewed":
@@ -98,7 +99,8 @@ def main() -> None:
 
     entity_notes = [load_note(p) for p in sorted(repo.glob("entities/*/*.md"))]
     topic_notes = [load_note(p) for p in sorted(repo.glob("topics/*.md"))]
-    source_notes = [load_note(p) for p in sorted(repo.glob("sources/**/*.md"))]
+    source_note_paths = sorted(repo.glob("sources/**/*.md"))
+    source_notes = [(p.relative_to(repo).as_posix(), load_note(p)) for p in source_note_paths]
 
     post_id_by_path: dict[str, str] = {}
     posts = []
@@ -140,13 +142,44 @@ def main() -> None:
             "provenance": "curated-topic",
         })
 
+    source_id_by_path = {
+        path: typed("source", note["id"])
+        for path, note in source_notes
+    }
+    sources = []
+    for _, source in source_notes:
+        cited_by = []
+        for post_path in source.get("cited_by") or []:
+            if post_path not in post_id_by_path:
+                raise ValueError(f"Curated source {source['id']} cites unknown corpus post {post_path}")
+            cited_by.append(post_id_by_path[post_path])
+        sources.append({
+            "id": typed("source", source["id"]),
+            "title": source.get("title"),
+            "publisher": source.get("publisher"),
+            "source_type": source.get("source_type"),
+            "canonical_url": source.get("canonical_url"),
+            "archive_urls": source.get("archive_urls") or [],
+            "publication_date": source.get("publication_date"),
+            "meeting_date": source.get("meeting_date"),
+            "cited_by": cited_by,
+            "related_entities": [typed("entity", e) for e in source.get("related_entities") or []],
+            "related_topics": [typed("topic", t) for t in source.get("related_topics") or []],
+            "review_status": source.get("review_status"),
+            "temporal_status": source.get("temporal_status"),
+            "provenance": "reviewed-source-record",
+        })
+
     relationships = []
     for rel in relationships_raw:
         evidence = []
         for path in rel.get("evidence") or []:
-            if path not in post_id_by_path:
-                raise ValueError(f"Commons relationship evidence is not a corpus post: {path}")
-            evidence.append({"id": post_id_by_path[path]})
+            if path in post_id_by_path:
+                evidence.append({"id": post_id_by_path[path]})
+            elif path in source_id_by_path:
+                evidence.append({"id": source_id_by_path[path]})
+            else:
+                raise ValueError(f"Commons relationship evidence is neither a corpus post nor curated source: {path}")
         relationships.append({
             "id": typed("relationship", rel["id"]),
             "from": typed("entity", rel["from"]),
@@ -161,25 +194,6 @@ def main() -> None:
             "valid_to": rel.get("valid_to"),
             "note": rel.get("note"),
             "provenance": "reviewed-relationship",
-        })
-
-    sources = []
-    for source in source_notes:
-        sources.append({
-            "id": typed("source", source["id"]),
-            "title": source.get("title"),
-            "publisher": source.get("publisher"),
-            "source_type": source.get("source_type"),
-            "canonical_url": source.get("canonical_url"),
-            "archive_urls": source.get("archive_urls") or [],
-            "publication_date": source.get("publication_date"),
-            "meeting_date": source.get("meeting_date"),
-            "cited_by": [post_id_by_path[p] for p in source.get("cited_by") or [] if p in post_id_by_path],
-            "related_entities": [typed("entity", e) for e in source.get("related_entities") or []],
-            "related_topics": [typed("topic", t) for t in source.get("related_topics") or []],
-            "review_status": source.get("review_status"),
-            "temporal_status": source.get("temporal_status"),
-            "provenance": "reviewed-source-record",
         })
 
     links = []
