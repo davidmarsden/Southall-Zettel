@@ -15,6 +15,10 @@ on:
       - 'scripts/discover_candidates.py'
       - '.github/workflows/rebuild-research.yml'
 
+concurrency:
+  group: southall-zettel-research-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
