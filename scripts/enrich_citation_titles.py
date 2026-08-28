@@ -4,6 +4,7 @@ from __future__ import annotations
 import html
 import io
 import json
+import os
 import re
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -24,6 +25,7 @@ MAX_FETCH_BYTES = 5 * 1024 * 1024
 MAX_NEW_FETCHES = 120
 FETCH_WORKERS = 12
 FETCH_TIMEOUT = 7
+FULL_LINK_CHECK = os.environ.get("LINK_HEALTH_FULL", "").lower() in {"1", "true", "yes"}
 
 EXCLUDED_DOMAINS = {
     "x.com", "twitter.com", "facebook.com", "instagram.com", "youtube.com", "youtu.be",
@@ -85,7 +87,6 @@ def should_fetch(url: str) -> bool:
 def discover_urls(repo: Path) -> list[str]:
     urls: list[str] = []
     seen: set[str] = set()
-    # Newest posts first so current investigations get enriched immediately.
     for path in sorted(repo.glob("posts/**/*.md"), reverse=True):
         text = path.read_text(encoding="utf-8")
         body_match = FRONT_MATTER_RE.match(text)
@@ -137,13 +138,31 @@ def html_title(data: bytes, charset: str | None) -> tuple[str | None, str | None
     return None, None
 
 
+def classify_health(url: str, result: dict) -> str:
+    status = result.get("http_status")
+    if status in {404, 410}:
+        return "gone"
+    if status is None and result.get("status") in {"fetch-failed", "parse-failed"}:
+        return "unreachable"
+    if status and status >= 400:
+        return "unreachable"
+    resolved = result.get("resolved_url")
+    if resolved and resolved.rstrip("/") != url.rstrip("/"):
+        return "redirected"
+    if status and 200 <= status < 400:
+        return "healthy"
+    return "unreachable"
+
+
 def fetch_metadata(url: str) -> tuple[str, dict]:
     result = {
         "destination_title": None,
         "title_source": None,
         "resolved_url": None,
         "content_type": None,
+        "http_status": None,
         "status": "unresolved",
+        "health": "unreachable",
     }
     try:
         request = Request(
@@ -154,9 +173,11 @@ def fetch_metadata(url: str) -> tuple[str, dict]:
             },
         )
         with urlopen(request, timeout=FETCH_TIMEOUT) as response:
+            result["http_status"] = response.getcode()
             result["resolved_url"] = response.geturl()
             content_type = (response.headers.get_content_type() or "").lower()
             result["content_type"] = content_type
+            result["status"] = "fetched"
             data = read_limited(response)
             if content_type == "application/pdf" or data.startswith(b"%PDF-"):
                 title = pdf_title(data)
@@ -172,11 +193,14 @@ def fetch_metadata(url: str) -> tuple[str, dict]:
                     result["title_source"] = source
                     result["status"] = "resolved"
     except HTTPError as exc:
+        result["http_status"] = exc.code
+        result["resolved_url"] = exc.geturl()
         result["status"] = f"http-{exc.code}"
     except (URLError, TimeoutError, OSError):
         result["status"] = "fetch-failed"
     except Exception:
         result["status"] = "parse-failed"
+    result["health"] = classify_health(url, result)
     return url, result
 
 
@@ -186,24 +210,31 @@ def main() -> None:
     cache = json.loads(CACHE_PATH.read_text(encoding="utf-8")) if CACHE_PATH.exists() else {}
     urls = discover_urls(repo)
 
-    missing = [url for url in urls if url not in cache][:MAX_NEW_FETCHES]
-    print(f"Citation title cache: {len(cache)} entries; resolving {len(missing)} new URLs")
+    if FULL_LINK_CHECK:
+        pending = urls
+        print(f"Weekly link-health check: refreshing all {len(pending)} checkable URLs")
+    else:
+        pending = [url for url in urls if url not in cache][:MAX_NEW_FETCHES]
+        print(f"Citation metadata cache: {len(cache)} entries; resolving {len(pending)} new URLs")
 
-    if missing:
+    if pending:
         with ThreadPoolExecutor(max_workers=FETCH_WORKERS) as pool:
-            futures = {pool.submit(fetch_metadata, url): url for url in missing}
+            futures = {pool.submit(fetch_metadata, url): url for url in pending}
             for future in as_completed(futures):
                 url, metadata = future.result()
                 metadata["checked_at"] = int(time.time())
                 cache[url] = metadata
-                if metadata.get("destination_title"):
+                if metadata.get("destination_title") and not FULL_LINK_CHECK:
                     print(f"  resolved: {metadata['destination_title'][:90]}")
 
-    # Keep only URLs that still exist in the corpus, making the cache deterministic apart from checked_at.
     active = {url: cache[url] for url in urls if url in cache}
     CACHE_PATH.write_text(json.dumps(active, indent=2, ensure_ascii=False, sort_keys=True) + "\n", encoding="utf-8")
     resolved = sum(1 for item in active.values() if item.get("destination_title"))
-    print(f"Citation title cache now contains {len(active)} active URLs ({resolved} titled)")
+    health_counts: dict[str, int] = {}
+    for item in active.values():
+        health = item.get("health") or "unknown"
+        health_counts[health] = health_counts.get(health, 0) + 1
+    print(f"Citation metadata cache now contains {len(active)} active URLs ({resolved} titled); health={health_counts}")
 
 
 if __name__ == "__main__":
