@@ -1,0 +1,2855 @@
+{
+  "air-pollution": [
+    {
+      "date": "2018-07-09T20:10:00+0100",
+      "matched_aliases": [
+        "Air pollution",
+        "air pollution",
+        "benzene",
+        "odours",
+        "emissions"
+      ],
+      "path": "posts/2018/07/09/visit-to-southall-waterside-now.md",
+      "title": "Visit to Southall Waterside (aka The Green Quarter)"
+    },
+    {
+      "date": "2018-07-25T09:49:00+0100",
+      "matched_aliases": [
+        "odour"
+      ],
+      "path": "posts/2018/07/25/meeting-berkeley-group.md",
+      "title": "Meeting Berkeley Group"
+    },
+    {
+      "date": "2018-08-03T22:23:00+0100",
+      "matched_aliases": [
+        "benzene"
+      ],
+      "path": "posts/2018/08/03/health-risks-of-exposure-to.md",
+      "title": "Health Risks of Exposure to Benzene"
+    },
+    {
+      "date": "2018-09-11T18:28:00+0100",
+      "matched_aliases": [
+        "Air pollution",
+        "air pollution",
+        "odour"
+      ],
+      "path": "posts/2018/09/11/berkeleys-school-governors-board-member.md",
+      "title": "Berkeley's School Governors Board Member"
+    },
+    {
+      "date": "2018-09-12T20:40:00+0100",
+      "matched_aliases": [
+        "Air pollution",
+        "air quality",
+        "air pollution",
+        "benzene",
+        "odour",
+        "odours"
+      ],
+      "path": "posts/2018/09/12/countering-the-southall-waterside-narrative.md",
+      "title": "Countering the Southall Waterside Narrative"
+    },
+    {
+      "date": "2018-11-02T21:54:00+0100",
+      "matched_aliases": [
+        "air quality",
+        "benzene",
+        "naphthalene"
+      ],
+      "path": "posts/2018/11/02/lies-damned-lies-and-statistics.md",
+      "title": "Lies, Damned Lies, and Statistics?"
+    },
+    {
+      "date": "2019-06-01T21:08:00+0100",
+      "matched_aliases": [
+        "air quality",
+        "odour",
+        "odours"
+      ],
+      "path": "posts/2019/06/01/pull-the-other-one-julian.md",
+      "title": "Pull the Other One, Julian"
+    },
+    {
+      "date": "2019-06-25T18:49:00+0100",
+      "matched_aliases": [
+        "Air pollution",
+        "air pollution",
+        "odour"
+      ],
+      "path": "posts/2019/06/25/the-health-and-other-impacts.md",
+      "title": "The Health and Other Impacts of Southall Waterside on Southall & Hayes Residents"
+    },
+    {
+      "date": "2019-07-09T19:09:00+0100",
+      "matched_aliases": [
+        "air quality",
+        "benzene",
+        "naphthalene"
+      ],
+      "path": "posts/2019/07/09/phe-coverup.md",
+      "title": "PHE cover-up?"
+    },
+    {
+      "date": "2019-07-12T09:55:00+0100",
+      "matched_aliases": [
+        "naphthalene",
+        "odour"
+      ],
+      "path": "posts/2019/07/12/naphthalene-poisoning-risk-in-people.md",
+      "title": "Naphthalene Poisoning Risk in People of African and Asian Heritage"
+    },
+    {
+      "date": "2019-07-21T19:39:00+0100",
+      "matched_aliases": [
+        "air quality",
+        "benzene",
+        "naphthalene",
+        "odour",
+        "emissions"
+      ],
+      "path": "posts/2019/07/21/phe-coverup-continued.md",
+      "title": "PHE cover-up, continued"
+    },
+    {
+      "date": "2019-08-25T22:14:32+0100",
+      "matched_aliases": [
+        "Air pollution",
+        "air quality",
+        "air pollution",
+        "benzene",
+        "naphthalene",
+        "odour"
+      ],
+      "path": "posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "title": "Southall under Siege: the Neighbours from Hell"
+    },
+    {
+      "date": "2019-09-26T21:07:00+0100",
+      "matched_aliases": [
+        "air quality"
+      ],
+      "path": "posts/2019/09/26/the-gaslighting-zone.md",
+      "title": "The Gaslighting Zone"
+    },
+    {
+      "date": "2019-10-01T15:24:00+0100",
+      "matched_aliases": [
+        "Air pollution",
+        "air pollution",
+        "naphthalene"
+      ],
+      "path": "posts/2019/10/01/trigger-vote-for-sharma.md",
+      "title": "Trigger Vote for Sharma"
+    },
+    {
+      "date": "2021-04-14T10:33:42+0100",
+      "matched_aliases": [
+        "Air pollution",
+        "air quality",
+        "air pollution",
+        "benzene",
+        "naphthalene",
+        "odours"
+      ],
+      "path": "posts/2021/04/14/strawberries-for-pigs.md",
+      "title": "Strawberries for Pigs?"
+    },
+    {
+      "date": "2021-07-21T22:29:00+0100",
+      "matched_aliases": [
+        "odours"
+      ],
+      "path": "posts/2021/07/21/from-the-southall-big-plan.md",
+      "title": "From the Southall Big Plan AGM in 2017"
+    },
+    {
+      "date": "2021-07-27T11:03:00+0100",
+      "matched_aliases": [
+        "Air pollution",
+        "air quality",
+        "air pollution",
+        "naphthalene",
+        "odour"
+      ],
+      "path": "posts/2021/07/27/questions-for-cabinet-leads.md",
+      "title": "Questions for Cabinet Leads"
+    },
+    {
+      "date": "2022-07-10T13:28:00+0100",
+      "matched_aliases": [
+        "air quality",
+        "emissions"
+      ],
+      "path": "posts/2022/07/10/weasel-words-on-air-quality.md",
+      "title": "Weasel Words on Air Quality Monitoring"
+    },
+    {
+      "date": "2023-01-26T20:32:00+0100",
+      "matched_aliases": [
+        "Air pollution",
+        "air quality",
+        "air pollution",
+        "naphthalene",
+        "odour",
+        "odours",
+        "emissions"
+      ],
+      "path": "posts/2023/01/26/response-to-ealings-air-quality.md",
+      "title": "Response to Ealing's Air Quality Strategy and Action Plan"
+    },
+    {
+      "date": "2023-04-30T15:34:19+0100",
+      "matched_aliases": [
+        "Air pollution",
+        "air pollution",
+        "odour"
+      ],
+      "path": "posts/2023/04/30/i-am-the-leader-of.md",
+      "title": "I am the Leader of Ealing Council"
+    },
+    {
+      "date": "2023-05-01T12:00:38+0100",
+      "matched_aliases": [
+        "Air pollution",
+        "air pollution",
+        "benzene",
+        "naphthalene",
+        "odour"
+      ],
+      "path": "posts/2023/05/01/risks-to-health-from-remediating.md",
+      "title": "Risks to Health from Remediating Southall Gasworks"
+    },
+    {
+      "date": "2024-10-31T22:44:00+0100",
+      "matched_aliases": [
+        "Air pollution",
+        "air pollution",
+        "benzene",
+        "naphthalene"
+      ],
+      "path": "posts/2024/10/31/copd.md",
+      "title": "COPD"
+    },
+    {
+      "date": "2024-12-14T16:19:00+0100",
+      "matched_aliases": [
+        "Air pollution",
+        "air pollution",
+        "odour",
+        "odours"
+      ],
+      "path": "posts/2024/12/14/southall-odours.md",
+      "title": "Southall Odours"
+    },
+    {
+      "date": "2025-07-11T13:50:30+0100",
+      "matched_aliases": [
+        "air quality",
+        "benzene",
+        "naphthalene",
+        "odour",
+        "odours"
+      ],
+      "path": "posts/2025/07/11/perceval-house-w-where-local.md",
+      "title": "Perceval House W5: Where Local Democracy in Ealing Goes to Die"
+    },
+    {
+      "date": "2026-01-11T16:11:23+0100",
+      "matched_aliases": [
+        "air quality",
+        "benzene",
+        "naphthalene",
+        "odours"
+      ],
+      "path": "posts/2026/01/11/toxic-town-have-you-been.md",
+      "title": "Toxic Town - Have You Been Affected?"
+    },
+    {
+      "date": "2026-01-12T19:00:00+0100",
+      "matched_aliases": [
+        "odours",
+        "emissions"
+      ],
+      "path": "posts/2026/01/12/a-fire-we-were-warned.md",
+      "title": "A Fire We Were Warned About"
+    },
+    {
+      "date": "2026-01-20T16:01:05+0100",
+      "matched_aliases": [
+        "Air pollution",
+        "air quality",
+        "air pollution",
+        "naphthalene",
+        "odour",
+        "odours",
+        "emissions"
+      ],
+      "path": "posts/2026/01/20/the-council-investigation-that-found.md",
+      "title": "The Council Investigation That Found Nothing "
+    },
+    {
+      "date": "2026-01-22T13:02:00+0100",
+      "matched_aliases": [
+        "Air pollution",
+        "air pollution",
+        "odour",
+        "odours",
+        "emissions"
+      ],
+      "path": "posts/2026/01/22/its-never-enough-until-its.md",
+      "title": "How to Report Nuisance and Pollution in Ealing"
+    },
+    {
+      "date": "2026-01-26T00:44:37+0100",
+      "matched_aliases": [
+        "odour"
+      ],
+      "path": "posts/2026/01/25/the-ea-files-what-regulators.md",
+      "title": "The EA Files: What Regulators Knew About Fire Risks at Southall Recycling Site"
+    },
+    {
+      "date": "2026-02-14T17:18:46+0100",
+      "matched_aliases": [
+        "air quality"
+      ],
+      "path": "posts/2026/02/14/section-money-where-did-southalls.md",
+      "title": "Section 106 money: where did Southall’s “developer tax” go?"
+    },
+    {
+      "date": "2026-02-18T23:35:12+0100",
+      "matched_aliases": [
+        "air quality",
+        "benzene",
+        "naphthalene"
+      ],
+      "path": "posts/2026/02/18/the-broken-manifesto-promises-that.md",
+      "title": "The Broken Manifesto Promises that show how Labour is Failing Ealing"
+    },
+    {
+      "date": "2026-05-06T11:55:52+0100",
+      "matched_aliases": [
+        "air quality"
+      ],
+      "path": "posts/2026/05/06/the-drugs-dont-work.md",
+      "title": "The Drugs Don't Work"
+    },
+    {
+      "date": "2026-05-06T17:44:53+0100",
+      "matched_aliases": [
+        "benzene",
+        "naphthalene"
+      ],
+      "path": "posts/2026/05/06/the-meeting-that-ended-local.md",
+      "title": "The Meeting that Ended Local Democracy in Southall"
+    },
+    {
+      "date": "2026-05-07T07:12:57+0100",
+      "matched_aliases": [
+        "odour",
+        "odours",
+        "emissions"
+      ],
+      "path": "posts/2026/05/07/computer-says-no.md",
+      "title": "Computer Says No"
+    },
+    {
+      "date": "2026-05-07T10:29:47+0100",
+      "matched_aliases": [
+        "Air pollution",
+        "air pollution",
+        "emissions"
+      ],
+      "path": "posts/2026/05/07/the-man-in-the-middle.md",
+      "title": "The Man in the Middle"
+    },
+    {
+      "date": "2026-05-09T18:20:45+0100",
+      "matched_aliases": [
+        "air quality",
+        "odour"
+      ],
+      "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "title": "Lift-Off! Ealing Elections Special "
+    },
+    {
+      "date": "2026-05-25T15:34:05+0100",
+      "matched_aliases": [
+        "Air pollution",
+        "air quality",
+        "air pollution",
+        "benzene",
+        "naphthalene",
+        "emissions"
+      ],
+      "path": "posts/2026/05/25/feeling-the-heat.md",
+      "title": "Feeling the Heat"
+    },
+    {
+      "date": "2026-05-29T22:09:15+0100",
+      "matched_aliases": [
+        "air quality"
+      ],
+      "path": "posts/2026/05/29/individuality.md",
+      "title": "Individuality"
+    }
+  ],
+  "children-centres": [
+    {
+      "date": "2025-07-11T13:50:30+0100",
+      "matched_aliases": [
+        "Children's centres",
+        "children's centres"
+      ],
+      "path": "posts/2025/07/11/perceval-house-w-where-local.md",
+      "title": "Perceval House W5: Where Local Democracy in Ealing Goes to Die"
+    },
+    {
+      "date": "2025-07-12T17:17:01+0100",
+      "matched_aliases": [
+        "Children's centres",
+        "children's centres"
+      ],
+      "path": "posts/2025/07/12/so-it-goes-ai-on.md",
+      "title": "So it Goes: AI on the Absurd Logic of Ealing Council"
+    },
+    {
+      "date": "2025-07-16T00:33:52+0100",
+      "matched_aliases": [
+        "Children's centres",
+        "children's centres"
+      ],
+      "path": "posts/2025/07/16/the-pied-piper-of-ealing.md",
+      "title": "The Pied Piper of Ealing"
+    },
+    {
+      "date": "2025-07-24T17:39:08+0100",
+      "matched_aliases": [
+        "Children's centres",
+        "children's centres"
+      ],
+      "path": "posts/2025/07/24/david-marsden-save-ealing-childrens.md",
+      "title": "Save Ealing Children’s Centres Campaign Update"
+    },
+    {
+      "date": "2025-09-26T11:16:20+0100",
+      "matched_aliases": [
+        "Children's centres",
+        "children's centres"
+      ],
+      "path": "posts/2025/09/26/ealing-for-sale.md",
+      "title": "Ealing For Sale"
+    },
+    {
+      "date": "2026-02-13T14:46:03+0100",
+      "matched_aliases": [
+        "Children's centres",
+        "children's centres"
+      ],
+      "path": "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "title": "Bangarang! Pirate Pete and the Lost Bin Collections of Southall"
+    },
+    {
+      "date": "2026-02-18T23:35:12+0100",
+      "matched_aliases": [
+        "Children's centres",
+        "children's centres"
+      ],
+      "path": "posts/2026/02/18/the-broken-manifesto-promises-that.md",
+      "title": "The Broken Manifesto Promises that show how Labour is Failing Ealing"
+    },
+    {
+      "date": "2026-04-23T20:27:40+0100",
+      "matched_aliases": [
+        "Children's centres",
+        "children's centres"
+      ],
+      "path": "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
+      "title": "Canvassing with Minni Dogra: A Councillor in All But Name"
+    },
+    {
+      "date": "2026-04-24T12:45:22+0100",
+      "matched_aliases": [
+        "Children's centres",
+        "children's centres"
+      ],
+      "path": "posts/2026/04/24/first-they-came-for-the.md",
+      "title": "First They Came for the Socialists"
+    },
+    {
+      "date": "2026-04-28T13:21:52+0100",
+      "matched_aliases": [
+        "Children's centres",
+        "children's centres"
+      ],
+      "path": "posts/2026/04/28/this-place-has-turned-into.md",
+      "title": "\"This Place Has Turned Into a Bloody Slum\": Southall Wards Meeting with ECI candidates"
+    },
+    {
+      "date": "2026-04-30T00:13:23+0100",
+      "matched_aliases": [
+        "Children's centres",
+        "children's centres"
+      ],
+      "path": "posts/2026/04/30/when-is-a-hustings-not.md",
+      "title": "When is a Hustings not a Hustings?"
+    },
+    {
+      "date": "2026-05-02T14:18:51+0100",
+      "matched_aliases": [
+        "Children's centres",
+        "children's centres"
+      ],
+      "path": "posts/2026/05/02/the-smell-of-success.md",
+      "title": "The Smell of Success"
+    },
+    {
+      "date": "2026-05-06T13:45:23+0100",
+      "matched_aliases": [
+        "Children's centres",
+        "children's centres"
+      ],
+      "path": "posts/2026/05/06/it-takes-two-to-tango.md",
+      "title": "It Takes Two to Tango"
+    },
+    {
+      "date": "2026-05-06T18:41:28+0100",
+      "matched_aliases": [
+        "Children's centres",
+        "children's centres"
+      ],
+      "path": "posts/2026/05/06/sixtyfour-years-on-your-side.md",
+      "title": "Sixty-Four Years On Your Side"
+    },
+    {
+      "date": "2026-05-07T17:09:21+0100",
+      "matched_aliases": [
+        "Children's centres",
+        "children's centres"
+      ],
+      "path": "posts/2026/05/07/who-does-peter-mason-really.md",
+      "title": "Who Does Peter Mason Really Represent?"
+    },
+    {
+      "date": "2026-05-09T18:20:45+0100",
+      "matched_aliases": [
+        "Children's centres",
+        "children's centres"
+      ],
+      "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "title": "Lift-Off! Ealing Elections Special "
+    }
+  ],
+  "council-accountability": [
+    {
+      "date": "2018-07-25T09:49:00+0100",
+      "matched_aliases": [
+        "complaints"
+      ],
+      "path": "posts/2018/07/25/meeting-berkeley-group.md",
+      "title": "Meeting Berkeley Group"
+    },
+    {
+      "date": "2018-09-12T20:40:00+0100",
+      "matched_aliases": [
+        "scrutiny",
+        "complaints"
+      ],
+      "path": "posts/2018/09/12/countering-the-southall-waterside-narrative.md",
+      "title": "Countering the Southall Waterside Narrative"
+    },
+    {
+      "date": "2018-11-02T21:54:00+0100",
+      "matched_aliases": [
+        "scrutiny"
+      ],
+      "path": "posts/2018/11/02/lies-damned-lies-and-statistics.md",
+      "title": "Lies, Damned Lies, and Statistics?"
+    },
+    {
+      "date": "2019-06-01T21:08:00+0100",
+      "matched_aliases": [
+        "complaints"
+      ],
+      "path": "posts/2019/06/01/pull-the-other-one-julian.md",
+      "title": "Pull the Other One, Julian"
+    },
+    {
+      "date": "2019-06-25T18:49:00+0100",
+      "matched_aliases": [
+        "complaint",
+        "complaints"
+      ],
+      "path": "posts/2019/06/25/the-health-and-other-impacts.md",
+      "title": "The Health and Other Impacts of Southall Waterside on Southall & Hayes Residents"
+    },
+    {
+      "date": "2019-07-09T19:09:00+0100",
+      "matched_aliases": [
+        "scrutiny"
+      ],
+      "path": "posts/2019/07/09/phe-coverup.md",
+      "title": "PHE cover-up?"
+    },
+    {
+      "date": "2019-08-25T22:14:32+0100",
+      "matched_aliases": [
+        "scrutiny",
+        "complaints"
+      ],
+      "path": "posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "title": "Southall under Siege: the Neighbours from Hell"
+    },
+    {
+      "date": "2019-09-26T21:07:00+0100",
+      "matched_aliases": [
+        "scrutiny",
+        "complaints"
+      ],
+      "path": "posts/2019/09/26/the-gaslighting-zone.md",
+      "title": "The Gaslighting Zone"
+    },
+    {
+      "date": "2021-05-03T12:49:00+0100",
+      "matched_aliases": [
+        "transparency"
+      ],
+      "path": "posts/2021/05/03/look-at-these-bricks.md",
+      "title": "Look at these Bricks!"
+    },
+    {
+      "date": "2022-03-19T14:43:00+0100",
+      "matched_aliases": [
+        "accountability"
+      ],
+      "path": "posts/2022/03/19/ealing-labour-leaks.md",
+      "title": "Ealing Labour Leaks"
+    },
+    {
+      "date": "2023-01-26T20:32:00+0100",
+      "matched_aliases": [
+        "accountability",
+        "transparency",
+        "complaints",
+        "freedom of information",
+        "FOI"
+      ],
+      "path": "posts/2023/01/26/response-to-ealings-air-quality.md",
+      "title": "Response to Ealing's Air Quality Strategy and Action Plan"
+    },
+    {
+      "date": "2023-04-30T15:34:19+0100",
+      "matched_aliases": [
+        "complaints"
+      ],
+      "path": "posts/2023/04/30/i-am-the-leader-of.md",
+      "title": "I am the Leader of Ealing Council"
+    },
+    {
+      "date": "2025-07-11T13:50:30+0100",
+      "matched_aliases": [
+        "accountability",
+        "complaint"
+      ],
+      "path": "posts/2025/07/11/perceval-house-w-where-local.md",
+      "title": "Perceval House W5: Where Local Democracy in Ealing Goes to Die"
+    },
+    {
+      "date": "2026-01-12T19:00:00+0100",
+      "matched_aliases": [
+        "complaints"
+      ],
+      "path": "posts/2026/01/12/a-fire-we-were-warned.md",
+      "title": "A Fire We Were Warned About"
+    },
+    {
+      "date": "2026-01-18T11:05:37+0100",
+      "matched_aliases": [
+        "accountability"
+      ],
+      "path": "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
+      "title": "Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises"
+    },
+    {
+      "date": "2026-01-20T16:01:05+0100",
+      "matched_aliases": [
+        "accountability",
+        "scrutiny",
+        "complaint",
+        "complaints",
+        "freedom of information"
+      ],
+      "path": "posts/2026/01/20/the-council-investigation-that-found.md",
+      "title": "The Council Investigation That Found Nothing "
+    },
+    {
+      "date": "2026-01-22T13:02:00+0100",
+      "matched_aliases": [
+        "complaint",
+        "complaints"
+      ],
+      "path": "posts/2026/01/22/its-never-enough-until-its.md",
+      "title": "How to Report Nuisance and Pollution in Ealing"
+    },
+    {
+      "date": "2026-01-26T00:44:37+0100",
+      "matched_aliases": [
+        "complaint",
+        "complaints"
+      ],
+      "path": "posts/2026/01/25/the-ea-files-what-regulators.md",
+      "title": "The EA Files: What Regulators Knew About Fire Risks at Southall Recycling Site"
+    },
+    {
+      "date": "2026-02-14T17:18:46+0100",
+      "matched_aliases": [
+        "FOI"
+      ],
+      "path": "posts/2026/02/14/section-money-where-did-southalls.md",
+      "title": "Section 106 money: where did Southall’s “developer tax” go?"
+    },
+    {
+      "date": "2026-02-18T23:35:12+0100",
+      "matched_aliases": [
+        "transparency",
+        "scrutiny",
+        "freedom of information",
+        "FOI"
+      ],
+      "path": "posts/2026/02/18/the-broken-manifesto-promises-that.md",
+      "title": "The Broken Manifesto Promises that show how Labour is Failing Ealing"
+    },
+    {
+      "date": "2026-03-27T08:48:04+0100",
+      "matched_aliases": [
+        "accountability",
+        "FOI"
+      ],
+      "path": "posts/2026/03/27/what-happened-to-southall.md",
+      "title": "What Happened to Southall?"
+    },
+    {
+      "date": "2026-04-05T00:02:41+0100",
+      "matched_aliases": [
+        "scrutiny",
+        "complaints",
+        "freedom of information"
+      ],
+      "path": "posts/2026/04/05/on-the-bins-again.md",
+      "title": "On the Bins Again"
+    },
+    {
+      "date": "2026-04-21T14:05:11+0100",
+      "matched_aliases": [
+        "scrutiny"
+      ],
+      "path": "posts/2026/04/21/you-never-forget-the-smell.md",
+      "title": "\"You Never Forget the Smell of Damp\": Peter Mason's Housing Record in His Own Words"
+    },
+    {
+      "date": "2026-04-24T12:45:22+0100",
+      "matched_aliases": [
+        "scrutiny"
+      ],
+      "path": "posts/2026/04/24/first-they-came-for-the.md",
+      "title": "First They Came for the Socialists"
+    },
+    {
+      "date": "2026-04-28T13:21:52+0100",
+      "matched_aliases": [
+        "accountability",
+        "complaints"
+      ],
+      "path": "posts/2026/04/28/this-place-has-turned-into.md",
+      "title": "\"This Place Has Turned Into a Bloody Slum\": Southall Wards Meeting with ECI candidates"
+    },
+    {
+      "date": "2026-04-30T00:13:23+0100",
+      "matched_aliases": [
+        "accountability",
+        "freedom of information"
+      ],
+      "path": "posts/2026/04/30/when-is-a-hustings-not.md",
+      "title": "When is a Hustings not a Hustings?"
+    },
+    {
+      "date": "2026-05-02T14:18:51+0100",
+      "matched_aliases": [
+        "accountability"
+      ],
+      "path": "posts/2026/05/02/the-smell-of-success.md",
+      "title": "The Smell of Success"
+    },
+    {
+      "date": "2026-05-03T23:52:46+0100",
+      "matched_aliases": [
+        "freedom of information"
+      ],
+      "path": "posts/2026/05/03/cactuses-never-die.md",
+      "title": "Cactuses Never Die"
+    },
+    {
+      "date": "2026-05-06T13:45:23+0100",
+      "matched_aliases": [
+        "scrutiny"
+      ],
+      "path": "posts/2026/05/06/it-takes-two-to-tango.md",
+      "title": "It Takes Two to Tango"
+    },
+    {
+      "date": "2026-05-06T11:55:52+0100",
+      "matched_aliases": [
+        "complaints"
+      ],
+      "path": "posts/2026/05/06/the-drugs-dont-work.md",
+      "title": "The Drugs Don't Work"
+    },
+    {
+      "date": "2026-05-06T17:44:53+0100",
+      "matched_aliases": [
+        "accountability",
+        "scrutiny",
+        "complaints"
+      ],
+      "path": "posts/2026/05/06/the-meeting-that-ended-local.md",
+      "title": "The Meeting that Ended Local Democracy in Southall"
+    },
+    {
+      "date": "2026-05-07T07:12:57+0100",
+      "matched_aliases": [
+        "accountability",
+        "complaint",
+        "complaints"
+      ],
+      "path": "posts/2026/05/07/computer-says-no.md",
+      "title": "Computer Says No"
+    },
+    {
+      "date": "2026-05-07T10:29:47+0100",
+      "matched_aliases": [
+        "accountability"
+      ],
+      "path": "posts/2026/05/07/the-man-in-the-middle.md",
+      "title": "The Man in the Middle"
+    },
+    {
+      "date": "2026-05-07T17:09:21+0100",
+      "matched_aliases": [
+        "accountability",
+        "scrutiny",
+        "FOI"
+      ],
+      "path": "posts/2026/05/07/who-does-peter-mason-really.md",
+      "title": "Who Does Peter Mason Really Represent?"
+    },
+    {
+      "date": "2026-05-09T18:20:45+0100",
+      "matched_aliases": [
+        "scrutiny"
+      ],
+      "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "title": "Lift-Off! Ealing Elections Special "
+    },
+    {
+      "date": "2026-05-25T15:34:05+0100",
+      "matched_aliases": [
+        "accountability",
+        "freedom of information",
+        "FOI"
+      ],
+      "path": "posts/2026/05/25/feeling-the-heat.md",
+      "title": "Feeling the Heat"
+    },
+    {
+      "date": "2026-05-29T22:09:15+0100",
+      "matched_aliases": [
+        "accountability"
+      ],
+      "path": "posts/2026/05/29/individuality.md",
+      "title": "Individuality"
+    }
+  ],
+  "governance": [
+    {
+      "date": "2021-04-14T10:33:42+0100",
+      "matched_aliases": [
+        "council leader"
+      ],
+      "path": "posts/2021/04/14/strawberries-for-pigs.md",
+      "title": "Strawberries for Pigs?"
+    },
+    {
+      "date": "2023-01-26T20:32:00+0100",
+      "matched_aliases": [
+        "council leader"
+      ],
+      "path": "posts/2023/01/26/response-to-ealings-air-quality.md",
+      "title": "Response to Ealing's Air Quality Strategy and Action Plan"
+    },
+    {
+      "date": "2023-04-30T15:34:19+0100",
+      "matched_aliases": [
+        "council leader"
+      ],
+      "path": "posts/2023/04/30/i-am-the-leader-of.md",
+      "title": "I am the Leader of Ealing Council"
+    },
+    {
+      "date": "2025-07-11T13:50:30+0100",
+      "matched_aliases": [
+        "decision-making",
+        "council leader"
+      ],
+      "path": "posts/2025/07/11/perceval-house-w-where-local.md",
+      "title": "Perceval House W5: Where Local Democracy in Ealing Goes to Die"
+    },
+    {
+      "date": "2025-07-16T00:33:52+0100",
+      "matched_aliases": [
+        "council leader"
+      ],
+      "path": "posts/2025/07/16/the-pied-piper-of-ealing.md",
+      "title": "The Pied Piper of Ealing"
+    },
+    {
+      "date": "2025-09-26T11:16:20+0100",
+      "matched_aliases": [
+        "Governance",
+        "governance",
+        "council leader"
+      ],
+      "path": "posts/2025/09/26/ealing-for-sale.md",
+      "title": "Ealing For Sale"
+    },
+    {
+      "date": "2026-01-18T11:05:37+0100",
+      "matched_aliases": [
+        "Governance",
+        "governance",
+        "council leader"
+      ],
+      "path": "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
+      "title": "Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises"
+    },
+    {
+      "date": "2026-01-20T16:01:05+0100",
+      "matched_aliases": [
+        "council leader"
+      ],
+      "path": "posts/2026/01/20/the-council-investigation-that-found.md",
+      "title": "The Council Investigation That Found Nothing "
+    },
+    {
+      "date": "2026-02-13T14:46:03+0100",
+      "matched_aliases": [
+        "council leader",
+        "cabinet member"
+      ],
+      "path": "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "title": "Bangarang! Pirate Pete and the Lost Bin Collections of Southall"
+    },
+    {
+      "date": "2026-02-14T17:18:46+0100",
+      "matched_aliases": [
+        "decision-making"
+      ],
+      "path": "posts/2026/02/14/section-money-where-did-southalls.md",
+      "title": "Section 106 money: where did Southall’s “developer tax” go?"
+    },
+    {
+      "date": "2026-03-01T11:41:26+0100",
+      "matched_aliases": [
+        "council leader"
+      ],
+      "path": "posts/2026/03/01/boomerang-ten-years-sorting-out.md",
+      "title": "Boomerang! Ten Years Sorting Out Fly-tipping"
+    },
+    {
+      "date": "2026-04-05T00:02:41+0100",
+      "matched_aliases": [
+        "cabinet member"
+      ],
+      "path": "posts/2026/04/05/on-the-bins-again.md",
+      "title": "On the Bins Again"
+    },
+    {
+      "date": "2026-04-21T14:05:11+0100",
+      "matched_aliases": [
+        "Governance",
+        "governance",
+        "council leader"
+      ],
+      "path": "posts/2026/04/21/you-never-forget-the-smell.md",
+      "title": "\"You Never Forget the Smell of Damp\": Peter Mason's Housing Record in His Own Words"
+    },
+    {
+      "date": "2026-04-23T20:27:40+0100",
+      "matched_aliases": [
+        "decision-making",
+        "council leader",
+        "cabinet member"
+      ],
+      "path": "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
+      "title": "Canvassing with Minni Dogra: A Councillor in All But Name"
+    },
+    {
+      "date": "2026-04-24T12:45:22+0100",
+      "matched_aliases": [
+        "council leader"
+      ],
+      "path": "posts/2026/04/24/first-they-came-for-the.md",
+      "title": "First They Came for the Socialists"
+    },
+    {
+      "date": "2026-04-28T13:21:52+0100",
+      "matched_aliases": [
+        "Governance",
+        "governance",
+        "council leader"
+      ],
+      "path": "posts/2026/04/28/this-place-has-turned-into.md",
+      "title": "\"This Place Has Turned Into a Bloody Slum\": Southall Wards Meeting with ECI candidates"
+    },
+    {
+      "date": "2026-04-30T11:13:27+0100",
+      "matched_aliases": [
+        "council leader"
+      ],
+      "path": "posts/2026/04/30/this-is-our-home-its.md",
+      "title": "This Is Our Home. It's a Tip."
+    },
+    {
+      "date": "2026-05-01T20:19:06+0100",
+      "matched_aliases": [
+        "Governance",
+        "governance"
+      ],
+      "path": "posts/2026/05/01/back-to-the-future.md",
+      "title": "Back to the Future"
+    },
+    {
+      "date": "2026-05-02T14:18:51+0100",
+      "matched_aliases": [
+        "Governance",
+        "governance",
+        "council leader"
+      ],
+      "path": "posts/2026/05/02/the-smell-of-success.md",
+      "title": "The Smell of Success"
+    },
+    {
+      "date": "2026-05-03T23:52:46+0100",
+      "matched_aliases": [
+        "council leader"
+      ],
+      "path": "posts/2026/05/03/cactuses-never-die.md",
+      "title": "Cactuses Never Die"
+    },
+    {
+      "date": "2026-05-06T18:41:28+0100",
+      "matched_aliases": [
+        "Governance",
+        "governance",
+        "council leader",
+        "cabinet member"
+      ],
+      "path": "posts/2026/05/06/sixtyfour-years-on-your-side.md",
+      "title": "Sixty-Four Years On Your Side"
+    },
+    {
+      "date": "2026-05-06T11:55:52+0100",
+      "matched_aliases": [
+        "decision-making",
+        "cabinet member"
+      ],
+      "path": "posts/2026/05/06/the-drugs-dont-work.md",
+      "title": "The Drugs Don't Work"
+    },
+    {
+      "date": "2026-05-06T17:44:53+0100",
+      "matched_aliases": [
+        "cabinet member"
+      ],
+      "path": "posts/2026/05/06/the-meeting-that-ended-local.md",
+      "title": "The Meeting that Ended Local Democracy in Southall"
+    },
+    {
+      "date": "2026-05-07T07:12:57+0100",
+      "matched_aliases": [
+        "Governance",
+        "governance",
+        "council leader"
+      ],
+      "path": "posts/2026/05/07/computer-says-no.md",
+      "title": "Computer Says No"
+    },
+    {
+      "date": "2026-05-07T10:29:47+0100",
+      "matched_aliases": [
+        "Governance",
+        "governance",
+        "decision-making"
+      ],
+      "path": "posts/2026/05/07/the-man-in-the-middle.md",
+      "title": "The Man in the Middle"
+    },
+    {
+      "date": "2026-05-07T17:09:21+0100",
+      "matched_aliases": [
+        "Governance",
+        "governance",
+        "cabinet member"
+      ],
+      "path": "posts/2026/05/07/who-does-peter-mason-really.md",
+      "title": "Who Does Peter Mason Really Represent?"
+    },
+    {
+      "date": "2026-05-09T18:20:45+0100",
+      "matched_aliases": [
+        "council leader",
+        "cabinet member"
+      ],
+      "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "title": "Lift-Off! Ealing Elections Special "
+    },
+    {
+      "date": "2026-05-25T15:34:05+0100",
+      "matched_aliases": [
+        "Governance",
+        "governance",
+        "decision-making",
+        "cabinet member"
+      ],
+      "path": "posts/2026/05/25/feeling-the-heat.md",
+      "title": "Feeling the Heat"
+    },
+    {
+      "date": "2026-05-29T22:09:15+0100",
+      "matched_aliases": [
+        "Governance",
+        "governance"
+      ],
+      "path": "posts/2026/05/29/individuality.md",
+      "title": "Individuality"
+    }
+  ],
+  "housing": [
+    {
+      "date": "2018-09-12T20:40:00+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing",
+        "new homes"
+      ],
+      "path": "posts/2018/09/12/countering-the-southall-waterside-narrative.md",
+      "title": "Countering the Southall Waterside Narrative"
+    },
+    {
+      "date": "2019-06-01T21:08:00+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing"
+      ],
+      "path": "posts/2019/06/01/pull-the-other-one-julian.md",
+      "title": "Pull the Other One, Julian"
+    },
+    {
+      "date": "2021-04-14T10:33:42+0100",
+      "matched_aliases": [
+        "new homes"
+      ],
+      "path": "posts/2021/04/14/strawberries-for-pigs.md",
+      "title": "Strawberries for Pigs?"
+    },
+    {
+      "date": "2021-05-03T12:49:00+0100",
+      "matched_aliases": [
+        "affordable homes"
+      ],
+      "path": "posts/2021/05/03/look-at-these-bricks.md",
+      "title": "Look at these Bricks!"
+    },
+    {
+      "date": "2021-07-21T22:29:00+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing",
+        "new homes",
+        "affordable homes"
+      ],
+      "path": "posts/2021/07/21/from-the-southall-big-plan.md",
+      "title": "From the Southall Big Plan AGM in 2017"
+    },
+    {
+      "date": "2022-03-25T14:54:00+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing",
+        "affordable homes"
+      ],
+      "path": "posts/2022/03/25/ealing-monopoly.md",
+      "title": "Ealing Monopoly"
+    },
+    {
+      "date": "2022-12-17T02:30:00+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing",
+        "new homes",
+        "affordable homes"
+      ],
+      "path": "posts/2022/12/17/the-property-lobby-the-hidden.md",
+      "title": "The Property Lobby: the Hidden Reality behind the Housing Crisis in Ealing "
+    },
+    {
+      "date": "2023-01-26T20:32:00+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing",
+        "new homes",
+        "affordable homes"
+      ],
+      "path": "posts/2023/01/26/response-to-ealings-air-quality.md",
+      "title": "Response to Ealing's Air Quality Strategy and Action Plan"
+    },
+    {
+      "date": "2023-12-28T16:09:00+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing",
+        "new homes"
+      ],
+      "path": "posts/2023/12/28/developers-if-you-really-want.md",
+      "title": "Developers, if you Really Want to Help "
+    },
+    {
+      "date": "2024-05-19T12:25:00+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing"
+      ],
+      "path": "posts/2024/05/19/the-cuckoos-nest.md",
+      "title": "The Cuckoo's Nest"
+    },
+    {
+      "date": "2024-12-14T16:19:00+0100",
+      "matched_aliases": [
+        "new homes"
+      ],
+      "path": "posts/2024/12/14/southall-odours.md",
+      "title": "Southall Odours"
+    },
+    {
+      "date": "2025-07-11T13:50:30+0100",
+      "matched_aliases": [
+        "affordable homes"
+      ],
+      "path": "posts/2025/07/11/perceval-house-w-where-local.md",
+      "title": "Perceval House W5: Where Local Democracy in Ealing Goes to Die"
+    },
+    {
+      "date": "2026-01-18T11:05:37+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing",
+        "new homes",
+        "affordable homes",
+        "temporary accommodation",
+        "housing waiting list"
+      ],
+      "path": "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
+      "title": "Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises"
+    },
+    {
+      "date": "2026-01-20T16:01:05+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing"
+      ],
+      "path": "posts/2026/01/20/the-council-investigation-that-found.md",
+      "title": "The Council Investigation That Found Nothing "
+    },
+    {
+      "date": "2026-01-22T13:02:00+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing"
+      ],
+      "path": "posts/2026/01/22/its-never-enough-until-its.md",
+      "title": "How to Report Nuisance and Pollution in Ealing"
+    },
+    {
+      "date": "2026-02-13T14:46:03+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing",
+        "new homes"
+      ],
+      "path": "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "title": "Bangarang! Pirate Pete and the Lost Bin Collections of Southall"
+    },
+    {
+      "date": "2026-02-14T17:18:46+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing",
+        "new homes"
+      ],
+      "path": "posts/2026/02/14/section-money-where-did-southalls.md",
+      "title": "Section 106 money: where did Southall’s “developer tax” go?"
+    },
+    {
+      "date": "2026-02-18T23:35:12+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing",
+        "new homes",
+        "affordable homes",
+        "temporary accommodation",
+        "housing waiting list"
+      ],
+      "path": "posts/2026/02/18/the-broken-manifesto-promises-that.md",
+      "title": "The Broken Manifesto Promises that show how Labour is Failing Ealing"
+    },
+    {
+      "date": "2026-02-19T01:33:53+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing"
+      ],
+      "path": "posts/2026/02/19/ealings-burning.md",
+      "title": "Ealing's Burning"
+    },
+    {
+      "date": "2026-03-01T11:41:26+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing",
+        "affordable homes"
+      ],
+      "path": "posts/2026/03/01/boomerang-ten-years-sorting-out.md",
+      "title": "Boomerang! Ten Years Sorting Out Fly-tipping"
+    },
+    {
+      "date": "2026-03-27T08:48:04+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing"
+      ],
+      "path": "posts/2026/03/27/what-happened-to-southall.md",
+      "title": "What Happened to Southall?"
+    },
+    {
+      "date": "2026-04-05T00:02:41+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing"
+      ],
+      "path": "posts/2026/04/05/on-the-bins-again.md",
+      "title": "On the Bins Again"
+    },
+    {
+      "date": "2026-04-21T14:05:11+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing",
+        "new homes",
+        "affordable homes",
+        "temporary accommodation"
+      ],
+      "path": "posts/2026/04/21/you-never-forget-the-smell.md",
+      "title": "\"You Never Forget the Smell of Damp\": Peter Mason's Housing Record in His Own Words"
+    },
+    {
+      "date": "2026-04-24T22:48:40+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing",
+        "new homes",
+        "temporary accommodation"
+      ],
+      "path": "posts/2026/04/24/when-deport-six-million-becomes.md",
+      "title": "When \"deport six million\" becomes mainstream: what Ealing Labour won't tell you"
+    },
+    {
+      "date": "2026-04-28T13:21:52+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing"
+      ],
+      "path": "posts/2026/04/28/this-place-has-turned-into.md",
+      "title": "\"This Place Has Turned Into a Bloody Slum\": Southall Wards Meeting with ECI candidates"
+    },
+    {
+      "date": "2026-04-30T11:13:27+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing"
+      ],
+      "path": "posts/2026/04/30/this-is-our-home-its.md",
+      "title": "This Is Our Home. It's a Tip."
+    },
+    {
+      "date": "2026-04-30T00:13:23+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing",
+        "affordable homes",
+        "temporary accommodation",
+        "housing waiting list"
+      ],
+      "path": "posts/2026/04/30/when-is-a-hustings-not.md",
+      "title": "When is a Hustings not a Hustings?"
+    },
+    {
+      "date": "2026-05-01T20:19:06+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing"
+      ],
+      "path": "posts/2026/05/01/back-to-the-future.md",
+      "title": "Back to the Future"
+    },
+    {
+      "date": "2026-05-02T14:18:51+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing",
+        "new homes",
+        "affordable homes",
+        "temporary accommodation"
+      ],
+      "path": "posts/2026/05/02/the-smell-of-success.md",
+      "title": "The Smell of Success"
+    },
+    {
+      "date": "2026-05-06T13:45:23+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing",
+        "temporary accommodation"
+      ],
+      "path": "posts/2026/05/06/it-takes-two-to-tango.md",
+      "title": "It Takes Two to Tango"
+    },
+    {
+      "date": "2026-05-06T18:41:28+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing"
+      ],
+      "path": "posts/2026/05/06/sixtyfour-years-on-your-side.md",
+      "title": "Sixty-Four Years On Your Side"
+    },
+    {
+      "date": "2026-05-06T11:55:52+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing"
+      ],
+      "path": "posts/2026/05/06/the-drugs-dont-work.md",
+      "title": "The Drugs Don't Work"
+    },
+    {
+      "date": "2026-05-06T17:44:53+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing"
+      ],
+      "path": "posts/2026/05/06/the-meeting-that-ended-local.md",
+      "title": "The Meeting that Ended Local Democracy in Southall"
+    },
+    {
+      "date": "2026-05-07T17:09:21+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing",
+        "affordable homes"
+      ],
+      "path": "posts/2026/05/07/who-does-peter-mason-really.md",
+      "title": "Who Does Peter Mason Really Represent?"
+    },
+    {
+      "date": "2026-05-09T18:20:45+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing",
+        "new homes"
+      ],
+      "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "title": "Lift-Off! Ealing Elections Special "
+    },
+    {
+      "date": "2026-05-25T15:34:05+0100",
+      "matched_aliases": [
+        "Housing",
+        "housing"
+      ],
+      "path": "posts/2026/05/25/feeling-the-heat.md",
+      "title": "Feeling the Heat"
+    }
+  ],
+  "local-democracy": [
+    {
+      "date": "2019-06-01T21:08:00+0100",
+      "matched_aliases": [
+        "councillor",
+        "councillors"
+      ],
+      "path": "posts/2019/06/01/pull-the-other-one-julian.md",
+      "title": "Pull the Other One, Julian"
+    },
+    {
+      "date": "2019-06-25T18:49:00+0100",
+      "matched_aliases": [
+        "councillors"
+      ],
+      "path": "posts/2019/06/25/the-health-and-other-impacts.md",
+      "title": "The Health and Other Impacts of Southall Waterside on Southall & Hayes Residents"
+    },
+    {
+      "date": "2019-08-25T22:14:32+0100",
+      "matched_aliases": [
+        "councillor"
+      ],
+      "path": "posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "title": "Southall under Siege: the Neighbours from Hell"
+    },
+    {
+      "date": "2019-10-01T15:24:00+0100",
+      "matched_aliases": [
+        "petition"
+      ],
+      "path": "posts/2019/10/01/trigger-vote-for-sharma.md",
+      "title": "Trigger Vote for Sharma"
+    },
+    {
+      "date": "2021-04-14T10:33:42+0100",
+      "matched_aliases": [
+        "councillor",
+        "councillors",
+        "petition"
+      ],
+      "path": "posts/2021/04/14/strawberries-for-pigs.md",
+      "title": "Strawberries for Pigs?"
+    },
+    {
+      "date": "2021-07-27T11:03:00+0100",
+      "matched_aliases": [
+        "cabinet"
+      ],
+      "path": "posts/2021/07/27/questions-for-cabinet-leads.md",
+      "title": "Questions for Cabinet Leads"
+    },
+    {
+      "date": "2022-03-19T14:43:00+0100",
+      "matched_aliases": [
+        "cabinet",
+        "councillor",
+        "councillors"
+      ],
+      "path": "posts/2022/03/19/ealing-labour-leaks.md",
+      "title": "Ealing Labour Leaks"
+    },
+    {
+      "date": "2022-12-17T02:30:00+0100",
+      "matched_aliases": [
+        "councillor",
+        "councillors"
+      ],
+      "path": "posts/2022/12/17/the-property-lobby-the-hidden.md",
+      "title": "The Property Lobby: the Hidden Reality behind the Housing Crisis in Ealing "
+    },
+    {
+      "date": "2023-01-26T20:32:00+0100",
+      "matched_aliases": [
+        "Local democracy",
+        "local democracy",
+        "cabinet",
+        "councillors",
+        "petition"
+      ],
+      "path": "posts/2023/01/26/response-to-ealings-air-quality.md",
+      "title": "Response to Ealing's Air Quality Strategy and Action Plan"
+    },
+    {
+      "date": "2023-11-20T18:35:00+0100",
+      "matched_aliases": [
+        "councillors"
+      ],
+      "path": "posts/2023/11/20/toryboy.md",
+      "title": "ToryBoy"
+    },
+    {
+      "date": "2024-05-19T12:25:00+0100",
+      "matched_aliases": [
+        "councillor"
+      ],
+      "path": "posts/2024/05/19/the-cuckoos-nest.md",
+      "title": "The Cuckoo's Nest"
+    },
+    {
+      "date": "2024-12-14T16:19:00+0100",
+      "matched_aliases": [
+        "Local democracy",
+        "local democracy"
+      ],
+      "path": "posts/2024/12/14/southall-odours.md",
+      "title": "Southall Odours"
+    },
+    {
+      "date": "2025-07-11T13:50:30+0100",
+      "matched_aliases": [
+        "Local democracy",
+        "local democracy",
+        "cabinet",
+        "councillor",
+        "councillors",
+        "petition"
+      ],
+      "path": "posts/2025/07/11/perceval-house-w-where-local.md",
+      "title": "Perceval House W5: Where Local Democracy in Ealing Goes to Die"
+    },
+    {
+      "date": "2025-07-12T17:17:01+0100",
+      "matched_aliases": [
+        "councillor",
+        "petition"
+      ],
+      "path": "posts/2025/07/12/so-it-goes-ai-on.md",
+      "title": "So it Goes: AI on the Absurd Logic of Ealing Council"
+    },
+    {
+      "date": "2025-07-16T00:33:52+0100",
+      "matched_aliases": [
+        "councillor",
+        "petition"
+      ],
+      "path": "posts/2025/07/16/the-pied-piper-of-ealing.md",
+      "title": "The Pied Piper of Ealing"
+    },
+    {
+      "date": "2025-09-26T11:16:20+0100",
+      "matched_aliases": [
+        "Local democracy",
+        "local democracy",
+        "councillor",
+        "petition"
+      ],
+      "path": "posts/2025/09/26/ealing-for-sale.md",
+      "title": "Ealing For Sale"
+    },
+    {
+      "date": "2026-01-12T19:00:00+0100",
+      "matched_aliases": [
+        "councillors"
+      ],
+      "path": "posts/2026/01/12/a-fire-we-were-warned.md",
+      "title": "A Fire We Were Warned About"
+    },
+    {
+      "date": "2026-01-18T11:05:37+0100",
+      "matched_aliases": [
+        "cabinet",
+        "councillor"
+      ],
+      "path": "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
+      "title": "Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises"
+    },
+    {
+      "date": "2026-01-20T16:01:05+0100",
+      "matched_aliases": [
+        "councillor"
+      ],
+      "path": "posts/2026/01/20/the-council-investigation-that-found.md",
+      "title": "The Council Investigation That Found Nothing "
+    },
+    {
+      "date": "2026-01-22T13:02:00+0100",
+      "matched_aliases": [
+        "councillors"
+      ],
+      "path": "posts/2026/01/22/its-never-enough-until-its.md",
+      "title": "How to Report Nuisance and Pollution in Ealing"
+    },
+    {
+      "date": "2026-02-13T14:46:03+0100",
+      "matched_aliases": [
+        "cabinet",
+        "councillors",
+        "petition"
+      ],
+      "path": "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "title": "Bangarang! Pirate Pete and the Lost Bin Collections of Southall"
+    },
+    {
+      "date": "2026-02-18T23:35:12+0100",
+      "matched_aliases": [
+        "Local democracy",
+        "local democracy",
+        "cabinet",
+        "councillor",
+        "councillors"
+      ],
+      "path": "posts/2026/02/18/the-broken-manifesto-promises-that.md",
+      "title": "The Broken Manifesto Promises that show how Labour is Failing Ealing"
+    },
+    {
+      "date": "2026-03-01T11:41:26+0100",
+      "matched_aliases": [
+        "cabinet",
+        "councillors"
+      ],
+      "path": "posts/2026/03/01/boomerang-ten-years-sorting-out.md",
+      "title": "Boomerang! Ten Years Sorting Out Fly-tipping"
+    },
+    {
+      "date": "2026-04-05T00:02:41+0100",
+      "matched_aliases": [
+        "council scrutiny",
+        "cabinet",
+        "petition"
+      ],
+      "path": "posts/2026/04/05/on-the-bins-again.md",
+      "title": "On the Bins Again"
+    },
+    {
+      "date": "2026-04-21T14:05:11+0100",
+      "matched_aliases": [
+        "cabinet",
+        "councillor"
+      ],
+      "path": "posts/2026/04/21/you-never-forget-the-smell.md",
+      "title": "\"You Never Forget the Smell of Damp\": Peter Mason's Housing Record in His Own Words"
+    },
+    {
+      "date": "2026-04-23T20:27:40+0100",
+      "matched_aliases": [
+        "cabinet",
+        "councillor",
+        "councillors",
+        "petition"
+      ],
+      "path": "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
+      "title": "Canvassing with Minni Dogra: A Councillor in All But Name"
+    },
+    {
+      "date": "2026-04-24T12:45:22+0100",
+      "matched_aliases": [
+        "Local democracy",
+        "local democracy",
+        "cabinet",
+        "councillor",
+        "councillors"
+      ],
+      "path": "posts/2026/04/24/first-they-came-for-the.md",
+      "title": "First They Came for the Socialists"
+    },
+    {
+      "date": "2026-04-24T22:48:40+0100",
+      "matched_aliases": [
+        "cabinet",
+        "petition"
+      ],
+      "path": "posts/2026/04/24/when-deport-six-million-becomes.md",
+      "title": "When \"deport six million\" becomes mainstream: what Ealing Labour won't tell you"
+    },
+    {
+      "date": "2026-04-28T13:21:52+0100",
+      "matched_aliases": [
+        "councillor",
+        "councillors"
+      ],
+      "path": "posts/2026/04/28/this-place-has-turned-into.md",
+      "title": "\"This Place Has Turned Into a Bloody Slum\": Southall Wards Meeting with ECI candidates"
+    },
+    {
+      "date": "2026-04-30T00:13:23+0100",
+      "matched_aliases": [
+        "Local democracy",
+        "local democracy",
+        "councillor",
+        "councillors"
+      ],
+      "path": "posts/2026/04/30/when-is-a-hustings-not.md",
+      "title": "When is a Hustings not a Hustings?"
+    },
+    {
+      "date": "2026-05-01T20:19:06+0100",
+      "matched_aliases": [
+        "councillors"
+      ],
+      "path": "posts/2026/05/01/back-to-the-future.md",
+      "title": "Back to the Future"
+    },
+    {
+      "date": "2026-05-02T14:18:51+0100",
+      "matched_aliases": [
+        "cabinet",
+        "councillor",
+        "councillors"
+      ],
+      "path": "posts/2026/05/02/the-smell-of-success.md",
+      "title": "The Smell of Success"
+    },
+    {
+      "date": "2026-05-03T23:52:46+0100",
+      "matched_aliases": [
+        "Local democracy",
+        "local democracy",
+        "councillor",
+        "councillors",
+        "petition"
+      ],
+      "path": "posts/2026/05/03/cactuses-never-die.md",
+      "title": "Cactuses Never Die"
+    },
+    {
+      "date": "2026-05-06T13:45:23+0100",
+      "matched_aliases": [
+        "cabinet",
+        "councillor",
+        "councillors"
+      ],
+      "path": "posts/2026/05/06/it-takes-two-to-tango.md",
+      "title": "It Takes Two to Tango"
+    },
+    {
+      "date": "2026-05-06T18:41:28+0100",
+      "matched_aliases": [
+        "cabinet",
+        "councillor",
+        "councillors"
+      ],
+      "path": "posts/2026/05/06/sixtyfour-years-on-your-side.md",
+      "title": "Sixty-Four Years On Your Side"
+    },
+    {
+      "date": "2026-05-06T11:55:52+0100",
+      "matched_aliases": [
+        "cabinet",
+        "councillor"
+      ],
+      "path": "posts/2026/05/06/the-drugs-dont-work.md",
+      "title": "The Drugs Don't Work"
+    },
+    {
+      "date": "2026-05-06T17:44:53+0100",
+      "matched_aliases": [
+        "Local democracy",
+        "local democracy",
+        "cabinet",
+        "councillor",
+        "councillors"
+      ],
+      "path": "posts/2026/05/06/the-meeting-that-ended-local.md",
+      "title": "The Meeting that Ended Local Democracy in Southall"
+    },
+    {
+      "date": "2026-05-07T10:29:47+0100",
+      "matched_aliases": [
+        "councillor"
+      ],
+      "path": "posts/2026/05/07/the-man-in-the-middle.md",
+      "title": "The Man in the Middle"
+    },
+    {
+      "date": "2026-05-07T17:09:21+0100",
+      "matched_aliases": [
+        "cabinet",
+        "councillor",
+        "councillors",
+        "petition"
+      ],
+      "path": "posts/2026/05/07/who-does-peter-mason-really.md",
+      "title": "Who Does Peter Mason Really Represent?"
+    },
+    {
+      "date": "2026-05-09T18:20:45+0100",
+      "matched_aliases": [
+        "Local democracy",
+        "local democracy",
+        "cabinet",
+        "councillor",
+        "councillors"
+      ],
+      "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "title": "Lift-Off! Ealing Elections Special "
+    },
+    {
+      "date": "2026-05-25T15:34:05+0100",
+      "matched_aliases": [
+        "cabinet",
+        "councillor",
+        "councillors",
+        "petition"
+      ],
+      "path": "posts/2026/05/25/feeling-the-heat.md",
+      "title": "Feeling the Heat"
+    }
+  ],
+  "pensions-divestment": [
+    {
+      "date": "2026-03-27T08:48:04+0100",
+      "matched_aliases": [
+        "pension fund"
+      ],
+      "path": "posts/2026/03/27/what-happened-to-southall.md",
+      "title": "What Happened to Southall?"
+    },
+    {
+      "date": "2026-04-24T22:48:40+0100",
+      "matched_aliases": [
+        "divestment"
+      ],
+      "path": "posts/2026/04/24/when-deport-six-million-becomes.md",
+      "title": "When \"deport six million\" becomes mainstream: what Ealing Labour won't tell you"
+    },
+    {
+      "date": "2026-05-03T23:52:46+0100",
+      "matched_aliases": [
+        "pension fund",
+        "divestment",
+        "divest"
+      ],
+      "path": "posts/2026/05/03/cactuses-never-die.md",
+      "title": "Cactuses Never Die"
+    },
+    {
+      "date": "2026-05-07T17:09:21+0100",
+      "matched_aliases": [
+        "pension fund",
+        "divestment",
+        "divest"
+      ],
+      "path": "posts/2026/05/07/who-does-peter-mason-really.md",
+      "title": "Who Does Peter Mason Really Represent?"
+    },
+    {
+      "date": "2026-05-09T18:20:45+0100",
+      "matched_aliases": [
+        "pension fund",
+        "pensions",
+        "divestment"
+      ],
+      "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "title": "Lift-Off! Ealing Elections Special "
+    }
+  ],
+  "planning-development": [
+    {
+      "date": "2018-07-09T20:10:00+0100",
+      "matched_aliases": [
+        "development"
+      ],
+      "path": "posts/2018/07/09/visit-to-southall-waterside-now.md",
+      "title": "Visit to Southall Waterside (aka The Green Quarter)"
+    },
+    {
+      "date": "2018-09-11T18:28:00+0100",
+      "matched_aliases": [
+        "development"
+      ],
+      "path": "posts/2018/09/11/berkeleys-school-governors-board-member.md",
+      "title": "Berkeley's School Governors Board Member"
+    },
+    {
+      "date": "2018-09-12T20:40:00+0100",
+      "matched_aliases": [
+        "development"
+      ],
+      "path": "posts/2018/09/12/countering-the-southall-waterside-narrative.md",
+      "title": "Countering the Southall Waterside Narrative"
+    },
+    {
+      "date": "2019-06-01T21:08:00+0100",
+      "matched_aliases": [
+        "development",
+        "developers"
+      ],
+      "path": "posts/2019/06/01/pull-the-other-one-julian.md",
+      "title": "Pull the Other One, Julian"
+    },
+    {
+      "date": "2019-06-25T18:49:00+0100",
+      "matched_aliases": [
+        "redevelopment"
+      ],
+      "path": "posts/2019/06/25/the-health-and-other-impacts.md",
+      "title": "The Health and Other Impacts of Southall Waterside on Southall & Hayes Residents"
+    },
+    {
+      "date": "2019-08-25T22:14:32+0100",
+      "matched_aliases": [
+        "planning",
+        "developer",
+        "developers"
+      ],
+      "path": "posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "title": "Southall under Siege: the Neighbours from Hell"
+    },
+    {
+      "date": "2019-10-01T15:24:00+0100",
+      "matched_aliases": [
+        "development",
+        "developer"
+      ],
+      "path": "posts/2019/10/01/trigger-vote-for-sharma.md",
+      "title": "Trigger Vote for Sharma"
+    },
+    {
+      "date": "2021-04-14T10:33:42+0100",
+      "matched_aliases": [
+        "planning",
+        "development",
+        "developers"
+      ],
+      "path": "posts/2021/04/14/strawberries-for-pigs.md",
+      "title": "Strawberries for Pigs?"
+    },
+    {
+      "date": "2021-07-21T22:29:00+0100",
+      "matched_aliases": [
+        "developers"
+      ],
+      "path": "posts/2021/07/21/from-the-southall-big-plan.md",
+      "title": "From the Southall Big Plan AGM in 2017"
+    },
+    {
+      "date": "2022-03-19T14:43:00+0100",
+      "matched_aliases": [
+        "planning"
+      ],
+      "path": "posts/2022/03/19/ealing-labour-leaks.md",
+      "title": "Ealing Labour Leaks"
+    },
+    {
+      "date": "2022-03-25T14:54:00+0100",
+      "matched_aliases": [
+        "developer",
+        "regeneration",
+        "redevelopment"
+      ],
+      "path": "posts/2022/03/25/ealing-monopoly.md",
+      "title": "Ealing Monopoly"
+    },
+    {
+      "date": "2022-07-10T13:28:00+0100",
+      "matched_aliases": [
+        "development"
+      ],
+      "path": "posts/2022/07/10/weasel-words-on-air-quality.md",
+      "title": "Weasel Words on Air Quality Monitoring"
+    },
+    {
+      "date": "2022-12-17T02:30:00+0100",
+      "matched_aliases": [
+        "planning",
+        "development",
+        "developers"
+      ],
+      "path": "posts/2022/12/17/the-property-lobby-the-hidden.md",
+      "title": "The Property Lobby: the Hidden Reality behind the Housing Crisis in Ealing "
+    },
+    {
+      "date": "2023-01-26T20:32:00+0100",
+      "matched_aliases": [
+        "planning",
+        "development",
+        "developer",
+        "developers"
+      ],
+      "path": "posts/2023/01/26/response-to-ealings-air-quality.md",
+      "title": "Response to Ealing's Air Quality Strategy and Action Plan"
+    },
+    {
+      "date": "2023-04-30T15:34:19+0100",
+      "matched_aliases": [
+        "developer"
+      ],
+      "path": "posts/2023/04/30/i-am-the-leader-of.md",
+      "title": "I am the Leader of Ealing Council"
+    },
+    {
+      "date": "2023-05-01T12:00:38+0100",
+      "matched_aliases": [
+        "developer"
+      ],
+      "path": "posts/2023/05/01/risks-to-health-from-remediating.md",
+      "title": "Risks to Health from Remediating Southall Gasworks"
+    },
+    {
+      "date": "2023-12-28T16:09:00+0100",
+      "matched_aliases": [
+        "planning",
+        "developers"
+      ],
+      "path": "posts/2023/12/28/developers-if-you-really-want.md",
+      "title": "Developers, if you Really Want to Help "
+    },
+    {
+      "date": "2024-05-19T12:25:00+0100",
+      "matched_aliases": [
+        "developer"
+      ],
+      "path": "posts/2024/05/19/the-cuckoos-nest.md",
+      "title": "The Cuckoo's Nest"
+    },
+    {
+      "date": "2025-07-11T13:50:30+0100",
+      "matched_aliases": [
+        "planning",
+        "development",
+        "developer",
+        "developers",
+        "regeneration"
+      ],
+      "path": "posts/2025/07/11/perceval-house-w-where-local.md",
+      "title": "Perceval House W5: Where Local Democracy in Ealing Goes to Die"
+    },
+    {
+      "date": "2025-07-16T00:33:52+0100",
+      "matched_aliases": [
+        "developers"
+      ],
+      "path": "posts/2025/07/16/the-pied-piper-of-ealing.md",
+      "title": "The Pied Piper of Ealing"
+    },
+    {
+      "date": "2025-09-26T11:16:20+0100",
+      "matched_aliases": [
+        "planning",
+        "development",
+        "developer",
+        "developers"
+      ],
+      "path": "posts/2025/09/26/ealing-for-sale.md",
+      "title": "Ealing For Sale"
+    },
+    {
+      "date": "2026-01-18T11:05:37+0100",
+      "matched_aliases": [
+        "planning",
+        "development",
+        "regeneration"
+      ],
+      "path": "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
+      "title": "Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises"
+    },
+    {
+      "date": "2026-01-22T13:02:00+0100",
+      "matched_aliases": [
+        "planning",
+        "development",
+        "developer"
+      ],
+      "path": "posts/2026/01/22/its-never-enough-until-its.md",
+      "title": "How to Report Nuisance and Pollution in Ealing"
+    },
+    {
+      "date": "2026-02-13T14:46:03+0100",
+      "matched_aliases": [
+        "planning",
+        "development",
+        "developers"
+      ],
+      "path": "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "title": "Bangarang! Pirate Pete and the Lost Bin Collections of Southall"
+    },
+    {
+      "date": "2026-02-14T17:18:46+0100",
+      "matched_aliases": [
+        "planning",
+        "development",
+        "developer",
+        "developers",
+        "redevelopment"
+      ],
+      "path": "posts/2026/02/14/section-money-where-did-southalls.md",
+      "title": "Section 106 money: where did Southall’s “developer tax” go?"
+    },
+    {
+      "date": "2026-02-18T23:35:12+0100",
+      "matched_aliases": [
+        "planning",
+        "development",
+        "developer",
+        "developers",
+        "regeneration"
+      ],
+      "path": "posts/2026/02/18/the-broken-manifesto-promises-that.md",
+      "title": "The Broken Manifesto Promises that show how Labour is Failing Ealing"
+    },
+    {
+      "date": "2026-03-01T11:41:26+0100",
+      "matched_aliases": [
+        "development"
+      ],
+      "path": "posts/2026/03/01/boomerang-ten-years-sorting-out.md",
+      "title": "Boomerang! Ten Years Sorting Out Fly-tipping"
+    },
+    {
+      "date": "2026-04-05T00:02:41+0100",
+      "matched_aliases": [
+        "development",
+        "regeneration"
+      ],
+      "path": "posts/2026/04/05/on-the-bins-again.md",
+      "title": "On the Bins Again"
+    },
+    {
+      "date": "2026-04-21T14:05:11+0100",
+      "matched_aliases": [
+        "planning"
+      ],
+      "path": "posts/2026/04/21/you-never-forget-the-smell.md",
+      "title": "\"You Never Forget the Smell of Damp\": Peter Mason's Housing Record in His Own Words"
+    },
+    {
+      "date": "2026-04-23T20:27:40+0100",
+      "matched_aliases": [
+        "planning",
+        "development",
+        "developer"
+      ],
+      "path": "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
+      "title": "Canvassing with Minni Dogra: A Councillor in All But Name"
+    },
+    {
+      "date": "2026-04-28T13:21:52+0100",
+      "matched_aliases": [
+        "planning",
+        "development",
+        "developer"
+      ],
+      "path": "posts/2026/04/28/this-place-has-turned-into.md",
+      "title": "\"This Place Has Turned Into a Bloody Slum\": Southall Wards Meeting with ECI candidates"
+    },
+    {
+      "date": "2026-04-30T00:13:23+0100",
+      "matched_aliases": [
+        "development",
+        "developer",
+        "developers"
+      ],
+      "path": "posts/2026/04/30/when-is-a-hustings-not.md",
+      "title": "When is a Hustings not a Hustings?"
+    },
+    {
+      "date": "2026-05-02T14:18:51+0100",
+      "matched_aliases": [
+        "planning",
+        "development",
+        "developer",
+        "regeneration"
+      ],
+      "path": "posts/2026/05/02/the-smell-of-success.md",
+      "title": "The Smell of Success"
+    },
+    {
+      "date": "2026-05-06T13:45:23+0100",
+      "matched_aliases": [
+        "development"
+      ],
+      "path": "posts/2026/05/06/it-takes-two-to-tango.md",
+      "title": "It Takes Two to Tango"
+    },
+    {
+      "date": "2026-05-06T18:41:28+0100",
+      "matched_aliases": [
+        "planning",
+        "development",
+        "regeneration"
+      ],
+      "path": "posts/2026/05/06/sixtyfour-years-on-your-side.md",
+      "title": "Sixty-Four Years On Your Side"
+    },
+    {
+      "date": "2026-05-06T17:44:53+0100",
+      "matched_aliases": [
+        "planning",
+        "developer"
+      ],
+      "path": "posts/2026/05/06/the-meeting-that-ended-local.md",
+      "title": "The Meeting that Ended Local Democracy in Southall"
+    },
+    {
+      "date": "2026-05-07T10:29:47+0100",
+      "matched_aliases": [
+        "planning",
+        "development",
+        "developer",
+        "regeneration",
+        "redevelopment"
+      ],
+      "path": "posts/2026/05/07/the-man-in-the-middle.md",
+      "title": "The Man in the Middle"
+    },
+    {
+      "date": "2026-05-07T17:09:21+0100",
+      "matched_aliases": [
+        "planning",
+        "development",
+        "developer",
+        "developers",
+        "regeneration"
+      ],
+      "path": "posts/2026/05/07/who-does-peter-mason-really.md",
+      "title": "Who Does Peter Mason Really Represent?"
+    },
+    {
+      "date": "2026-05-09T18:20:45+0100",
+      "matched_aliases": [
+        "planning",
+        "development",
+        "developer"
+      ],
+      "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "title": "Lift-Off! Ealing Elections Special "
+    },
+    {
+      "date": "2026-05-25T15:34:05+0100",
+      "matched_aliases": [
+        "planning",
+        "development",
+        "developer"
+      ],
+      "path": "posts/2026/05/25/feeling-the-heat.md",
+      "title": "Feeling the Heat"
+    },
+    {
+      "date": "2026-05-29T22:09:15+0100",
+      "matched_aliases": [
+        "planning",
+        "developers"
+      ],
+      "path": "posts/2026/05/29/individuality.md",
+      "title": "Individuality"
+    }
+  ],
+  "public-health": [
+    {
+      "date": "2018-07-09T20:10:00+0100",
+      "matched_aliases": [
+        "asthma"
+      ],
+      "path": "posts/2018/07/09/visit-to-southall-waterside-now.md",
+      "title": "Visit to Southall Waterside (aka The Green Quarter)"
+    },
+    {
+      "date": "2018-08-03T22:23:00+0100",
+      "matched_aliases": [
+        "health risks"
+      ],
+      "path": "posts/2018/08/03/health-risks-of-exposure-to.md",
+      "title": "Health Risks of Exposure to Benzene"
+    },
+    {
+      "date": "2018-09-11T18:28:00+0100",
+      "matched_aliases": [
+        "asthma"
+      ],
+      "path": "posts/2018/09/11/berkeleys-school-governors-board-member.md",
+      "title": "Berkeley's School Governors Board Member"
+    },
+    {
+      "date": "2018-09-12T20:40:00+0100",
+      "matched_aliases": [
+        "health risks",
+        "asthma"
+      ],
+      "path": "posts/2018/09/12/countering-the-southall-waterside-narrative.md",
+      "title": "Countering the Southall Waterside Narrative"
+    },
+    {
+      "date": "2019-06-01T21:08:00+0100",
+      "matched_aliases": [
+        "Public health",
+        "public health",
+        "asthma"
+      ],
+      "path": "posts/2019/06/01/pull-the-other-one-julian.md",
+      "title": "Pull the Other One, Julian"
+    },
+    {
+      "date": "2019-07-09T19:09:00+0100",
+      "matched_aliases": [
+        "Public health",
+        "public health"
+      ],
+      "path": "posts/2019/07/09/phe-coverup.md",
+      "title": "PHE cover-up?"
+    },
+    {
+      "date": "2019-07-21T19:39:00+0100",
+      "matched_aliases": [
+        "Public health",
+        "public health"
+      ],
+      "path": "posts/2019/07/21/phe-coverup-continued.md",
+      "title": "PHE cover-up, continued"
+    },
+    {
+      "date": "2019-08-25T22:14:32+0100",
+      "matched_aliases": [
+        "Public health",
+        "public health"
+      ],
+      "path": "posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "title": "Southall under Siege: the Neighbours from Hell"
+    },
+    {
+      "date": "2019-10-01T15:24:00+0100",
+      "matched_aliases": [
+        "Public health",
+        "public health",
+        "asthma"
+      ],
+      "path": "posts/2019/10/01/trigger-vote-for-sharma.md",
+      "title": "Trigger Vote for Sharma"
+    },
+    {
+      "date": "2021-04-14T10:33:42+0100",
+      "matched_aliases": [
+        "Public health",
+        "public health"
+      ],
+      "path": "posts/2021/04/14/strawberries-for-pigs.md",
+      "title": "Strawberries for Pigs?"
+    },
+    {
+      "date": "2021-07-27T11:03:00+0100",
+      "matched_aliases": [
+        "Public health",
+        "public health",
+        "asthma"
+      ],
+      "path": "posts/2021/07/27/questions-for-cabinet-leads.md",
+      "title": "Questions for Cabinet Leads"
+    },
+    {
+      "date": "2022-07-10T13:28:00+0100",
+      "matched_aliases": [
+        "asthma"
+      ],
+      "path": "posts/2022/07/10/weasel-words-on-air-quality.md",
+      "title": "Weasel Words on Air Quality Monitoring"
+    },
+    {
+      "date": "2023-01-26T20:32:00+0100",
+      "matched_aliases": [
+        "Public health",
+        "public health",
+        "asthma"
+      ],
+      "path": "posts/2023/01/26/response-to-ealings-air-quality.md",
+      "title": "Response to Ealing's Air Quality Strategy and Action Plan"
+    },
+    {
+      "date": "2023-05-01T12:00:38+0100",
+      "matched_aliases": [
+        "health risks"
+      ],
+      "path": "posts/2023/05/01/risks-to-health-from-remediating.md",
+      "title": "Risks to Health from Remediating Southall Gasworks"
+    },
+    {
+      "date": "2024-10-31T22:44:00+0100",
+      "matched_aliases": [
+        "COPD",
+        "asthma"
+      ],
+      "path": "posts/2024/10/31/copd.md",
+      "title": "COPD"
+    },
+    {
+      "date": "2025-07-11T13:50:30+0100",
+      "matched_aliases": [
+        "asthma"
+      ],
+      "path": "posts/2025/07/11/perceval-house-w-where-local.md",
+      "title": "Perceval House W5: Where Local Democracy in Ealing Goes to Die"
+    },
+    {
+      "date": "2026-01-11T16:11:23+0100",
+      "matched_aliases": [
+        "COPD",
+        "asthma"
+      ],
+      "path": "posts/2026/01/11/toxic-town-have-you-been.md",
+      "title": "Toxic Town - Have You Been Affected?"
+    },
+    {
+      "date": "2026-01-12T19:00:00+0100",
+      "matched_aliases": [
+        "Public health",
+        "public health",
+        "asthma"
+      ],
+      "path": "posts/2026/01/12/a-fire-we-were-warned.md",
+      "title": "A Fire We Were Warned About"
+    },
+    {
+      "date": "2026-01-20T16:01:05+0100",
+      "matched_aliases": [
+        "Public health",
+        "public health",
+        "asthma"
+      ],
+      "path": "posts/2026/01/20/the-council-investigation-that-found.md",
+      "title": "The Council Investigation That Found Nothing "
+    },
+    {
+      "date": "2026-01-26T00:44:37+0100",
+      "matched_aliases": [
+        "health risks"
+      ],
+      "path": "posts/2026/01/25/the-ea-files-what-regulators.md",
+      "title": "The EA Files: What Regulators Knew About Fire Risks at Southall Recycling Site"
+    },
+    {
+      "date": "2026-02-13T14:46:03+0100",
+      "matched_aliases": [
+        "Public health",
+        "public health"
+      ],
+      "path": "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "title": "Bangarang! Pirate Pete and the Lost Bin Collections of Southall"
+    },
+    {
+      "date": "2026-02-18T23:35:12+0100",
+      "matched_aliases": [
+        "Public health",
+        "public health"
+      ],
+      "path": "posts/2026/02/18/the-broken-manifesto-promises-that.md",
+      "title": "The Broken Manifesto Promises that show how Labour is Failing Ealing"
+    },
+    {
+      "date": "2026-05-06T11:55:52+0100",
+      "matched_aliases": [
+        "Public health",
+        "public health"
+      ],
+      "path": "posts/2026/05/06/the-drugs-dont-work.md",
+      "title": "The Drugs Don't Work"
+    },
+    {
+      "date": "2026-05-06T17:44:53+0100",
+      "matched_aliases": [
+        "Public health",
+        "public health"
+      ],
+      "path": "posts/2026/05/06/the-meeting-that-ended-local.md",
+      "title": "The Meeting that Ended Local Democracy in Southall"
+    },
+    {
+      "date": "2026-05-07T07:12:57+0100",
+      "matched_aliases": [
+        "Public health",
+        "public health"
+      ],
+      "path": "posts/2026/05/07/computer-says-no.md",
+      "title": "Computer Says No"
+    },
+    {
+      "date": "2026-05-25T15:34:05+0100",
+      "matched_aliases": [
+        "COPD",
+        "asthma"
+      ],
+      "path": "posts/2026/05/25/feeling-the-heat.md",
+      "title": "Feeling the Heat"
+    }
+  ],
+  "waste-flytipping": [
+    {
+      "date": "2018-09-12T20:40:00+0100",
+      "matched_aliases": [
+        "waste"
+      ],
+      "path": "posts/2018/09/12/countering-the-southall-waterside-narrative.md",
+      "title": "Countering the Southall Waterside Narrative"
+    },
+    {
+      "date": "2019-06-25T18:49:00+0100",
+      "matched_aliases": [
+        "waste"
+      ],
+      "path": "posts/2019/06/25/the-health-and-other-impacts.md",
+      "title": "The Health and Other Impacts of Southall Waterside on Southall & Hayes Residents"
+    },
+    {
+      "date": "2019-08-25T22:14:32+0100",
+      "matched_aliases": [
+        "waste"
+      ],
+      "path": "posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "title": "Southall under Siege: the Neighbours from Hell"
+    },
+    {
+      "date": "2022-03-25T14:54:00+0100",
+      "matched_aliases": [
+        "waste"
+      ],
+      "path": "posts/2022/03/25/ealing-monopoly.md",
+      "title": "Ealing Monopoly"
+    },
+    {
+      "date": "2023-01-26T20:32:00+0100",
+      "matched_aliases": [
+        "waste"
+      ],
+      "path": "posts/2023/01/26/response-to-ealings-air-quality.md",
+      "title": "Response to Ealing's Air Quality Strategy and Action Plan"
+    },
+    {
+      "date": "2023-05-01T12:00:38+0100",
+      "matched_aliases": [
+        "waste"
+      ],
+      "path": "posts/2023/05/01/risks-to-health-from-remediating.md",
+      "title": "Risks to Health from Remediating Southall Gasworks"
+    },
+    {
+      "date": "2025-09-26T11:16:20+0100",
+      "matched_aliases": [
+        "waste"
+      ],
+      "path": "posts/2025/09/26/ealing-for-sale.md",
+      "title": "Ealing For Sale"
+    },
+    {
+      "date": "2026-01-11T16:11:23+0100",
+      "matched_aliases": [
+        "waste"
+      ],
+      "path": "posts/2026/01/11/toxic-town-have-you-been.md",
+      "title": "Toxic Town - Have You Been Affected?"
+    },
+    {
+      "date": "2026-01-12T19:00:00+0100",
+      "matched_aliases": [
+        "waste",
+        "recycling"
+      ],
+      "path": "posts/2026/01/12/a-fire-we-were-warned.md",
+      "title": "A Fire We Were Warned About"
+    },
+    {
+      "date": "2026-01-20T16:01:05+0100",
+      "matched_aliases": [
+        "waste",
+        "recycling"
+      ],
+      "path": "posts/2026/01/20/the-council-investigation-that-found.md",
+      "title": "The Council Investigation That Found Nothing "
+    },
+    {
+      "date": "2026-01-26T00:44:37+0100",
+      "matched_aliases": [
+        "rubbish",
+        "waste",
+        "recycling",
+        "bins"
+      ],
+      "path": "posts/2026/01/25/the-ea-files-what-regulators.md",
+      "title": "The EA Files: What Regulators Knew About Fire Risks at Southall Recycling Site"
+    },
+    {
+      "date": "2026-02-13T14:46:03+0100",
+      "matched_aliases": [
+        "fly-tipping",
+        "fly tipping",
+        "rubbish",
+        "waste",
+        "recycling",
+        "bins"
+      ],
+      "path": "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "title": "Bangarang! Pirate Pete and the Lost Bin Collections of Southall"
+    },
+    {
+      "date": "2026-02-14T17:18:46+0100",
+      "matched_aliases": [
+        "fly-tipping"
+      ],
+      "path": "posts/2026/02/14/section-money-where-did-southalls.md",
+      "title": "Section 106 money: where did Southall’s “developer tax” go?"
+    },
+    {
+      "date": "2026-02-18T23:35:12+0100",
+      "matched_aliases": [
+        "fly-tipping",
+        "rubbish",
+        "waste",
+        "recycling"
+      ],
+      "path": "posts/2026/02/18/the-broken-manifesto-promises-that.md",
+      "title": "The Broken Manifesto Promises that show how Labour is Failing Ealing"
+    },
+    {
+      "date": "2026-02-19T01:33:53+0100",
+      "matched_aliases": [
+        "fly-tipping"
+      ],
+      "path": "posts/2026/02/19/ealings-burning.md",
+      "title": "Ealing's Burning"
+    },
+    {
+      "date": "2026-03-01T11:41:26+0100",
+      "matched_aliases": [
+        "fly-tipping",
+        "fly tipping",
+        "rubbish",
+        "waste",
+        "recycling",
+        "bins"
+      ],
+      "path": "posts/2026/03/01/boomerang-ten-years-sorting-out.md",
+      "title": "Boomerang! Ten Years Sorting Out Fly-tipping"
+    },
+    {
+      "date": "2026-03-27T08:48:04+0100",
+      "matched_aliases": [
+        "fly-tipping",
+        "waste"
+      ],
+      "path": "posts/2026/03/27/what-happened-to-southall.md",
+      "title": "What Happened to Southall?"
+    },
+    {
+      "date": "2026-04-05T00:02:41+0100",
+      "matched_aliases": [
+        "fly-tipping",
+        "rubbish",
+        "waste",
+        "recycling",
+        "bins"
+      ],
+      "path": "posts/2026/04/05/on-the-bins-again.md",
+      "title": "On the Bins Again"
+    },
+    {
+      "date": "2026-04-23T20:27:40+0100",
+      "matched_aliases": [
+        "rubbish"
+      ],
+      "path": "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
+      "title": "Canvassing with Minni Dogra: A Councillor in All But Name"
+    },
+    {
+      "date": "2026-04-24T12:45:22+0100",
+      "matched_aliases": [
+        "fly-tipping"
+      ],
+      "path": "posts/2026/04/24/first-they-came-for-the.md",
+      "title": "First They Came for the Socialists"
+    },
+    {
+      "date": "2026-04-28T13:21:52+0100",
+      "matched_aliases": [
+        "fly-tipping",
+        "rubbish",
+        "waste",
+        "bins"
+      ],
+      "path": "posts/2026/04/28/this-place-has-turned-into.md",
+      "title": "\"This Place Has Turned Into a Bloody Slum\": Southall Wards Meeting with ECI candidates"
+    },
+    {
+      "date": "2026-04-30T11:13:27+0100",
+      "matched_aliases": [
+        "fly-tipping",
+        "waste",
+        "recycling",
+        "bins"
+      ],
+      "path": "posts/2026/04/30/this-is-our-home-its.md",
+      "title": "This Is Our Home. It's a Tip."
+    },
+    {
+      "date": "2026-04-30T00:13:23+0100",
+      "matched_aliases": [
+        "fly-tipping",
+        "bins"
+      ],
+      "path": "posts/2026/04/30/when-is-a-hustings-not.md",
+      "title": "When is a Hustings not a Hustings?"
+    },
+    {
+      "date": "2026-05-01T20:19:06+0100",
+      "matched_aliases": [
+        "fly-tipping",
+        "recycling",
+        "bins"
+      ],
+      "path": "posts/2026/05/01/back-to-the-future.md",
+      "title": "Back to the Future"
+    },
+    {
+      "date": "2026-05-02T14:18:51+0100",
+      "matched_aliases": [
+        "fly-tipping",
+        "waste",
+        "recycling"
+      ],
+      "path": "posts/2026/05/02/the-smell-of-success.md",
+      "title": "The Smell of Success"
+    },
+    {
+      "date": "2026-05-06T18:41:28+0100",
+      "matched_aliases": [
+        "fly-tipping"
+      ],
+      "path": "posts/2026/05/06/sixtyfour-years-on-your-side.md",
+      "title": "Sixty-Four Years On Your Side"
+    },
+    {
+      "date": "2026-05-06T11:55:52+0100",
+      "matched_aliases": [
+        "waste"
+      ],
+      "path": "posts/2026/05/06/the-drugs-dont-work.md",
+      "title": "The Drugs Don't Work"
+    },
+    {
+      "date": "2026-05-06T17:44:53+0100",
+      "matched_aliases": [
+        "fly-tipping",
+        "waste"
+      ],
+      "path": "posts/2026/05/06/the-meeting-that-ended-local.md",
+      "title": "The Meeting that Ended Local Democracy in Southall"
+    },
+    {
+      "date": "2026-05-07T07:12:57+0100",
+      "matched_aliases": [
+        "waste",
+        "recycling"
+      ],
+      "path": "posts/2026/05/07/computer-says-no.md",
+      "title": "Computer Says No"
+    },
+    {
+      "date": "2026-05-09T18:20:45+0100",
+      "matched_aliases": [
+        "fly-tipping"
+      ],
+      "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "title": "Lift-Off! Ealing Elections Special "
+    },
+    {
+      "date": "2026-05-25T15:34:05+0100",
+      "matched_aliases": [
+        "fly-tipping",
+        "waste",
+        "recycling",
+        "bins"
+      ],
+      "path": "posts/2026/05/25/feeling-the-heat.md",
+      "title": "Feeling the Heat"
+    }
+  ]
+}

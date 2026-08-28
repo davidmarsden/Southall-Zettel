@@ -1,0 +1,92 @@
+# Backlinks
+
+Generated reverse links between posts plus entity/topic mention counts.
+
+## Posts with the most internal backlinks
+
+- [Southall under Siege: the Neighbours from Hell](../posts/2019/08/25/southall-under-siege-the-neighbours.md) — 5
+- [The Property Lobby: the Hidden Reality behind the Housing Crisis in Ealing ](../posts/2022/12/17/the-property-lobby-the-hidden.md) — 5
+- [Perceval House W5: Where Local Democracy in Ealing Goes to Die](../posts/2025/07/11/perceval-house-w-where-local.md) — 5
+- [Bangarang! Pirate Pete and the Lost Bin Collections of Southall](../posts/2026/02/13/bangarang-pirate-pete-and-the.md) — 5
+- [Section 106 money: where did Southall’s “developer tax” go?](../posts/2026/02/14/section-money-where-did-southalls.md) — 5
+- [Canvassing with Minni Dogra: A Councillor in All But Name](../posts/2026/04/23/canvassing-with-minni-dogra-a.md) — 5
+- [The Meeting that Ended Local Democracy in Southall](../posts/2026/05/06/the-meeting-that-ended-local.md) — 5
+- [Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises](../posts/2026/01/18/demolition-man-peter-masons-legacy.md) — 4
+- [The Council Investigation That Found Nothing ](../posts/2026/01/20/the-council-investigation-that-found.md) — 4
+- [On the Bins Again](../posts/2026/04/05/on-the-bins-again.md) — 4
+- [First They Came for the Socialists](../posts/2026/04/24/first-they-came-for-the.md) — 4
+- [This Is Our Home. It's a Tip.](../posts/2026/04/30/this-is-our-home-its.md) — 4
+- [Berkeley's School Governors Board Member](../posts/2018/09/11/berkeleys-school-governors-board-member.md) — 3
+- [Response to Ealing's Air Quality Strategy and Action Plan](../posts/2023/01/26/response-to-ealings-air-quality.md) — 3
+- [ToryBoy](../posts/2023/11/20/toryboy.md) — 3
+- [Ealing For Sale](../posts/2025/09/26/ealing-for-sale.md) — 3
+- [Toxic Town - Have You Been Affected?](../posts/2026/01/11/toxic-town-have-you-been.md) — 3
+- [A Fire We Were Warned About](../posts/2026/01/12/a-fire-we-were-warned.md) — 3
+- ["You Never Forget the Smell of Damp": Peter Mason's Housing Record in His Own Words](../posts/2026/04/21/you-never-forget-the-smell.md) — 3
+- [When is a Hustings not a Hustings?](../posts/2026/04/30/when-is-a-hustings-not.md) — 3
+- [Sixty-Four Years On Your Side](../posts/2026/05/06/sixtyfour-years-on-your-side.md) — 3
+- [Who Does Peter Mason Really Represent?](../posts/2026/05/07/who-does-peter-mason-really.md) — 3
+- [The Health and Other Impacts of Southall Waterside on Southall & Hayes Residents](../posts/2019/06/25/the-health-and-other-impacts.md) — 2
+- [PHE cover-up?](../posts/2019/07/09/phe-coverup.md) — 2
+- [PHE cover-up, continued](../posts/2019/07/21/phe-coverup-continued.md) — 2
+- [Ealing Monopoly](../posts/2022/03/25/ealing-monopoly.md) — 2
+- [The Cuckoo's Nest](../posts/2024/05/19/the-cuckoos-nest.md) — 2
+- [COPD](../posts/2024/10/31/copd.md) — 2
+- [The Pied Piper of Ealing](../posts/2025/07/16/the-pied-piper-of-ealing.md) — 2
+- [How to Report Nuisance and Pollution in Ealing](../posts/2026/01/22/its-never-enough-until-its.md) — 2
+- [Boomerang! Ten Years Sorting Out Fly-tipping](../posts/2026/03/01/boomerang-ten-years-sorting-out.md) — 2
+- [What Happened to Southall?](../posts/2026/03/27/what-happened-to-southall.md) — 2
+- [When "deport six million" becomes mainstream: what Ealing Labour won't tell you](../posts/2026/04/24/when-deport-six-million-becomes.md) — 2
+- ["This Place Has Turned Into a Bloody Slum": Southall Wards Meeting with ECI candidates](../posts/2026/04/28/this-place-has-turned-into.md) — 2
+- [The Smell of Success](../posts/2026/05/02/the-smell-of-success.md) — 2
+- [It Takes Two to Tango](../posts/2026/05/06/it-takes-two-to-tango.md) — 2
+- [The Drugs Don't Work](../posts/2026/05/06/the-drugs-dont-work.md) — 2
+- [Health Risks of Exposure to Benzene](../posts/2018/08/03/health-risks-of-exposure-to.md) — 1
+- [Lies, Damned Lies, and Statistics?](../posts/2018/11/02/lies-damned-lies-and-statistics.md) — 1
+- [Naphthalene Poisoning Risk in People of African and Asian Heritage](../posts/2019/07/12/naphthalene-poisoning-risk-in-people.md) — 1
+- [Trigger Vote for Sharma](../posts/2019/10/01/trigger-vote-for-sharma.md) — 1
+- [Strawberries for Pigs?](../posts/2021/04/14/strawberries-for-pigs.md) — 1
+- [Look at these Bricks!](../posts/2021/05/03/look-at-these-bricks.md) — 1
+- [From the Southall Big Plan AGM in 2017](../posts/2021/07/21/from-the-southall-big-plan.md) — 1
+- [Ealing Labour Leaks](../posts/2022/03/19/ealing-labour-leaks.md) — 1
+- [Risks to Health from Remediating Southall Gasworks](../posts/2023/05/01/risks-to-health-from-remediating.md) — 1
+- [So it Goes: AI on the Absurd Logic of Ealing Council](../posts/2025/07/12/so-it-goes-ai-on.md) — 1
+- [The EA Files: What Regulators Knew About Fire Risks at Southall Recycling Site](../posts/2026/01/25/the-ea-files-what-regulators.md) — 1
+- [The Broken Manifesto Promises that show how Labour is Failing Ealing](../posts/2026/02/18/the-broken-manifesto-promises-that.md) — 1
+- [Ealing's Burning](../posts/2026/02/19/ealings-burning.md) — 1
+- [Cactuses Never Die](../posts/2026/05/03/cactuses-never-die.md) — 1
+- [Computer Says No](../posts/2026/05/07/computer-says-no.md) — 1
+- [Lift-Off! Ealing Elections Special ](../posts/2026/05/09/liftoff-ealing-elections-special.md) — 1
+- [Feeling the Heat](../posts/2026/05/25/feeling-the-heat.md) — 1
+
+## Most-mentioned entities
+
+- **Southall** — 63
+- **Ealing** — 60
+- **Ealing Council** — 48
+- **Berkeley Group** — 32
+- **Peter Mason** — 30
+- **Ealing Labour** — 29
+- **Southall Gasworks** — 25
+- **Southall Green** — 22
+- **Julian Bell** — 15
+- **Environment Agency** — 13
+- **Public Health England** — 13
+- **Community Powered Reporting** — 7
+- **Southall Market Car Park** — 3
+- **Conal Urquhart** — 2
+- **Henry Construction** — 2
+- **Norwood Road** — 2
+
+## Most-mentioned topics
+
+- **Local democracy** — 41
+- **Planning and development** — 41
+- **Air pollution** — 38
+- **Council accountability** — 37
+- **Housing** — 36
+- **Waste and fly-tipping** — 31
+- **Governance** — 29
+- **Public health** — 26
+- **Children's centres** — 16
+- **Pensions and divestment** — 5
