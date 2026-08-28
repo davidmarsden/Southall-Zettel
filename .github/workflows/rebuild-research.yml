@@ -13,6 +13,8 @@ on:
       - 'config/entity-candidate-ignore.txt'
       - 'scripts/build_research.py'
       - 'scripts/discover_candidates.py'
+      - 'scripts/generate_commons.py'
+      - 'schemas/commons-v1.schema.json'
       - '.github/workflows/rebuild-research.yml'
 
 concurrency:
@@ -35,6 +37,10 @@ jobs:
         run: python scripts/discover_candidates.py
       - name: Build reviewed research graph
         run: python scripts/build_research.py
+      - name: Build Civic Commons export
+        run: python scripts/generate_commons.py
+      - name: Validate Commons JSON
+        run: python -m json.tool generated/commons.json > /dev/null
       - name: Commit generated research layer
         run: |
           git add generated indexes
