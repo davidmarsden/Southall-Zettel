@@ -14,7 +14,9 @@ on:
       - 'requirements.txt'
       - 'scripts/build_research.py'
       - 'scripts/discover_candidates.py'
+      - 'scripts/enrich_citation_titles.py'
       - 'scripts/generate_commons.py'
+      - 'scripts/apply_citation_titles.py'
       - 'schemas/commons-v1.schema.json'
       - '.github/workflows/rebuild-research.yml'
 
@@ -38,8 +40,12 @@ jobs:
         run: python scripts/discover_candidates.py
       - name: Build reviewed research graph
         run: python scripts/build_research.py
+      - name: Enrich article citation titles
+        run: python scripts/enrich_citation_titles.py
       - name: Build Civic Commons export
         run: python scripts/generate_commons.py
+      - name: Apply citation destination titles
+        run: python scripts/apply_citation_titles.py
       - name: Validate Commons JSON
         run: |
           python -m json.tool generated/commons.json > /dev/null
