@@ -35,3 +35,12 @@ Curated edges with explicit evidence. These are assertions, not co-occurrence.
 - **Review:** reviewed
 - **Evidence:**
   - `posts/2026/01/18/demolition-man-peter-masons-legacy.md`
+
+## Southall Air Quality Focus Area → Southall
+
+- **Type:** `located_in`
+- **Confidence:** high
+- **Review:** reviewed
+- **Evidence:**
+  - `posts/2023/01/26/response-to-ealings-air-quality.md`
+- **Note:** The cited post identifies the Southall Air Quality Focus Area as a defined area within Southall.

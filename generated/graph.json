@@ -110,6 +110,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:richard-watler",
+      "target": "post:posts/2018/09/11/berkeleys-school-governors-board-member.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:southall",
       "target": "post:posts/2018/09/11/berkeleys-school-governors-board-member.md",
       "type": "mentioned-in"
@@ -195,6 +201,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:national-grid",
+      "target": "post:posts/2018/09/12/countering-the-southall-waterside-narrative.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:richard-watler",
       "target": "post:posts/2018/09/12/countering-the-southall-waterside-narrative.md",
       "type": "mentioned-in"
     },
@@ -543,6 +555,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:blair-peach-primary-school",
+      "target": "post:posts/2019/07/21/phe-coverup-continued.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:minet-park",
       "target": "post:posts/2019/07/21/phe-coverup-continued.md",
       "type": "mentioned-in"
     },
@@ -639,6 +657,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:julian-bell",
+      "target": "post:posts/2019/08/25/southall-under-siege-the-neighbours.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:minet-park",
       "target": "post:posts/2019/08/25/southall-under-siege-the-neighbours.md",
       "type": "mentioned-in"
     },
@@ -1448,6 +1472,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:southall-air-quality-focus-area",
+      "target": "post:posts/2023/01/26/response-to-ealings-air-quality.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:southall-broadway",
       "target": "post:posts/2023/01/26/response-to-ealings-air-quality.md",
       "type": "mentioned-in"
@@ -1869,6 +1899,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:private-eye",
+      "target": "post:posts/2025/07/11/perceval-house-w-where-local.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:river-brent",
       "target": "post:posts/2025/07/11/perceval-house-w-where-local.md",
       "type": "mentioned-in"
     },
@@ -2577,6 +2613,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:public-health-england",
+      "target": "post:posts/2026/01/20/the-council-investigation-that-found.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:river-brent",
       "target": "post:posts/2026/01/20/the-council-investigation-that-found.md",
       "type": "mentioned-in"
     },
@@ -3404,6 +3446,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:saklatvala-hall",
+      "target": "post:posts/2026/03/27/what-happened-to-southall.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:southall",
       "target": "post:posts/2026/03/27/what-happened-to-southall.md",
       "type": "mentioned-in"
@@ -3980,7 +4028,19 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:labour-party-national-executive-committee",
+      "target": "post:posts/2026/04/24/when-deport-six-million-becomes.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:liberal-democrats",
+      "target": "post:posts/2026/04/24/when-deport-six-million-becomes.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:metropolitan-police",
       "target": "post:posts/2026/04/24/when-deport-six-million-becomes.md",
       "type": "mentioned-in"
     },
@@ -4904,6 +4964,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:nigel-giffin-kc",
+      "target": "post:posts/2026/05/03/cactuses-never-die.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:peter-mason",
       "target": "post:posts/2026/05/03/cactuses-never-die.md",
       "type": "mentioned-in"
@@ -5252,6 +5318,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:metropolitan-police",
+      "target": "post:posts/2026/05/06/the-drugs-dont-work.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:minni-dogra",
       "target": "post:posts/2026/05/06/the-drugs-dont-work.md",
       "type": "mentioned-in"
@@ -5439,6 +5511,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:public-health-england",
+      "target": "post:posts/2026/05/06/the-meeting-that-ended-local.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:salvinder-dhillon",
       "target": "post:posts/2026/05/06/the-meeting-that-ended-local.md",
       "type": "mentioned-in"
     },
@@ -5822,6 +5900,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:richard-watler",
+      "target": "post:posts/2026/05/07/the-man-in-the-middle.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:southall",
       "target": "post:posts/2026/05/07/the-man-in-the-middle.md",
       "type": "mentioned-in"
@@ -6014,6 +6098,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:labour-party-national-executive-committee",
+      "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:lady-margaret",
       "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
       "type": "mentioned-in"
@@ -6050,7 +6140,19 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:metropolitan-police",
+      "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:national-front",
+      "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:nigel-giffin-kc",
       "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
       "type": "mentioned-in"
     },
@@ -6069,6 +6171,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:peter-mason",
+      "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:saklatvala-hall",
       "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
       "type": "mentioned-in"
     },
@@ -6386,7 +6494,19 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:onkar-sahota",
+      "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:peter-mason",
+      "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:salvinder-dhillon",
       "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
       "type": "mentioned-in"
     },
@@ -6668,6 +6788,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:onkar-sahota",
+      "target": "post:posts/2026/05/25/feeling-the-heat.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:peter-mason",
       "target": "post:posts/2026/05/25/feeling-the-heat.md",
       "type": "mentioned-in"
@@ -6681,6 +6807,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall",
+      "target": "post:posts/2026/05/25/feeling-the-heat.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-air-quality-focus-area",
       "target": "post:posts/2026/05/25/feeling-the-heat.md",
       "type": "mentioned-in"
     },
@@ -9779,6 +9911,19 @@
       "type": "located_in"
     },
     {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "posts/2023/01/26/response-to-ealings-air-quality.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:southall-air-quality-focus-area",
+      "target": "entity:southall",
+      "type": "located_in"
+    },
+    {
       "provenance": "reviewed-source-record",
       "source": "post:posts/2026/03/01/boomerang-ten-years-sorting-out.md",
       "target": "source:bbc-london-politics-show",
@@ -10637,6 +10782,13 @@
       "type": "entity"
     },
     {
+      "id": "entity:labour-party-national-executive-committee",
+      "label": "Labour Party National Executive Committee",
+      "path": "entities/organisations/labour-party-national-executive-committee.md",
+      "subtype": "organisation",
+      "type": "entity"
+    },
+    {
       "id": "entity:labour-party",
       "label": "Labour Party",
       "path": "entities/organisations/labour-party.md",
@@ -10675,6 +10827,13 @@
       "id": "entity:london-forum",
       "label": "London Forum",
       "path": "entities/organisations/london-forum.md",
+      "subtype": "organisation",
+      "type": "entity"
+    },
+    {
+      "id": "entity:metropolitan-police",
+      "label": "Metropolitan Police",
+      "path": "entities/organisations/metropolitan-police.md",
       "subtype": "organisation",
       "type": "entity"
     },
@@ -10868,6 +11027,20 @@
       "type": "entity"
     },
     {
+      "id": "entity:nigel-giffin-kc",
+      "label": "Nigel Giffin KC",
+      "path": "entities/people/nigel-giffin-kc.md",
+      "subtype": "person",
+      "type": "entity"
+    },
+    {
+      "id": "entity:onkar-sahota",
+      "label": "Dr Onkar Sahota",
+      "path": "entities/people/onkar-sahota.md",
+      "subtype": "person",
+      "type": "entity"
+    },
+    {
       "id": "entity:peter-mason",
       "label": "Peter Mason",
       "path": "entities/people/peter-mason.md",
@@ -10878,6 +11051,20 @@
       "id": "entity:richard-kimblin",
       "label": "Richard Kimblin",
       "path": "entities/people/richard-kimblin.md",
+      "subtype": "person",
+      "type": "entity"
+    },
+    {
+      "id": "entity:richard-watler",
+      "label": "Richard Watler",
+      "path": "entities/people/richard-watler.md",
+      "subtype": "person",
+      "type": "entity"
+    },
+    {
+      "id": "entity:salvinder-dhillon",
+      "label": "Salvinder Dhillon",
+      "path": "entities/people/salvinder-dhillon.md",
       "subtype": "person",
       "type": "entity"
     },
@@ -11015,6 +11202,13 @@
       "type": "entity"
     },
     {
+      "id": "entity:minet-park",
+      "label": "Minet Park",
+      "path": "entities/places/minet-park.md",
+      "subtype": "place",
+      "type": "entity"
+    },
+    {
       "id": "entity:norwood-green",
       "label": "Norwood Green",
       "path": "entities/places/norwood-green.md",
@@ -11043,6 +11237,20 @@
       "type": "entity"
     },
     {
+      "id": "entity:river-brent",
+      "label": "River Brent",
+      "path": "entities/places/river-brent.md",
+      "subtype": "place",
+      "type": "entity"
+    },
+    {
+      "id": "entity:saklatvala-hall",
+      "label": "Saklatvala Hall",
+      "path": "entities/places/saklatvala-hall.md",
+      "subtype": "place",
+      "type": "entity"
+    },
+    {
       "id": "entity:scotts-road",
       "label": "Scotts Road",
       "path": "entities/places/scotts-road.md",
@@ -11053,6 +11261,13 @@
       "id": "entity:south-road",
       "label": "South Road",
       "path": "entities/places/south-road.md",
+      "subtype": "place",
+      "type": "entity"
+    },
+    {
+      "id": "entity:southall-air-quality-focus-area",
+      "label": "Southall Air Quality Focus Area",
+      "path": "entities/places/southall-air-quality-focus-area.md",
       "subtype": "place",
       "type": "entity"
     },
