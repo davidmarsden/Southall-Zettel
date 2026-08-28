@@ -4,6 +4,7 @@ name: "Defra"
 type: organisation
 aliases:
   - "DEFRA"
+  - "The Defra"
   - "Department for Environment, Food and Rural Affairs"
   - "Defra Fly-Tipping Statistics"
 ---
