@@ -80,6 +80,29 @@ jobs:
           else
             echo "No scheduled link-health notification needed."
           fi
+      - name: Email newly degraded links
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: |
+          if [[ "$GITHUB_EVENT_NAME" != "schedule" || ! -f generated/link-health-alert.md ]]; then
+            echo "No scheduled link-health email needed."
+            exit 0
+          fi
+          if [[ -z "$RESEND_API_KEY" ]]; then
+            echo "RESEND_API_KEY is not configured; skipping email alert."
+            exit 0
+          fi
+          jq -n \
+            --arg from "Civic Commons <alerts@mail.commons.southallstories.uk>" \
+            --arg to "dmarsd@gmail.com" \
+            --arg subject "Southall Stories link health: new links need attention" \
+            --rawfile text generated/link-health-alert.md \
+            '{from:$from,to:[$to],subject:$subject,text:$text}' > /tmp/resend-link-health.json
+          curl --fail-with-body --silent --show-error \
+            https://api.resend.com/emails \
+            -H "Authorization: Bearer $RESEND_API_KEY" \
+            -H "Content-Type: application/json" \
+            --data-binary @/tmp/resend-link-health.json
       - name: Commit generated research layer
         run: |
           git add generated indexes
