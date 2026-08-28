@@ -1,0 +1,46 @@
+name: Import Southall Stories baseline
+
+on:
+  push:
+    paths:
+      - '.staging/READY'
+
+permissions:
+  contents: write
+
+jobs:
+  import-baseline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Reconstruct and verify baseline archive
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat .staging/chunk-* | base64 --decode > /tmp/Southall-Zettel-baseline-full.tar.xz
+          echo '7c34203eb9aa4d7c965327e82d6c9eaf8f9b3b651292b1b4c07b83d62eecb867  /tmp/Southall-Zettel-baseline-full.tar.xz' | sha256sum -c -
+
+      - name: Unpack baseline into repository root
+        shell: bash
+        run: |
+          set -euo pipefail
+          tar -xJf /tmp/Southall-Zettel-baseline-full.tar.xz
+          test "$(find posts -type f -name '*.md' | wc -l)" -eq 69
+          test -f generated/posts.json
+          test -f indexes/years.md
+          test -f original/baseline-2026-08-27.json
+
+      - name: Commit baseline corpus and clean staging
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf .staging
+          rm -f .github/workflows/import-baseline.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Add Southall Stories baseline corpus (2026-08-27)'
+          git push origin HEAD:main
