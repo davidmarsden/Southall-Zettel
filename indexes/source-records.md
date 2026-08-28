@@ -50,6 +50,14 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **URL:** https://ealing.moderngov.co.uk/Data/Council/202104271900/Agenda/Minutes%20of%20meeting.pdf
 - **Cited by:** 3 post(s)
 
+## Council motion: Delivering good, genuinely affordable homes — 18 December 2018
+
+- **ID:** `genuinely-affordable-homes-motion-2018-12-18`
+- **Publisher:** Ealing Council
+- **Type:** `council_motion`
+- **URL:** https://ealing.moderngov.co.uk/CeListDocuments.aspx?CommitteeId=138&DF=18%2F12%2F2018&MeetingId=712&Ver=2
+- **Cited by:** 2 post(s)
+
 ## Ealing Air Quality Action Plan 2022–2027
 
 - **ID:** `air-quality-action-plan-2022-27`
@@ -74,12 +82,28 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **URL:** https://ealingperformance.inphase.com/Detail/865_17759
 - **Cited by:** 1 post(s)
 
+## Genuinely Affordable Homes Programme — 2,500 delivered and 4,000 target for 2022–26
+
+- **ID:** `genuinely-affordable-homes-programme-2022`
+- **Publisher:** Ealing Council
+- **Type:** `scrutiny_report`
+- **URL:** https://ealing.moderngov.co.uk/documents/s2055/Genuinely%20Affordable%20Homes%20Programme.pdf
+- **Cited by:** 2 post(s)
+
 ## Good for Ealing Sponsorship Explainer
 
 - **ID:** `gfe-sponsorship-explainer`
 - **Publisher:** Ealing Council
 - **Type:** `policy_report`
 - **URL:** https://ealing.moderngov.co.uk/documents/s17247/App%20A%20-%20GFE%20Sponsorship%20Explainer.pdf
+- **Cited by:** 1 post(s)
+
+## Housing Development and Regeneration Report to Scrutiny
+
+- **ID:** `housing-development-regeneration-scrutiny-2025`
+- **Publisher:** Ealing Council
+- **Type:** `scrutiny_report`
+- **URL:** https://ealing.moderngov.co.uk/documents/s18496/Housing%20Development%20and%20Regeneration%20Report%20to%20Scrutiny.pdf
 - **Cited by:** 1 post(s)
 
 ## Independent testing at Southall Gasworks
@@ -96,6 +120,14 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **Publisher:** Ealing Council
 - **Type:** `strategy`
 - **URL:** https://www.ealing.gov.uk/download/downloads/id/18971/land_and_property_strategy.pdf
+- **Cited by:** 1 post(s)
+
+## Progress with Unity 2022–2026
+
+- **ID:** `progress-with-unity-2022-2026`
+- **Publisher:** Ealing Council
+- **Type:** `performance_report`
+- **URL:** https://www.ealing.gov.uk/download/downloads/id/21306/full_report_progress_with_unity_report_2022-2026.pdf
 - **Cited by:** 1 post(s)
 
 ## Southall Broadway Ward Forum — Air quality in Southall, concerns about health and the odour
@@ -177,6 +209,14 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **Type:** `council_questions`
 - **URL:** https://ealing.moderngov.co.uk/Data/Council/201804241930/Agenda/Written%20Council%20Questions%20-%2024%20April%202018.pdf
 - **Cited by:** 2 post(s)
+
+## Mayor's Question Time: Henry Construction
+
+- **ID:** `henry-construction-mqt-2026-06-12`
+- **Publisher:** Greater London Authority
+- **Type:** `mayoral_question`
+- **URL:** https://www.london.gov.uk/who-we-are/what-london-assembly-does/questions-mayor/find-an-answer/henry-construction
+- **Cited by:** 1 post(s)
 
 ## Southall Gas Works Health Impact Assessment
 

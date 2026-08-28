@@ -1,9 +1,9 @@
 {
-  "curated_sources": 27,
+  "curated_sources": 32,
   "entities": 115,
   "entity_mentions": 760,
-  "graph_edges": 1863,
-  "graph_nodes": 418,
+  "graph_edges": 1893,
+  "graph_nodes": 423,
   "internal_post_links": 132,
   "posts": 69,
   "reviewed_relationships": 24,

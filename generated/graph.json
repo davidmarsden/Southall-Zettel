@@ -10599,6 +10599,78 @@
     },
     {
       "provenance": "reviewed-source-record",
+      "source": "post:posts/2026/01/18/demolition-man-peter-masons-legacy.md",
+      "target": "source:genuinely-affordable-homes-motion-2018-12-18",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2026/02/18/the-broken-manifesto-promises-that.md",
+      "target": "source:genuinely-affordable-homes-motion-2018-12-18",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:genuinely-affordable-homes-motion-2018-12-18",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:genuinely-affordable-homes-motion-2018-12-18",
+      "target": "entity:peter-mason",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:genuinely-affordable-homes-motion-2018-12-18",
+      "target": "topic:housing",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:genuinely-affordable-homes-motion-2018-12-18",
+      "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2026/01/18/demolition-man-peter-masons-legacy.md",
+      "target": "source:genuinely-affordable-homes-programme-2022",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2026/02/18/the-broken-manifesto-promises-that.md",
+      "target": "source:genuinely-affordable-homes-programme-2022",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:genuinely-affordable-homes-programme-2022",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:genuinely-affordable-homes-programme-2022",
+      "target": "entity:peter-mason",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:genuinely-affordable-homes-programme-2022",
+      "target": "topic:housing",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:genuinely-affordable-homes-programme-2022",
+      "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
       "source": "post:posts/2025/09/26/ealing-for-sale.md",
       "target": "source:gfe-sponsorship-explainer",
       "type": "cites-source"
@@ -10624,6 +10696,36 @@
     {
       "provenance": "reviewed-source-record",
       "source": "source:gfe-sponsorship-explainer",
+      "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2026/02/18/the-broken-manifesto-promises-that.md",
+      "target": "source:housing-development-regeneration-scrutiny-2025",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:housing-development-regeneration-scrutiny-2025",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:housing-development-regeneration-scrutiny-2025",
+      "target": "entity:peter-mason",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:housing-development-regeneration-scrutiny-2025",
+      "target": "topic:housing",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:housing-development-regeneration-scrutiny-2025",
       "target": "topic:council-accountability",
       "type": "relates-to"
     },
@@ -10835,6 +10937,42 @@
       "provenance": "reviewed-source-record",
       "source": "source:phe-southall-waterside-health-risk-assessment-july-2020",
       "target": "topic:public-health",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2026/02/18/the-broken-manifesto-promises-that.md",
+      "target": "source:progress-with-unity-2022-2026",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:progress-with-unity-2022-2026",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:progress-with-unity-2022-2026",
+      "target": "entity:berkeley-group",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:progress-with-unity-2022-2026",
+      "target": "entity:southall-gasworks",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:progress-with-unity-2022-2026",
+      "target": "topic:housing",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:progress-with-unity-2022-2026",
+      "target": "topic:council-accountability",
       "type": "relates-to"
     },
     {
@@ -11243,6 +11381,48 @@
       "provenance": "reviewed-source-record",
       "source": "source:ealing-southall-town-team",
       "target": "topic:planning-development",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2026/01/18/demolition-man-peter-masons-legacy.md",
+      "target": "source:henry-construction-mqt-2026-06-12",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:henry-construction-mqt-2026-06-12",
+      "target": "entity:greater-london-authority",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:henry-construction-mqt-2026-06-12",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:henry-construction-mqt-2026-06-12",
+      "target": "entity:henry-construction",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:henry-construction-mqt-2026-06-12",
+      "target": "entity:norwood-road",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:henry-construction-mqt-2026-06-12",
+      "target": "topic:housing",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:henry-construction-mqt-2026-06-12",
+      "target": "topic:council-accountability",
       "type": "relates-to"
     },
     {
@@ -13958,11 +14138,35 @@
       "type": "source-record"
     },
     {
+      "id": "source:genuinely-affordable-homes-motion-2018-12-18",
+      "label": "Council motion: Delivering good, genuinely affordable homes — 18 December 2018",
+      "path": "sources/ealing-council/genuinely-affordable-homes-motion-2018-12-18.md",
+      "publisher": "Ealing Council",
+      "source_type": "council_motion",
+      "type": "source-record"
+    },
+    {
+      "id": "source:genuinely-affordable-homes-programme-2022",
+      "label": "Genuinely Affordable Homes Programme — 2,500 delivered and 4,000 target for 2022–26",
+      "path": "sources/ealing-council/genuinely-affordable-homes-programme-2022.md",
+      "publisher": "Ealing Council",
+      "source_type": "scrutiny_report",
+      "type": "source-record"
+    },
+    {
       "id": "source:gfe-sponsorship-explainer",
       "label": "Good for Ealing Sponsorship Explainer",
       "path": "sources/ealing-council/gfe-sponsorship-explainer.md",
       "publisher": "Ealing Council",
       "source_type": "policy_report",
+      "type": "source-record"
+    },
+    {
+      "id": "source:housing-development-regeneration-scrutiny-2025",
+      "label": "Housing Development and Regeneration Report to Scrutiny",
+      "path": "sources/ealing-council/housing-development-regeneration-scrutiny-2025.md",
+      "publisher": "Ealing Council",
+      "source_type": "scrutiny_report",
       "type": "source-record"
     },
     {
@@ -14003,6 +14207,14 @@
       "path": "sources/ealing-council/phe-southall-waterside-health-risk-assessment-july-2020.md",
       "publisher": "Public Health England",
       "source_type": "health-risk-assessment",
+      "type": "source-record"
+    },
+    {
+      "id": "source:progress-with-unity-2022-2026",
+      "label": "Progress with Unity 2022–2026",
+      "path": "sources/ealing-council/progress-with-unity-2022-2026.md",
+      "publisher": "Ealing Council",
+      "source_type": "performance_report",
       "type": "source-record"
     },
     {
@@ -14075,6 +14287,14 @@
       "path": "sources/ealing-council/southall-town-team.md",
       "publisher": "Ealing Council",
       "source_type": "civic_programme_page",
+      "type": "source-record"
+    },
+    {
+      "id": "source:henry-construction-mqt-2026-06-12",
+      "label": "Mayor's Question Time: Henry Construction",
+      "path": "sources/gla/henry-construction-mqt-2026-06-12.md",
+      "publisher": "Greater London Authority",
+      "source_type": "mayoral_question",
       "type": "source-record"
     },
     {

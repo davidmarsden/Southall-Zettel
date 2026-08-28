@@ -206,6 +206,52 @@
     "title": "Ealing Council Air Quality Strategy 2020-30"
   },
   {
+    "body": "Primary council record of the 2018 commitment to deliver at least 2,500 genuinely affordable homes by 2022. The agreed motion also records £99 million of mayoral subsidy and nearly 8,000 households on Ealing's social-housing waiting list at the time.",
+    "canonical_url": "https://ealing.moderngov.co.uk/CeListDocuments.aspx?CommitteeId=138&DF=18%2F12%2F2018&MeetingId=712&Ver=2",
+    "cited_by": [
+      "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
+      "posts/2026/02/18/the-broken-manifesto-promises-that.md"
+    ],
+    "id": "genuinely-affordable-homes-motion-2018-12-18",
+    "path": "sources/ealing-council/genuinely-affordable-homes-motion-2018-12-18.md",
+    "publication_date": "2018-12-18",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "peter-mason"
+    ],
+    "related_topics": [
+      "housing",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "council_motion",
+    "title": "Council motion: Delivering good, genuinely affordable homes — 18 December 2018"
+  },
+  {
+    "body": "Primary council scrutiny report defining Ealing's genuinely affordable homes measure and the transition from the 2018–22 target of 2,500 to the 2022–26 target of 4,000. It states that 2,576 homes were counted as delivered in the earlier programme and makes explicit that the measure includes both starts and completions.",
+    "canonical_url": "https://ealing.moderngov.co.uk/documents/s2055/Genuinely%20Affordable%20Homes%20Programme.pdf",
+    "cited_by": [
+      "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
+      "posts/2026/02/18/the-broken-manifesto-promises-that.md"
+    ],
+    "id": "genuinely-affordable-homes-programme-2022",
+    "path": "sources/ealing-council/genuinely-affordable-homes-programme-2022.md",
+    "publication_date": "2022",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "peter-mason"
+    ],
+    "related_topics": [
+      "housing",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "scrutiny_report",
+    "title": "Genuinely Affordable Homes Programme — 2,500 delivered and 4,000 target for 2022–26"
+  },
+  {
     "body": "Council sponsorship-policy explainer describing post-2021 probity measures, including ending Ealing Council attendance at MIPIM, requiring developer meetings to be entered in members' registers of interests, and strengthening gifts and hospitality disclosure.",
     "canonical_url": "https://ealing.moderngov.co.uk/documents/s17247/App%20A%20-%20GFE%20Sponsorship%20Explainer.pdf",
     "cited_by": [
@@ -225,6 +271,28 @@
     "review_status": "reviewed",
     "source_type": "policy_report",
     "title": "Good for Ealing Sponsorship Explainer"
+  },
+  {
+    "body": "Primary council scrutiny report used to track progress against the 2022–26 commitment to 4,000 genuinely affordable housing starts. The cited reporting records the programme as off track, with around 3,000 starts expected rather than 4,000.",
+    "canonical_url": "https://ealing.moderngov.co.uk/documents/s18496/Housing%20Development%20and%20Regeneration%20Report%20to%20Scrutiny.pdf",
+    "cited_by": [
+      "posts/2026/02/18/the-broken-manifesto-promises-that.md"
+    ],
+    "id": "housing-development-regeneration-scrutiny-2025",
+    "path": "sources/ealing-council/housing-development-regeneration-scrutiny-2025.md",
+    "publication_date": "2025",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "peter-mason"
+    ],
+    "related_topics": [
+      "housing",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "scrutiny_report",
+    "title": "Housing Development and Regeneration Report to Scrutiny"
   },
   {
     "body": "Council publication for independent soil monitoring commissioned at the former Southall Gasworks site, retained as a primary monitoring/evidence record.",
@@ -344,6 +412,29 @@
     "review_status": "reviewed",
     "source_type": "health-risk-assessment",
     "title": "Public Health England - Southall Waterside Health Risk Assessment July 2020"
+  },
+  {
+    "body": "Council end-of-term progress report on the 2022–26 housing commitment. It records 1,779 genuinely affordable homes started since May 2022, a further 909 in the pipeline, and the June 2025 purchase of 180 homes from Berkeley Group at the Green Quarter for affordable housing, including social rent and London Living Rent homes.",
+    "canonical_url": "https://www.ealing.gov.uk/download/downloads/id/21306/full_report_progress_with_unity_report_2022-2026.pdf",
+    "cited_by": [
+      "posts/2026/02/18/the-broken-manifesto-promises-that.md"
+    ],
+    "id": "progress-with-unity-2022-2026",
+    "path": "sources/ealing-council/progress-with-unity-2022-2026.md",
+    "publication_date": "2026",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "berkeley-group",
+      "southall-gasworks"
+    ],
+    "related_topics": [
+      "housing",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "performance_report",
+    "title": "Progress with Unity 2022–2026"
   },
   {
     "body": "Primary council briefing summarising the July 2019 PHE interim health-risk assessment, VOC monitoring, the soil hospital and Environment Agency recommendations.",
@@ -560,6 +651,30 @@
     "review_status": "reviewed",
     "source_type": "civic_programme_page",
     "title": "Southall Town Team"
+  },
+  {
+    "body": "GLA response on the consequences of Henry Construction's collapse for Ealing affordable-housing schemes. It records a total GLA grant allocation of £7.58 million for the affected schemes, including Norwood Road, and explains the GLA's recovery rights in the event of project default.",
+    "canonical_url": "https://www.london.gov.uk/who-we-are/what-london-assembly-does/questions-mayor/find-an-answer/henry-construction",
+    "cited_by": [
+      "posts/2026/01/18/demolition-man-peter-masons-legacy.md"
+    ],
+    "id": "henry-construction-mqt-2026-06-12",
+    "path": "sources/gla/henry-construction-mqt-2026-06-12.md",
+    "publication_date": "2026-06-17",
+    "publisher": "Greater London Authority",
+    "related_entities": [
+      "greater-london-authority",
+      "ealing-council",
+      "henry-construction",
+      "norwood-road"
+    ],
+    "related_topics": [
+      "housing",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "mayoral_question",
+    "title": "Mayor's Question Time: Henry Construction"
   },
   {
     "body": "GLA planning record for reference D&P 2310, including Stage 1-3 reports, representation-hearing documents, final decision notices and the section 106 agreement for the Southall Gas Works development.",
