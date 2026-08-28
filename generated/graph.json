@@ -92,6 +92,18 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach",
+      "target": "post:posts/2018/09/11/berkeleys-school-governors-board-member.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach-primary-school",
+      "target": "post:posts/2018/09/11/berkeleys-school-governors-board-member.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:southall",
       "target": "post:posts/2018/09/11/berkeleys-school-governors-board-member.md",
       "type": "mentioned-in"
@@ -117,6 +129,18 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
+      "target": "post:posts/2018/09/12/countering-the-southall-waterside-narrative.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach",
+      "target": "post:posts/2018/09/12/countering-the-southall-waterside-narrative.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach-primary-school",
       "target": "post:posts/2018/09/12/countering-the-southall-waterside-narrative.md",
       "type": "mentioned-in"
     },
@@ -219,6 +243,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
+      "target": "post:posts/2019/06/01/pull-the-other-one-julian.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach",
       "target": "post:posts/2019/06/01/pull-the-other-one-julian.md",
       "type": "mentioned-in"
     },
@@ -411,6 +441,18 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
+      "target": "post:posts/2019/07/21/phe-coverup-continued.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach",
+      "target": "post:posts/2019/07/21/phe-coverup-continued.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach-primary-school",
       "target": "post:posts/2019/07/21/phe-coverup-continued.md",
       "type": "mentioned-in"
     },
@@ -764,6 +806,18 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach",
+      "target": "post:posts/2021/07/27/questions-for-cabinet-leads.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach-primary-school",
+      "target": "post:posts/2021/07/27/questions-for-cabinet-leads.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:ealing",
       "target": "post:posts/2021/07/27/questions-for-cabinet-leads.md",
       "type": "mentioned-in"
@@ -909,6 +963,18 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
+      "target": "post:posts/2022/07/10/weasel-words-on-air-quality.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach",
+      "target": "post:posts/2022/07/10/weasel-words-on-air-quality.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach-primary-school",
       "target": "post:posts/2022/07/10/weasel-words-on-air-quality.md",
       "type": "mentioned-in"
     },
@@ -1178,6 +1244,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:labour-party",
+      "target": "post:posts/2023/05/01/risks-to-health-from-remediating.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:southall",
       "target": "post:posts/2023/05/01/risks-to-health-from-remediating.md",
       "type": "mentioned-in"
@@ -1215,6 +1287,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:ealing",
+      "target": "post:posts/2023/11/20/toryboy.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:liberal-democrats",
       "target": "post:posts/2023/11/20/toryboy.md",
       "type": "mentioned-in"
     },
@@ -1274,7 +1352,19 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:labour-party",
+      "target": "post:posts/2024/05/19/the-cuckoos-nest.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:southall",
+      "target": "post:posts/2024/05/19/the-cuckoos-nest.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:your-voice-your-town",
       "target": "post:posts/2024/05/19/the-cuckoos-nest.md",
       "type": "mentioned-in"
     },
@@ -1353,6 +1443,18 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
+      "target": "post:posts/2025/07/11/perceval-house-w-where-local.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach",
+      "target": "post:posts/2025/07/11/perceval-house-w-where-local.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach-primary-school",
       "target": "post:posts/2025/07/11/perceval-house-w-where-local.md",
       "type": "mentioned-in"
     },
@@ -1593,6 +1695,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall-gasworks",
+      "target": "post:posts/2025/09/26/ealing-for-sale.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:your-voice-your-town",
       "target": "post:posts/2025/09/26/ealing-for-sale.md",
       "type": "mentioned-in"
     },
@@ -1952,6 +2060,18 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach",
+      "target": "post:posts/2026/01/20/the-council-investigation-that-found.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach-primary-school",
+      "target": "post:posts/2026/01/20/the-council-investigation-that-found.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:ealing",
       "target": "post:posts/2026/01/20/the-council-investigation-that-found.md",
       "type": "mentioned-in"
@@ -2192,6 +2312,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:defra",
+      "target": "post:posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:ealing",
       "target": "post:posts/2026/02/13/bangarang-pirate-pete-and-the.md",
       "type": "mentioned-in"
@@ -2216,6 +2342,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:labour-party",
+      "target": "post:posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:peter-mason",
       "target": "post:posts/2026/02/13/bangarang-pirate-pete-and-the.md",
       "type": "mentioned-in"
@@ -2235,6 +2367,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall-green",
+      "target": "post:posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:your-voice-your-town",
       "target": "post:posts/2026/02/13/bangarang-pirate-pete-and-the.md",
       "type": "mentioned-in"
     },
@@ -2331,6 +2469,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:ealing-labour",
+      "target": "post:posts/2026/02/14/section-money-where-did-southalls.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:labour-party",
       "target": "post:posts/2026/02/14/section-money-where-did-southalls.md",
       "type": "mentioned-in"
     },
@@ -2433,6 +2577,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:julian-bell",
+      "target": "post:posts/2026/02/18/the-broken-manifesto-promises-that.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:labour-party",
       "target": "post:posts/2026/02/18/the-broken-manifesto-promises-that.md",
       "type": "mentioned-in"
     },
@@ -2564,6 +2714,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:defra",
+      "target": "post:posts/2026/03/01/boomerang-ten-years-sorting-out.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:ealing",
       "target": "post:posts/2026/03/01/boomerang-ten-years-sorting-out.md",
       "type": "mentioned-in"
@@ -2678,6 +2834,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:defra",
+      "target": "post:posts/2026/04/05/on-the-bins-again.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:ealing",
       "target": "post:posts/2026/04/05/on-the-bins-again.md",
       "type": "mentioned-in"
@@ -2840,6 +3002,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:labour-party",
+      "target": "post:posts/2026/04/23/canvassing-with-minni-dogra-a.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:peter-mason",
       "target": "post:posts/2026/04/23/canvassing-with-minni-dogra-a.md",
       "type": "mentioned-in"
@@ -2918,6 +3086,18 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:labour-party",
+      "target": "post:posts/2026/04/24/first-they-came-for-the.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:liberal-democrats",
+      "target": "post:posts/2026/04/24/first-they-came-for-the.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:peter-mason",
       "target": "post:posts/2026/04/24/first-they-came-for-the.md",
       "type": "mentioned-in"
@@ -2931,6 +3111,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall-green",
+      "target": "post:posts/2026/04/24/first-they-came-for-the.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:swaran-singh-padda",
       "target": "post:posts/2026/04/24/first-they-came-for-the.md",
       "type": "mentioned-in"
     },
@@ -2972,6 +3158,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach",
+      "target": "post:posts/2026/04/24/when-deport-six-million-becomes.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:ealing",
       "target": "post:posts/2026/04/24/when-deport-six-million-becomes.md",
       "type": "mentioned-in"
@@ -2985,6 +3177,24 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:ealing-labour",
+      "target": "post:posts/2026/04/24/when-deport-six-million-becomes.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:green-party",
+      "target": "post:posts/2026/04/24/when-deport-six-million-becomes.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:labour-party",
+      "target": "post:posts/2026/04/24/when-deport-six-million-becomes.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:liberal-democrats",
       "target": "post:posts/2026/04/24/when-deport-six-million-becomes.md",
       "type": "mentioned-in"
     },
@@ -3032,6 +3242,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach",
+      "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:ealing",
       "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
       "type": "mentioned-in"
@@ -3045,6 +3261,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:ealing-labour",
+      "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:labour-party",
       "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
       "type": "mentioned-in"
     },
@@ -3119,6 +3341,12 @@
       "source": "post:posts/2026/04/28/this-place-has-turned-into.md",
       "target": "post:posts/2026/04/23/canvassing-with-minni-dogra-a.md",
       "type": "links-to"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:defra",
+      "target": "post:posts/2026/04/30/this-is-our-home-its.md",
+      "type": "mentioned-in"
     },
     {
       "provenance": "deterministic-alias-match",
@@ -3224,6 +3452,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:green-party",
+      "target": "post:posts/2026/04/30/when-is-a-hustings-not.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:henry-construction",
       "target": "post:posts/2026/04/30/when-is-a-hustings-not.md",
       "type": "mentioned-in"
@@ -3231,6 +3465,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:julian-bell",
+      "target": "post:posts/2026/04/30/when-is-a-hustings-not.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:liberal-democrats",
       "target": "post:posts/2026/04/30/when-is-a-hustings-not.md",
       "type": "mentioned-in"
     },
@@ -3363,6 +3603,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall",
+      "target": "post:posts/2026/05/01/back-to-the-future.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:your-voice-your-town",
       "target": "post:posts/2026/05/01/back-to-the-future.md",
       "type": "mentioned-in"
     },
@@ -3578,6 +3824,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:labour-party",
+      "target": "post:posts/2026/05/03/cactuses-never-die.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:peter-mason",
       "target": "post:posts/2026/05/03/cactuses-never-die.md",
       "type": "mentioned-in"
@@ -3704,6 +3956,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:defra",
+      "target": "post:posts/2026/05/06/sixtyfour-years-on-your-side.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:ealing",
       "target": "post:posts/2026/05/06/sixtyfour-years-on-your-side.md",
       "type": "mentioned-in"
@@ -3812,6 +4070,18 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:green-party",
+      "target": "post:posts/2026/05/06/the-drugs-dont-work.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:liberal-democrats",
+      "target": "post:posts/2026/05/06/the-drugs-dont-work.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:peter-mason",
       "target": "post:posts/2026/05/06/the-drugs-dont-work.md",
       "type": "mentioned-in"
@@ -3908,6 +4178,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:labour-party",
+      "target": "post:posts/2026/05/06/the-meeting-that-ended-local.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:peter-mason",
       "target": "post:posts/2026/05/06/the-meeting-that-ended-local.md",
       "type": "mentioned-in"
@@ -3927,6 +4203,18 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall-green",
+      "target": "post:posts/2026/05/06/the-meeting-that-ended-local.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:swaran-singh-padda",
+      "target": "post:posts/2026/05/06/the-meeting-that-ended-local.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:your-voice-your-town",
       "target": "post:posts/2026/05/06/the-meeting-that-ended-local.md",
       "type": "mentioned-in"
     },
@@ -4136,6 +4424,18 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach",
+      "target": "post:posts/2026/05/07/the-man-in-the-middle.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach-primary-school",
+      "target": "post:posts/2026/05/07/the-man-in-the-middle.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:ealing",
       "target": "post:posts/2026/05/07/the-man-in-the-middle.md",
       "type": "mentioned-in"
@@ -4155,6 +4455,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:julian-bell",
+      "target": "post:posts/2026/05/07/the-man-in-the-middle.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:labour-party",
       "target": "post:posts/2026/05/07/the-man-in-the-middle.md",
       "type": "mentioned-in"
     },
@@ -4232,6 +4538,18 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach",
+      "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach-primary-school",
+      "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:community-powered-reporting",
       "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
       "type": "mentioned-in"
@@ -4256,6 +4574,18 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:labour-party",
+      "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:liberal-democrats",
+      "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:peter-mason",
       "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
       "type": "mentioned-in"
@@ -4275,6 +4605,18 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall-green",
+      "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:swaran-singh-padda",
+      "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:your-voice-your-town",
       "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
       "type": "mentioned-in"
     },
@@ -4382,6 +4724,24 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:green-party",
+      "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:labour-party",
+      "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:liberal-democrats",
+      "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:peter-mason",
       "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
       "type": "mentioned-in"
@@ -4401,6 +4761,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall-green",
+      "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:swaran-singh-padda",
       "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
       "type": "mentioned-in"
     },
@@ -4568,6 +4934,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach",
+      "target": "post:posts/2026/05/25/feeling-the-heat.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:ealing",
       "target": "post:posts/2026/05/25/feeling-the-heat.md",
       "type": "mentioned-in"
@@ -4599,6 +4971,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall-green",
+      "target": "post:posts/2026/05/25/feeling-the-heat.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:your-voice-your-town",
       "target": "post:posts/2026/05/25/feeling-the-heat.md",
       "type": "mentioned-in"
     },
@@ -4701,6 +5079,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:julian-bell",
+      "target": "post:posts/2026/05/29/individuality.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:labour-party",
       "target": "post:posts/2026/05/29/individuality.md",
       "type": "mentioned-in"
     },
@@ -8249,9 +8633,23 @@
       "type": "entity"
     },
     {
+      "id": "entity:blair-peach-primary-school",
+      "label": "Blair Peach Primary School",
+      "path": "entities/organisations/blair-peach-primary-school.md",
+      "subtype": "organisation",
+      "type": "entity"
+    },
+    {
       "id": "entity:community-powered-reporting",
       "label": "Community Powered Reporting",
       "path": "entities/organisations/community-powered-reporting.md",
+      "subtype": "organisation",
+      "type": "entity"
+    },
+    {
+      "id": "entity:defra",
+      "label": "Defra",
+      "path": "entities/organisations/defra.md",
       "subtype": "organisation",
       "type": "entity"
     },
@@ -8277,9 +8675,30 @@
       "type": "entity"
     },
     {
+      "id": "entity:green-party",
+      "label": "Green Party",
+      "path": "entities/organisations/green-party.md",
+      "subtype": "organisation",
+      "type": "entity"
+    },
+    {
       "id": "entity:henry-construction",
       "label": "Henry Construction",
       "path": "entities/organisations/henry-construction.md",
+      "subtype": "organisation",
+      "type": "entity"
+    },
+    {
+      "id": "entity:labour-party",
+      "label": "Labour Party",
+      "path": "entities/organisations/labour-party.md",
+      "subtype": "organisation",
+      "type": "entity"
+    },
+    {
+      "id": "entity:liberal-democrats",
+      "label": "Liberal Democrats",
+      "path": "entities/organisations/liberal-democrats.md",
       "subtype": "organisation",
       "type": "entity"
     },
@@ -8288,6 +8707,20 @@
       "label": "Public Health England",
       "path": "entities/organisations/public-health-england.md",
       "subtype": "organisation",
+      "type": "entity"
+    },
+    {
+      "id": "entity:your-voice-your-town",
+      "label": "Your Voice, Your Town",
+      "path": "entities/organisations/your-voice-your-town.md",
+      "subtype": "organisation",
+      "type": "entity"
+    },
+    {
+      "id": "entity:blair-peach",
+      "label": "Blair Peach",
+      "path": "entities/people/blair-peach.md",
+      "subtype": "person",
       "type": "entity"
     },
     {
@@ -8308,6 +8741,13 @@
       "id": "entity:peter-mason",
       "label": "Peter Mason",
       "path": "entities/people/peter-mason.md",
+      "subtype": "person",
+      "type": "entity"
+    },
+    {
+      "id": "entity:swaran-singh-padda",
+      "label": "Swaran Singh Padda",
+      "path": "entities/people/swaran-singh-padda.md",
       "subtype": "person",
       "type": "entity"
     },

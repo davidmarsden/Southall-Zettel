@@ -34,6 +34,32 @@
       "posts/2026/05/09/liftoff-ealing-elections-special.md",
       "posts/2026/05/25/feeling-the-heat.md"
     ],
+    "blair-peach": [
+      "posts/2018/09/11/berkeleys-school-governors-board-member.md",
+      "posts/2018/09/12/countering-the-southall-waterside-narrative.md",
+      "posts/2019/06/01/pull-the-other-one-julian.md",
+      "posts/2019/07/21/phe-coverup-continued.md",
+      "posts/2021/07/27/questions-for-cabinet-leads.md",
+      "posts/2022/07/10/weasel-words-on-air-quality.md",
+      "posts/2025/07/11/perceval-house-w-where-local.md",
+      "posts/2026/01/20/the-council-investigation-that-found.md",
+      "posts/2026/04/24/when-deport-six-million-becomes.md",
+      "posts/2026/04/28/this-place-has-turned-into.md",
+      "posts/2026/05/07/the-man-in-the-middle.md",
+      "posts/2026/05/07/who-does-peter-mason-really.md",
+      "posts/2026/05/25/feeling-the-heat.md"
+    ],
+    "blair-peach-primary-school": [
+      "posts/2018/09/11/berkeleys-school-governors-board-member.md",
+      "posts/2018/09/12/countering-the-southall-waterside-narrative.md",
+      "posts/2019/07/21/phe-coverup-continued.md",
+      "posts/2021/07/27/questions-for-cabinet-leads.md",
+      "posts/2022/07/10/weasel-words-on-air-quality.md",
+      "posts/2025/07/11/perceval-house-w-where-local.md",
+      "posts/2026/01/20/the-council-investigation-that-found.md",
+      "posts/2026/05/07/the-man-in-the-middle.md",
+      "posts/2026/05/07/who-does-peter-mason-really.md"
+    ],
     "community-powered-reporting": [
       "posts/2026/03/27/what-happened-to-southall.md",
       "posts/2026/04/30/when-is-a-hustings-not.md",
@@ -46,6 +72,13 @@
     "conal-urquhart": [
       "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
       "posts/2026/04/30/when-is-a-hustings-not.md"
+    ],
+    "defra": [
+      "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "posts/2026/03/01/boomerang-ten-years-sorting-out.md",
+      "posts/2026/04/05/on-the-bins-again.md",
+      "posts/2026/04/30/this-is-our-home-its.md",
+      "posts/2026/05/06/sixtyfour-years-on-your-side.md"
     ],
     "ealing": [
       "posts/2018/07/09/visit-to-southall-waterside-now.md",
@@ -205,6 +238,12 @@
       "posts/2026/05/06/the-meeting-that-ended-local.md",
       "posts/2026/05/07/computer-says-no.md"
     ],
+    "green-party": [
+      "posts/2026/04/24/when-deport-six-million-becomes.md",
+      "posts/2026/04/30/when-is-a-hustings-not.md",
+      "posts/2026/05/06/the-drugs-dont-work.md",
+      "posts/2026/05/09/liftoff-ealing-elections-special.md"
+    ],
     "henry-construction": [
       "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
       "posts/2026/04/30/when-is-a-hustings-not.md"
@@ -225,6 +264,32 @@
       "posts/2026/05/07/computer-says-no.md",
       "posts/2026/05/07/the-man-in-the-middle.md",
       "posts/2026/05/29/individuality.md"
+    ],
+    "labour-party": [
+      "posts/2023/05/01/risks-to-health-from-remediating.md",
+      "posts/2024/05/19/the-cuckoos-nest.md",
+      "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "posts/2026/02/14/section-money-where-did-southalls.md",
+      "posts/2026/02/18/the-broken-manifesto-promises-that.md",
+      "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
+      "posts/2026/04/24/first-they-came-for-the.md",
+      "posts/2026/04/24/when-deport-six-million-becomes.md",
+      "posts/2026/04/28/this-place-has-turned-into.md",
+      "posts/2026/05/03/cactuses-never-die.md",
+      "posts/2026/05/06/the-meeting-that-ended-local.md",
+      "posts/2026/05/07/the-man-in-the-middle.md",
+      "posts/2026/05/07/who-does-peter-mason-really.md",
+      "posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "posts/2026/05/29/individuality.md"
+    ],
+    "liberal-democrats": [
+      "posts/2023/11/20/toryboy.md",
+      "posts/2026/04/24/first-they-came-for-the.md",
+      "posts/2026/04/24/when-deport-six-million-becomes.md",
+      "posts/2026/04/30/when-is-a-hustings-not.md",
+      "posts/2026/05/06/the-drugs-dont-work.md",
+      "posts/2026/05/07/who-does-peter-mason-really.md",
+      "posts/2026/05/09/liftoff-ealing-elections-special.md"
     ],
     "norwood-road": [
       "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
@@ -397,6 +462,21 @@
       "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
       "posts/2026/02/14/section-money-where-did-southalls.md",
       "posts/2026/04/30/when-is-a-hustings-not.md"
+    ],
+    "swaran-singh-padda": [
+      "posts/2026/04/24/first-they-came-for-the.md",
+      "posts/2026/05/06/the-meeting-that-ended-local.md",
+      "posts/2026/05/07/who-does-peter-mason-really.md",
+      "posts/2026/05/09/liftoff-ealing-elections-special.md"
+    ],
+    "your-voice-your-town": [
+      "posts/2024/05/19/the-cuckoos-nest.md",
+      "posts/2025/09/26/ealing-for-sale.md",
+      "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "posts/2026/05/01/back-to-the-future.md",
+      "posts/2026/05/06/the-meeting-that-ended-local.md",
+      "posts/2026/05/07/who-does-peter-mason-really.md",
+      "posts/2026/05/25/feeling-the-heat.md"
     ]
   },
   "posts": {
