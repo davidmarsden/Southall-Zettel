@@ -75,10 +75,10 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if [[ -f generated/link-health-alert.md ]]; then
+          if [[ "$GITHUB_EVENT_NAME" == "schedule" && -f generated/link-health-alert.md ]]; then
             gh issue create --title "Link health: newly degraded Southall Stories sources" --body-file generated/link-health-alert.md
           else
-            echo "No newly degraded links to notify."
+            echo "No scheduled link-health notification needed."
           fi
       - name: Commit generated research layer
         run: |
