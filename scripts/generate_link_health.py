@@ -14,6 +14,7 @@ CACHE_PATH = Path("generated/citation-metadata.json")
 REPORT_PATH = Path("generated/link-health.json")
 INDEX_PATH = Path("indexes/link-health.md")
 ALERT_PATH = Path("generated/link-health-alert.md")
+BASE_URL = "https://southallstories.uk"
 PROBLEM_STATES = {"gone", "unreachable", "suspicious-redirect"}
 STOPWORDS = {
     "www", "http", "https", "html", "htm", "pdf", "download", "downloads", "info",
@@ -39,10 +40,21 @@ def suspicious_redirect(original_url: str, resolved_url: str | None, title: str 
         return False
     if original.hostname != resolved.hostname:
         return False
+    # A simple http→https upgrade (or equivalent scheme-only canonicalisation) is benign.
+    if original.path.rstrip("/") == resolved.path.rstrip("/") and original.query == resolved.query:
+        return False
     original_terms = words(original.path)
     if len(original_terms) < 2:
         return False
     return not bool(original_terms & words(title))
+
+
+def absolute_post_url(value: str) -> str:
+    if not value:
+        return ""
+    if value.startswith("http://") or value.startswith("https://"):
+        return value
+    return BASE_URL + (value if value.startswith("/") else "/" + value)
 
 
 def source_posts(repo: Path) -> tuple[dict[str, list[dict]], dict[str, dict]]:
@@ -66,7 +78,7 @@ def source_posts(repo: Path) -> tuple[dict[str, list[dict]], dict[str, dict]]:
             refs[url].append({
                 "path": rel,
                 "title": post.get("title") or rel,
-                "url": post.get("url") or "",
+                "url": absolute_post_url(post.get("url") or ""),
                 "article_label": re.sub(r"<[^>]+>", "", label).strip(),
             })
     return refs, post_by_path
