@@ -10286,6 +10286,19 @@
       "type": "received_mipim_sponsorship_from"
     },
     {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "sources/ealing-council/progress-with-unity-2022-2026.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:ealing-council",
+      "target": "entity:berkeley-group",
+      "type": "purchased_affordable_homes_from"
+    },
+    {
       "provenance": "reviewed-source-record",
       "source": "post:posts/2026/03/01/boomerang-ten-years-sorting-out.md",
       "target": "source:bbc-london-politics-show",
@@ -10895,6 +10908,30 @@
       "provenance": "reviewed-source-record",
       "source": "source:mipim-written-council-questions-24-april-2018",
       "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2026/01/18/demolition-man-peter-masons-legacy.md",
+      "target": "source:ealing-new-housing-developments",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2026/02/18/the-broken-manifesto-promises-that.md",
+      "target": "source:ealing-new-housing-developments",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-new-housing-developments",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-new-housing-developments",
+      "target": "topic:housing",
       "type": "relates-to"
     },
     {
@@ -14199,6 +14236,14 @@
       "path": "sources/ealing-council/mipim-written-council-questions-24-april-2018.md",
       "publisher": "Ealing Council",
       "source_type": "council_questions",
+      "type": "source-record"
+    },
+    {
+      "id": "source:ealing-new-housing-developments",
+      "label": "New housing developments",
+      "path": "sources/ealing-council/new-housing-developments.md",
+      "publisher": "Ealing Council",
+      "source_type": "programme_page",
       "type": "source-record"
     },
     {

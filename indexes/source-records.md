@@ -122,6 +122,14 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **URL:** https://www.ealing.gov.uk/download/downloads/id/18971/land_and_property_strategy.pdf
 - **Cited by:** 1 post(s)
 
+## New housing developments
+
+- **ID:** `ealing-new-housing-developments`
+- **Publisher:** Ealing Council
+- **Type:** `programme_page`
+- **URL:** https://www.ealing.gov.uk/homepage/330/new_developments
+- **Cited by:** 2 post(s)
+
 ## Progress with Unity 2022–2026
 
 - **ID:** `progress-with-unity-2022-2026`

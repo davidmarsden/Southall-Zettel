@@ -390,6 +390,27 @@
     "title": "Written Council Questions: MIPIM sponsorship, 24 April 2018"
   },
   {
+    "body": "Live Ealing Council housing-development overview. At review in August 2026 it stated that around 12,000 households were waiting for a council home, repeated the council's position that the 2018 pledge of 2,500 genuinely affordable homes had been met, and recorded £99 million of GLA funding awarded in 2018 followed by a further £109.5 million in 2021. Because this is a live programme page, figures should be treated as time-sensitive and rechecked when used.",
+    "canonical_url": "https://www.ealing.gov.uk/homepage/330/new_developments",
+    "cited_by": [
+      "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
+      "posts/2026/02/18/the-broken-manifesto-promises-that.md"
+    ],
+    "id": "ealing-new-housing-developments",
+    "path": "sources/ealing-council/new-housing-developments.md",
+    "publication_date": "2026",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council"
+    ],
+    "related_topics": [
+      "housing"
+    ],
+    "review_status": "reviewed",
+    "source_type": "programme_page",
+    "title": "New housing developments"
+  },
+  {
     "body": "Final PHE risk assessment in the Southall Waterside monitoring series, published by Ealing Council and based on air-quality monitoring data supplied for the development site.",
     "canonical_url": "https://www.ealing.gov.uk/download/downloads/id/14128/public_health_england_-_southall_waterside_interim_health_risk_assessment.pdf",
     "cited_by": [
