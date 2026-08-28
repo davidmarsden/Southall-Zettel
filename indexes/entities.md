@@ -27,6 +27,7 @@ Curated entities with generated mention counts.
 - [Henry Construction](../entities/organisations/henry-construction.md) — 2 posts
 - [High Court](../entities/organisations/high-court.md) — 4 posts
 - [Housing Ombudsman](../entities/organisations/housing-ombudsman.md) — 3 posts
+- [Institute for Government](../entities/organisations/institute-for-government.md) — 2 posts
 - [International Court of Justice](../entities/organisations/international-court-of-justice.md) — 2 posts
 - [Internet Archive](../entities/organisations/internet-archive.md) — 3 posts
 - [Labour Party](../entities/organisations/labour-party.md) — 15 posts
@@ -43,6 +44,8 @@ Curated entities with generated mention counts.
 - [Public Health England](../entities/organisations/public-health-england.md) — 13 posts
 - [Socialist Workers Party](../entities/organisations/socialist-workers-party.md) — 2 posts
 - [Southall Community Alliance](../entities/organisations/southall-community-alliance.md) — 5 posts
+- [Southall Town Team](../entities/organisations/southall-town-team.md) — 2 posts
+- [Stop The Towers](../entities/organisations/stop-the-towers.md) — 2 posts
 - [Your Voice, Your Town](../entities/organisations/your-voice-your-town.md) — 7 posts
 
 ## Person
@@ -76,6 +79,7 @@ Curated entities with generated mention counts.
 - [Shabana Mahmood](../entities/people/shabana-mahmood.md) — 2 posts
 - [Sukhi Floria](../entities/people/sukhi-floria.md) — 2 posts
 - [Swaran Singh Padda](../entities/people/swaran-singh-padda.md) — 4 posts
+- [Tasha Tah](../entities/people/tasha-tah.md) — 2 posts
 - [Tony Pidgley](../entities/people/tony-pidgley.md) — 7 posts
 - [Virendra Sharma](../entities/people/virendra-sharma.md) — 7 posts
 
@@ -109,6 +113,7 @@ Curated entities with generated mention counts.
 - [Southall Broadway](../entities/places/southall-broadway.md) — 8 posts
 - [Southall Gasworks](../entities/places/southall-gasworks.md) — 40 posts
 - [Southall Green](../entities/places/southall-green.md) — 22 posts
+- [Southall Market](../entities/places/southall-market.md) — 3 posts
 - [Southall Market Car Park](../entities/places/southall-market-car-park.md) — 3 posts
 - [Southall Town Hall](../entities/places/southall-town-hall.md) — 5 posts
 - [Southall West](../entities/places/southall-west.md) — 2 posts
