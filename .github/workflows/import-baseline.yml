@@ -43,82 +43,59 @@ jobs:
           tail = bytes.fromhex(''.join((root / f'hex-{i:02d}').read_text() for i in range(7)))
           candidate = bytearray(prefix + tail)
           print('staged candidate', len(candidate), hashlib.sha256(candidate).hexdigest())
-          assert len(candidate) == 236480, len(candidate)
+          assert len(candidate) == 236480
 
-          # Rebuild canonical first 40 KB. Every source part should be exactly
-          # 10,000 hex chars. hex-04 acquired one extra relay character; remove
-          # it only if doing so exactly matches the independent staged byte range.
-          hex_parts = []
+          # Exact canonical bytes 0..39,999. Repair the one-character insertion
+          # in hex-04 only when a single deletion matches the independent staged range.
+          parts = []
           for i in range(8):
               h = compact(show(f'.fresh/hex-{i:02d}'))
-              print(f'hex-{i:02d} compact chars', len(h))
               if i == 4 and len(h) == 10001:
                   ref = bytes(candidate[20000:25000]).hex()
-                  repaired = None
-                  repair_at = None
-                  # Fast path: locate the first shift against the 10,000-char reference.
-                  j = 0
-                  while j < len(ref) and h[j] == ref[j]:
-                      j += 1
-                  for pos in {j, max(0, j-1), min(10000, j+1), 10000}:
+                  fixed = None
+                  for pos in range(len(h)):
                       trial = h[:pos] + h[pos+1:]
                       if trial == ref:
-                          repaired, repair_at = trial, pos
+                          fixed = trial
+                          print('hex-04 repaired insertion at', pos)
                           break
-                  # Exhaustive fallback is still tiny (10k candidates).
-                  if repaired is None:
-                      for pos in range(len(h)):
-                          if h[:pos] + h[pos+1:] == ref:
-                              repaired, repair_at = h[:pos] + h[pos+1:], pos
-                              break
-                  if repaired is None:
-                      raise SystemExit('hex-04 has 10001 chars but no single deletion matches staged reference')
-                  print('hex-04 repaired single inserted char at', repair_at)
-                  h = repaired
+                  if fixed is None:
+                      raise SystemExit('Could not deterministically repair hex-04')
+                  h = fixed
               if len(h) != 10000:
-                  raise SystemExit(f'Unexpected canonical hex-{i:02d} length {len(h)}')
-              hex_parts.append(h)
+                  raise SystemExit(f'Unexpected hex-{i:02d} length {len(h)}')
+              parts.append(h)
+          candidate[:40000] = bytes.fromhex(''.join(parts))
 
-          first = bytes.fromhex(''.join(hex_parts))
-          assert len(first) == 40000
-          candidate[:40000] = first
-
-          # tail-00..10: exact 14,000-hex-char slices at byte 40,000 onward.
+          # Exact canonical bytes 40,000..116,999.
           pos = 40000
           for i in range(11):
               h = compact(show(f'.fresh/tail-{i:02d}'))
-              print(f'tail-{i:02d} compact chars', len(h), 'at byte', pos)
               if len(h) != 14000:
                   raise SystemExit(f'Unexpected tail-{i:02d} length {len(h)}')
-              part = bytes.fromhex(h)
-              candidate[pos:pos+7000] = part
+              candidate[pos:pos+7000] = bytes.fromhex(h)
               pos += 7000
           assert pos == 117000
 
-          # tail-11 is a surviving canonical prefix of the intended 14k hex slice.
-          h11 = compact(show('.fresh/tail-11'))
-          print('tail-11 compact chars', len(h11), 'at byte 117000')
-          if len(h11) % 2:
-              raise SystemExit('tail-11 surviving prefix has odd hex length')
-          part11 = bytes.fromhex(h11)
-          candidate[117000:117000+len(part11)] = part11
+          # tail-11 is malformed in the preserved Git object, so do not use it.
+          # Keep staged candidate bytes 117,000..123,999 untouched.
+          print('Leaving staged bytes 117000:124000 untouched (malformed canonical tail-11)')
 
-          # tail-12..21: exact 14k slices at their original fixed offsets.
+          # Exact canonical bytes 124,000..193,999.
           for i in range(12, 22):
               h = compact(show(f'.fresh/tail-{i:02d}'))
-              print(f'tail-{i:02d} compact chars', len(h))
+              print(f'tail-{i:02d} chars', len(h))
               if len(h) != 14000:
                   raise SystemExit(f'Unexpected tail-{i:02d} length {len(h)}')
-              part = bytes.fromhex(h)
               intended = 124000 + (i - 12) * 7000
-              candidate[intended:intended+7000] = part
+              candidate[intended:intended+7000] = bytes.fromhex(h)
 
           repaired = bytes(candidate)
           h = hashlib.sha256(repaired).hexdigest()
           print('repaired candidate', len(repaired), h)
           if h != target:
-              print('Still-unknown windows: bytes 122000:124000 and 194000:236480')
-              raise SystemExit('Canonical overlay did not yet recover the target SHA-256')
+              print('Unknown/unrepaired windows now only bytes 117000:124000 and 194000:236480')
+              raise SystemExit('Canonical overlay did not yet recover target SHA-256')
 
           Path('/tmp/Southall-Zettel-baseline-full.tar.xz').write_bytes(repaired)
           print('RECOVERED exact original archive')
@@ -141,12 +118,11 @@ jobs:
           from pathlib import Path
           import hashlib, json
           records = json.loads(Path('generated/posts.json').read_text())
-          assert len(records) == 69, len(records)
+          assert len(records) == 69
           for record in records:
               p = Path(record['path'])
               assert p.is_file(), p
-              actual = hashlib.sha256(p.read_bytes()).hexdigest()
-              assert actual == record['sha256'], (p, actual, record['sha256'])
+              assert hashlib.sha256(p.read_bytes()).hexdigest() == record['sha256'], p
           print('Verified 69 post files against generated/posts.json SHA-256 manifest')
           PY
 
