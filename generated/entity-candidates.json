@@ -1,32 +1,5 @@
 [
   {
-    "name": "MP Virendra Sharma",
-    "class_hint": "person_or_body",
-    "score": 22,
-    "post_count": 2,
-    "mention_count": 2,
-    "first_mention": "2021-04-14T10:33:42+0100",
-    "last_mention": "2022-03-19T14:43:00+0100",
-    "variant_forms": [
-      "MP Virendra Sharma"
-    ],
-    "representative_posts": [
-      "posts/2021/04/14/strawberries-for-pigs.md",
-      "posts/2022/03/19/ealing-labour-leaks.md"
-    ],
-    "contexts": [
-      {
-        "post": "posts/2021/04/14/strawberries-for-pigs.md",
-        "snippet": "tells us on Twitter) from the contaminated land back in 2009 when he campaigned against its development along with our MP Virendra Sharma (who said the development would be 'a disaster environmentally'). Yet no one told people living nearby to expect to be"
-      },
-      {
-        "post": "posts/2022/03/19/ealing-labour-leaks.md",
-        "snippet": "etweeting this EalingLabourLeaks thread. To finish off, here's how one of the LabourFamily of councillors describes our MP Virendra Sharma. And just to finish off, back to Cllr Mik Sabiers (Bell's assistant liar in the LTN fiasco), who isn't standing in the"
-      }
-    ],
-    "review_status": "candidate"
-  },
-  {
     "name": "Metropolitan Police",
     "class_hint": "organisation",
     "score": 22,
