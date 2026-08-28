@@ -178,3 +178,78 @@ relationships:
     created_by: human
     review_status: reviewed
     note: The cited reporting explicitly describes Blair Peach Primary School as adjacent to Southall Waterside / the former gasworks site.
+
+  - id: julian-bell-leader-of-ealing-council
+    from: julian-bell
+    to: ealing-council
+    type: leader_of
+    directional: true
+    evidence:
+      - posts/2019/06/01/pull-the-other-one-julian.md
+      - posts/2019/08/25/southall-under-siege-the-neighbours.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: The cited reporting identifies Julian Bell as Ealing Council leader at the time.
+
+  - id: dr-john-freeman-officer-of-ealing-council
+    from: dr-john-freeman
+    to: ealing-council
+    type: officer_of
+    directional: true
+    evidence:
+      - posts/2019/08/25/southall-under-siege-the-neighbours.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: The cited reporting identifies Dr John Freeman as a Regulatory Services Officer at Ealing Council.
+
+  - id: damian-leydon-employed-by-berkeley-group
+    from: damian-leydon
+    to: berkeley-group
+    type: employed_by
+    directional: true
+    evidence:
+      - posts/2019/08/25/southall-under-siege-the-neighbours.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: The cited reporting identifies Berkeley Group as Damian Leydon's employer and describes him as Operations Director at Southall Waterside.
+
+  - id: air-quality-scrutiny-panel-panel-of-ealing-council
+    from: air-quality-scrutiny-panel
+    to: ealing-council
+    type: panel_of
+    directional: true
+    evidence:
+      - posts/2019/08/25/southall-under-siege-the-neighbours.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: The Air Quality Scrutiny Panel is described in the corpus as an Ealing Council scrutiny panel.
+
+  - id: air-quality-scrutiny-panel-scrutinised-southall-gasworks
+    from: air-quality-scrutiny-panel
+    to: southall-gasworks
+    type: scrutinised
+    directional: true
+    evidence:
+      - posts/2019/08/25/southall-under-siege-the-neighbours.md
+      - posts/2018/09/12/countering-the-southall-waterside-narrative.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: The cited reporting records Southall Waterside remediation and odour as evidence considered at the panel's September 2018 meeting.
+
+  - id: damian-leydon-appeared-before-air-quality-scrutiny-panel
+    from: damian-leydon
+    to: air-quality-scrutiny-panel
+    type: appeared_before
+    directional: true
+    evidence:
+      - posts/2019/08/25/southall-under-siege-the-neighbours.md
+      - posts/2018/09/12/countering-the-southall-waterside-narrative.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: The cited reporting records Leydon answering questions at the panel's September 2018 meeting.
