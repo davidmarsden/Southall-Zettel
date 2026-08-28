@@ -1,0 +1,36 @@
+name: Rebuild research layer
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'posts/**'
+      - 'entities/**'
+      - 'topics/**'
+      - 'scripts/build_research.py'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - run: python scripts/build_research.py
+      - name: Commit generated research layer
+        run: |
+          if git diff --quiet -- generated indexes; then
+            echo 'Research layer already up to date.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add generated indexes
+          git commit -m 'Rebuild Southall Zettel research layer'
+          git push
