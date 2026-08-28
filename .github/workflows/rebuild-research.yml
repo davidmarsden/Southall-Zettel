@@ -18,6 +18,7 @@ on:
       - 'scripts/discover_candidates.py'
       - 'scripts/enrich_citation_titles.py'
       - 'scripts/generate_link_health.py'
+      - 'scripts/add_resolved_link_health.py'
       - 'scripts/generate_commons.py'
       - 'scripts/apply_citation_titles.py'
       - 'schemas/commons-v1.schema.json'
@@ -55,8 +56,12 @@ jobs:
         run: python scripts/generate_commons.py
       - name: Apply citation destination titles
         run: python scripts/apply_citation_titles.py
+      - name: Preserve previous link health report
+        run: cp generated/link-health.json /tmp/link-health-previous.json 2>/dev/null || true
       - name: Build link health report
-        run: python scripts/generate_link_health.py
+        run: |
+          python scripts/generate_link_health.py
+          python scripts/add_resolved_link_health.py /tmp/link-health-previous.json
       - name: Validate Commons JSON
         run: |
           python -m json.tool generated/commons.json > /dev/null
