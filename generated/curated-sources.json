@@ -47,6 +47,30 @@
     "title": "Community Chest programme supports Western Road Urban Garden"
   },
   {
+    "body": "Berkeley Homes' formal representation on Ealing's Community Infrastructure Levy. It identifies Berkeley as developer of the Southall Gasworks / Green Quarter site, records the revised masterplan and its capacity for 8,100 homes across the site, and states that financial contributions towards local facilities and services were to be secured through the Section 106 agreement.",
+    "canonical_url": "https://www.ealing.gov.uk/download/downloads/id/20672/written_representation.pdf",
+    "cited_by": [
+      "posts/2026/05/07/who-does-peter-mason-really.md"
+    ],
+    "id": "ealing-cil-representation-12-november-2024",
+    "path": "sources/berkeley-group/ealing-cil-representation-12-november-2024.md",
+    "publication_date": "2024-11-12",
+    "publisher": "Berkeley Homes (Southall) Limited",
+    "related_entities": [
+      "berkeley-group",
+      "ealing-council",
+      "southall-gasworks"
+    ],
+    "related_topics": [
+      "planning-development",
+      "housing",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "consultation_representation",
+    "title": "Berkeley Homes representation on Ealing CIL, 12 November 2024"
+  },
+  {
     "author": "Bob Colenutt",
     "body": "Book by Bob Colenutt used in the corpus to examine the influence of property interests on housing and planning policy.",
     "canonical_url": "https://policy.bristoluniversitypress.co.uk/the-property-lobby",
@@ -182,6 +206,27 @@
     "title": "Ealing Council Air Quality Strategy 2020-30"
   },
   {
+    "body": "Council sponsorship-policy explainer describing post-2021 probity measures, including ending Ealing Council attendance at MIPIM, requiring developer meetings to be entered in members' registers of interests, and strengthening gifts and hospitality disclosure.",
+    "canonical_url": "https://ealing.moderngov.co.uk/documents/s17247/App%20A%20-%20GFE%20Sponsorship%20Explainer.pdf",
+    "cited_by": [
+      "posts/2025/09/26/ealing-for-sale.md"
+    ],
+    "id": "gfe-sponsorship-explainer",
+    "path": "sources/ealing-council/gfe-sponsorship-explainer.md",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "berkeley-group"
+    ],
+    "related_topics": [
+      "planning-development",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "policy_report",
+    "title": "Good for Ealing Sponsorship Explainer"
+  },
+  {
     "body": "Council publication for independent soil monitoring commissioned at the former Southall Gasworks site, retained as a primary monitoring/evidence record.",
     "canonical_url": "https://www.ealing.gov.uk/downloads/download/6461/independent_testing_at_southall_gasworks",
     "cited_by": [
@@ -226,6 +271,55 @@
     "review_status": "reviewed",
     "source_type": "strategy",
     "title": "Land and Property Strategy 2023-2027"
+  },
+  {
+    "body": "Official council minutes recording questions about developer sponsorship of Ealing's MIPIM attendance. The minutes record Peter Mason's acknowledgement that accepting sponsorship to attend MIPIM in 2019 was a mistake and discuss the Ealing in London partnership model through which the council and private sector attended the event.",
+    "canonical_url": "https://ealing.moderngov.co.uk/Data/Council/202104271900/Agenda/Minutes%20of%20meeting.pdf",
+    "cited_by": [
+      "posts/2022/12/17/the-property-lobby-the-hidden.md",
+      "posts/2025/09/26/ealing-for-sale.md",
+      "posts/2026/05/07/who-does-peter-mason-really.md"
+    ],
+    "id": "mipim-council-minutes-27-april-2021",
+    "path": "sources/ealing-council/mipim-council-minutes-27-april-2021.md",
+    "publication_date": "2021-04-27",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "peter-mason",
+      "julian-bell"
+    ],
+    "related_topics": [
+      "planning-development",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "council_minutes",
+    "title": "Council minutes: MIPIM sponsorship, 27 April 2021"
+  },
+  {
+    "body": "Official Ealing Council written questions recording the council's MIPIM attendance and sponsor list. The 2017 delegation included Council Leader Julian Bell and the sponsors included Berkeley Homes among other developers and housing organisations.",
+    "canonical_url": "https://ealing.moderngov.co.uk/Data/Council/201804241930/Agenda/Written%20Council%20Questions%20-%2024%20April%202018.pdf",
+    "cited_by": [
+      "posts/2022/12/17/the-property-lobby-the-hidden.md",
+      "posts/2025/09/26/ealing-for-sale.md"
+    ],
+    "id": "mipim-written-council-questions-24-april-2018",
+    "path": "sources/ealing-council/mipim-written-council-questions-24-april-2018.md",
+    "publication_date": "2018-04-24",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "julian-bell",
+      "berkeley-group"
+    ],
+    "related_topics": [
+      "planning-development",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "council_questions",
+    "title": "Written Council Questions: MIPIM sponsorship, 24 April 2018"
   },
   {
     "body": "Final PHE risk assessment in the Southall Waterside monitoring series, published by Ealing Council and based on air-quality monitoring data supplied for the development site.",
@@ -416,6 +510,32 @@
     "review_status": "reviewed",
     "source_type": "decision_record",
     "title": "Southall Market Car Park decision record (Decision 958)"
+  },
+  {
+    "body": "Ealing Council Cabinet record for Southall Reset. It records the South Road Bridge widening as a Section 106 planning obligation on the Green Quarter / former Southall Gasworks site, later transferred to the council under the GLA Housing Zone agreement, and notes that changes required variation of the associated planning consent and Section 106 agreement.",
+    "canonical_url": "https://ealing.moderngov.co.uk/mgAi.aspx?ID=693",
+    "cited_by": [
+      "posts/2026/05/07/who-does-peter-mason-really.md"
+    ],
+    "id": "southall-reset-cabinet-13-july-2022",
+    "path": "sources/ealing-council/southall-reset-cabinet-13-july-2022.md",
+    "publication_date": "2022-07-13",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "ealing-council",
+      "southall",
+      "southall-gasworks",
+      "berkeley-group",
+      "south-road"
+    ],
+    "related_topics": [
+      "planning-development",
+      "housing",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "cabinet_record",
+    "title": "Southall Reset: Cabinet item, 13 July 2022"
   },
   {
     "body": "Primary Ealing Council page for the Southall Town Team, a council-facilitated civic and regeneration body.",

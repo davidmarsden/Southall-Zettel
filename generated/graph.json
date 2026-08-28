@@ -10323,6 +10323,48 @@
     },
     {
       "provenance": "reviewed-source-record",
+      "source": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "target": "source:ealing-cil-representation-12-november-2024",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-cil-representation-12-november-2024",
+      "target": "entity:berkeley-group",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-cil-representation-12-november-2024",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-cil-representation-12-november-2024",
+      "target": "entity:southall-gasworks",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-cil-representation-12-november-2024",
+      "target": "topic:planning-development",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-cil-representation-12-november-2024",
+      "target": "topic:housing",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-cil-representation-12-november-2024",
+      "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
       "source": "post:posts/2022/12/17/the-property-lobby-the-hidden.md",
       "target": "source:the-property-lobby",
       "type": "cites-source"
@@ -10515,6 +10557,36 @@
     },
     {
       "provenance": "reviewed-source-record",
+      "source": "post:posts/2025/09/26/ealing-for-sale.md",
+      "target": "source:gfe-sponsorship-explainer",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:gfe-sponsorship-explainer",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:gfe-sponsorship-explainer",
+      "target": "entity:berkeley-group",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:gfe-sponsorship-explainer",
+      "target": "topic:planning-development",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:gfe-sponsorship-explainer",
+      "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
       "source": "post:posts/2023/01/26/response-to-ealings-air-quality.md",
       "target": "source:independent-testing-at-southall-gasworks",
       "type": "cites-source"
@@ -10589,6 +10661,96 @@
       "provenance": "reviewed-source-record",
       "source": "source:ealing-land-and-property-strategy-2023-2027",
       "target": "topic:governance",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2022/12/17/the-property-lobby-the-hidden.md",
+      "target": "source:mipim-council-minutes-27-april-2021",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2025/09/26/ealing-for-sale.md",
+      "target": "source:mipim-council-minutes-27-april-2021",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "target": "source:mipim-council-minutes-27-april-2021",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:mipim-council-minutes-27-april-2021",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:mipim-council-minutes-27-april-2021",
+      "target": "entity:peter-mason",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:mipim-council-minutes-27-april-2021",
+      "target": "entity:julian-bell",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:mipim-council-minutes-27-april-2021",
+      "target": "topic:planning-development",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:mipim-council-minutes-27-april-2021",
+      "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2022/12/17/the-property-lobby-the-hidden.md",
+      "target": "source:mipim-written-council-questions-24-april-2018",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2025/09/26/ealing-for-sale.md",
+      "target": "source:mipim-written-council-questions-24-april-2018",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:mipim-written-council-questions-24-april-2018",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:mipim-written-council-questions-24-april-2018",
+      "target": "entity:julian-bell",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:mipim-written-council-questions-24-april-2018",
+      "target": "entity:berkeley-group",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:mipim-written-council-questions-24-april-2018",
+      "target": "topic:planning-development",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:mipim-written-council-questions-24-april-2018",
+      "target": "topic:council-accountability",
       "type": "relates-to"
     },
     {
@@ -10936,6 +11098,60 @@
     {
       "provenance": "reviewed-source-record",
       "source": "source:southall-market-car-park-decision-958",
+      "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "target": "source:southall-reset-cabinet-13-july-2022",
+      "type": "cites-source"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-reset-cabinet-13-july-2022",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-reset-cabinet-13-july-2022",
+      "target": "entity:southall",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-reset-cabinet-13-july-2022",
+      "target": "entity:southall-gasworks",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-reset-cabinet-13-july-2022",
+      "target": "entity:berkeley-group",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-reset-cabinet-13-july-2022",
+      "target": "entity:south-road",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-reset-cabinet-13-july-2022",
+      "target": "topic:planning-development",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-reset-cabinet-13-july-2022",
+      "target": "topic:housing",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-reset-cabinet-13-july-2022",
       "target": "topic:council-accountability",
       "type": "relates-to"
     },
@@ -13644,6 +13860,14 @@
       "type": "source-record"
     },
     {
+      "id": "source:ealing-cil-representation-12-november-2024",
+      "label": "Berkeley Homes representation on Ealing CIL, 12 November 2024",
+      "path": "sources/berkeley-group/ealing-cil-representation-12-november-2024.md",
+      "publisher": "Berkeley Homes (Southall) Limited",
+      "source_type": "consultation_representation",
+      "type": "source-record"
+    },
+    {
       "id": "source:the-property-lobby",
       "label": "The Property Lobby: The Hidden Reality behind the Housing Crisis",
       "path": "sources/books/the-property-lobby.md",
@@ -13692,6 +13916,14 @@
       "type": "source-record"
     },
     {
+      "id": "source:gfe-sponsorship-explainer",
+      "label": "Good for Ealing Sponsorship Explainer",
+      "path": "sources/ealing-council/gfe-sponsorship-explainer.md",
+      "publisher": "Ealing Council",
+      "source_type": "policy_report",
+      "type": "source-record"
+    },
+    {
       "id": "source:independent-testing-at-southall-gasworks",
       "label": "Independent testing at Southall Gasworks",
       "path": "sources/ealing-council/independent-testing-at-southall-gasworks.md",
@@ -13705,6 +13937,22 @@
       "path": "sources/ealing-council/land-and-property-strategy-2023-2027.md",
       "publisher": "Ealing Council",
       "source_type": "strategy",
+      "type": "source-record"
+    },
+    {
+      "id": "source:mipim-council-minutes-27-april-2021",
+      "label": "Council minutes: MIPIM sponsorship, 27 April 2021",
+      "path": "sources/ealing-council/mipim-council-minutes-27-april-2021.md",
+      "publisher": "Ealing Council",
+      "source_type": "council_minutes",
+      "type": "source-record"
+    },
+    {
+      "id": "source:mipim-written-council-questions-24-april-2018",
+      "label": "Written Council Questions: MIPIM sponsorship, 24 April 2018",
+      "path": "sources/ealing-council/mipim-written-council-questions-24-april-2018.md",
+      "publisher": "Ealing Council",
+      "source_type": "council_questions",
       "type": "source-record"
     },
     {
@@ -13769,6 +14017,14 @@
       "path": "sources/ealing-council/southall-market-car-park-decision-958.md",
       "publisher": "Ealing Council",
       "source_type": "decision_record",
+      "type": "source-record"
+    },
+    {
+      "id": "source:southall-reset-cabinet-13-july-2022",
+      "label": "Southall Reset: Cabinet item, 13 July 2022",
+      "path": "sources/ealing-council/southall-reset-cabinet-13-july-2022.md",
+      "publisher": "Ealing Council",
+      "source_type": "cabinet_record",
       "type": "source-record"
     },
     {

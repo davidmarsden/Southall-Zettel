@@ -18,6 +18,14 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **URL:** https://www.berkeleygroup.co.uk/news-and-insights/news-and-features/2024/community-chest-programme-supports-western-road-urban-garden
 - **Cited by:** 1 post(s)
 
+## Berkeley Homes representation on Ealing CIL, 12 November 2024
+
+- **ID:** `ealing-cil-representation-12-november-2024`
+- **Publisher:** Berkeley Homes (Southall) Limited
+- **Type:** `consultation_representation`
+- **URL:** https://www.ealing.gov.uk/download/downloads/id/20672/written_representation.pdf
+- **Cited by:** 1 post(s)
+
 ## Southall Community Alliance charity register entry
 
 - **ID:** `charity-commission-southall-community-alliance-register`
@@ -33,6 +41,14 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **Type:** `performance_report`
 - **URL:** https://ealing.moderngov.co.uk/documents/s1725/Council%20Performance%20Year%20End%202021-22.pdf
 - **Cited by:** 1 post(s)
+
+## Council minutes: MIPIM sponsorship, 27 April 2021
+
+- **ID:** `mipim-council-minutes-27-april-2021`
+- **Publisher:** Ealing Council
+- **Type:** `council_minutes`
+- **URL:** https://ealing.moderngov.co.uk/Data/Council/202104271900/Agenda/Minutes%20of%20meeting.pdf
+- **Cited by:** 3 post(s)
 
 ## Ealing Air Quality Action Plan 2022–2027
 
@@ -56,6 +72,14 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **Publisher:** Ealing Council
 - **Type:** `performance_dashboard`
 - **URL:** https://ealingperformance.inphase.com/Detail/865_17759
+- **Cited by:** 1 post(s)
+
+## Good for Ealing Sponsorship Explainer
+
+- **ID:** `gfe-sponsorship-explainer`
+- **Publisher:** Ealing Council
+- **Type:** `policy_report`
+- **URL:** https://ealing.moderngov.co.uk/documents/s17247/App%20A%20-%20GFE%20Sponsorship%20Explainer.pdf
 - **Cited by:** 1 post(s)
 
 ## Independent testing at Southall Gasworks
@@ -130,6 +154,14 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **URL:** https://ealing.moderngov.co.uk/ieDecisionDetails.aspx?Id=958&LLL=0
 - **Cited by:** 1 post(s)
 
+## Southall Reset: Cabinet item, 13 July 2022
+
+- **ID:** `southall-reset-cabinet-13-july-2022`
+- **Publisher:** Ealing Council
+- **Type:** `cabinet_record`
+- **URL:** https://ealing.moderngov.co.uk/mgAi.aspx?ID=693
+- **Cited by:** 1 post(s)
+
 ## Southall Town Team
 
 - **ID:** `ealing-southall-town-team`
@@ -137,6 +169,14 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **Type:** `civic_programme_page`
 - **URL:** https://dosomethinggood.ealing.gov.uk/your-voice-your-town/southall-town-team/
 - **Cited by:** 1 post(s)
+
+## Written Council Questions: MIPIM sponsorship, 24 April 2018
+
+- **ID:** `mipim-written-council-questions-24-april-2018`
+- **Publisher:** Ealing Council
+- **Type:** `council_questions`
+- **URL:** https://ealing.moderngov.co.uk/Data/Council/201804241930/Agenda/Written%20Council%20Questions%20-%2024%20April%202018.pdf
+- **Cited by:** 2 post(s)
 
 ## Southall Gas Works Health Impact Assessment
 
