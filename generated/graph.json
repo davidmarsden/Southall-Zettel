@@ -1940,6 +1940,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:southall-young-adult-centre",
+      "target": "post:posts/2025/07/11/perceval-house-w-where-local.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:warren-farm",
       "target": "post:posts/2025/07/11/perceval-house-w-where-local.md",
       "type": "mentioned-in"
@@ -2007,6 +2013,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall",
+      "target": "post:posts/2025/07/12/so-it-goes-ai-on.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-young-adult-centre",
       "target": "post:posts/2025/07/12/so-it-goes-ai-on.md",
       "type": "mentioned-in"
     },
@@ -2169,6 +2181,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall-gasworks",
+      "target": "post:posts/2025/09/26/ealing-for-sale.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:tony-blair",
       "target": "post:posts/2025/09/26/ealing-for-sale.md",
       "type": "mentioned-in"
     },
@@ -2967,6 +2985,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:southall-town-team",
+      "target": "post:posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:tony-blair",
       "target": "post:posts/2026/02/13/bangarang-pirate-pete-and-the.md",
       "type": "mentioned-in"
     },
@@ -4298,6 +4322,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:southall-young-adult-centre",
+      "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:sukhi-floria",
       "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
       "type": "mentioned-in"
@@ -4965,6 +4995,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:ealing-council",
+      "target": "post:posts/2026/05/03/cactuses-never-die.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:ealing-council-pension-fund-panel",
       "target": "post:posts/2026/05/03/cactuses-never-die.md",
       "type": "mentioned-in"
     },
@@ -6087,6 +6123,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:ealing-council",
+      "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:ealing-council-pension-fund-panel",
       "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
       "type": "mentioned-in"
     },
@@ -10736,6 +10778,13 @@
       "type": "entity"
     },
     {
+      "id": "entity:ealing-council-pension-fund-panel",
+      "label": "Ealing Council Pension Fund Panel",
+      "path": "entities/organisations/ealing-council-pension-fund-panel.md",
+      "subtype": "organisation",
+      "type": "entity"
+    },
+    {
       "id": "entity:ealing-council",
       "label": "Ealing Council",
       "path": "entities/organisations/ealing-council.md",
@@ -11184,6 +11233,13 @@
       "type": "entity"
     },
     {
+      "id": "entity:tony-blair",
+      "label": "Tony Blair",
+      "path": "entities/people/tony-blair.md",
+      "subtype": "person",
+      "type": "entity"
+    },
+    {
       "id": "entity:tony-pidgley",
       "label": "Tony Pidgley",
       "path": "entities/people/tony-pidgley.md",
@@ -11411,6 +11467,13 @@
       "id": "entity:southall-west",
       "label": "Southall West",
       "path": "entities/places/southall-west.md",
+      "subtype": "place",
+      "type": "entity"
+    },
+    {
+      "id": "entity:southall-young-adult-centre",
+      "label": "Southall Young Adult Centre",
+      "path": "entities/places/southall-young-adult-centre.md",
       "subtype": "place",
       "type": "entity"
     },

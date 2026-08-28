@@ -2036,6 +2036,26 @@
       "title": "Individuality"
     }
   ],
+  "ealing-council-pension-fund-panel": [
+    {
+      "date": "2026-05-03T23:52:46+0100",
+      "matched_aliases": [
+        "Pension Fund Panel",
+        "The Pension Fund Panel"
+      ],
+      "path": "posts/2026/05/03/cactuses-never-die.md",
+      "title": "Cactuses Never Die"
+    },
+    {
+      "date": "2026-05-07T17:09:21+0100",
+      "matched_aliases": [
+        "Pension Fund Panel",
+        "The Pension Fund Panel"
+      ],
+      "path": "posts/2026/05/07/who-does-peter-mason-really.md",
+      "title": "Who Does Peter Mason Really Represent?"
+    }
+  ],
   "ealing-friends-of-palestine": [
     {
       "date": "2026-04-24T22:48:40+0100",
@@ -3166,7 +3186,8 @@
       "date": "2026-01-12T19:00:00+0100",
       "matched_aliases": [
         "Johnson Street",
-        "Johnson Street, Southall"
+        "Johnson Street, Southall",
+        "The Johnson Street"
       ],
       "path": "posts/2026/01/12/a-fire-we-were-warned.md",
       "title": "A Fire We Were Warned About"
@@ -3174,7 +3195,8 @@
     {
       "date": "2026-01-20T16:01:05+0100",
       "matched_aliases": [
-        "Johnson Street"
+        "Johnson Street",
+        "The Johnson Street"
       ],
       "path": "posts/2026/01/20/the-council-investigation-that-found.md",
       "title": "The Council Investigation That Found Nothing "
@@ -3182,7 +3204,8 @@
     {
       "date": "2026-01-26T00:44:37+0100",
       "matched_aliases": [
-        "Johnson Street"
+        "Johnson Street",
+        "The Johnson Street"
       ],
       "path": "posts/2026/01/25/the-ea-files-what-regulators.md",
       "title": "The EA Files: What Regulators Knew About Fire Risks at Southall Recycling Site"
@@ -5992,6 +6015,37 @@
       "title": "Lift-Off! Ealing Elections Special "
     }
   ],
+  "southall-young-adult-centre": [
+    {
+      "date": "2025-07-11T13:50:30+0100",
+      "matched_aliases": [
+        "Southall Young Adult Centre",
+        "The Southall Young Adult Centre",
+        "Young Adult Centre"
+      ],
+      "path": "posts/2025/07/11/perceval-house-w-where-local.md",
+      "title": "Perceval House W5: Where Local Democracy in Ealing Goes to Die"
+    },
+    {
+      "date": "2025-07-12T17:17:01+0100",
+      "matched_aliases": [
+        "Young Adult Centre"
+      ],
+      "path": "posts/2025/07/12/so-it-goes-ai-on.md",
+      "title": "So it Goes: AI on the Absurd Logic of Ealing Council"
+    },
+    {
+      "date": "2026-04-28T13:21:52+0100",
+      "matched_aliases": [
+        "Southall Young Adult Centre",
+        "The Southall Young Adult Centre",
+        "Young Adult Centre",
+        "YAC"
+      ],
+      "path": "posts/2026/04/28/this-place-has-turned-into.md",
+      "title": "\"This Place Has Turned Into a Bloody Slum\": Southall Wards Meeting with ECI candidates"
+    }
+  ],
   "stop-the-towers": [
     {
       "date": "2022-12-17T02:30:00+0100",
@@ -6162,6 +6216,24 @@
       ],
       "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
       "title": "Lift-Off! Ealing Elections Special "
+    }
+  ],
+  "tony-blair": [
+    {
+      "date": "2025-09-26T11:16:20+0100",
+      "matched_aliases": [
+        "Tony Blair"
+      ],
+      "path": "posts/2025/09/26/ealing-for-sale.md",
+      "title": "Ealing For Sale"
+    },
+    {
+      "date": "2026-02-13T14:46:03+0100",
+      "matched_aliases": [
+        "Tony Blair"
+      ],
+      "path": "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "title": "Bangarang! Pirate Pete and the Lost Bin Collections of Southall"
     }
   ],
   "tony-pidgley": [
@@ -6449,7 +6521,8 @@
       "date": "2026-05-01T20:19:06+0100",
       "matched_aliases": [
         "Your Voice",
-        "Your Town"
+        "Your Town",
+        "Your Voice Your Town"
       ],
       "path": "posts/2026/05/01/back-to-the-future.md",
       "title": "Back to the Future"
@@ -6459,7 +6532,8 @@
       "matched_aliases": [
         "Your Voice, Your Town",
         "Your Voice",
-        "Your Town"
+        "Your Town",
+        "Your Voice Your Town"
       ],
       "path": "posts/2026/05/06/the-meeting-that-ended-local.md",
       "title": "The Meeting that Ended Local Democracy in Southall"
