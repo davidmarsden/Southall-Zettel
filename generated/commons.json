@@ -1,6 +1,4685 @@
 {
   "canonical_corpus": "https://southallstories.uk",
+  "citations": [
+    {
+      "domain": "davidmarsden.info",
+      "label": "Southall Gasworks",
+      "post": "post:5543309",
+      "provenance": "source-post-link",
+      "url": "https://davidmarsden.info/2024/10/29/the-southall-gasworks.html"
+    },
+    {
+      "domain": "nature.com",
+      "label": "studies show",
+      "post": "post:5543309",
+      "provenance": "source-post-link",
+      "url": "https://www.nature.com/articles/s41598-024-67210-7"
+    },
+    {
+      "domain": "drive.google.com",
+      "label": "'Improving access for HGVs'",
+      "post": "post:5543312",
+      "provenance": "source-post-link",
+      "url": "https://drive.google.com/file/d/18k_2hRx7EC4ov1mVrzH0GzV3v-6hUH4W/view?usp=sharing"
+    },
+    {
+      "domain": "davidmarsden.info",
+      "label": "Southall Under Siege",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://davidmarsden.info/2019/08/25/southall-under-siege.html"
+    },
+    {
+      "domain": "davidmarsden.info",
+      "label": "The Property Lobby",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://davidmarsden.info/2022/12/16/the-property-lobby.html"
+    },
+    {
+      "domain": "davidmarsden.info",
+      "label": "Air Quality Strategy Response",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://davidmarsden.info/2023/01/16/air-quality-strategy.html"
+    },
+    {
+      "domain": "davidmarsden.info",
+      "label": "Action you can take",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://davidmarsden.info/2025/03/09/save-ealings-childrens-centres.html"
+    },
+    {
+      "domain": "davidmarsden.info",
+      "label": "Think of the children",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://davidmarsden.info/2025/03/12/ealing-council-are-consulting-on.html"
+    },
+    {
+      "domain": "davidmarsden.info",
+      "label": "https://davidmarsden.info/2025/07/11/perceval-house-w-where-local.html",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://davidmarsden.info/2025/07/11/perceval-house-w-where-local.html"
+    },
+    {
+      "domain": "drive.google.com",
+      "label": "Monopoly",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://drive.google.com/file/d/1W2HRPD00OiidxP9iAlLPDFHPVwZcEfeM/view?usp=drivesdk"
+    },
+    {
+      "domain": "drive.google.com",
+      "label": "reporting asthma and headaches",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://drive.google.com/file/d/1hB66yX40-q-YYi6EKOTvE20DTx422_g3/view?usp=drivesdk"
+    },
+    {
+      "domain": "drive.google.com",
+      "label": "leaked WhatsApp messages",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://drive.google.com/file/d/1hZfSB-RR7OzeCIHclKdiJd_FTnUtT7KA/view?usp=drivesdk"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "papers",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/documents/g6611/Public%20reports%20pack%20Tuesday%2015-Jul-2025%2019.00%20Council.pdf?T=10"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "Southall Reset",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/documents/s1726/Southall%20Reset.pdf"
+    },
+    {
+      "domain": "ealing.netlify.app",
+      "label": "democracy in Ealing",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://ealing.netlify.app/interactive.html"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "pay rise",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://ealing.news/ealing-council/ealing-council-leader-peter-mason-massive-allowance-rise-by-over-70-along-with-increases-for-his-cabinet/"
+    },
+    {
+      "domain": "lgpsdivest.org",
+      "label": "investing £112 million",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://lgpsdivest.org/lgps-investments/"
+    },
+    {
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "label": "fatal to some people with African and Asian heritage",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3850774/"
+    },
+    {
+      "domain": "saveealingchildrenscentres.wordpress.com",
+      "label": "Save Ealing Children's Centres (official campaign website)",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://saveealingchildrenscentres.wordpress.com/"
+    },
+    {
+      "domain": "sketchplanations.com",
+      "label": "Sketchplanations",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://sketchplanations.com/mobius-strip"
+    },
+    {
+      "domain": "stopthetowers.info",
+      "label": "booze 'n' hookerfest",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://stopthetowers.info/the-mipim-jolly"
+    },
+    {
+      "domain": "bbc.co.uk",
+      "label": "closing children's centres",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://www.bbc.co.uk/news/articles/c8xv1ylplzzo"
+    },
+    {
+      "domain": "bbc.co.uk",
+      "label": "bad idea",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://www.bbc.co.uk/news/articles/cpvj1jr0kz0o"
+    },
+    {
+      "domain": "change.org",
+      "label": "kids can be locked in class without ventilation on hot days",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://www.change.org/p/cleanair-for-southall-and-hayes-stop-berkeleygroupuk-s-southallwaterside-polluting-our-kids-southalllivesmatter/u/23019750"
+    },
+    {
+      "domain": "crowdjustice.com",
+      "label": "legal challenge",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://www.crowdjustice.com/case/save-ealings-childrens-centres/"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "immediate action",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/18312/to_thames_water_-_sewage_entering_into_the_river_brent.pdf"
+    },
+    {
+      "domain": "ealingtoday.co.uk",
+      "label": "higher calibre",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://www.ealingtoday.co.uk/default.asp?section=community&spage=common/eacouncil220.htm"
+    },
+    {
+      "domain": "london.gov.uk",
+      "label": "paid director",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://www.london.gov.uk/sites/default/files/opdc_2020.21_audited_annual_report_and_accounts.pdf"
+    },
+    {
+      "domain": "mylondon.news",
+      "label": "Savings",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://www.mylondon.news/news/west-london-news/3-ealing-childrens-centres-saved-31844687"
+    },
+    {
+      "domain": "mylondon.news",
+      "label": "mini-Manhattan",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://www.mylondon.news/news/west-london-news/fresh-pictures-reveal-what-london-22320564"
+    },
+    {
+      "domain": "unicef.org",
+      "label": "More than 50,000 children killed or injured",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://www.unicef.org/press-releases/unimaginable-horrors-more-50000-children-reportedly-killed-or-injured-gaza-strip"
+    },
+    {
+      "domain": "unwomen.org",
+      "label": "more than 28,000 women and girls",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://www.unwomen.org/en/news-stories/news/2025/05/un-women-estimates-over-28000-women-and-girls-killed-in-gaza-since-october-2023"
+    },
+    {
+      "domain": "visitsouthall.co.uk",
+      "label": "won",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://www.visitsouthall.co.uk/News/NewsDetails.php?recordID=1235"
+    },
+    {
+      "domain": "x.com",
+      "label": "paid for our ex-MP's research assistant",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://x.com/DvdMrsdn/status/1630863285892333569"
+    },
+    {
+      "domain": "x.com",
+      "label": "simultaneously",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://x.com/DvdMrsdn/status/1926034207492407709"
+    },
+    {
+      "domain": "youtu.be",
+      "label": "above legal limits",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://youtu.be/CGGyCDAHRt4?si=OtAGYXGA2CQ1y3q5&utm_source=MTQxZ"
+    },
+    {
+      "domain": "youtu.be",
+      "label": "Peter, why didn't you help us?",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://youtu.be/w-p6qy2RfR8"
+    },
+    {
+      "domain": "youtu.be",
+      "label": "pdf) and public concern. Tier 2 Public Complaint: Someone's \"bag and/or small child\" taking up a tube seat merits a public tweet about \"Some people.\" Tier 3 Busy Schedule: [Children gasping from toxic air",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://youtu.be/xA4mI_OAzxs"
+    },
+    {
+      "domain": "youtube.com",
+      "label": "I'm very busy.",
+      "post": "post:5543316",
+      "provenance": "source-post-link",
+      "url": "https://youtube.com/clip/UgkxCUBKF53mk-J0KrZ4bxXaoAxc9iVEQhN-"
+    },
+    {
+      "domain": "southall.davidmarsden.info",
+      "label": "audio summary",
+      "post": "post:5543509",
+      "provenance": "source-post-link",
+      "url": "https://southall.davidmarsden.info/2025/07/12/so-it-goes-ai-on/"
+    },
+    {
+      "domain": "crowdjustice.com",
+      "label": "over £5,000",
+      "post": "post:5543509",
+      "provenance": "source-post-link",
+      "url": "https://www.crowdjustice.com/case/save-ealings-childrens-centres/"
+    },
+    {
+      "domain": "southall.davidmarsden.info",
+      "label": "read",
+      "post": "post:5543511",
+      "provenance": "source-post-link",
+      "url": "https://southall.davidmarsden.info/2025/07/11/perceval-house-w-where-local/"
+    },
+    {
+      "domain": "crowdjustice.com",
+      "label": "legal challenge",
+      "post": "post:5543511",
+      "provenance": "source-post-link",
+      "url": "https://www.crowdjustice.com/case/save-ealings-childrens-centres/"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "Southall Odours web page, email and hotline",
+      "post": "post:5543512",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201283/our_neighbourhoods/2613/southall_gasworks/6"
+    },
+    {
+      "domain": "crowdjustice.com",
+      "label": "https://www.crowdjustice.com/case/cleanairforsouthallandhayes/",
+      "post": "post:5543514",
+      "provenance": "source-post-link",
+      "url": "https://www.crowdjustice.com/case/cleanairforsouthallandhayes/"
+    },
+    {
+      "domain": "ealing.netlify.app",
+      "label": "flawed algorithm",
+      "post": "post:5543518",
+      "provenance": "source-post-link",
+      "url": "https://ealing.netlify.app/interactive.html"
+    },
+    {
+      "domain": "southall.davidmarsden.info",
+      "label": "Perceval House W5",
+      "post": "post:5543518",
+      "provenance": "source-post-link",
+      "url": "https://southall.davidmarsden.info/2025/07/11/perceval-house-w-where-local/"
+    },
+    {
+      "domain": "crowdjustice.com",
+      "label": "legal challenge",
+      "post": "post:5543518",
+      "provenance": "source-post-link",
+      "url": "https://www.crowdjustice.com/case/save-ealings-childrens-centres/"
+    },
+    {
+      "domain": "royalalberthall.com",
+      "label": "Ealing Together: Harmony in Diversity",
+      "post": "post:5543518",
+      "provenance": "source-post-link",
+      "url": "https://www.royalalberthall.com/tickets/events/2025/ealing-together-harmony-in-diversity"
+    },
+    {
+      "domain": "micro.blog",
+      "label": "The Property Lobby: The Hidden Reality behind the Housing Crisis",
+      "post": "post:5543519",
+      "provenance": "source-post-link",
+      "url": "https://micro.blog/books/9781447348160"
+    },
+    {
+      "domain": "stopthetowers.info",
+      "label": "Stop The Towers",
+      "post": "post:5543519",
+      "provenance": "source-post-link",
+      "url": "https://stopthetowers.info/other-campaigns"
+    },
+    {
+      "domain": "toryboythemovie.com",
+      "label": "ToryBoy The Movie",
+      "post": "post:5543522",
+      "provenance": "source-post-link",
+      "url": "https://www.toryboythemovie.com/"
+    },
+    {
+      "domain": "ealing.nub.news",
+      "label": "cuckoo in the nest",
+      "post": "post:5543696",
+      "provenance": "source-post-link",
+      "url": "https://ealing.nub.news/news/local-news/former-ealing-council-housing-leader-admits-he-39made-a-mistake39-accepting-3000-from-developer-for-cannes-property-conference"
+    },
+    {
+      "domain": "sadealing.blogspot.com",
+      "label": "\"I own half of Southall\"",
+      "post": "post:5543696",
+      "provenance": "source-post-link",
+      "url": "https://sadealing.blogspot.com/2010_10_03_archive.html?m=1"
+    },
+    {
+      "domain": "skwawkbox.org",
+      "label": "here",
+      "post": "post:5543696",
+      "provenance": "source-post-link",
+      "url": "https://skwawkbox.org/2022/02/14/party-imposed-london-council-candidate-used-holocaust-language-against-gypsy-roma-travellers/"
+    },
+    {
+      "domain": "twitter.com",
+      "label": "park in a cycle lane",
+      "post": "post:5543696",
+      "provenance": "source-post-link",
+      "url": "https://twitter.com/DvdMrsdn/status/1587711673942646785?t=U0luZmPHCxRb9wGAC5Ffkw&s=19"
+    },
+    {
+      "domain": "web.archive.org",
+      "label": "resident",
+      "post": "post:5543696",
+      "provenance": "source-post-link",
+      "url": "https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "surveys",
+      "post": "post:5543696",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/downloads/download/6838/southall_shaping_ealing_summary"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "plans",
+      "post": "post:5543696",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/downloads/download/6999/southall_reset_%E2%80%93_spatial_planning_framework"
+    },
+    {
+      "domain": "visitsouthall.co.uk",
+      "label": "failed",
+      "post": "post:5543696",
+      "provenance": "source-post-link",
+      "url": "https://www.visitsouthall.co.uk/News/NewsDetails.php?recordID=1006"
+    },
+    {
+      "domain": "davidmarsden.info",
+      "label": "playing monopoly",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://davidmarsden.info/tweets/?q=like+they+were+playing+Monopoly"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FO33bdwXsAki79N.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FO33bnYXEAAGo4J.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FO33bwhXEAAT_LM.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FO36R4uXsAUvvNu.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FO36R_6XoAksis8.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FO36Ro7XMAY36cC.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FO38G7FXEAMWzk-.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FO38GChXwAM5N9t.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FO38HImX0AcEKA_.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FO4GO0DWUAc6Nix.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FO4GPBuXwAQfa1v.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FO4GPKSXMAU6_23.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FO4GPbSXMAABj1j.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FO4GPlsXwAwUhaB.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FO4GPyxWYAMrv37.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FO4GQRDXwAgAMsq.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FO4GQZ8XIA0M0Jz.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FO4GQkBX0AkPmPh.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOsKeYcWYCg7OVu.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOsKehtWYAkENN0.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOsKeo5WYAc7YxY.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOsKexDXIAAN7Ir.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOt357jXMAAaS5B.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOt35vCXMAkNTmP.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOt36FhWQAYdYPY.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOtKUVEWYAIr5Ur.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOtKUf_XIBoDMPC.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOtKUpKXIBEX656.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOtKUzmXoAACUFk.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOtLbqKXMAQArC2.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOw_R-gXEAAknMa.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOw_R1-XEAEs4lV.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOw_RtgWYAAJp1j.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOw_SGlXMAQgm6V.jpg"
+    },
+    {
+      "domain": "web.archive.org",
+      "label": "web.archive.org/web/20220...",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://web.archive.org/web/20220328221833/https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "[web.archive.org/web/20220...](https://web.archive.org/web/20220328221833/https://www.ealing.gov.uk/download/downloads/id/3349/ed102-ealinginlondon2edition2spring2011.pdf)",
+      "post": "post:5550924",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf"
+    },
+    {
+      "domain": "neighbournet.com",
+      "label": "neighbournet.com/server/common/…",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "http://neighbournet.com/server/common/ldrseacouncil014.htm?site=2"
+    },
+    {
+      "domain": "lead-day-50b.notion.site",
+      "label": "lead-day-50b.notion.site/Peter-Mason-s-…",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://lead-day-50b.notion.site/Peter-Mason-s-Racism-7018398a9fe54c538fcd8b7aad929d4a"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOOpW3dXMAIruVn.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOOpWDkXEAM30SU.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOOpWSlXoAcUx4h.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOOpWlZXwAo-50E.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOOpXADXwAEhMfh.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOOpXHWXIAEEfAb.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOOpXVdXoAUCn3S.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOOpXe9XsAYLSTo.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOSoBHgXoAEy9Dl.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOSoBT7XMAQtuNu.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOSoBc6XsAMEHKU.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOSpmjiXsAEnM1f.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOSzFjrXMAEwDBm.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOSzFxLXoAIAHFE.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOW2qjKXsAsrYCR.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOW3n9xXsAMHFLg.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOW566pXMAMjHTs.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOW5LokXIAAM4yL.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOW8Z7NXwAMcwuz.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FOW8ZtGWUAA4CbK.jpg"
+    },
+    {
+      "domain": "twitter.com",
+      "label": "[twitter.com/DvdMrsdn/...](https://twitter.com/DvdMrsdn/status/1492790324397285377?t=5dRlJfgGgfWfuBNplJLxg&s=19)",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://twitter.com/DvdMrsdn/status/1492790324397285377"
+    },
+    {
+      "domain": "twitter.com",
+      "label": "twitter.com/DvdMrsdn/...",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://twitter.com/DvdMrsdn/status/1492790324397285377?t=5dRlJfgGgf_WfuBNplJLxg&s=19"
+    },
+    {
+      "domain": "twitter.com",
+      "label": "@EalingIndys",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://twitter.com/EalingIndys"
+    },
+    {
+      "domain": "twitter.com",
+      "label": "@threadreaderapp",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://twitter.com/threadreaderapp"
+    },
+    {
+      "domain": "dailymail.co.uk",
+      "label": "dailymail.co.uk/news/article-8…",
+      "post": "post:5550930",
+      "provenance": "source-post-link",
+      "url": "https://www.dailymail.co.uk/news/article-8780309/Labour-council-leader-admits-plan-advantage-Covid.html"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550940",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/EFsxjnqWoAE7FUL.png"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550940",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/EFsyG8wXUAAKAgf.png"
+    },
+    {
+      "domain": "onlinelibrary.wiley.com",
+      "label": "onlinelibrary.wiley.com/doi/epdf/10.11…",
+      "post": "post:5550941",
+      "provenance": "source-post-link",
+      "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1553-2712.2000.tb01889.x"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550941",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/D_0ZybaXYAAQzTx.png"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550941",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/D_Q4tO2U4AEE7lw.jpg"
+    },
+    {
+      "domain": "youtube.com",
+      "label": "youtube.com/embed/ZdTj-l3S…",
+      "post": "post:5550941",
+      "provenance": "source-post-link",
+      "url": "https://www.youtube.com/embed/ZdTj-l3SltM?start=3490"
+    },
+    {
+      "domain": "aresok.org",
+      "label": "aresok.org/npg/nioshdbs/c…",
+      "post": "post:5550942",
+      "provenance": "source-post-link",
+      "url": "http://www.aresok.org/npg/nioshdbs/calc.htm"
+    },
+    {
+      "domain": "hse.gov.uk",
+      "label": "hse.gov.uk/pubns/indg329.…",
+      "post": "post:5550942",
+      "provenance": "source-post-link",
+      "url": "http://www.hse.gov.uk/pubns/indg329.pdf"
+    },
+    {
+      "domain": "assets.publishing.service.gov.uk",
+      "label": "assets.publishing.service.gov.uk/government/upl…",
+      "post": "post:5550942",
+      "provenance": "source-post-link",
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf"
+    },
+    {
+      "domain": "assets.publishing.service.gov.uk",
+      "label": "assets.publishing.service.gov.uk/government/upl…",
+      "post": "post:5550942",
+      "provenance": "source-post-link",
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/522459/Benzene_IM_PHE_050516.pdf"
+    },
+    {
+      "domain": "assets.publishing.service.gov.uk",
+      "label": "assets.publishing.service.gov.uk/government/upl…",
+      "post": "post:5550942",
+      "provenance": "source-post-link",
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/561046/benzene_general_information.pdf"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550942",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/DjtHmzeU4AA0PP4.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550942",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/DjtKfapXoAIHKJs.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550942",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/DjtM52UVAAA_JGQ.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550942",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/DjtMuumUYAA8su5.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550942",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/DjtSS9UW4AEyprG.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550942",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/DjtShhNX0AAl0VL.jpg"
+    },
+    {
+      "domain": "twitter.com",
+      "label": "[x.com/EalingCou...](https://x.com/EalingCouncil/status/1072457795621060611?s=20)",
+      "post": "post:5550942",
+      "provenance": "source-post-link",
+      "url": "https://twitter.com/EalingCouncil/status/1072457795621060611"
+    },
+    {
+      "domain": "convertunits.com",
+      "label": "convertunits.com/molarmass/Benz…",
+      "post": "post:5550942",
+      "provenance": "source-post-link",
+      "url": "https://www.convertunits.com/molarmass/Benzene"
+    },
+    {
+      "domain": "nhs.uk",
+      "label": "nhs.uk/conditions/poi…",
+      "post": "post:5550942",
+      "provenance": "source-post-link",
+      "url": "https://www.nhs.uk/conditions/poisoning/symptoms/"
+    },
+    {
+      "domain": "x.com",
+      "label": "x.com/EalingCou...",
+      "post": "post:5550942",
+      "provenance": "source-post-link",
+      "url": "https://x.com/EalingCouncil/status/1072457795621060611?s=20"
+    },
+    {
+      "domain": "nj.gov",
+      "label": "nj.gov/health/eoh/rtk…",
+      "post": "post:5550943",
+      "provenance": "source-post-link",
+      "url": "https://nj.gov/health/eoh/rtkweb/documents/fs/0170.pdf"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550943",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/DhsWRRFV4AIAvce.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550943",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/Dioox-tXsAAuubj.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550943",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/Dioox-xXkAAwPbm.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550943",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/Dioox-zX4AEYtx_.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550943",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/Dioox_AWAAExExD.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550943",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/DiopxVFXsAIA3mM.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5550943",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/DiopxVNXUAA0tz6.jpg"
+    },
+    {
+      "domain": "twitter.com",
+      "label": "[x.com/juliangbe...](https://x.com/juliangbell/status/1010621649111183360)",
+      "post": "post:5550943",
+      "provenance": "source-post-link",
+      "url": "https://twitter.com/juliangbell/status/1010621649111183360"
+    },
+    {
+      "domain": "getwestlondon.co.uk",
+      "label": "getwestlondon.co.uk/news/west-lond…",
+      "post": "post:5550943",
+      "provenance": "source-post-link",
+      "url": "https://www.getwestlondon.co.uk/news/west-london-news/ealing-hillingdon-southall-fm-conway-14255951"
+    },
+    {
+      "domain": "x.com",
+      "label": "x.com/juliangbe...",
+      "post": "post:5550943",
+      "provenance": "source-post-link",
+      "url": "https://x.com/juliangbell/status/1010621649111183360"
+    },
+    {
+      "domain": "davidmarsden.info",
+      "label": "Weasel words",
+      "post": "post:5551021",
+      "provenance": "source-post-link",
+      "url": "https://davidmarsden.info/tweets/?q=Weasel+words+from+Ealing"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "aroundealing.com/news/240000-in…",
+      "post": "post:5551021",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/news/240000-investment-in-air-quality-monitoring-devices-in-local-schools/"
+    },
+    {
+      "domain": "x.com",
+      "label": "deleted",
+      "post": "post:5551021",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/1472858702227165188"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5551022",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/E7YpkjRXsAMkcy9.jpg"
+    },
+    {
+      "domain": "ealing.cmis.uk.com",
+      "label": "ealing.cmis.uk.com/ealing/Documen…",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://ealing.cmis.uk.com/ealing/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=WQhOaubzPPxk1yVzZleRxFZb7u/GmxWvbCWE1o9prqXCN7mbG5lCZg%3D%3D&rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ/LUQzgA2uL5jNRG4jdQ%3D%3D&mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&kCx1AnS9/pWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D&FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D"
+    },
+    {
+      "domain": "ealing.cmis.uk.com",
+      "label": "ealing.cmis.uk.com/ealing/Meeting…",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://ealing.cmis.uk.com/ealing/Meetings/tabid/70/ctl/ViewMeetingPublic/mid/397/Meeting/6876/Committee/3/Default.aspx"
+    },
+    {
+      "domain": "ealingperformance.inphase.com",
+      "label": "ealingperformance.inphase.com/Detail/865\\177…",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://ealingperformance.inphase.com/Detail/865_17759?s=09"
+    },
+    {
+      "domain": "ealingperformance.inphase.com",
+      "label": "ealingperformance.inphase.com/Plan/853#865",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://ealingperformance.inphase.com/Plan/853#865"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "![",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/E0d69uiXoAME0s3.png"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "![",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/E0jlS4TWYAY-DP0.png"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "![",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/E0jlTDPX0AAT1bf.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "![",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/E0jlTKRXsAAIvYn.png"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "![",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/E0jlTPpXEAIQBf4.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "![",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/E4cCcdNXoAcKfId.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "![",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/E6xDgyoX0AMXrsu.png"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "![",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/E6xDgyuX0AgP_WT.png"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "![",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FJjA_X-XwAQBNg6.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "![",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FJjA_k_XwAgledb.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "![",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FR3jj6DWUAcBxwR.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "![",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FR3jmgwX0AEupfx.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "![",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/FR3jpb3XoAAiBbv.jpg"
+    },
+    {
+      "domain": "threadreaderapp.com",
+      "label": "original",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://threadreaderapp.com/thread/1389215486244708353.html"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "aroundealing.com/homes/ealing-c…",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/homes/ealing-council-set-to-hit-genuinely-affordable-homes-building-target/"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "ealing.gov.uk/news/article/1…",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018"
+    },
+    {
+      "domain": "x.com",
+      "label": "x.com/\\petermason/st…",
+      "post": "post:5551023",
+      "provenance": "source-post-link",
+      "url": "https://x.com/_petermason/status/1262814422185189376"
+    },
+    {
+      "domain": "t2m.io",
+      "label": "t2m.io/z6shGyFn",
+      "post": "post:5551024",
+      "provenance": "source-post-link",
+      "url": "https://t2m.io/z6shGyFn"
+    },
+    {
+      "domain": "archive.ph",
+      "label": "Pidgley 'breaks the rules' every day",
+      "post": "post:5551106",
+      "provenance": "source-post-link",
+      "url": "https://archive.ph/JZAll"
+    },
+    {
+      "domain": "skwawkbox.org",
+      "label": "Two Homes",
+      "post": "post:5551106",
+      "provenance": "source-post-link",
+      "url": "https://skwawkbox.org/2018/05/26/ealing-council-leader-under-pressure-as-councillors-revolt-over-home-arrangements/"
+    },
+    {
+      "domain": "financeuncovered.org",
+      "label": "Tony Pidgley, founder and chair of Berkeley Group, bribing estate agents",
+      "post": "post:5551106",
+      "provenance": "source-post-link",
+      "url": "https://www.financeuncovered.org/stories/berkeley-group-bribery-allegations-court-papers"
+    },
+    {
+      "domain": "financeuncovered.org",
+      "label": "£174m",
+      "post": "post:5551106",
+      "provenance": "source-post-link",
+      "url": "https://www.financeuncovered.org/stories/indefensible-how-housing-boss-scooped-174m-from-britains-property-boom"
+    },
+    {
+      "domain": "london.gov.uk",
+      "label": "Two Jobs",
+      "post": "post:5551106",
+      "provenance": "source-post-link",
+      "url": "https://www.london.gov.uk/sites/default/files/2020_cllr_julian_bell_roi_.pdf"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5552516",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/E5PVTamWYAUoLrb.png"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5552516",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/E5PVibgXMAURxiL.png"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5552516",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/E5PVmw3XEAMz5_a.png"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5552516",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/E5PWIU8WYAYmdZV.png"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5552516",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/E5PWhf3XwA48wDf.png"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5552516",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/E5PX6CSWEAEOsnQ.png"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5552516",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/E5PZ0sGXoAMSGVm.png"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5552516",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/E5PZysBWYAAgdaL.png"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5552516",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/E5PaWkEWYAg8Zfc.png"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5552516",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/E5PaZ1IXoAIOGSg.png"
+    },
+    {
+      "domain": "twitter.com",
+      "label": "[x.com/DvdMrsdn/...](https://x.com/DvdMrsdn/status/1422631427699617794?t=uRe8ujQyXWHILfwMeqnlMQ&s=19)",
+      "post": "post:5552516",
+      "provenance": "source-post-link",
+      "url": "https://twitter.com/DvdMrsdn/status/1422631427699617794"
+    },
+    {
+      "domain": "x.com",
+      "label": "x.com/DvdMrsdn/...",
+      "post": "post:5552516",
+      "provenance": "source-post-link",
+      "url": "https://x.com/DvdMrsdn/status/1422631427699617794?t=uRe8ujQyXWHILfwMeqnlMQ&s=19"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5575556",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/DjBgwTDX0AU8SEG.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5575556",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/DjBikfXXoAA_Oh0.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5575556",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/DjBnE3ZXsAAI2bk.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5575556",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/DjBngo1XgAAk8uF.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5575556",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/DjBnki0XoAAnhkV.jpg"
+    },
+    {
+      "domain": "pbs.twimg.com",
+      "label": "pbs.twimg.com",
+      "post": "post:5575556",
+      "provenance": "source-post-link",
+      "url": "https://pbs.twimg.com/media/DmCJhV1XgAA42yC.jpg"
+    },
+    {
+      "domain": "x.com",
+      "label": "September 2018",
+      "post": "post:5575562",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/1041710848350330880"
+    },
+    {
+      "domain": "l.facebook.com",
+      "label": "my own comparison table",
+      "post": "post:5575568",
+      "provenance": "source-post-link",
+      "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1FMr5C_x1whdSUaWDLUpps1qWJe41MMEIU8jwqx6KT6c%2Fedit%3Fusp%3Dsharing%26fbclid%3DIwZXh0bgNhZW0CMTEAYnJpZBEwUmlIVk1ndU5iSEhKVmZOTwEeC_kYbPGVgijgEfLm3jZ6JgqRICaFY1OS9DfMnVyFN1XvGIgClOU5VKsfCYk_aem_wkeQvk6TJ1KeGzcKZCo4zA&h=AT36TKLKdp8M0H-0VFSMEduCrYhw0LbKTdP6LZDJxsg6V2OIdvX1dJ6ykyla0bjhswGo6DKfs263YSUllvKrsxK0e8UcQgCGFARMfSbdcFe2zqHo4ewyWEv5MTs"
+    },
+    {
+      "domain": "l.facebook.com",
+      "label": "PHE’s second report",
+      "post": "post:5575568",
+      "provenance": "source-post-link",
+      "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1ls3uWtlx2_FyJpD7tsy7RaZUe5D3Cs6J%2Fview%3Fusp%3Dsharing%26fbclid%3DIwZXh0bgNhZW0CMTEAYnJpZBEwUmlIVk1ndU5iSEhKVmZOTwEeMYy6iXIiZ-FG_NrAmzPOBlSrb5V1Sl8DCy99Ulrlm5y2tU7jOsbeadGFXCg_aem_wZ_t5QtjO6OG2-bBAeyWbQ&h=AT0zIuU26Xk2nu53x-x6D2z4aCAM4_0X_IeMQ9Y4fNj6fj3BnIdB0Ma26Nmk59g8DbnOqKZuT8rj69vBINIkZaAs-K7fNwXAVYmy4qpJMoU_q2rGi_HskjSPmqw"
+    },
+    {
+      "domain": "l.facebook.com",
+      "label": "third report",
+      "post": "post:5575568",
+      "provenance": "source-post-link",
+      "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1dIP7WF5MtN0KxDq2Nit0y6m10KRTFVw5%26fbclid%3DIwZXh0bgNhZW0CMTEAYnJpZBEwUmlIVk1ndU5iSEhKVmZOTwEeshcc03pifH-kjEdnrhuTIw_EpjoEpxeN3uLejZ7hDAyO2sIgl1rs0k1xGqg_aem_xNToKk--wLenCOT-AozQ7A&h=AT0qk6Xjk7eneE8bWUcifN1yWT1tnJEnUs6kjlKcNGE_iVwO9DAQXwLQzgsIdPh4lmSs92M9xUSQ5TQ2E6GZosQw-WONWbi3TPMqL_cR3ZjtjsC_vP1rVrnXwAZhghKAA0kDNzB0"
+    },
+    {
+      "domain": "l.facebook.com",
+      "label": "Air Quality Scrutiny Panel",
+      "post": "post:5575568",
+      "provenance": "source-post-link",
+      "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1pFSxYfxhXCLO5R5UpE_trh9OamHJCFzV%26fbclid%3DIwZXh0bgNhZW0CMTEAYnJpZBEwUmlIVk1ndU5iSEhKVmZOTwEeWSy7JAM1fFzoqDbDutqLqDCkt-tUZgF8lciNTDxYM1HAYlb-Tnh5YtuDqq4_aem_7p4hfnzoTFwFbuN8Z3UaeA&h=AT0KtMgs9IS8MJpvxrT6vWenqrkVjKnlCYoM8wNTbaLYepvFCx56IHWV5uLfIDy_U7nWPJKvBk3je2oWNzpVgu7-6lNIgn1oSG2Po0HZLCCWlpLb5RpjycJK2sc"
+    },
+    {
+      "domain": "docs.google.com",
+      "label": "Atkins spreadsheet",
+      "post": "post:5575575",
+      "provenance": "source-post-link",
+      "url": "https://docs.google.com/spreadsheets/d/1C_qXz5cfpdAOL0KqH9n_V3ZRN-SytSFhHpgo3yrq5Vg/edit?usp=drivesdk"
+    },
+    {
+      "domain": "drive.google.com",
+      "label": "the original",
+      "post": "post:5575575",
+      "provenance": "source-post-link",
+      "url": "https://drive.google.com/file/d/1ASzUHquBZ__bp1dy-l9Wfu85zfzceEAy/view?usp=drivesdk"
+    },
+    {
+      "domain": "l.facebook.com",
+      "label": "first report",
+      "post": "post:5575575",
+      "provenance": "source-post-link",
+      "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B50PvnX3tFxlcFFxNHV1eS0tTThuTmVEUmhOS3I5ZnZuSENB%2Fview%3Fusp%3Dsharing%26fbclid%3DIwZXh0bgNhZW0CMTEAYnJpZBEwUmlIVk1ndU5iSEhKVmZOTwEeKSjRMNsf6TvXzNpb8mzdKSfKtHmbmZSjmyQUD1NALYXWGNWlTrOSNQrDmEk_aem_TFLkIiwxllzrqMW-2rg1XA&h=AT2lJUGfuKI2qAtquZSQw3EmZ81PA4Xt4SHIUH8s4j_fBgrCeIFBEAUY_v7otlHMpV7ahLvCcFXtgj5pWasefxGF2OO6D-CDRSQWZVS6JyPyI2jfAn_njDHExhA"
+    },
+    {
+      "domain": "l.facebook.com",
+      "label": "The final report",
+      "post": "post:5575575",
+      "provenance": "source-post-link",
+      "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1dIP7WF5MtN0KxDq2Nit0y6m10KRTFVw5%2Fview%3Fusp%3Dsharing%26fbclid%3DIwZXh0bgNhZW0CMTEAYnJpZBEwUmlIVk1ndU5iSEhKVmZOTwEeCJL5knD4aQ2WwrVKRfYLnui5hyRjtTXdS7v_TyFMvcJ7_E_GHxaYtZ9GkG8_aem_FVPrGZce3P0P3s5QSOTZ3w&h=AT2QBlc2YZevXP51WikAz5AiQOhlyyflyDR5l2Td5ZuD_nZ_9bHjkK4vLKkwR2gEGnyKkcf4voRV9jnbL-9qsb0Y8ro5_TdfqdEopxPhlHSoSEOeMorS17EV_ZQ"
+    },
+    {
+      "domain": "drive.google.com",
+      "label": "original Facebook note",
+      "post": "post:5581131",
+      "provenance": "source-post-link",
+      "url": "https://drive.google.com/file/d/184jDHSA56ywO8CawyXnlbZt4gx8gZiz-/view?usp=drivesdk"
+    },
+    {
+      "domain": "docs.google.com",
+      "label": "FAQs",
+      "post": "post:5581154",
+      "provenance": "source-post-link",
+      "url": "https://docs.google.com/document/d/e/2PACX-1vT8P3m1TzNCp3g8QQfoeKJJO9EFGSIHwEo1EI7kwwWcuEc0g6Y8jTR4Wfve6G5DMuHQ-f9b8Ge2Mz_y/pub?fbclid=IwAR0QE2ua-iY5RcoyZOmaJNuUV0VMduiJhIY98b8rQ1P1TVMiZp6lrmsDnyg"
+    },
+    {
+      "domain": "docs.google.com",
+      "label": "Update",
+      "post": "post:5581154",
+      "provenance": "source-post-link",
+      "url": "https://docs.google.com/document/d/e/2PACX-1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zE0Dwo2-05cAiMcRsCx0y2x8D0gF/pub?fbclid=IwY2xjawNCe_UBHVvMQp8wFOoZliZ8wKMJQ3w_DXbDzKkL4v14y2sQlJw2wT_rpijebOZP0A"
+    },
+    {
+      "domain": "docs.google.com",
+      "label": "docs.google.com/document/...",
+      "post": "post:5581154",
+      "provenance": "source-post-link",
+      "url": "https://docs.google.com/document/d/e/2PACX1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zEoDwo205cAiMcRsCxoy2x8DogF/pub"
+    },
+    {
+      "domain": "drive.google.com",
+      "label": "original Facebook note",
+      "post": "post:5581154",
+      "provenance": "source-post-link",
+      "url": "https://drive.google.com/file/d/1T9YMBcz6MbwQ2aX0tVhZLT2ZMi9KDotM/view?usp=drivesdk"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "July 2025 petition rule changes",
+      "post": "post:5581562",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/documents/g6611/Public%20reports%20pack%20Tuesday%2015-Jul-2025%2019.00%20Council.pdf?T=10"
+    },
+    {
+      "domain": "savethevictoriahall.weebly.com",
+      "label": "Victoria Hall legal challenge",
+      "post": "post:5581562",
+      "provenance": "source-post-link",
+      "url": "https://savethevictoriahall.weebly.com/"
+    },
+    {
+      "domain": "common-wealth.org",
+      "label": "dogma",
+      "post": "post:5581562",
+      "provenance": "source-post-link",
+      "url": "https://www.common-wealth.org/interactive/who-owns-britain/data-dashboard/home"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "2023-2027 Land and Property Strategy",
+      "post": "post:5581562",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/18971/land_and_property_strategy.pdf"
+    },
+    {
+      "domain": "ealingtoday.co.uk",
+      "label": "substantial personal enrichment",
+      "post": "post:5581562",
+      "provenance": "source-post-link",
+      "url": "https://www.ealingtoday.co.uk/default.asp?section=community&spage=common/eacouncil220.htm"
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "label": "Corby steelworks",
+      "post": "post:5705705",
+      "provenance": "source-post-link",
+      "url": "https://en.wikipedia.org/wiki/Corby_toxic_waste_case"
+    },
+    {
+      "domain": "wa.me",
+      "label": "WhatsApp",
+      "post": "post:5705705",
+      "provenance": "source-post-link",
+      "url": "https://wa.me/qr/4MUTFBX64DCIB1"
+    },
+    {
+      "domain": "dailymotion.com",
+      "label": "DailyMotion",
+      "post": "post:5705705",
+      "provenance": "source-post-link",
+      "url": "https://www.dailymotion.com/video/x7szfhc"
+    },
+    {
+      "domain": "netflix.com",
+      "label": "Toxic Town",
+      "post": "post:5705705",
+      "provenance": "source-post-link",
+      "url": "https://www.netflix.com/gb/title/81372304?s=a&trkid=13747225&trg=cp&vlang=en&clip=81971836"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "Southall Market Car Park",
+      "post": "post:5722627",
+      "provenance": "source-post-link",
+      "url": "https://Ealing.moderngov.co.uk/ieDecisionDetails.aspx?Id=958&LLL=0"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "2576",
+      "post": "post:5722627",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/documents/s1725/Council%20Performance%20Year%20End%202021-22.pdf"
+    },
+    {
+      "domain": "ealingmatters.org.uk",
+      "label": "on the way up",
+      "post": "post:5722627",
+      "provenance": "source-post-link",
+      "url": "https://ealingmatters.org.uk/wp-content/uploads/2021/09/210901-EM-newsletter-11-final.pdf"
+    },
+    {
+      "domain": "open.substack.com",
+      "label": "form",
+      "post": "post:5722627",
+      "provenance": "source-post-link",
+      "url": "https://open.substack.com/pub/theviewfromw5/p/demolition-of-ealing-homes-part-of-trail-chaos"
+    },
+    {
+      "domain": "open.substack.com",
+      "label": "Ealing delivers 16 percent of its affordable homes target",
+      "post": "post:5722627",
+      "provenance": "source-post-link",
+      "url": "https://open.substack.com/pub/theviewfromw5/p/ealing-delivers-16-percent-of-its-affordable-homes-target"
+    },
+    {
+      "domain": "open.substack.com",
+      "label": "stunt",
+      "post": "post:5722627",
+      "provenance": "source-post-link",
+      "url": "https://open.substack.com/pub/theviewfromw5/p/history-of-insolvency-and-10-million-dividend"
+    },
+    {
+      "domain": "threadreaderapp.com",
+      "label": "2185",
+      "post": "post:5722627",
+      "provenance": "source-post-link",
+      "url": "https://threadreaderapp.com/thread/1389215486244708353.html"
+    },
+    {
+      "domain": "web.archive.org",
+      "label": "723",
+      "post": "post:5722627",
+      "provenance": "source-post-link",
+      "url": "https://web.archive.org/web/20210505132417/https://ealingperformance.inphase.com/Plan/853"
+    },
+    {
+      "domain": "web.archive.org",
+      "label": "898",
+      "post": "post:5722627",
+      "provenance": "source-post-link",
+      "url": "https://web.archive.org/web/20210505225051/http://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018"
+    },
+    {
+      "domain": "web.archive.org",
+      "label": "735",
+      "post": "post:5722627",
+      "provenance": "source-post-link",
+      "url": "https://web.archive.org/web/20220120134535/https://ealingperformance.inphase.com/Detail/865_17759?s=09"
+    },
+    {
+      "domain": "web.archive.org",
+      "label": "1228",
+      "post": "post:5722627",
+      "provenance": "source-post-link",
+      "url": "https://web.archive.org/web/20220120143225/https://ealingperformance.inphase.com/Detail/865_17759"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "2442",
+      "post": "post:5722627",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/homes/ealing-council-set-to-hit-genuinely-affordable-homes-building-target/"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "\"to create a more open and transparent way of doing things\"",
+      "post": "post:5722627",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/news/open-to-change-council-sets-out-new-policy-direction/"
+    },
+    {
+      "domain": "bbc.co.uk",
+      "label": "Southall flat",
+      "post": "post:5722627",
+      "provenance": "source-post-link",
+      "url": "https://www.bbc.co.uk/news/articles/c2le7lw0092o"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "Mr Mccreesh said he received emails from an Ealing Council housing officer stating they were “not responsible” for new-build properties and could not provide a completion date.",
+      "post": "post:5722627",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/news/family-left-in-limbo-after-delays-to-adapted-home-for-disabled-son/"
+    },
+    {
+      "domain": "ealinglabour.com",
+      "label": "On Your Side!",
+      "post": "post:5722627",
+      "provenance": "source-post-link",
+      "url": "https://www.ealinglabour.com/manifesto2022/"
+    },
+    {
+      "domain": "x.com",
+      "label": "1355",
+      "post": "post:5722627",
+      "provenance": "source-post-link",
+      "url": "https://x.com/_petermason/status/1262814422185189376"
+    },
+    {
+      "domain": "davidmarsden.info",
+      "label": "fire",
+      "post": "post:5722783",
+      "provenance": "source-post-link",
+      "url": "https://davidmarsden.info/2026/01/12/some-amazing-photos-of-last.html"
+    },
+    {
+      "domain": "davidmarsden.info",
+      "label": "repeated, documented warnings",
+      "post": "post:5722783",
+      "provenance": "source-post-link",
+      "url": "https://davidmarsden.info/tweets/?q=Incinerator+"
+    },
+    {
+      "domain": "assets.publishing.service.gov.uk",
+      "label": "Michael Gove's letter",
+      "post": "post:5724547",
+      "provenance": "source-post-link",
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1179075/SoS_letter_to_Ealing_Council.pdf"
+    },
+    {
+      "domain": "erec.dosomethinggood.org.uk",
+      "label": "Lord Woolley's Race Equality Commission Report",
+      "post": "post:5724547",
+      "provenance": "source-post-link",
+      "url": "https://erec.dosomethinggood.org.uk/wp-content/themes/wp-bootstrap-starter-child/downloads/ealing-race-equality-commission-final-report-27-january-2022.pdf"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "no enforcement action can be taken",
+      "post": "post:5724547",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/18503/open_letter_to_cash_from_cllr_peter_mason_leader_of_ealing_council_november_2022.pdf"
+    },
+    {
+      "domain": "standard.co.uk",
+      "label": "Southall has nearly a quarter (23%) of the top 30 GP practices in London where asthma treatment is most prevalent",
+      "post": "post:5724547",
+      "provenance": "source-post-link",
+      "url": "https://www.standard.co.uk/news/health/asthma-london-air-pollution-research-ulez-expansion-b1086318.html"
+    },
+    {
+      "domain": "nuisance.southallstories.uk",
+      "label": "this form",
+      "post": "post:5724865",
+      "provenance": "source-post-link",
+      "url": "http://nuisance.southallstories.uk/"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "The nuisance is the person",
+      "post": "post:5724865",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201033/council_and_local_decisions/516/complaints/6"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "noise nuisance",
+      "post": "post:5724865",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201146/neighbourhood_and_streets/2053/noise_nuisances/2"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "Investigating your complaint",
+      "post": "post:5724865",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201146/neighbourhood_and_streets/2053/noise_nuisances/3"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "Industrial pollution",
+      "post": "post:5724865",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201151/pollution/573/industrial_pollution_control"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "Dust and odours",
+      "post": "post:5724865",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201199/air_quality/2057/dust_and_odours_from_commercial_premises"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "air pollution",
+      "post": "post:5724865",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201199/air_quality/2058/report_an_air_pollution_problem"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "Air monitoring",
+      "post": "post:5724865",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201283/our_neighbourhoods/2613/southall_gasworks/4"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "Reporting concerns",
+      "post": "post:5724865",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201283/our_neighbourhoods/2613/southall_gasworks/6"
+    },
+    {
+      "domain": "london-fire.gov.uk",
+      "label": "Bridge Road warehouse fire",
+      "post": "post:5725373",
+      "provenance": "source-post-link",
+      "url": "https://www.london-fire.gov.uk/incidents/2025/november/warehouse-fire-southall/"
+    },
+    {
+      "domain": "london-fire.gov.uk",
+      "label": "fire engines attended",
+      "post": "post:5725373",
+      "provenance": "source-post-link",
+      "url": "https://www.london-fire.gov.uk/incidents/2026/january/recycling-centre-fire-southall/"
+    },
+    {
+      "domain": "dosomethinggood.ealing.gov.uk",
+      "label": "Southall Town Team",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://dosomethinggood.ealing.gov.uk/your-voice-your-town/southall-town-team/"
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "label": "Mandelson's continued friendship with the convicted paedophile Epstein",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://en.wikipedia.org/wiki/Relationship_of_Peter_Mandelson_and_Jeffrey_Epstein"
+    },
+    {
+      "domain": "open.substack.com",
+      "label": "listened to the residents",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://open.substack.com/pub/southall/p/real-change-not-empty-consultations"
+    },
+    {
+      "domain": "open.substack.com",
+      "label": "deserve better",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://open.substack.com/pub/southall/p/southall-deserves-better"
+    },
+    {
+      "domain": "resource.co",
+      "label": "Bassam Mahfouz",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://resource.co/article/ealing-council-switch-co-mingled-collections-10222"
+    },
+    {
+      "domain": "vm.tiktok.com",
+      "label": "serious public health harms",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://vm.tiktok.com/ZNRfJ3fLA/"
+    },
+    {
+      "domain": "web.archive.org",
+      "label": "complained about rubbish and litter",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf"
+    },
+    {
+      "domain": "aljazeera.com",
+      "label": "supporting war crimes by Israel",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.aljazeera.com/news/2026/2/12/corbyn-alleges-uk-complicity-after-streetings-admission-of-gaza-abuses"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "fly-tipping crackdown",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/news/finding-and-fining-the-fly-tippers/"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "£3 million annually",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/news/fly-tippers-pay-for-their-actions/"
+    },
+    {
+      "domain": "bbc.co.uk",
+      "label": "a scandal of his own making",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.bbc.co.uk/news/articles/czej4ep882ko"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "draft budget",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/news/ealing-council-unveils-2026-27-budget-plans/"
+    },
+    {
+      "domain": "ealinglabour.com",
+      "label": "on your side",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.ealinglabour.com/manifesto2022/"
+    },
+    {
+      "domain": "ealingtimes.co.uk",
+      "label": "London Mayor Ken Livingstone admitted",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.ealingtimes.co.uk/news/54754.southalls-inner-city-deprivation/"
+    },
+    {
+      "domain": "ealingtoday.co.uk",
+      "label": "massively increased allowances",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.ealingtoday.co.uk/default.asp?section=community&spage=common/eacouncil220.htm"
+    },
+    {
+      "domain": "ealingtoday.co.uk",
+      "label": "7,000 Ealing residents formally opposing",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.ealingtoday.co.uk/default.asp?section=info&spage=common/eawheeliecolours001.htm"
+    },
+    {
+      "domain": "facebook.com",
+      "label": "Peter Mason",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.facebook.com/share/v/1ZcEq2oPo2/"
+    },
+    {
+      "domain": "gov.uk",
+      "label": "Defra's national fly-tipping dataset",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england"
+    },
+    {
+      "domain": "jewishvoiceforlabour.org.uk",
+      "label": "withdraw support",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.jewishvoiceforlabour.org.uk/statement/a-shameful-day-for-the-jlm/"
+    },
+    {
+      "domain": "linkedin.com",
+      "label": "Jags Sanghera",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.linkedin.com/in/jags-sanghera-04722153"
+    },
+    {
+      "domain": "linkedin.com",
+      "label": "LinkedIn, he boasted",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.linkedin.com/posts/peter-mason-5a377941_i-was-on-bbc-politics-london-this-morning-activity-7403388834643857408-VXEM"
+    },
+    {
+      "domain": "local.gov.uk",
+      "label": "social care, schools, housing and planning and waste collection",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.local.gov.uk/about/what-local-government"
+    },
+    {
+      "domain": "mirror.co.uk",
+      "label": "increased fly-tipping",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.mirror.co.uk/news/uk-news/residents-left-fuming-after-changes-32662715"
+    },
+    {
+      "domain": "mylondon.news",
+      "label": "residents protested",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.mylondon.news/news/west-london-news/neighbourly-care-southall-fights-back-9700892"
+    },
+    {
+      "domain": "reddit.com",
+      "label": "unfortunate individuals",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.reddit.com/r/Ealing/s/JD2n25UHIk"
+    },
+    {
+      "domain": "swlondoner.co.uk",
+      "label": "described how her life is curtailed by fly-tipping",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.swlondoner.co.uk/news/02062025-southall-residents-demand-action-amid-fly-tipping-explosion"
+    },
+    {
+      "domain": "theguardian.com",
+      "label": "Peter Mandelson",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.theguardian.com/commentisfree/2026/feb/10/peter-mandelson-new-labour-jeffrey-epstein-corporate-power"
+    },
+    {
+      "domain": "theguardian.com",
+      "label": "known anti-Semite, all-round racist",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.theguardian.com/politics/2019/dec/11/boris-johnsons-record-of-bigotry-antisemitism-and-far-right-politics-must-not-be-forgotten"
+    },
+    {
+      "domain": "theguardian.com",
+      "label": "increased funding",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://www.theguardian.com/politics/2019/nov/21/jeremy-corbyn-urges-public-to-vote-for-his-manifesto-of-hope-labour-tax-spend-plans"
+    },
+    {
+      "domain": "x.com",
+      "label": "disgusting",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/1510210792779567109"
+    },
+    {
+      "domain": "x.com",
+      "label": "Many thanks again to the incredible LAGERcan volunteers who [cleaned up this particular fly-tip",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/1651945445554257921"
+    },
+    {
+      "domain": "youngealingfoundation.org.uk",
+      "label": "tackle youth violence in Southall",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://youngealingfoundation.org.uk/images/downloads/ealing/TACKLING-YOUTH-VIOLENCE-IN-SNG-22-1.pdf"
+    },
+    {
+      "domain": "youtu.be",
+      "label": "Deirdre Costigan",
+      "post": "post:5754191",
+      "provenance": "source-post-link",
+      "url": "https://youtu.be/E_NoNRlJasw"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "the council’s own report",
+      "post": "post:5755632",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/documents/s1730/Appendix%204%20South%20Road%20Bridge%20Widening%20June%202022.pdf"
+    },
+    {
+      "domain": "stopthetowers.info",
+      "label": "Stop The Towers",
+      "post": "post:5755632",
+      "provenance": "source-post-link",
+      "url": "https://stopthetowers.info/other-campaigns"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "Ealing Council’s magazine for residents",
+      "post": "post:5755632",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/about/"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "achievements",
+      "post": "post:5755632",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/category/news/"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "draft 2026-27 budget",
+      "post": "post:5755632",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/news/budget-for-a-safe-clean-and-fair-borough/"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "£27m from developers",
+      "post": "post:5755632",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/news/developer-tax-investment-in-towns/"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "Infrastructure Funding Statements",
+      "post": "post:5755632",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201162/planning_policy/2934/infrastructure_funding_statement"
+    },
+    {
+      "domain": "planningportal.co.uk",
+      "label": "Planning Portal",
+      "post": "post:5755632",
+      "provenance": "source-post-link",
+      "url": "https://www.planningportal.co.uk/planning/planning-applications/the-decision-making-process/conditions-and-obligations"
+    },
+    {
+      "domain": "whatdotheyknow.com",
+      "label": "council’s own FOI response",
+      "post": "post:5755632",
+      "provenance": "source-post-link",
+      "url": "https://www.whatdotheyknow.com/request/how_much_section_106_money_has_e/response/2061857/attach/5/EIR%20Internal%20Review%2022%200404%20FINAL.pdf?cookie_passthrough=1"
+    },
+    {
+      "domain": "archive.ph",
+      "label": "massive expansion of the Southall Gasworks site from 3,750 new homes to 8,100",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://archive.ph/kfpaA"
+    },
+    {
+      "domain": "drive.google.com",
+      "label": "2018",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://drive.google.com/file/d/10zKlK6NTcB8pu1TbX4S8alIl-UJwjokH/view?usp=drivesdk"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "2025 scrutiny report",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/documents/s18496/Housing%20Development%20and%20Regeneration%20Report%20to%20Scrutiny.pdf"
+    },
+    {
+      "domain": "labour.org.uk",
+      "label": "Party for (Short) Change",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://labour.org.uk/change/"
+    },
+    {
+      "domain": "open.substack.com",
+      "label": "about 16% of the target",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://open.substack.com/pub/theviewfromw5/p/ealing-delivers-16-percent-of-its-affordable-homes-target"
+    },
+    {
+      "domain": "architectsjournal.co.uk",
+      "label": "analysis by the London Tenants Federation",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://www.architectsjournal.co.uk/news/londons-social-housing-depleted-by-demolition-study-claims"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "Mason crafted an elaborate tale",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/leaders-notes/"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "beavers",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/leaders-notes/access-to-nature/"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "2022",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/news/introducing-ealings-new-mayor-and-cabinet/"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "2024",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/news/new-mayor-and-cabinet/attachment/new-cabinet/"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "the council’s own delivery plan",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/20045/delivery_plan_2024-25.pdf"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "this",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201044/councillors/567/cabinet"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "begin in March 2026",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201162/planning_policy/1536/community_infrastructure_levy_cil"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "According to Ealing.News",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/news/local-jobs-decline-in-ealing/"
+    },
+    {
+      "domain": "ealinglabour.co.uk",
+      "label": "knows why",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://www.ealinglabour.co.uk/2020/03/02/tall-buildings-and-the-genuinely-affordable-homes-crisis/"
+    },
+    {
+      "domain": "ealinglabour.co.uk",
+      "label": "2022",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://www.ealinglabour.co.uk/2022/03/02/our-2022-pledges/"
+    },
+    {
+      "domain": "ealinglabour.co.uk",
+      "label": "sixteen years of cuts to frontline services under Labour",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://www.ealinglabour.co.uk/2026/02/03/ealing-labour-announce-first-no-cuts-budget-in-16-years/"
+    },
+    {
+      "domain": "ealinglabour.co.uk",
+      "label": "Mason who coordinated the 2018 manifesto",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://www.ealinglabour.co.uk/profile/peter-mason-2/"
+    },
+    {
+      "domain": "ealinglibdems.org.uk",
+      "label": "Opposition councillors",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://www.ealinglibdems.org.uk/news/article/ealing-labour-finally-tax-developers-after-15-years-delay"
+    },
+    {
+      "domain": "gov.uk",
+      "label": "Nolan Principles of public life",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://www.gov.uk/government/publications/the-7-principles-of-public-life/the-7-principles-of-public-life--2"
+    },
+    {
+      "domain": "whatdotheyknow.com",
+      "label": "Freedom of Information response",
+      "post": "post:5756463",
+      "provenance": "source-post-link",
+      "url": "https://www.whatdotheyknow.com/request/how_many_homes_have_been_complet/response/2002978/attach/5/FOI%20Internal%20Review%2022%200065%20FINAL.pdf"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "Leader’s Notes",
+      "post": "post:5759990",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/leaders-notes/"
+    },
+    {
+      "domain": "youtu.be",
+      "label": "The Ruts",
+      "post": "post:5759990",
+      "provenance": "source-post-link",
+      "url": "https://youtu.be/PsdIxw8jImo?si=TpSc43tjANLcsc9C"
+    },
+    {
+      "domain": "youtu.be",
+      "label": "Misty In Roots",
+      "post": "post:5759990",
+      "provenance": "source-post-link",
+      "url": "https://youtu.be/XyslAtJQq8E?si=uoTy6sQmYthcfp7k"
+    },
+    {
+      "domain": "awards.lgcplus.com",
+      "label": "Campaign of the Year",
+      "post": "post:5772909",
+      "provenance": "source-post-link",
+      "url": "https://awards.lgcplus.com/lgca2026/en/page/2026-shortlist"
+    },
+    {
+      "domain": "bassammahfouz.wordpress.com",
+      "label": "Mahfouz claimed",
+      "post": "post:5772909",
+      "provenance": "source-post-link",
+      "url": "https://bassammahfouz.wordpress.com/2017/02/27/astonishing-numbers-fined-for-fly-tipping-in-ealing/"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "Southall Broadway Ward Forum (12 July 2016)",
+      "post": "post:5772909",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/Data/Southall%20Broadway%20Ward%20Forum/201607121900/Agenda/Southall%20Broadway%20ward%20forum%20notes%2012%20July%2016.pdf"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "Benefits are largely contingent on changing resident behaviour",
+      "post": "post:5772909",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/documents/s18754/Waste%20and%20Recycling%20Update.pdf"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "The Council Plan Performance Report Q2 2025/26",
+      "post": "post:5772909",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/documents/s23017/Council%20Plan%20Performance%20Report%20Q2%20202526.pdf"
+    },
+    {
+      "domain": "ealing.u3asite.uk",
+      "label": "Waste Management",
+      "post": "post:5772909",
+      "provenance": "source-post-link",
+      "url": "https://ealing.u3asite.uk/wp-content/uploads/2024/09/ealingwastemngtandrecyclingpresjune2022.pdf"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "declare war",
+      "post": "post:5772909",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/leaders-notes/cracking-down-on-fly-tipping/"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "crackdown on fly-tipping",
+      "post": "post:5772909",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/news/finding-and-fining-the-fly-tippers/"
+    },
+    {
+      "domain": "bbc.co.uk",
+      "label": "BBC reporting",
+      "post": "post:5772909",
+      "provenance": "source-post-link",
+      "url": "https://www.bbc.co.uk/news/articles/c4gqxddg0xyo"
+    },
+    {
+      "domain": "itv.com",
+      "label": "ITV reports",
+      "post": "post:5772909",
+      "provenance": "source-post-link",
+      "url": "https://www.itv.com/news/london/2026-02-25/croydon-named-englands-fly-tipping-hotspot-with-seven-boroughs-in-top-ten"
+    },
+    {
+      "domain": "mylondon.news",
+      "label": "increased fly-tipping",
+      "post": "post:5772909",
+      "provenance": "source-post-link",
+      "url": "https://www.mylondon.news/news/increase-recycling-after-ealing-wheelie-11651652"
+    },
+    {
+      "domain": "mylondon.news",
+      "label": "increase in recorded fly-tips",
+      "post": "post:5772909",
+      "provenance": "source-post-link",
+      "url": "https://www.mylondon.news/news/west-london-news/y-tipping-ealing-risen-216-11921289"
+    },
+    {
+      "domain": "luma.com",
+      "label": "https://luma.com/wu4151lw",
+      "post": "post:5810127",
+      "provenance": "source-post-link",
+      "url": "https://luma.com/wu4151lw"
+    },
+    {
+      "domain": "communitypoweredreporting.co.uk",
+      "label": "Community Powered Reporting",
+      "post": "post:5810127",
+      "provenance": "source-post-link",
+      "url": "https://www.communitypoweredreporting.co.uk/"
+    },
+    {
+      "domain": "communitypoweredreporting.co.uk",
+      "label": "What Happened to Southall?",
+      "post": "post:5810127",
+      "provenance": "source-post-link",
+      "url": "https://www.communitypoweredreporting.co.uk/wp-content/uploads/2026/03/What-Happened-to-Southall_1.pdf"
+    },
+    {
+      "domain": "data.defra.gov.uk",
+      "label": "notes on the dataset",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "http://data.defra.gov.uk/statistics_2019/env/wte/Flytipping_notes_on_datasets.pdf"
+    },
+    {
+      "domain": "democracy.brent.gov.uk",
+      "label": "2005 waste strategy",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://democracy.brent.gov.uk/Data/Executive/20050912/Agenda/ENV%20Brent%20Municipal%20Waste%20Strategy%20App%201.pdf"
+    },
+    {
+      "domain": "democracy.brent.gov.uk",
+      "label": "call-in papers from November 2010",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://democracy.brent.gov.uk/documents/g1468/Public%20reports%20pack%20Tuesday%2030-Nov-2010%2019.30%20Call%20In%20Overview%20and%20Scrutiny%20Committee.pdf?T=10"
+    },
+    {
+      "domain": "democracy.brent.gov.uk",
+      "label": "report recommending an increase in dry recycling collection frequency to weekly",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://democracy.brent.gov.uk/documents/s25547/ens-garden-waste.pdf"
+    },
+    {
+      "domain": "democracy.brent.gov.uk",
+      "label": "August 2010 Executive report",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://democracy.brent.gov.uk/documents/s2948/ec_waste_strategy_v%205%201%20final.pdf"
+    },
+    {
+      "domain": "democracy.brent.gov.uk",
+      "label": "2010 waste strategy",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://democracy.brent.gov.uk/documents/s2949/ec_waste_strategy_AppA_v2.pdf"
+    },
+    {
+      "domain": "democraticservices.hounslow.gov.uk",
+      "label": "resident petition to restore weekly collections",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://democraticservices.hounslow.gov.uk/mgEPetitionDisplay.aspx?id=58"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "second in 2023-24 at 48.7%",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/documents/s18754/Waste+and+Recycling+Update.pdf"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "Ten years later it is 49%",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/mgAi.aspx?ID=6020"
+    },
+    {
+      "domain": "junkwize.com",
+      "label": "December 2015 industry report",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://junkwize.com/blog/cost-of-illegal-rubbish-dumping-in-london/"
+    },
+    {
+      "domain": "neighbournet.com",
+      "label": "Ealing's recycling rate in 2015",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://neighbournet.com/server/common/conwheeliebinrecycling001.htm?site=2"
+    },
+    {
+      "domain": "neighbournet.com",
+      "label": "announced its switch",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://neighbournet.com/server/common/hounscoun181wheeliebins.htm"
+    },
+    {
+      "domain": "northlondonnews.co.uk",
+      "label": "Kilburn Times / North London News reporting",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://northlondonnews.co.uk/local/brent/brent-council/brent-fly-tipping-fines-surge-500-amid-crackdown-2026/"
+    },
+    {
+      "domain": "wembleymatters.blogspot.com",
+      "label": "Wembley Matters report on a council scrutiny committee",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://wembleymatters.blogspot.com/2012/11/brent-forms-waste-warriors-team-to-beat.html"
+    },
+    {
+      "domain": "brent.gov.uk",
+      "label": "2019 Inclusive Growth Strategy",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://www.brent.gov.uk/-/media/files/business-documents/regeneration/igs-research-base-2019-2040-new-regeneration.pdf"
+    },
+    {
+      "domain": "brent.gov.uk",
+      "label": "Don't Mess With Brent",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://www.brent.gov.uk/bins-rubbish-and-recycling/dont-mess-with-brent"
+    },
+    {
+      "domain": "cprelondon.org.uk",
+      "label": "London as a whole languishes near the bottom of English regions at 33%",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://www.cprelondon.org.uk/news/london-recycling-scorecard-2025/"
+    },
+    {
+      "domain": "ealingtoday.co.uk",
+      "label": "a new fly-tipping \"task force\" enforcement drive to tackle the 216% increase",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://www.ealingtoday.co.uk/default.asp?section=info&page=eaflytippingtruck001.htm"
+    },
+    {
+      "domain": "facebook.com",
+      "label": "Facebook post",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://www.facebook.com/groups/EalingMatters/permalink/26239908782369668/"
+    },
+    {
+      "domain": "gov.uk",
+      "label": "Defra fly-tipping dataset",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england"
+    },
+    {
+      "domain": "governmentevents.co.uk",
+      "label": "2022 presentation by Newham's Director of Public Realm",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://www.governmentevents.co.uk/wp-content/uploads/2022/05/Beau-Stanford-Francis-.pdf"
+    },
+    {
+      "domain": "kilburntimes.co.uk",
+      "label": "Kilburn Times reported",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://www.kilburntimes.co.uk/news/22005398.fly-tipping-surge-costs-brent-500k/"
+    },
+    {
+      "domain": "kilburntimes.co.uk",
+      "label": "Kilburn Times reported",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://www.kilburntimes.co.uk/news/25894644.huge-rise-fly-tipping-fines-crackdown-brent-london/"
+    },
+    {
+      "domain": "letsrecycle.com",
+      "label": "switched to twin-stream recycling collections",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://www.letsrecycle.com/news/brent-awards-veolia-274m-deal-and-opts-for-twin-steam/"
+    },
+    {
+      "domain": "letsrecycle.com",
+      "label": "petitioned against it",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://www.letsrecycle.com/news/hounslow-council-leader-faces-wheeled-bin-protest/"
+    },
+    {
+      "domain": "mylondon.news",
+      "label": "dirty and littered streets",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://www.mylondon.news/news/west-london-news/complaints-dirty-littered-streets-after-13345307"
+    },
+    {
+      "domain": "newham.gov.uk",
+      "label": "announced",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://www.newham.gov.uk/news/article/1226/newham-council-bucks-national-trend-on-fly-tipping"
+    },
+    {
+      "domain": "theguardian.com",
+      "label": "acknowledged",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://www.theguardian.com/cities/2016/oct/25/dirty-old-town-fly-tipping-london-data-england"
+    },
+    {
+      "domain": "theguardian.com",
+      "label": "identified by the Guardian in 2014 as the worst local authority in England per head",
+      "post": "post:5820251",
+      "provenance": "source-post-link",
+      "url": "https://www.theguardian.com/environment/2014/oct/30/flytipping-up-20-percent-england-after-falling-for-years"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "formally identified",
+      "post": "post:5837446",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/documents/s23226/4.2.%20Appendix%202%20-%20LBE%20Forvis%20Mazars%20ACR%202024-25.pdf"
+    },
+    {
+      "domain": "fleet.libdems.org.uk",
+      "label": "Corporate Peer Challenge",
+      "post": "post:5837446",
+      "provenance": "source-post-link",
+      "url": "https://fleet.libdems.org.uk/001b000000Q0NIC/news/article/lib-dems-highlight-top-3-issues-for-ealing-council-from-ealing-peer-challenge"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "nearly 3,000",
+      "post": "post:5837446",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/20824/housing_news_spring_2025.pdf"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "self-referred to the Regulator of Social Housing",
+      "post": "post:5837446",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201343/housing_performance/3497/housing_asset_management_compliance/2"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "incorrect figure for the chief executive's salary",
+      "post": "post:5837446",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/ealing-council/ealing-council-ceo-gets-20-5-pay-rise/"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "nearly doubled",
+      "post": "post:5837446",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/news/ealing-council-increases-councillor-allowances/"
+    },
+    {
+      "domain": "x.com",
+      "label": "wrote",
+      "post": "post:5837446",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/1006662414383960065"
+    },
+    {
+      "domain": "x.com",
+      "label": "travelled to Birmingham",
+      "post": "post:5837446",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/1035476560982302720"
+    },
+    {
+      "domain": "x.com",
+      "label": "replied",
+      "post": "post:5837446",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/1169585459368009728"
+    },
+    {
+      "domain": "x.com",
+      "label": "defended",
+      "post": "post:5837446",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/1169587502241464320"
+    },
+    {
+      "domain": "x.com",
+      "label": "wrote",
+      "post": "post:5837446",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/1423052658189946881"
+    },
+    {
+      "domain": "x.com",
+      "label": "returned to the theme",
+      "post": "post:5837446",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/1625972718054113302"
+    },
+    {
+      "domain": "x.com",
+      "label": "described",
+      "post": "post:5837446",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/1651982277851660290"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "crime and anti-social behaviour",
+      "post": "post:5839992",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=116"
+    },
+    {
+      "domain": "ealingindependents.org",
+      "label": "policies",
+      "post": "post:5839992",
+      "provenance": "source-post-link",
+      "url": "https://ealingindependents.org/what-we-stand-for/"
+    },
+    {
+      "domain": "open.substack.com",
+      "label": "whose interests they really serve",
+      "post": "post:5839992",
+      "provenance": "source-post-link",
+      "url": "https://open.substack.com/pub/southall/p/a-town-ignored-southall-after-16"
+    },
+    {
+      "domain": "sadealing.blogspot.com",
+      "label": "at a public meeting called by disabled adults",
+      "post": "post:5839992",
+      "provenance": "source-post-link",
+      "url": "https://sadealing.blogspot.com/2010/10/sad-tale-ealing-labour-councillors.html"
+    },
+    {
+      "domain": "southallcommunityalliance.com",
+      "label": "chair",
+      "post": "post:5839992",
+      "provenance": "source-post-link",
+      "url": "https://southallcommunityalliance.com/trustees/"
+    },
+    {
+      "domain": "communitypoweredreporting.co.uk",
+      "label": "sixteen years",
+      "post": "post:5839992",
+      "provenance": "source-post-link",
+      "url": "https://www.communitypoweredreporting.co.uk/"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "councillor allowances",
+      "post": "post:5839992",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201044/councillors/570/councillors_scheme_of_allowances"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "elected",
+      "post": "post:5839992",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201276/council_elections/414/council_elections_may_1998"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "\"controlling\" Peter Mason",
+      "post": "post:5839992",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/news/east-acton-councillor-criticises-labour-leadership-after-defection/"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "save Southall's Crown Post Office",
+      "post": "post:5839992",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/news/residents-fight-to-save-southall-broadway-post-office-deliver-petition-to-pm-rishi-sunak-and-holding-local-protest-on-saturday/"
+    },
+    {
+      "domain": "ealinglabour.co.uk",
+      "label": "candidate in Norwood Green",
+      "post": "post:5839992",
+      "provenance": "source-post-link",
+      "url": "https://www.ealinglabour.co.uk/profile/jags-sanghera-2/"
+    },
+    {
+      "domain": "ealingtimes.co.uk",
+      "label": "A year later",
+      "post": "post:5839992",
+      "provenance": "source-post-link",
+      "url": "https://www.ealingtimes.co.uk/news/1228875.arrested-student-may-sue-councillor/"
+    },
+    {
+      "domain": "ealingtimes.co.uk",
+      "label": "new shop",
+      "post": "post:5839992",
+      "provenance": "source-post-link",
+      "url": "https://www.ealingtimes.co.uk/news/883558.we-have-finally-got-justice/"
+    },
+    {
+      "domain": "instagram.com",
+      "label": "AN&",
+      "post": "post:5839992",
+      "provenance": "source-post-link",
+      "url": "https://www.instagram.com/an_andfood/"
+    },
+    {
+      "domain": "instagram.com",
+      "label": "coffee cart",
+      "post": "post:5839992",
+      "provenance": "source-post-link",
+      "url": "https://www.instagram.com/reel/DKrZow8tacy/?igsh=aG1mOXNvcjY5M3B1"
+    },
+    {
+      "domain": "landmarkchambers.co.uk",
+      "label": "public inquiry into the legality of the compulsory purchase orders on The Green",
+      "post": "post:5839992",
+      "provenance": "source-post-link",
+      "url": "https://www.landmarkchambers.co.uk/wp-content/uploads/2023/04/APP-PCU-CPOH-A5270-3289084_ENV-3298294-LB-Ealing.pdf"
+    },
+    {
+      "domain": "linkedin.com",
+      "label": "Jags Sanghera",
+      "post": "post:5839992",
+      "provenance": "source-post-link",
+      "url": "https://www.linkedin.com/in/jags-sanghera-04722153"
+    },
+    {
+      "domain": "mylondon.news",
+      "label": "ten children's centres",
+      "post": "post:5839992",
+      "provenance": "source-post-link",
+      "url": "https://www.mylondon.news/news/west-london-news/3-ealing-childrens-centres-saved-31844687"
+    },
+    {
+      "domain": "youtu.be",
+      "label": "Ealing's pension funds",
+      "post": "post:5839992",
+      "provenance": "source-post-link",
+      "url": "https://youtu.be/omabxKXmWeI?si=DV6969adMcbQhAZe"
+    },
+    {
+      "domain": "youtube.com",
+      "label": "the closure of ten of Ealing's children's centres",
+      "post": "post:5839992",
+      "provenance": "source-post-link",
+      "url": "https://youtube.com/shorts/WZFRxYyDlIs?si=exBTRVj0gqxehep3"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "Swaran Singh Padda",
+      "post": "post:5840563",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=164"
+    },
+    {
+      "domain": "ealingmatters.org.uk",
+      "label": "resigned immediately",
+      "post": "post:5840563",
+      "provenance": "source-post-link",
+      "url": "https://ealingmatters.org.uk/wp-content/uploads/2021/09/210901-NL11-LCox-resignation.pdf"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "Ealing News on 25 March 2026",
+      "post": "post:5840563",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/news/east-acton-councillor-criticises-labour-leadership-after-defection/"
+    },
+    {
+      "domain": "standard.co.uk",
+      "label": "Kate Crawford",
+      "post": "post:5840563",
+      "provenance": "source-post-link",
+      "url": "https://www.standard.co.uk/news/politics/local-elections-london-ealing-councillor-kate-crawford-defection-labour-b1276728.html"
+    },
+    {
+      "domain": "blogs.lse.ac.uk",
+      "label": "Labour abandoned its opposition to immigration control as early as 1962",
+      "post": "post:5841154",
+      "provenance": "source-post-link",
+      "url": "https://blogs.lse.ac.uk/politicsandpolicy/talking-the-talk-immigration-policy-since-1962/"
+    },
+    {
+      "domain": "cps.org.uk",
+      "label": "July 2025 report by the Centre for Policy Studies",
+      "post": "post:5841154",
+      "provenance": "source-post-link",
+      "url": "https://cps.org.uk/research/how-many-homes-does-the-uk-need/"
+    },
+    {
+      "domain": "docs.google.com",
+      "label": "Your Party",
+      "post": "post:5841154",
+      "provenance": "source-post-link",
+      "url": "https://docs.google.com/document/d/14-OwWA92xd_Gx1DdsoLVtvjujk84mKWZuszNQcxiLCU/edit?usp=sharing"
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "label": "Anti-Nazi League",
+      "post": "post:5841154",
+      "provenance": "source-post-link",
+      "url": "https://en.wikipedia.org/wiki/Anti-Nazi_League"
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "label": "Blair Peach",
+      "post": "post:5841154",
+      "provenance": "source-post-link",
+      "url": "https://en.wikipedia.org/wiki/Death_of_Blair_Peach"
+    },
+    {
+      "domain": "inquest.org.uk",
+      "label": "his partner Celia Stubbs donated the full archive of materials relating to his death to the Bishopsgate Institute",
+      "post": "post:5841154",
+      "provenance": "source-post-link",
+      "url": "https://inquest.org.uk/news-and-comment/blogs/blair-peach-archive-opens-at-bishopsgate-institute/"
+    },
+    {
+      "domain": "labour.org.uk",
+      "label": "National Executive Committee",
+      "post": "post:5841154",
+      "provenance": "source-post-link",
+      "url": "https://labour.org.uk/whos-on-the-nec/"
+    },
+    {
+      "domain": "lithub.com",
+      "label": "2,800 officers — 94 on horseback",
+      "post": "post:5841154",
+      "provenance": "source-post-link",
+      "url": "https://lithub.com/on-deadly-policing-and-the-1979-southall-protests/"
+    },
+    {
+      "domain": "theviewfromw5.substack.com",
+      "label": "Average rents rose by 12.4% in a single year",
+      "post": "post:5841154",
+      "provenance": "source-post-link",
+      "url": "https://theviewfromw5.substack.com/p/ealing-major-increase-homelessness"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "Ealing Council's own figures",
+      "post": "post:5841154",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/20045/delivery_plan_2024-25.pdf"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "a TikTok clip surfaced",
+      "post": "post:5841154",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/politics/ealing-council-elections-2026/labour-criticises-tory-pitshanger-candidate-over-deportation-remarks/"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "standing candidates across Ealing",
+      "post": "post:5841154",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/politics/ealing-council-elections-2026/reform-uk-to-field-60-candidates-across-ealing-in-may-2026-elections/"
+    },
+    {
+      "domain": "economist.com",
+      "label": "The Economist described both plans as \"dangerously unrealistic.\"",
+      "post": "post:5841154",
+      "provenance": "source-post-link",
+      "url": "https://www.economist.com/britain/2026/03/30/right-wingers-want-ice-style-mass-deportations-in-britain"
+    },
+    {
+      "domain": "instituteforgovernment.org.uk",
+      "label": "Institute for Government",
+      "post": "post:5841154",
+      "provenance": "source-post-link",
+      "url": "https://www.instituteforgovernment.org.uk/explainer/immigration-and-asylum-party-positions"
+    },
+    {
+      "domain": "caselaw.nationalarchives.gov.uk",
+      "label": "three children's centres are being closed",
+      "post": "post:5846055",
+      "provenance": "source-post-link",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2026/886"
+    },
+    {
+      "domain": "ealingindependents.org",
+      "label": "ECI Party leader and candidate in Northfield",
+      "post": "post:5846055",
+      "provenance": "source-post-link",
+      "url": "https://ealingindependents.org/"
+    },
+    {
+      "domain": "communitypoweredreporting.co.uk",
+      "label": "political choices",
+      "post": "post:5846055",
+      "provenance": "source-post-link",
+      "url": "https://www.communitypoweredreporting.co.uk/"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "71% pay rise",
+      "post": "post:5846055",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/news/ealing-council-increases-councillor-allowances/"
+    },
+    {
+      "domain": "facebook.com",
+      "label": "first Asian councillor",
+      "post": "post:5846055",
+      "provenance": "source-post-link",
+      "url": "https://www.facebook.com/share/v/1GgCFKHZ3S/"
+    },
+    {
+      "domain": "youtu.be",
+      "label": "Manor Waye Allotments",
+      "post": "post:5846055",
+      "provenance": "source-post-link",
+      "url": "https://youtu.be/O5kvDL-Ci0I?si=L7ZrNkf-xhvKw1gI"
+    },
+    {
+      "domain": "youtu.be",
+      "label": "Ealing Council invests workers' pension funds in companies arming Israel's destruction of Gaza and the killing of tens of thousands of women and children",
+      "post": "post:5846055",
+      "provenance": "source-post-link",
+      "url": "https://youtu.be/omabxKXmWeI?si=wiHEXCbK3mBIJOm1"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "Living Wage Champion",
+      "post": "post:5849581",
+      "provenance": "source-post-link",
+      "url": "https://aroundealing.com/wp-content/uploads/2015/11/around_ealing_winter_2015-16.pdf"
+    },
+    {
+      "domain": "open.substack.com",
+      "label": "Henry Construction",
+      "post": "post:5849581",
+      "provenance": "source-post-link",
+      "url": "https://open.substack.com/pub/theviewfromw5/p/ealing-council-hopes-to-recoup-money-from-collapse-of-henry-construction"
+    },
+    {
+      "domain": "open.substack.com",
+      "label": "Conal Urquhart's investigation",
+      "post": "post:5849581",
+      "provenance": "source-post-link",
+      "url": "https://open.substack.com/pub/theviewfromw5/p/ealing-delivers-16-percent-of-its-affordable-homes-target"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "55 accredited employers",
+      "post": "post:5849581",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/fighting-inequality/london-living-wage-celebration-event/"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "Living Wage Champion",
+      "post": "post:5849581",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/news/rewarding-fair-pay/"
+    },
+    {
+      "domain": "citizensuk.org",
+      "label": "proposal",
+      "post": "post:5849581",
+      "provenance": "source-post-link",
+      "url": "https://www.citizensuk.org/chapters/west-london/west-london-news/community-land-trust-proposal-for-marston-court-site-in-ealing/"
+    },
+    {
+      "domain": "citizensuk.org",
+      "label": "Citizens UK's own account of the 27 April 2022 assembly",
+      "post": "post:5849581",
+      "provenance": "source-post-link",
+      "url": "https://www.citizensuk.org/chapters/west-london/west-london-news/local-pre-election-assemblies-citizen-is-the-most-important-title/"
+    },
+    {
+      "domain": "citizensuk.org",
+      "label": "Living Wage Action Group",
+      "post": "post:5849581",
+      "provenance": "source-post-link",
+      "url": "https://www.citizensuk.org/chapters/west-london/west-london-news/new-ealing-living-wage-action-team-launched-to-tackle-low-pay-for-local-workers/"
+    },
+    {
+      "domain": "communitypoweredreporting.co.uk",
+      "label": "What Happened to Southall?",
+      "post": "post:5849581",
+      "provenance": "source-post-link",
+      "url": "https://www.communitypoweredreporting.co.uk"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "reached 100 accredited employers",
+      "post": "post:5849581",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/business/ealing-reaches-milestone-of-100-london-living-wage-employers/"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "From 14 accredited Living Wage employers in 2016",
+      "post": "post:5849581",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/ealing-council/number-of-london-living-wage-employers-in-ealing-grows-to-58-from-14-in-2016/"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "Michael Milne, founder of the Ealing Living Wage Alliance",
+      "post": "post:5849581",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/news/opinion/ealing-living-wage-alliance-founder-michael-milne-writes-about-ealing-councils-failures-to-implement-living-wage-pay-when-it-promised-it-would/"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "Speaking to Ealing News on 25 April",
+      "post": "post:5849581",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/politics/ealing-council-elections-2026/ealing-labour-leader-peter-mason-on-why-voters-should-back-labour/"
+    },
+    {
+      "domain": "ealingtoday.co.uk",
+      "label": "Mason awarded himself a 71% pay rise",
+      "post": "post:5849581",
+      "provenance": "source-post-link",
+      "url": "https://www.ealingtoday.co.uk/default.asp?section=community&spage=common/eacouncil220.htm"
+    },
+    {
+      "domain": "lse.ac.uk",
+      "label": "independent MRP modelling commissioned by the LSE and conducted by JL Partners",
+      "post": "post:5849581",
+      "provenance": "source-post-link",
+      "url": "https://www.lse.ac.uk/news/london-in-unprecedented-state-of-political-flux"
+    },
+    {
+      "domain": "mylondon.news",
+      "label": "Ealing school catering staff were being paid £8.91 per hour",
+      "post": "post:5849581",
+      "provenance": "source-post-link",
+      "url": "https://www.mylondon.news/news/west-london-news/ealing-school-catering-staff-paid-20380035"
+    },
+    {
+      "domain": "x.com",
+      "label": "tweeted from an identical Citizens UK event",
+      "post": "post:5849581",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/1519379301174546432"
+    },
+    {
+      "domain": "youtube.com",
+      "label": "Peter Mason",
+      "post": "post:5849581",
+      "provenance": "source-post-link",
+      "url": "https://youtube.com/clip/Ugkx65l5KHD6pLSiwBXKga0CY1feVdZOPT42?si=zZV_fW5PAzrxDzsM"
+    },
+    {
+      "domain": "awards.lgcplus.com",
+      "label": "LGC award",
+      "post": "post:5850105",
+      "provenance": "source-post-link",
+      "url": "https://awards.lgcplus.com/lgca2026/en/page/2026-shortlist"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "Q2 2025/26 Performance Report",
+      "post": "post:5850105",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/documents/s23017/Council%20Plan%20Performance%20Report%20Q2%20202526.pdf"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "Ealing.News",
+      "post": "post:5850105",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/news/fly-tipping-in-ealing-up-50-in-a-year-to-over-25000-incidents/"
+    },
+    {
+      "domain": "gov.uk",
+      "label": "Defra Fly-Tipping Statistics for England, 2024-25",
+      "post": "post:5850105",
+      "provenance": "source-post-link",
+      "url": "https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england"
+    },
+    {
+      "domain": "gov.uk",
+      "label": "Defra figures published today",
+      "post": "post:5850105",
+      "provenance": "source-post-link",
+      "url": "https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england/fly-tipping-statistics-for-england-2024-to-2025"
+    },
+    {
+      "domain": "ealing-audit.southallstories.uk",
+      "label": "community audit tool",
+      "post": "post:5851892",
+      "provenance": "source-post-link",
+      "url": "https://ealing-audit.southallstories.uk/"
+    },
+    {
+      "domain": "web.archive.org",
+      "label": "15 January 2012",
+      "post": "post:5851892",
+      "provenance": "source-post-link",
+      "url": "https://web.archive.org/web/20120115000000*/https://www.ealing.gov.uk/download/downloads/id/488/welcome_guide_for_new_residents"
+    },
+    {
+      "domain": "web.archive.org",
+      "label": "Wayback Machine",
+      "post": "post:5851892",
+      "provenance": "source-post-link",
+      "url": "https://web.archive.org/web/20241201000000*/https://www.ealing.gov.uk/download/downloads/id/488/welcome_guide_for_new_residents"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "Ukrainian",
+      "post": "post:5851892",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/19835/welcome_guide_for_ukrainians_in_english.pdf"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "Welcome Guide for New Residents",
+      "post": "post:5851892",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/488/welcome_guide_for_new_residents"
+    },
+    {
+      "domain": "docs.google.com",
+      "label": "here",
+      "post": "post:5852218",
+      "provenance": "source-post-link",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdF322O7WcchbiC6brfrpAD0cJJ7Y-XAIYAvz2GRB_ONOMNMg/viewform"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "planning baseline",
+      "post": "post:5852218",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/documents/s1728/Appendix%202%20Southall%20Planning%20Baseline%20Report.pdf"
+    },
+    {
+      "domain": "opencouncildata.co.uk",
+      "label": "almost 6,000 Labour councillors",
+      "post": "post:5852218",
+      "provenance": "source-post-link",
+      "url": "https://opencouncildata.co.uk/councillors2.php?y=0"
+    },
+    {
+      "domain": "bbc.co.uk",
+      "label": "massive new data centre",
+      "post": "post:5852218",
+      "provenance": "source-post-link",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7ev27yn7o"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "2024 Southall Regeneration Framework",
+      "post": "post:5852218",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/19585/southall_regeneration_framework.pdf"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "toddler",
+      "post": "post:5852218",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/news/high-court-upholds-ealing-council-childrens-centres-closure/"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "almost 2,000 jobs were lost",
+      "post": "post:5852218",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/news/nearly-2000-jobs-lost-in-ealing-over-past-year/"
+    },
+    {
+      "domain": "hwa.uk.com",
+      "label": "research",
+      "post": "post:5852218",
+      "provenance": "source-post-link",
+      "url": "https://www.hwa.uk.com/site/wp-content/uploads/2022/08/M-Dogra.pdf"
+    },
+    {
+      "domain": "londonforum.org.uk",
+      "label": "London Forum",
+      "post": "post:5852218",
+      "provenance": "source-post-link",
+      "url": "https://www.londonforum.org.uk/2026/04/28/what-happened-in-southall/"
+    },
+    {
+      "domain": "x.com",
+      "label": "in his own words",
+      "post": "post:5852218",
+      "provenance": "source-post-link",
+      "url": "https://x.com/_petermason/status/1547297635689807874"
+    },
+    {
+      "domain": "x.com",
+      "label": "the smell of damp",
+      "post": "post:5852218",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/1423052658189946881"
+    },
+    {
+      "domain": "x.com",
+      "label": "Labour Councillor of the Year 2026",
+      "post": "post:5852218",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/2050188143081533447"
+    },
+    {
+      "domain": "ealingindependents.org",
+      "label": "Ealing Community Independents",
+      "post": "post:5855020",
+      "provenance": "source-post-link",
+      "url": "https://ealingindependents.org/"
+    },
+    {
+      "domain": "forensic-architecture.org",
+      "label": "Battalion 89 of the Israeli 8th Armoured Brigade",
+      "post": "post:5855020",
+      "provenance": "source-post-link",
+      "url": "https://forensic-architecture.org/investigation/the-massacre-at-tur-al-zagh"
+    },
+    {
+      "domain": "whocanivotefor.co.uk",
+      "label": "Yousef Qandeel",
+      "post": "post:5855020",
+      "provenance": "source-post-link",
+      "url": "https://whocanivotefor.co.uk/person/128743/yousef-qandeel"
+    },
+    {
+      "domain": "communitypoweredreporting.co.uk",
+      "label": "What Happened to Southall?",
+      "post": "post:5855020",
+      "provenance": "source-post-link",
+      "url": "https://www.communitypoweredreporting.co.uk/"
+    },
+    {
+      "domain": "facebook.com",
+      "label": "a tree was planted on 29 October 1998",
+      "post": "post:5855020",
+      "provenance": "source-post-link",
+      "url": "https://www.facebook.com/EUJPS/posts/pfbid02SiNMMCXTDEQXdCd4hdCC9jxVLkUfykoqJJ9vjtJ3HUGS65on49EUZCSu98L854uSl"
+    },
+    {
+      "domain": "facebook.com",
+      "label": "Key of Return sculpture",
+      "post": "post:5855020",
+      "provenance": "source-post-link",
+      "url": "https://www.facebook.com/EdinburghAction4Palestine/posts/pfbid037ycq2Tu5QubpUNxuy3HBdDPYBWsgvCbnXYEpruS1RLd8Dg4Td72iJDiKUjfYVTqEl"
+    },
+    {
+      "domain": "facebook.com",
+      "label": "bench beside it",
+      "post": "post:5855020",
+      "provenance": "source-post-link",
+      "url": "https://www.facebook.com/EdinburghAction4Palestine/posts/pfbid0CfmjuxVmmqRqmqy4fsuPXCxDKWnTwPr4dw7Pw1psDTEGEKjoekweUtGQignQcYhyl"
+    },
+    {
+      "domain": "memopublishers.com",
+      "label": "Mohamed Rajab Abu Khadra",
+      "post": "post:5855020",
+      "provenance": "source-post-link",
+      "url": "https://www.memopublishers.com/wp-content/uploads/2023/04/Dawayima-Massacre.pdf"
+    },
+    {
+      "domain": "middleeasteye.net",
+      "label": "planting prickly pear cactus",
+      "post": "post:5855020",
+      "provenance": "source-post-link",
+      "url": "https://www.middleeasteye.net/discover/palestine-plants-symbolic-meanings"
+    },
+    {
+      "domain": "palquest.org",
+      "label": "a letter written in 1948 by an Israeli soldier",
+      "post": "post:5855020",
+      "provenance": "source-post-link",
+      "url": "https://www.palquest.org/en/historictext/21728/al-dawayima-massacre-29-october-1948-israeli-soldier-eye-witness-account"
+    },
+    {
+      "domain": "plands.org",
+      "label": "Palestine Land Society's detailed account",
+      "post": "post:5855020",
+      "provenance": "source-post-link",
+      "url": "https://www.plands.org/en/articles-speeches/articles/2023/anatomy-of-a-massacre-ed-dawayima,-hebron-district"
+    },
+    {
+      "domain": "un.org",
+      "label": "wrote to the Security Council",
+      "post": "post:5855020",
+      "provenance": "source-post-link",
+      "url": "https://www.un.org/unispal/document/auto-insert-210480/"
+    },
+    {
+      "domain": "un.org",
+      "label": "sworn testimony",
+      "post": "post:5855020",
+      "provenance": "source-post-link",
+      "url": "https://www.un.org/unispal/document/auto-insert-211083/"
+    },
+    {
+      "domain": "votepalestine.co.uk",
+      "label": "Vote Palestine",
+      "post": "post:5855020",
+      "provenance": "source-post-link",
+      "url": "https://www.votepalestine.co.uk"
+    },
+    {
+      "domain": "youtu.be",
+      "label": "film",
+      "post": "post:5855020",
+      "provenance": "source-post-link",
+      "url": "https://youtu.be/qQSmuuFfWOw"
+    },
+    {
+      "domain": "archives.battleofideas.org.uk",
+      "label": "grew up",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://archives.battleofideas.org.uk/2024/speaker/yair-zivan/"
+    },
+    {
+      "domain": "d3n8a8pro7vhmx.cloudfront.net",
+      "label": "Jewish Labour Movement",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/jewishlabour/pages/471/attachments/original/1606850588/JLM_Rule_Book_2019.pdf"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "removed all Band D applicants from the register",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/documents/s18496/Housing%20Development%20and%20Regeneration%20Report%20to%20Scrutiny.pdf"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "Mason's own leadership allowance rose by 70% to £58,000",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://ealing.news/news/ealing-council-leader-peter-mason-massive-allowance-rise-by-over-70/"
+    },
+    {
+      "domain": "ealinglibdems.org.uk",
+      "label": "Community Infrastructure Levy",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://ealinglibdems.org.uk/news/article/ealing-labour-finally-tax-developers-after-15-years-delay"
+    },
+    {
+      "domain": "ealingmatters.org.uk",
+      "label": "Lewis Cox",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://ealingmatters.org.uk/wp-content/uploads/2021/09/210901-NL11-LCox-resignation.pdf"
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "label": "CPGB(ML)",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Great_Britain_(Marxist%E2%80%93Leninist"
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "label": "Blair Peach",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://en.wikipedia.org/wiki/Death_of_Blair_Peach"
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "label": "socialist Zionism",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://en.wikipedia.org/wiki/Labor_Zionism"
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "label": "Peter Robert Ness",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://en.wikipedia.org/wiki/Peter_Mason_(politician"
+    },
+    {
+      "domain": "harrowonline.org",
+      "label": "Mason's administration voted to more than double the threshold",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://harrowonline.org/2025/07/16/theyre-trying-to-shut-us-up-west-london-council-doubles-signatures-needed-for-petition-debate/"
+    },
+    {
+      "domain": "lgpsboard.org",
+      "label": "a legal opinion from Nigel Giffin KC",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://lgpsboard.org/wp-content/uploads/2026/01/Oct2024_LGA_LGPSGazaeventsopinion_from_Nigel_Giffin_KC_-1.pdf"
+    },
+    {
+      "domain": "londonciv.org.uk",
+      "label": "London CIV",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://londonciv.org.uk/governance"
+    },
+    {
+      "domain": "news.sky.com",
+      "label": "Mason led the campaign",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://news.sky.com/story/jeremy-corbyn-to-face-confidence-vote-from-jewish-labour-movement-11686632"
+    },
+    {
+      "domain": "orbooks.com",
+      "label": "Weaponising Anti-Semitism",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://orbooks.com/catalog/weaponising-anti-semitism/"
+    },
+    {
+      "domain": "photos.app.goo.gl",
+      "label": "on video, (around the 3:30 mark in the full version)",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://photos.app.goo.gl/4dN7oLJizqrSCZeG6"
+    },
+    {
+      "domain": "theviewfromw5.substack.com",
+      "label": "just 180 had been completed",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://theviewfromw5.substack.com/p/ealing-delivers-16-percent-of-its-affordable-homes-target"
+    },
+    {
+      "domain": "threadreaderapp.com",
+      "label": "Jody McIntyre",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://threadreaderapp.com/scrolly/2052069108624089239"
+    },
+    {
+      "domain": "web.archive.org",
+      "label": "Internet Archive",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://web.archive.org/web/20181219221205/https://www.ealinglabour.com/"
+    },
+    {
+      "domain": "architectsjournal.co.uk",
+      "label": "demolished more social homes than any other London borough",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.architectsjournal.co.uk/news/londons-social-housing-depleted-by-demolition-study-claims"
+    },
+    {
+      "domain": "communitypoweredreporting.co.uk",
+      "label": "Community Powered Reporting",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.communitypoweredreporting.co.uk"
+    },
+    {
+      "domain": "communitypoweredreporting.co.uk",
+      "label": "What Happened to Southall?",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.communitypoweredreporting.co.uk/"
+    },
+    {
+      "domain": "communitypoweredreporting.co.uk",
+      "label": "open letter",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.communitypoweredreporting.co.uk/full-report/"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "remarks about deportation",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/politics/ealing-council-elections-2026/labour-criticises-tory-pitshanger-candidate-over-deportation-remarks/"
+    },
+    {
+      "domain": "facebook.com",
+      "label": "spoken",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.facebook.com/share/v/18epYA5tCQ/"
+    },
+    {
+      "domain": "instituteforgovernment.org.uk",
+      "label": "Institute for Government",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.instituteforgovernment.org.uk/explainer/immigration-and-asylum-party-positions"
+    },
+    {
+      "domain": "jewishnews.co.uk",
+      "label": "Yair Zivan",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.jewishnews.co.uk/best-of-british-three-uk-jews-now-working-in-the-heart-of-israels-government/"
+    },
+    {
+      "domain": "lalkar.org",
+      "label": "Saklatvala Hall",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.lalkar.org/article/1781/saklatvala-hall-opened"
+    },
+    {
+      "domain": "linkedin.com",
+      "label": "Campaigns Officer",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.linkedin.com/in/peter-mason-5a377941"
+    },
+    {
+      "domain": "linkedin.com",
+      "label": "UJS Campaign Director",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.linkedin.com/in/yairzivan"
+    },
+    {
+      "domain": "linkedin.com",
+      "label": "Leicester",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.linkedin.com/posts/peter-mason-5a377941_this-weekend-i-headed-back-to-leicester-activity-7301715786824306689-5sFi"
+    },
+    {
+      "domain": "londonforum.org.uk",
+      "label": "London Forum",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.londonforum.org.uk/2026/04/28/what-happened-in-southall/"
+    },
+    {
+      "domain": "mylondon.news",
+      "label": "later apologised",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.mylondon.news/news/west-london-news/former-ealing-housing-boss-admits-20455460"
+    },
+    {
+      "domain": "mylondon.news",
+      "label": "statement attacking the Ealing Community Independents (ECI)",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.mylondon.news/news/west-london-news/left-wing-party-labour-ealing-33666840"
+    },
+    {
+      "domain": "nationalarchives.gov.uk",
+      "label": "Shapurji Saklatvala",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/shapurji-saklatvala"
+    },
+    {
+      "domain": "standard.co.uk",
+      "label": "Kate Crawford",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.standard.co.uk/news/politics/local-elections-london-ealing-councillor-kate-crawford-defection-labour-b1276728.html"
+    },
+    {
+      "domain": "telegraph.co.uk",
+      "label": "personally voted to block Andy Burnham",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.telegraph.co.uk/gift/9249993120211e2f"
+    },
+    {
+      "domain": "theatlantic.com",
+      "label": "The Atlantic",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.theatlantic.com/international/archive/2019/12/british-jews-are-worried-jeremy-corbyn-and-labour-party/603259/"
+    },
+    {
+      "domain": "thecanary.co",
+      "label": "details",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.thecanary.co/uk/analysis/2026/05/07/shame-london-labour/"
+    },
+    {
+      "domain": "theguardian.com",
+      "label": "the Guardian in May 2008",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://www.theguardian.com/education/2008/may/14/highereducation.uk"
+    },
+    {
+      "domain": "x.com",
+      "label": "tweeted",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://x.com/_petermason/status/1075331519118479360"
+    },
+    {
+      "domain": "x.com",
+      "label": "Hilary Wise",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/1044606334849699840"
+    },
+    {
+      "domain": "x.com",
+      "label": "public statement",
+      "post": "post:5855337",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/1211648369178923008"
+    },
+    {
+      "domain": "communitypoweredreporting.co.uk",
+      "label": "Community Powered Reporting",
+      "post": "post:5858389",
+      "provenance": "source-post-link",
+      "url": "https://communitypoweredreporting.co.uk"
+    },
+    {
+      "domain": "data.ealing.gov.uk",
+      "label": "2019 Drugs and Alcohol JSNA",
+      "post": "post:5858389",
+      "provenance": "source-post-link",
+      "url": "https://data.ealing.gov.uk/wp-content/uploads/Drugs-and-Alcohol-in-Ealing-Adults-JSNA-2019.pdf"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "68 The Broadway, Southall",
+      "post": "post:5858389",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/documents/s11538/Drug%20alcohol%20services%20by%20entering%20into%20two%20new%20leases%20and%20refurbishments.pdf"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "Substance Misuse Service report",
+      "post": "post:5858389",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/documents/s19482/Substance%20Misuse%20Service.pdf"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "Individual Cabinet Member Decision",
+      "post": "post:5858389",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/mgIssueHistoryHome.aspx?IId=9740&Opt=0"
+    },
+    {
+      "domain": "andrewteale.me.uk",
+      "label": "Hanwell Broadway",
+      "post": "post:5858389",
+      "provenance": "source-post-link",
+      "url": "https://www.andrewteale.me.uk/leap/results/2022/5/#ward21428"
+    },
+    {
+      "domain": "andrewteale.me.uk",
+      "label": "Southall Broadway",
+      "post": "post:5858389",
+      "provenance": "source-post-link",
+      "url": "https://www.andrewteale.me.uk/leap/results/2022/5/#ward21440"
+    },
+    {
+      "domain": "andrewteale.me.uk",
+      "label": "Southall Green",
+      "post": "post:5858389",
+      "provenance": "source-post-link",
+      "url": "https://www.andrewteale.me.uk/leap/results/2022/5/#ward21441"
+    },
+    {
+      "domain": "andrewteale.me.uk",
+      "label": "Walpole ward",
+      "post": "post:5858389",
+      "provenance": "source-post-link",
+      "url": "https://www.andrewteale.me.uk/leap/results/2022/5/#ward21444"
+    },
+    {
+      "domain": "changegrowlive.org",
+      "label": "Southall Town Hall",
+      "post": "post:5858389",
+      "provenance": "source-post-link",
+      "url": "https://www.changegrowlive.org/service/ealing-rise/our-hubs"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "Ealing JSNA 2023",
+      "post": "post:5858389",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/20250/drugs_and_alcohol_-_jsna_2023.pdf"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "Liberal Democrats have built their entire campaign",
+      "post": "post:5858389",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/news/opinion/opinion-ealing-lib-dems-call-for-changes-to-improve-west-ealing-following-residents-concerns-about-the-area/"
+    },
+    {
+      "domain": "pilc.org.uk",
+      "label": "went to court to save",
+      "post": "post:5858389",
+      "provenance": "source-post-link",
+      "url": "https://www.pilc.org.uk/news/save-southall-town-hall-campaign-victory/"
+    },
+    {
+      "domain": "plumplot.co.uk",
+      "label": "drug crime rose 63.6% in the year to April 2026",
+      "post": "post:5858389",
+      "provenance": "source-post-link",
+      "url": "https://www.plumplot.co.uk/Southall-drugs-crime-statistics.html"
+    },
+    {
+      "domain": "police.uk",
+      "label": "Hanwell Broadway",
+      "post": "post:5858389",
+      "provenance": "source-post-link",
+      "url": "https://www.police.uk/pu/your-area/metropolitan-police-service/hanwell-broadway/"
+    },
+    {
+      "domain": "police.uk",
+      "label": "Metropolitan Police data for Southall Broadway",
+      "post": "post:5858389",
+      "provenance": "source-post-link",
+      "url": "https://www.police.uk/pu/your-area/metropolitan-police-service/southall-broadway/"
+    },
+    {
+      "domain": "police.uk",
+      "label": "Southall Green",
+      "post": "post:5858389",
+      "provenance": "source-post-link",
+      "url": "https://www.police.uk/pu/your-area/metropolitan-police-service/southall-green/"
+    },
+    {
+      "domain": "police.uk",
+      "label": "Walpole",
+      "post": "post:5858389",
+      "provenance": "source-post-link",
+      "url": "https://www.police.uk/pu/your-area/metropolitan-police-service/walpole/"
+    },
+    {
+      "domain": "policeoracle.com",
+      "label": "open drug use, shoplifting and feeling unsafe",
+      "post": "post:5858389",
+      "provenance": "source-post-link",
+      "url": "https://www.policeoracle.com/article-library/londons-wild-west-of-drugs-shoplifting-and-low-public-confidence/"
+    },
+    {
+      "domain": "caselaw.nationalarchives.gov.uk",
+      "label": "approved judgment",
+      "post": "post:5858871",
+      "provenance": "source-post-link",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2026/886"
+    },
+    {
+      "domain": "chiswickcalendar.co.uk",
+      "label": "as the Chiswick Calendar reported",
+      "post": "post:5858871",
+      "provenance": "source-post-link",
+      "url": "https://chiswickcalendar.co.uk/parents-take-ealing-council-to-court-over-decision-to-close-childrens-centres/"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "Early Help Strategy report",
+      "post": "post:5858871",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/documents/s22212/FINAL%20Ealings%20Early%20Help%20Strategy%20Childrens%20Scrutiny%20Report_v1%2014.11.25.pdf"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "Children’s Scrutiny Panel meeting of 25 November 2025",
+      "post": "post:5858871",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/ieListDocuments.aspx?MId=6661"
+    },
+    {
+      "domain": "ealing.nub.news",
+      "label": "May 2021",
+      "post": "post:5858871",
+      "provenance": "source-post-link",
+      "url": "https://ealing.nub.news/news/local-news/peter-mason-to-replace-julian-bell-as-ealing-council-leader"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "Ealing News",
+      "post": "post:5858871",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/news/ealing-council-increases-councillor-allowances/"
+    },
+    {
+      "domain": "dosomethinggood.ealing.gov.uk",
+      "label": "a 25-member Town Team",
+      "post": "post:5859227",
+      "provenance": "source-post-link",
+      "url": "https://dosomethinggood.ealing.gov.uk/your-voice-your-town/southall-town-team/"
+    },
+    {
+      "domain": "dosomethinggood.ealing.gov.uk",
+      "label": "Your Voice, Your Town",
+      "post": "post:5859227",
+      "provenance": "source-post-link",
+      "url": "https://dosomethinggood.ealing.gov.uk/your-voice-your-town/southall/"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "Southall Broadway ward forum on the council's own record",
+      "post": "post:5859227",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk"
+    },
+    {
+      "domain": "one-nation.org.uk",
+      "label": "One Nation",
+      "post": "post:5859227",
+      "provenance": "source-post-link",
+      "url": "https://one-nation.org.uk"
+    },
+    {
+      "domain": "socialistworker.co.uk",
+      "label": "Salvinder Dhillon",
+      "post": "post:5859227",
+      "provenance": "source-post-link",
+      "url": "https://socialistworker.co.uk/news/help-respect-do-well-in-southall/"
+    },
+    {
+      "domain": "andrewteale.me.uk",
+      "label": "2018",
+      "post": "post:5859227",
+      "provenance": "source-post-link",
+      "url": "https://www.andrewteale.me.uk/leap/results/2018/5/#ward98"
+    },
+    {
+      "domain": "andrewteale.me.uk",
+      "label": "2022",
+      "post": "post:5859227",
+      "provenance": "source-post-link",
+      "url": "https://www.andrewteale.me.uk/leap/results/2022/5/#ward21441"
+    },
+    {
+      "domain": "communitypoweredreporting.co.uk",
+      "label": "the failings of Ealing Labour in Southall",
+      "post": "post:5859227",
+      "provenance": "source-post-link",
+      "url": "https://www.communitypoweredreporting.co.uk/"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "more than £70,000 had been spent on consultant fees with no functioning replacement delivered",
+      "post": "post:5859227",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/ealing-council/ealing-libdems-call-on-ealing-council-for-return-of-ward-forums/"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "Six of twelve candidates appeared",
+      "post": "post:5859227",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/politics/general-election-2024/opinion-what-it-was-like-attending-the-ealing-southall-hustings/"
+    },
+    {
+      "domain": "ealingtoday.co.uk",
+      "label": "its stated justification",
+      "post": "post:5859227",
+      "provenance": "source-post-link",
+      "url": "https://www.ealingtoday.co.uk/default.asp?section=community&spage=common/eacouncil269.htm"
+    },
+    {
+      "domain": "ealingtoday.co.uk",
+      "label": "He lost control",
+      "post": "post:5859227",
+      "provenance": "source-post-link",
+      "url": "https://www.ealingtoday.co.uk/default.asp?section=info&page=easouthallmeeting001.htm"
+    },
+    {
+      "domain": "visitsouthall.co.uk",
+      "label": "organised a full council election hustings at the Dominion Centre",
+      "post": "post:5859227",
+      "provenance": "source-post-link",
+      "url": "https://www.visitsouthall.co.uk/Events/EventsDetails.php?recordID=1917"
+    },
+    {
+      "domain": "visitsouthall.co.uk",
+      "label": "hosted another General Election hustings",
+      "post": "post:5859227",
+      "provenance": "source-post-link",
+      "url": "https://www.visitsouthall.co.uk/Events/EventsDetails.php?recordID=2083"
+    },
+    {
+      "domain": "visitsouthall.co.uk",
+      "label": "hosted a parliamentary hustings at Norwood Hall",
+      "post": "post:5859227",
+      "provenance": "source-post-link",
+      "url": "https://www.visitsouthall.co.uk/Events/EventsDetails.php?recordID=2446"
+    },
+    {
+      "domain": "visitsouthall.co.uk",
+      "label": "hosted a parliamentary hustings",
+      "post": "post:5859227",
+      "provenance": "source-post-link",
+      "url": "https://www.visitsouthall.co.uk/News/NewsDetails.php?recordID=969"
+    },
+    {
+      "domain": "youtu.be",
+      "label": "was filmed",
+      "post": "post:5859227",
+      "provenance": "source-post-link",
+      "url": "https://youtu.be/ZnygOhPrMCU"
+    },
+    {
+      "domain": "communitypoweredreporting.co.uk",
+      "label": "Community Powered Reporting investigation",
+      "post": "post:5859443",
+      "provenance": "source-post-link",
+      "url": "https://www.communitypoweredreporting.co.uk/"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "councillor allowances",
+      "post": "post:5859443",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201044/councillors/570/councillors_scheme_of_allowances"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "Find your polling station »",
+      "post": "post:5859443",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201065/elections/3270/find_your_polling_station"
+    },
+    {
+      "domain": "youtu.be",
+      "label": "79 in 2017, 51 in 2018, 82 in 2019, and 38 in the first part of 2020",
+      "post": "post:5859521",
+      "provenance": "source-post-link",
+      "url": "https://youtu.be/K2-vb7aB45c?si=KC79XKIAo3iPwT1y&t=5264"
+    },
+    {
+      "domain": "ccrjustice.org",
+      "label": "corporate capture",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://ccrjustice.org/Corporate-Capture"
+    },
+    {
+      "domain": "dosomethinggood.ealing.gov.uk",
+      "label": "Southall Town Team",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://dosomethinggood.ealing.gov.uk/your-voice-your-town/southall-town-team/"
+    },
+    {
+      "domain": "drive.google.com",
+      "label": "2023 \"consultation\" report",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://drive.google.com/file/d/1NZEHS3AV-h-pDZkP5dcT_hJ4tKNt5mXv/view?usp=drivesdk"
+    },
+    {
+      "domain": "drive.google.com",
+      "label": "SouthAll Community News",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://drive.google.com/file/d/1O9SsfwPjnmlu3LqxIMfBNtwLtrMLHex0/view?usp=drivesdk"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "Ealing Safer Neighborhood Board",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/mgCommitteeDetails.aspx?ID=188"
+    },
+    {
+      "domain": "esnb.org.uk",
+      "label": "https://esnb.org.uk/",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://esnb.org.uk/"
+    },
+    {
+      "domain": "register.charitycommission.gov.uk",
+      "label": "Charity Commission register",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://register.charitycommission.gov.uk/en/charity-details/?regId=1104671"
+    },
+    {
+      "domain": "southallcommunityalliance.com",
+      "label": "Southall Community Alliance",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://southallcommunityalliance.com/trustees/"
+    },
+    {
+      "domain": "thegreenquartercommunity.co.uk",
+      "label": "Community Chest",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://thegreenquartercommunity.co.uk/community-chest-programmes/"
+    },
+    {
+      "domain": "thegreenquartercommunity.co.uk",
+      "label": "visit the Green Quarter",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://thegreenquartercommunity.co.uk/visiting-the-green-quarter/"
+    },
+    {
+      "domain": "thegreenquartercommunity.co.uk",
+      "label": "The Green Quarter",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://thegreenquartercommunity.co.uk/wp-content/uploads/2025/12/The-Green-Quarter-Community-Newsletter-December-2025.pdf"
+    },
+    {
+      "domain": "whocanivotefor.co.uk",
+      "label": "Ealing Common ward",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://whocanivotefor.co.uk/elections/local.ealing.ealing-common.2022-05-05/ealing-common/"
+    },
+    {
+      "domain": "andrewteale.me.uk",
+      "label": "Greenford Broadway ward",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://www.andrewteale.me.uk/leap/ward/85/#2010-05-06"
+    },
+    {
+      "domain": "berkeleyfoundation.org.uk",
+      "label": "Berkeley Foundation",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://www.berkeleyfoundation.org.uk/our-people"
+    },
+    {
+      "domain": "berkeleygroup.co.uk",
+      "label": "the story was published on 23 January 2024",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://www.berkeleygroup.co.uk/news-and-insights/news-and-features/2024/community-chest-programme-supports-western-road-urban-garden"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "also reported by Ealing.News",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/news/berkeley-cash-boost-for-southall-community-groups/"
+    },
+    {
+      "domain": "ealinglabour.co.uk",
+      "label": "Ealing Labour candidate profile",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://www.ealinglabour.co.uk/profile/jags-sanghera-2/"
+    },
+    {
+      "domain": "gov.uk",
+      "label": "guidance on conflicts of interest",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://www.gov.uk/government/publications/identifying-and-managing-conflicts-of-interest-in-a-charity-cc29/conflicts-of-interest-a-guide-for-charity-trustees"
+    },
+    {
+      "domain": "instagram.com",
+      "label": "coffee cart",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://www.instagram.com/reel/DHmHlpTN7oh/?igsh=aGJoZjMzNmdpZHBn"
+    },
+    {
+      "domain": "linkedin.com",
+      "label": "Berkeley Group as Community Liaison Officer",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://www.linkedin.com/in/jags-sanghera-04722153"
+    },
+    {
+      "domain": "un.org",
+      "label": "greenwashing",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://www.un.org/en/climatechange/science/climate-issues/greenwashing"
+    },
+    {
+      "domain": "youtu.be",
+      "label": "Manor Way Allotments",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://youtu.be/O5kvDL-Ci0I"
+    },
+    {
+      "domain": "youtube.com",
+      "label": "commenter",
+      "post": "post:5859956",
+      "provenance": "source-post-link",
+      "url": "https://youtube.com/watch?v=O5kvDL-Ci0I&lc=UgzRta6WWzGcv0559QJ4AaABAg&si=G40lokqPQRq4aaGb"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "chair of the pensions fund panel",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/Data/Pension%20Fund%20Panel/202111251900/Agenda/Appendix%202%20-%20The%20Pension%20Fund%20Newsletter%202020-21.pdf"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "Steve Donnelly",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=149"
+    },
+    {
+      "domain": "ealingindependents.org",
+      "label": "Ealing Community Independents",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://ealingindependents.org/"
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "label": "paper candidates",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://en.wikipedia.org/wiki/Paper_candidate"
+    },
+    {
+      "domain": "labourlist.org",
+      "label": "antisemitism",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://labourlist.org/2026/05/the-greens-risk-repeating-labours-antisemitism-crisis/"
+    },
+    {
+      "domain": "neighbournet.com",
+      "label": "held the line against",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://neighbournet.com/server/common/ldrseacouncil063.htm"
+    },
+    {
+      "domain": "search.electoralcommission.org.uk",
+      "label": "Electoral Commission",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://search.electoralcommission.org.uk/api/pdf/Registrations/PP18112"
+    },
+    {
+      "domain": "web.archive.org",
+      "label": "Chief Whip",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://web.archive.org/web/20260120183700/https://www.ealinglabour.co.uk/profile/gareth-shaw-2/"
+    },
+    {
+      "domain": "wp.me",
+      "label": "Blue Labour",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://wp.me/pfDRL-2l"
+    },
+    {
+      "domain": "andrewteale.me.uk",
+      "label": "Local Elections Archive Project",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.andrewteale.me.uk/leap/"
+    },
+    {
+      "domain": "andrewteale.me.uk",
+      "label": "Ealing Common",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.andrewteale.me.uk/leap/results/2010/5/#ward82"
+    },
+    {
+      "domain": "andrewteale.me.uk",
+      "label": "Elthorne",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.andrewteale.me.uk/leap/results/2014/5/#ward84"
+    },
+    {
+      "domain": "andrewteale.me.uk",
+      "label": "Salvinder Dhillon",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.andrewteale.me.uk/leap/ward/98/"
+    },
+    {
+      "domain": "communitypoweredreporting.co.uk",
+      "label": "several issues",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.communitypoweredreporting.co.uk/"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "election victory",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201065/elections/3595/council_elections_results_7_may_2026"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "North Acton",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201065/elections/3595/council_elections_results_7_may_2026/11"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "North Hanwell",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201065/elections/3595/council_elections_results_7_may_2026/13"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "South Acton",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201065/elections/3595/council_elections_results_7_may_2026/20"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "Southall Broadway",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201065/elections/3595/council_elections_results_7_may_2026/21"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "Southall Green",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201065/elections/3595/council_elections_results_7_may_2026/22"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "Hanwell Broadway",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201065/elections/3595/council_elections_results_7_may_2026/9"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "Respect",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201276/council_elections/401/council_elections_4_may_2006/22"
+    },
+    {
+      "domain": "gov.uk",
+      "label": "Hilary Benn's SpAd",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.gov.uk/government/publications/special-adviser-data-releases-numbers-and-costs-july-2025/special-adviser-data-releases-numbers-and-costs-july-2025-html"
+    },
+    {
+      "domain": "instituteforgovernment.org.uk",
+      "label": "anti-immigration",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.instituteforgovernment.org.uk/comment/reform-uk-migration-policy-legally-feasible"
+    },
+    {
+      "domain": "lder.org",
+      "label": "proportional representation",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.lder.org/"
+    },
+    {
+      "domain": "libdems.org.uk",
+      "label": "who",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.libdems.org.uk/fairvotes"
+    },
+    {
+      "domain": "linkedin.com",
+      "label": "Onkar Sahota AM",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.linkedin.com/in/peter-mason-5a377941"
+    },
+    {
+      "domain": "prospectmagazine.co.uk",
+      "label": "Maurice Glasman",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.prospectmagazine.co.uk/politics/69342/maurice-glasman-and-the-origins-of-blue-labour"
+    },
+    {
+      "domain": "researchgate.net",
+      "label": "Primacy effects",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.researchgate.net/publication/308019398_The_first_one_wins_Distilling_the_primacy_effect"
+    },
+    {
+      "domain": "roscommonherald.ie",
+      "label": "'Green Army'",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://www.roscommonherald.ie/the-most-irish-englishman-keir-starmer-and-his-advisers-have-close-links-to-ireland_arid-23406.html"
+    },
+    {
+      "domain": "x.com",
+      "label": "comment",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://x.com/_petermason/status/652438083200241664"
+    },
+    {
+      "domain": "x.com",
+      "label": "evidence cited here not for the [faint-hearted",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/1750602712843010325"
+    },
+    {
+      "domain": "x.com",
+      "label": "reportedly",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/2052604529942642934"
+    },
+    {
+      "domain": "x.com",
+      "label": "PJ Lynch",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/2052605405545554001"
+    },
+    {
+      "domain": "x.com",
+      "label": "20.6% of the popular vote",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/2052667318883213332"
+    },
+    {
+      "domain": "x.com",
+      "label": "posted to X",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/2052669277807743190"
+    },
+    {
+      "domain": "x.com",
+      "label": "convert",
+      "post": "post:5863048",
+      "provenance": "source-post-link",
+      "url": "https://x.com/i/status/257980071799832576"
+    },
+    {
+      "domain": "cadentgas.com",
+      "label": "published its own data",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://cadentgas.com/getmedia/30308a35-63cf-40e6-9e10-55d83899ba50/PEA-C4W-Southall-Community-Alliance-Published-March-2023.pdf"
+    },
+    {
+      "domain": "chn.ge",
+      "label": "petition",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://chn.ge/2NarH6k"
+    },
+    {
+      "domain": "councilclimatescorecards.uk",
+      "label": "Council Climate Action Scorecard",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://councilclimatescorecards.uk/#jump=london-borough-of-ealing"
+    },
+    {
+      "domain": "docs.google.com",
+      "label": "Atkins",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://docs.google.com/document/d/1T_RGW_y9_ofPqDraeBjHD2uKvSl6i8ZC/edit?usp=drivesdk&ouid=113401713663505134193&rtpof=true&sd=true"
+    },
+    {
+      "domain": "ealingtransition.org.uk",
+      "label": "detailed community response",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://ealingtransition.org.uk/wp-content/uploads/2019/07/climate-emergency-action-plan.pdf"
+    },
+    {
+      "domain": "policy.friendsoftheearth.uk",
+      "label": "analysis",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://policy.friendsoftheearth.uk/sites/default/files/documents/2022-07/Heat_vulnerability_England_background_briefing_3.pdf"
+    },
+    {
+      "domain": "southalltransition.org",
+      "label": "launched",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://southalltransition.org/wp-content/uploads/2021/02/2021-01-23-making-the-transition.pdf"
+    },
+    {
+      "domain": "trees-cities.files.svdcdn.com",
+      "label": "the lowest tree canopy cover in Ealing",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://trees-cities.files.svdcdn.com/production/files/Ealing-i-Tree-report.pdf"
+    },
+    {
+      "domain": "visitsouthall.co.uk",
+      "label": "In October 2022, speaking at a Southall Community Alliance forum",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://visitsouthall.co.uk/News/NewsDetails.php?recordID=1247"
+    },
+    {
+      "domain": "actonw3.com",
+      "label": "Nic Ferriday presented evidence to the inspectors",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.actonw3.com/default.asp?section=community&spage=common/eahousing021.htm"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "confirmed the delivery numbers",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/homes/retrofit-plan-for-warmer-homes/"
+    },
+    {
+      "domain": "aroundealing.com",
+      "label": "lead",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.aroundealing.com/news/climate-challenge/"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "soil treatment hospital",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/13932/southall_gasworks_faqs.pdf"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "Climate and Ecological Emergency Strategy",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/15879/climate_and_ecological_emergency_strategy_2021-2030.pdf"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "wrote to the then Secretary of State, Kwasi Kwarteng",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/16568/slash_vat_to_help_households_go_green_cllr_deirdre_costigan_urges_minister.pdf"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "2023 progress report",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/18977/2023_progress_report.pdf"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "jointly wrote to Grant Shapps",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/19122/to_grant_shapps_-_climate_action_-_aug_23.pdf"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "Ealing CEES 2025 Progress Report, p.13",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/21252/2025_progress_report_and_better_living_refresh.pdf"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "strategy",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/downloads/download/456/air_quality_action_plan_2022-27"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "Ealing Race Equality Commission",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201112/community_and_living/2916/ealing_race_equality_commission"
+    },
+    {
+      "domain": "ealing.gov.uk",
+      "label": "Climate Emergency",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.gov.uk/info/201281/council_priorities/2866/tackling_the_climate_crisis"
+    },
+    {
+      "domain": "ealingitree.online",
+      "label": "own iTree data",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.ealingitree.online/stories/canopy-cover/0"
+    },
+    {
+      "domain": "egfl.org.uk",
+      "label": "schools climate-change resource page",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.egfl.org.uk/services-children/school-travel/climate-change"
+    },
+    {
+      "domain": "london.gov.uk",
+      "label": "a written answer",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.london.gov.uk/who-we-are/what-london-assembly-does/questions-mayor/find-an-answer/retrofitting-homes-ealing"
+    },
+    {
+      "domain": "metoffice.gov.uk",
+      "label": "1944",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/35c-forecast-today-as-heatwave-continues"
+    },
+    {
+      "domain": "mylondon.news",
+      "label": "previewed by MyLondon",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.mylondon.news/news/west-london-news/london-borough-ranked-among-englands-33327796"
+    },
+    {
+      "domain": "reading.ac.uk",
+      "label": "more than 1,000 excess heat-related deaths in the UK",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.reading.ac.uk/news/2026/Expert-Comment/UK-extreme-heat-expert-explains-May-temperature-swing"
+    },
+    {
+      "domain": "theccc.org.uk",
+      "label": "the Climate Change Committee warned",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+    },
+    {
+      "domain": "theguardian.com",
+      "label": "May 2019, The Observer reported",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.theguardian.com/environment/2019/may/04/brownfield-site-new-homes-building-wrecking-health-southall"
+    },
+    {
+      "domain": "timeanddate.com",
+      "label": "temperature",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.timeanddate.com/weather/@2637490/historic?month=7&year=2018"
+    },
+    {
+      "domain": "whatdotheyknow.com",
+      "label": "confirmed in an FOI response",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://www.whatdotheyknow.com/request/845384/response/2020637/attach/html/5/FOI%20Response%2022%200363%20FINAL.pdf.html"
+    },
+    {
+      "domain": "youtu.be",
+      "label": "video",
+      "post": "post:5884473",
+      "provenance": "source-post-link",
+      "url": "https://youtu.be/7QJNwBAGnxg"
+    },
+    {
+      "domain": "ealing.news",
+      "label": "new logo",
+      "post": "post:5893155",
+      "provenance": "source-post-link",
+      "url": "https://www.ealing.news/news/out-with-the-old-and-in-with-the-new-ealing-council-logo/"
+    },
+    {
+      "domain": "gov.uk",
+      "label": "Forestry Commission",
+      "post": "post:5893155",
+      "provenance": "source-post-link",
+      "url": "https://www.gov.uk/government/publications/definition-of-trees-and-woodland/definition-of-trees-and-woodland#what-is-a-tree"
+    }
+  ],
   "counts": {
+    "citations": 668,
     "entities": 115,
     "links": 1192,
     "posts": 69,
@@ -8399,6 +13078,7 @@
     }
   ],
   "policy": {
+    "article_citations_exported": true,
     "candidates_exported": false,
     "full_post_text_exported": false,
     "raw_source_urls_exported": false,
