@@ -1,0 +1,143 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/davidmarsden/Southall-Zettel/blob/main/schemas/commons-v1.schema.json",
+  "title": "Southall-Zettel Civic Commons Export v1",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "export_name",
+    "publisher",
+    "canonical_corpus",
+    "policy",
+    "counts",
+    "entities",
+    "topics",
+    "posts",
+    "relationships",
+    "sources",
+    "links"
+  ],
+  "properties": {
+    "schema_version": {"const": 1},
+    "export_name": {"type": "string"},
+    "publisher": {"type": "string"},
+    "canonical_corpus": {"type": "string", "format": "uri"},
+    "policy": {
+      "type": "object",
+      "required": ["candidates_exported", "raw_source_urls_exported", "full_post_text_exported", "reviewed_relationships_only"],
+      "properties": {
+        "candidates_exported": {"const": false},
+        "raw_source_urls_exported": {"const": false},
+        "full_post_text_exported": {"const": false},
+        "reviewed_relationships_only": {"const": true}
+      },
+      "additionalProperties": false
+    },
+    "counts": {"type": "object"},
+    "entities": {"type": "array", "items": {"$ref": "#/$defs/entity"}},
+    "topics": {"type": "array", "items": {"$ref": "#/$defs/topic"}},
+    "posts": {"type": "array", "items": {"$ref": "#/$defs/post"}},
+    "relationships": {"type": "array", "items": {"$ref": "#/$defs/relationship"}},
+    "sources": {"type": "array", "items": {"$ref": "#/$defs/source"}},
+    "links": {"type": "array", "items": {"$ref": "#/$defs/link"}}
+  },
+  "$defs": {
+    "entity": {
+      "type": "object",
+      "required": ["id", "name", "review_status", "provenance"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^entity:"},
+        "name": {"type": "string"},
+        "type": {"type": ["string", "null"]},
+        "aliases": {"type": "array", "items": {"type": "string"}},
+        "description": {"type": ["string", "null"]},
+        "review_status": {"const": "reviewed"},
+        "provenance": {"const": "curated-entity"}
+      }
+    },
+    "topic": {
+      "type": "object",
+      "required": ["id", "name", "review_status", "provenance"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^topic:"},
+        "name": {"type": "string"},
+        "aliases": {"type": "array", "items": {"type": "string"}},
+        "review_status": {"const": "reviewed"},
+        "provenance": {"const": "curated-topic"}
+      }
+    },
+    "post": {
+      "type": "object",
+      "required": ["id", "title", "date", "url", "provenance"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^post:"},
+        "title": {"type": "string"},
+        "summary": {"type": ["string", "null"]},
+        "date": {"type": "string"},
+        "lastmod": {"type": ["string", "null"]},
+        "url": {"type": "string", "format": "uri"},
+        "categories": {"type": "array", "items": {"type": "string"}},
+        "sha256": {"type": ["string", "null"]},
+        "provenance": {"const": "southall-stories-corpus"}
+      }
+    },
+    "relationship": {
+      "type": "object",
+      "required": ["id", "from", "to", "type", "directional", "evidence", "review_status", "provenance"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^relationship:"},
+        "from": {"type": "string", "pattern": "^entity:"},
+        "to": {"type": "string", "pattern": "^entity:"},
+        "type": {"type": "string"},
+        "directional": {"type": "boolean"},
+        "evidence": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id"],
+            "properties": {"id": {"type": "string", "pattern": "^post:"}},
+            "additionalProperties": false
+          }
+        },
+        "confidence": {"type": ["string", "null"]},
+        "created_by": {"type": ["string", "null"]},
+        "review_status": {"const": "reviewed"},
+        "valid_from": {"type": ["string", "null"]},
+        "valid_to": {"type": ["string", "null"]},
+        "note": {"type": ["string", "null"]},
+        "provenance": {"const": "reviewed-relationship"}
+      }
+    },
+    "source": {
+      "type": "object",
+      "required": ["id", "title", "review_status", "provenance"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^source:"},
+        "title": {"type": "string"},
+        "publisher": {"type": ["string", "null"]},
+        "source_type": {"type": ["string", "null"]},
+        "canonical_url": {"type": ["string", "null"]},
+        "archive_urls": {"type": "array", "items": {"type": "string"}},
+        "publication_date": {"type": ["string", "null"]},
+        "meeting_date": {"type": ["string", "null"]},
+        "cited_by": {"type": "array", "items": {"type": "string", "pattern": "^post:"}},
+        "related_entities": {"type": "array", "items": {"type": "string", "pattern": "^entity:"}},
+        "related_topics": {"type": "array", "items": {"type": "string", "pattern": "^topic:"}},
+        "review_status": {"const": "reviewed"},
+        "temporal_status": {"type": ["string", "null"]},
+        "provenance": {"const": "reviewed-source-record"}
+      }
+    },
+    "link": {
+      "type": "object",
+      "required": ["source", "target", "type", "provenance"],
+      "properties": {
+        "source": {"type": "string"},
+        "target": {"type": "string"},
+        "type": {"enum": ["mentioned-in", "links-to"]},
+        "provenance": {"enum": ["deterministic-alias-match", "source-post-link"]}
+      },
+      "additionalProperties": false
+    }
+  }
+}
