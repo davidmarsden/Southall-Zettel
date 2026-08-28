@@ -184,10 +184,14 @@
       "url": "https://www.ealing.gov.uk/download/downloads/id/18312/to_thames_water_-_sewage_entering_into_the_river_brent.pdf"
     },
     {
+      "article_label": "higher calibre",
+      "destination_title": "Ealing's Local Web site",
       "domain": "ealingtoday.co.uk",
-      "label": "higher calibre",
+      "label": "Ealing's Local Web site",
       "post": "post:5543316",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealingtoday.co.uk/default.asp?section=community&spage=common/eacouncil220.htm",
+      "title_source": "html-title",
       "url": "https://www.ealingtoday.co.uk/default.asp?section=community&spage=common/eacouncil220.htm"
     },
     {
@@ -198,10 +202,14 @@
       "url": "https://www.london.gov.uk/sites/default/files/opdc_2020.21_audited_annual_report_and_accounts.pdf"
     },
     {
+      "article_label": "Savings",
+      "destination_title": "3 West London children's centres saved but 10 will shut - full list",
       "domain": "mylondon.news",
-      "label": "Savings",
+      "label": "3 West London children's centres saved but 10 will shut - full list",
       "post": "post:5543316",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.mylondon.news/news/west-london-news/3-ealing-childrens-centres-saved-31844687",
+      "title_source": "og:title",
       "url": "https://www.mylondon.news/news/west-london-news/3-ealing-childrens-centres-saved-31844687"
     },
     {
@@ -1563,10 +1571,14 @@
       "url": "https://www.ealing.gov.uk/download/downloads/id/18971/land_and_property_strategy.pdf"
     },
     {
+      "article_label": "substantial personal enrichment",
+      "destination_title": "Ealing's Local Web site",
       "domain": "ealingtoday.co.uk",
-      "label": "substantial personal enrichment",
+      "label": "Ealing's Local Web site",
       "post": "post:5581562",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealingtoday.co.uk/default.asp?section=community&spage=common/eacouncil220.htm",
+      "title_source": "html-title",
       "url": "https://www.ealingtoday.co.uk/default.asp?section=community&spage=common/eacouncil220.htm"
     },
     {
@@ -1938,10 +1950,14 @@
       "url": "https://www.ealingtimes.co.uk/news/54754.southalls-inner-city-deprivation/"
     },
     {
+      "article_label": "massively increased allowances",
+      "destination_title": "Ealing's Local Web site",
       "domain": "ealingtoday.co.uk",
-      "label": "massively increased allowances",
+      "label": "Ealing's Local Web site",
       "post": "post:5754191",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealingtoday.co.uk/default.asp?section=community&spage=common/eacouncil220.htm",
+      "title_source": "html-title",
       "url": "https://www.ealingtoday.co.uk/default.asp?section=community&spage=common/eacouncil220.htm"
     },
     {
@@ -1959,10 +1975,14 @@
       "url": "https://www.facebook.com/share/v/1ZcEq2oPo2/"
     },
     {
+      "article_label": "Defra's national fly-tipping dataset",
+      "destination_title": "Fly-tipping statistics for England",
       "domain": "gov.uk",
-      "label": "Defra's national fly-tipping dataset",
+      "label": "Fly-tipping statistics for England",
       "post": "post:5754191",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england",
+      "title_source": "og:title",
       "url": "https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england"
     },
     {
@@ -2208,10 +2228,14 @@
       "url": "https://www.aroundealing.com/news/new-mayor-and-cabinet/attachment/new-cabinet/"
     },
     {
+      "article_label": "the council’s own delivery plan",
+      "destination_title": "2024-2025 Delivery plan",
       "domain": "ealing.gov.uk",
-      "label": "the council’s own delivery plan",
+      "label": "2024-2025 Delivery plan",
       "post": "post:5756463",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.gov.uk/download/downloads/id/20045/delivery_plan_2024-25.pdf",
+      "title_source": "pdf-title",
       "url": "https://www.ealing.gov.uk/download/downloads/id/20045/delivery_plan_2024-25.pdf"
     },
     {
@@ -2418,10 +2442,14 @@
       "url": "http://data.defra.gov.uk/statistics_2019/env/wte/Flytipping_notes_on_datasets.pdf"
     },
     {
+      "article_label": "2005 waste strategy",
+      "destination_title": "Microsoft Word - ENV Brent Municipal Waste Strategy App 1.doc",
       "domain": "democracy.brent.gov.uk",
-      "label": "2005 waste strategy",
+      "label": "Microsoft Word - ENV Brent Municipal Waste Strategy App 1.doc",
       "post": "post:5820251",
       "provenance": "source-post-link",
+      "resolved_url": "https://democracy.brent.gov.uk/Data/Executive/20050912/Agenda/ENV%20Brent%20Municipal%20Waste%20Strategy%20App%201.pdf",
+      "title_source": "pdf-title",
       "url": "https://democracy.brent.gov.uk/Data/Executive/20050912/Agenda/ENV%20Brent%20Municipal%20Waste%20Strategy%20App%201.pdf"
     },
     {
@@ -2453,10 +2481,14 @@
       "url": "https://democracy.brent.gov.uk/documents/s2949/ec_waste_strategy_AppA_v2.pdf"
     },
     {
+      "article_label": "resident petition to restore weekly collections",
+      "destination_title": "ePetition - Restore Black Bin Waste Collection to Weekly | London Borough of Hounslow",
       "domain": "democraticservices.hounslow.gov.uk",
-      "label": "resident petition to restore weekly collections",
+      "label": "ePetition - Restore Black Bin Waste Collection to Weekly | London Borough of Hounslow",
       "post": "post:5820251",
       "provenance": "source-post-link",
+      "resolved_url": "https://democraticservices.hounslow.gov.uk/mgEPetitionDisplay.aspx?id=58",
+      "title_source": "html-title",
       "url": "https://democraticservices.hounslow.gov.uk/mgEPetitionDisplay.aspx?id=58"
     },
     {
@@ -2474,10 +2506,14 @@
       "url": "https://ealing.moderngov.co.uk/mgAi.aspx?ID=6020"
     },
     {
+      "article_label": "December 2015 industry report",
+      "destination_title": "Cost of Illegal Rubbish Dumping in London. | Junkwize",
       "domain": "junkwize.com",
-      "label": "December 2015 industry report",
+      "label": "Cost of Illegal Rubbish Dumping in London. | Junkwize",
       "post": "post:5820251",
       "provenance": "source-post-link",
+      "resolved_url": "https://junkwize.com/blog/cost-of-illegal-rubbish-dumping-in-london/",
+      "title_source": "og:title",
       "url": "https://junkwize.com/blog/cost-of-illegal-rubbish-dumping-in-london/"
     },
     {
@@ -2488,10 +2524,14 @@
       "url": "https://neighbournet.com/server/common/conwheeliebinrecycling001.htm?site=2"
     },
     {
+      "article_label": "announced its switch",
+      "destination_title": "Fortnightly Bin Collections On The Way",
       "domain": "neighbournet.com",
-      "label": "announced its switch",
+      "label": "Fortnightly Bin Collections On The Way",
       "post": "post:5820251",
       "provenance": "source-post-link",
+      "resolved_url": "https://neighbournet.com/server/common/hounscoun181wheeliebins.htm",
+      "title_source": "html-title",
       "url": "https://neighbournet.com/server/common/hounscoun181wheeliebins.htm"
     },
     {
@@ -2502,10 +2542,14 @@
       "url": "https://northlondonnews.co.uk/local/brent/brent-council/brent-fly-tipping-fines-surge-500-amid-crackdown-2026/"
     },
     {
+      "article_label": "Wembley Matters report on a council scrutiny committee",
+      "destination_title": "Brent forms Waste Warriors team to beat fly-tippers",
       "domain": "wembleymatters.blogspot.com",
-      "label": "Wembley Matters report on a council scrutiny committee",
+      "label": "Brent forms Waste Warriors team to beat fly-tippers",
       "post": "post:5820251",
       "provenance": "source-post-link",
+      "resolved_url": "https://wembleymatters.blogspot.com/2012/11/brent-forms-waste-warriors-team-to-beat.html",
+      "title_source": "og:title",
       "url": "https://wembleymatters.blogspot.com/2012/11/brent-forms-waste-warriors-team-to-beat.html"
     },
     {
@@ -2523,17 +2567,25 @@
       "url": "https://www.brent.gov.uk/bins-rubbish-and-recycling/dont-mess-with-brent"
     },
     {
+      "article_label": "London as a whole languishes near the bottom of English regions at 33%",
+      "destination_title": "London Recycling Scorecard 2025",
       "domain": "cprelondon.org.uk",
-      "label": "London as a whole languishes near the bottom of English regions at 33%",
+      "label": "London Recycling Scorecard 2025",
       "post": "post:5820251",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.cprelondon.org.uk/news/london-recycling-scorecard-2025/",
+      "title_source": "og:title",
       "url": "https://www.cprelondon.org.uk/news/london-recycling-scorecard-2025/"
     },
     {
+      "article_label": "a new fly-tipping \"task force\" enforcement drive to tackle the 216% increase",
+      "destination_title": "Ealing's Local Web site",
       "domain": "ealingtoday.co.uk",
-      "label": "a new fly-tipping \"task force\" enforcement drive to tackle the 216% increase",
+      "label": "Ealing's Local Web site",
       "post": "post:5820251",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealingtoday.co.uk/default.asp?section=info&page=eaflytippingtruck001.htm",
+      "title_source": "html-title",
       "url": "https://www.ealingtoday.co.uk/default.asp?section=info&page=eaflytippingtruck001.htm"
     },
     {
@@ -2544,10 +2596,14 @@
       "url": "https://www.facebook.com/groups/EalingMatters/permalink/26239908782369668/"
     },
     {
+      "article_label": "Defra fly-tipping dataset",
+      "destination_title": "Fly-tipping statistics for England",
       "domain": "gov.uk",
-      "label": "Defra fly-tipping dataset",
+      "label": "Fly-tipping statistics for England",
       "post": "post:5820251",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england",
+      "title_source": "og:title",
       "url": "https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england"
     },
     {
@@ -2558,10 +2614,14 @@
       "url": "https://www.governmentevents.co.uk/wp-content/uploads/2022/05/Beau-Stanford-Francis-.pdf"
     },
     {
+      "article_label": "Kilburn Times reported",
+      "destination_title": "Fly tipping surge costs Brent £500k",
       "domain": "kilburntimes.co.uk",
-      "label": "Kilburn Times reported",
+      "label": "Fly tipping surge costs Brent £500k",
       "post": "post:5820251",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.kilburntimes.co.uk/news/22005398.fly-tipping-surge-costs-brent-500k/",
+      "title_source": "og:title",
       "url": "https://www.kilburntimes.co.uk/news/22005398.fly-tipping-surge-costs-brent-500k/"
     },
     {
@@ -2579,17 +2639,25 @@
       "url": "https://www.letsrecycle.com/news/brent-awards-veolia-274m-deal-and-opts-for-twin-steam/"
     },
     {
+      "article_label": "petitioned against it",
+      "destination_title": "Hounslow council leader faces wheeled bin protest - letsrecycle.com",
       "domain": "letsrecycle.com",
-      "label": "petitioned against it",
+      "label": "Hounslow council leader faces wheeled bin protest - letsrecycle.com",
       "post": "post:5820251",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.letsrecycle.com/news/hounslow-council-leader-faces-wheeled-bin-protest/",
+      "title_source": "og:title",
       "url": "https://www.letsrecycle.com/news/hounslow-council-leader-faces-wheeled-bin-protest/"
     },
     {
+      "article_label": "dirty and littered streets",
+      "destination_title": "Complaints of dirty streets amid new Hounslow bin collection",
       "domain": "mylondon.news",
-      "label": "dirty and littered streets",
+      "label": "Complaints of dirty streets amid new Hounslow bin collection",
       "post": "post:5820251",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.mylondon.news/news/west-london-news/complaints-dirty-littered-streets-after-13345307",
+      "title_source": "og:title",
       "url": "https://www.mylondon.news/news/west-london-news/complaints-dirty-littered-streets-after-13345307"
     },
     {
@@ -2621,10 +2689,14 @@
       "url": "https://ealing.moderngov.co.uk/documents/s23226/4.2.%20Appendix%202%20-%20LBE%20Forvis%20Mazars%20ACR%202024-25.pdf"
     },
     {
+      "article_label": "Corporate Peer Challenge",
+      "destination_title": "Lib Dems highlight top 3 issues for Ealing Council from Ealing Peer Challenge",
       "domain": "fleet.libdems.org.uk",
-      "label": "Corporate Peer Challenge",
+      "label": "Lib Dems highlight top 3 issues for Ealing Council from Ealing Peer Challenge",
       "post": "post:5837446",
       "provenance": "source-post-link",
+      "resolved_url": "https://fleet.libdems.org.uk/001b000000Q0NIC/news/article/lib-dems-highlight-top-3-issues-for-ealing-council-from-ealing-peer-challenge",
+      "title_source": "og:title",
       "url": "https://fleet.libdems.org.uk/001b000000Q0NIC/news/article/lib-dems-highlight-top-3-issues-for-ealing-council-from-ealing-peer-challenge"
     },
     {
@@ -2635,24 +2707,36 @@
       "url": "https://www.ealing.gov.uk/download/downloads/id/20824/housing_news_spring_2025.pdf"
     },
     {
+      "article_label": "self-referred to the Regulator of Social Housing",
+      "destination_title": "Regulatory engagement | Housing asset management compliance | Ealing Council",
       "domain": "ealing.gov.uk",
-      "label": "self-referred to the Regulator of Social Housing",
+      "label": "Regulatory engagement | Housing asset management compliance | Ealing Council",
       "post": "post:5837446",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.gov.uk/info/201343/housing_performance/3497/housing_asset_management_compliance/2",
+      "title_source": "html-title",
       "url": "https://www.ealing.gov.uk/info/201343/housing_performance/3497/housing_asset_management_compliance/2"
     },
     {
+      "article_label": "incorrect figure for the chief executive's salary",
+      "destination_title": "Ealing Council error over CEO salary figures - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "domain": "ealing.news",
-      "label": "incorrect figure for the chief executive's salary",
+      "label": "Ealing Council error over CEO salary figures - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "post": "post:5837446",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.news/ealing-council/ealing-council-ceo-gets-20-5-pay-rise/",
+      "title_source": "og:title",
       "url": "https://www.ealing.news/ealing-council/ealing-council-ceo-gets-20-5-pay-rise/"
     },
     {
+      "article_label": "nearly doubled",
+      "destination_title": "Ealing Council increases councillor allowances - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "domain": "ealing.news",
-      "label": "nearly doubled",
+      "label": "Ealing Council increases councillor allowances - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "post": "post:5837446",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.news/news/ealing-council-increases-councillor-allowances/",
+      "title_source": "og:title",
       "url": "https://www.ealing.news/news/ealing-council-increases-councillor-allowances/"
     },
     {
@@ -2726,10 +2810,14 @@
       "url": "https://open.substack.com/pub/southall/p/a-town-ignored-southall-after-16"
     },
     {
+      "article_label": "at a public meeting called by disabled adults",
+      "destination_title": "A \"S.A.D.\" Tale - The Ealing Labour Councillor's Contempt For Day Care Centre Users...",
       "domain": "sadealing.blogspot.com",
-      "label": "at a public meeting called by disabled adults",
+      "label": "A \"S.A.D.\" Tale - The Ealing Labour Councillor's Contempt For Day Care Centre Users...",
       "post": "post:5839992",
       "provenance": "source-post-link",
+      "resolved_url": "https://sadealing.blogspot.com/2010/10/sad-tale-ealing-labour-councillors.html",
+      "title_source": "og:title",
       "url": "https://sadealing.blogspot.com/2010/10/sad-tale-ealing-labour-councillors.html"
     },
     {
@@ -2751,31 +2839,47 @@
       "url": "https://www.communitypoweredreporting.co.uk/"
     },
     {
+      "article_label": "councillor allowances",
+      "destination_title": "Councillors scheme of allowances | Councillors scheme of allowances | Ealing Council",
       "domain": "ealing.gov.uk",
-      "label": "councillor allowances",
+      "label": "Councillors scheme of allowances | Councillors scheme of allowances | Ealing Council",
       "post": "post:5839992",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.gov.uk/info/201044/councillors/570/councillors_scheme_of_allowances",
+      "title_source": "html-title",
       "url": "https://www.ealing.gov.uk/info/201044/councillors/570/councillors_scheme_of_allowances"
     },
     {
+      "article_label": "elected",
+      "destination_title": "Council elections May 1998 | Council elections May 1998 | Ealing Council",
       "domain": "ealing.gov.uk",
-      "label": "elected",
+      "label": "Council elections May 1998 | Council elections May 1998 | Ealing Council",
       "post": "post:5839992",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.gov.uk/info/201276/council_elections/414/council_elections_may_1998",
+      "title_source": "html-title",
       "url": "https://www.ealing.gov.uk/info/201276/council_elections/414/council_elections_may_1998"
     },
     {
+      "article_label": "\"controlling\" Peter Mason",
+      "destination_title": "East Acton councillor criticises Labour leadership after defection - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "domain": "ealing.news",
-      "label": "\"controlling\" Peter Mason",
+      "label": "East Acton councillor criticises Labour leadership after defection - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "post": "post:5839992",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.news/news/east-acton-councillor-criticises-labour-leadership-after-defection/",
+      "title_source": "og:title",
       "url": "https://www.ealing.news/news/east-acton-councillor-criticises-labour-leadership-after-defection/"
     },
     {
+      "article_label": "save Southall's Crown Post Office",
+      "destination_title": "Residents fight to save Southall Broadway Post Office deliver petition to PM Rishi Sunak and holding local protest on Saturday - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "domain": "ealing.news",
-      "label": "save Southall's Crown Post Office",
+      "label": "Residents fight to save Southall Broadway Post Office deliver petition to PM Rishi Sunak and holding local protest on Saturday - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "post": "post:5839992",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.news/news/residents-fight-to-save-southall-broadway-post-office-deliver-petition-to-pm-rishi-sunak-and-holding-local-protest-on-saturday/",
+      "title_source": "og:title",
       "url": "https://www.ealing.news/news/residents-fight-to-save-southall-broadway-post-office-deliver-petition-to-pm-rishi-sunak-and-holding-local-protest-on-saturday/"
     },
     {
@@ -2790,17 +2894,25 @@
       "url": "https://www.ealinglabour.co.uk/profile/jags-sanghera-2/"
     },
     {
+      "article_label": "A year later",
+      "destination_title": "Arrested student may sue councillor",
       "domain": "ealingtimes.co.uk",
-      "label": "A year later",
+      "label": "Arrested student may sue councillor",
       "post": "post:5839992",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealingtimes.co.uk/news/1228875.arrested-student-may-sue-councillor/",
+      "title_source": "og:title",
       "url": "https://www.ealingtimes.co.uk/news/1228875.arrested-student-may-sue-councillor/"
     },
     {
+      "article_label": "new shop",
+      "destination_title": "'We have finally got justice'",
       "domain": "ealingtimes.co.uk",
-      "label": "new shop",
+      "label": "'We have finally got justice'",
       "post": "post:5839992",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealingtimes.co.uk/news/883558.we-have-finally-got-justice/",
+      "title_source": "og:title",
       "url": "https://www.ealingtimes.co.uk/news/883558.we-have-finally-got-justice/"
     },
     {
@@ -2818,10 +2930,14 @@
       "url": "https://www.instagram.com/reel/DKrZow8tacy/?igsh=aG1mOXNvcjY5M3B1"
     },
     {
+      "article_label": "public inquiry into the legality of the compulsory purchase orders on The Green",
+      "destination_title": "Heading 9",
       "domain": "landmarkchambers.co.uk",
-      "label": "public inquiry into the legality of the compulsory purchase orders on The Green",
+      "label": "Heading 9",
       "post": "post:5839992",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.landmarkchambers.co.uk/wp-content/uploads/2023/04/APP-PCU-CPOH-A5270-3289084_ENV-3298294-LB-Ealing.pdf",
+      "title_source": "pdf-title",
       "url": "https://www.landmarkchambers.co.uk/wp-content/uploads/2023/04/APP-PCU-CPOH-A5270-3289084_ENV-3298294-LB-Ealing.pdf"
     },
     {
@@ -2832,10 +2948,14 @@
       "url": "https://www.linkedin.com/in/jags-sanghera-04722153"
     },
     {
+      "article_label": "ten children's centres",
+      "destination_title": "3 West London children's centres saved but 10 will shut - full list",
       "domain": "mylondon.news",
-      "label": "ten children's centres",
+      "label": "3 West London children's centres saved but 10 will shut - full list",
       "post": "post:5839992",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.mylondon.news/news/west-london-news/3-ealing-childrens-centres-saved-31844687",
+      "title_source": "og:title",
       "url": "https://www.mylondon.news/news/west-london-news/3-ealing-childrens-centres-saved-31844687"
     },
     {
@@ -2871,10 +2991,14 @@
       "url": "https://ealingmatters.org.uk/wp-content/uploads/2021/09/210901-NL11-LCox-resignation.pdf"
     },
     {
+      "article_label": "Ealing News on 25 March 2026",
+      "destination_title": "East Acton councillor criticises Labour leadership after defection - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "domain": "ealing.news",
-      "label": "Ealing News on 25 March 2026",
+      "label": "East Acton councillor criticises Labour leadership after defection - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "post": "post:5840563",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.news/news/east-acton-councillor-criticises-labour-leadership-after-defection/",
+      "title_source": "og:title",
       "url": "https://www.ealing.news/news/east-acton-councillor-criticises-labour-leadership-after-defection/"
     },
     {
@@ -2889,31 +3013,47 @@
       "url": "https://www.standard.co.uk/news/politics/local-elections-london-ealing-councillor-kate-crawford-defection-labour-b1276728.html"
     },
     {
+      "article_label": "Labour abandoned its opposition to immigration control as early as 1962",
+      "destination_title": "Why immigration policy since 1962 has such a poor record of achievement | LSE British Politics",
       "domain": "blogs.lse.ac.uk",
-      "label": "Labour abandoned its opposition to immigration control as early as 1962",
+      "label": "Why immigration policy since 1962 has such a poor record of achievement | LSE British Politics",
       "post": "post:5841154",
       "provenance": "source-post-link",
+      "resolved_url": "https://blogs.lse.ac.uk/politicsandpolicy/talking-the-talk-immigration-policy-since-1962/",
+      "title_source": "og:title",
       "url": "https://blogs.lse.ac.uk/politicsandpolicy/talking-the-talk-immigration-policy-since-1962/"
     },
     {
+      "article_label": "July 2025 report by the Centre for Policy Studies",
+      "destination_title": "How Many Homes Does the UK Need? - The Centre for Policy Studies",
       "domain": "cps.org.uk",
-      "label": "July 2025 report by the Centre for Policy Studies",
+      "label": "How Many Homes Does the UK Need? - The Centre for Policy Studies",
       "post": "post:5841154",
       "provenance": "source-post-link",
+      "resolved_url": "https://cps.org.uk/research/how-many-homes-does-the-uk-need/",
+      "title_source": "og:title",
       "url": "https://cps.org.uk/research/how-many-homes-does-the-uk-need/"
     },
     {
+      "article_label": "Your Party",
+      "destination_title": "Political Statement",
       "domain": "docs.google.com",
-      "label": "Your Party",
+      "label": "Political Statement",
       "post": "post:5841154",
       "provenance": "source-post-link",
+      "resolved_url": "https://docs.google.com/document/d/14-OwWA92xd_Gx1DdsoLVtvjujk84mKWZuszNQcxiLCU/edit?usp=sharing",
+      "title_source": "og:title",
       "url": "https://docs.google.com/document/d/14-OwWA92xd_Gx1DdsoLVtvjujk84mKWZuszNQcxiLCU/edit?usp=sharing"
     },
     {
+      "article_label": "Anti-Nazi League",
+      "destination_title": "Anti-Nazi League - Wikipedia",
       "domain": "en.wikipedia.org",
-      "label": "Anti-Nazi League",
+      "label": "Anti-Nazi League - Wikipedia",
       "post": "post:5841154",
       "provenance": "source-post-link",
+      "resolved_url": "https://en.wikipedia.org/wiki/Anti-Nazi_League",
+      "title_source": "og:title",
       "url": "https://en.wikipedia.org/wiki/Anti-Nazi_League"
     },
     {
@@ -2928,24 +3068,36 @@
       "url": "https://en.wikipedia.org/wiki/Death_of_Blair_Peach"
     },
     {
+      "article_label": "his partner Celia Stubbs donated the full archive of materials relating to his death to the Bishopsgate Institute",
+      "destination_title": "Blair Peach Archive Opens At Bishopsgate Institute",
       "domain": "inquest.org.uk",
-      "label": "his partner Celia Stubbs donated the full archive of materials relating to his death to the Bishopsgate Institute",
+      "label": "Blair Peach Archive Opens At Bishopsgate Institute",
       "post": "post:5841154",
       "provenance": "source-post-link",
+      "resolved_url": "https://inquest.org.uk/news-and-comment/blogs/blair-peach-archive-opens-at-bishopsgate-institute/",
+      "title_source": "og:title",
       "url": "https://inquest.org.uk/news-and-comment/blogs/blair-peach-archive-opens-at-bishopsgate-institute/"
     },
     {
+      "article_label": "National Executive Committee",
+      "destination_title": "Who's on the NEC? – The Labour Party",
       "domain": "labour.org.uk",
-      "label": "National Executive Committee",
+      "label": "Who's on the NEC? – The Labour Party",
       "post": "post:5841154",
       "provenance": "source-post-link",
+      "resolved_url": "https://labour.org.uk/whos-on-the-nec/",
+      "title_source": "og:title",
       "url": "https://labour.org.uk/whos-on-the-nec/"
     },
     {
+      "article_label": "2,800 officers — 94 on horseback",
+      "destination_title": "On Deadly Policing and the 1979 Southall Protests",
       "domain": "lithub.com",
-      "label": "2,800 officers — 94 on horseback",
+      "label": "On Deadly Policing and the 1979 Southall Protests",
       "post": "post:5841154",
       "provenance": "source-post-link",
+      "resolved_url": "https://lithub.com/on-deadly-policing-and-the-1979-southall-protests/",
+      "title_source": "og:title",
       "url": "https://lithub.com/on-deadly-policing-and-the-1979-southall-protests/"
     },
     {
@@ -2956,10 +3108,14 @@
       "url": "https://theviewfromw5.substack.com/p/ealing-major-increase-homelessness"
     },
     {
+      "article_label": "Ealing Council's own figures",
+      "destination_title": "2024-2025 Delivery plan",
       "domain": "ealing.gov.uk",
-      "label": "Ealing Council's own figures",
+      "label": "2024-2025 Delivery plan",
       "post": "post:5841154",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.gov.uk/download/downloads/id/20045/delivery_plan_2024-25.pdf",
+      "title_source": "pdf-title",
       "url": "https://www.ealing.gov.uk/download/downloads/id/20045/delivery_plan_2024-25.pdf"
     },
     {
@@ -2974,10 +3130,14 @@
       "url": "https://www.ealing.news/politics/ealing-council-elections-2026/labour-criticises-tory-pitshanger-candidate-over-deportation-remarks/"
     },
     {
+      "article_label": "standing candidates across Ealing",
+      "destination_title": "Reform UK to field 60 candidates across Ealing in May 2026 elections - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "domain": "ealing.news",
-      "label": "standing candidates across Ealing",
+      "label": "Reform UK to field 60 candidates across Ealing in May 2026 elections - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "post": "post:5841154",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.news/politics/ealing-council-elections-2026/reform-uk-to-field-60-candidates-across-ealing-in-may-2026-elections/",
+      "title_source": "og:title",
       "url": "https://www.ealing.news/politics/ealing-council-elections-2026/reform-uk-to-field-60-candidates-across-ealing-in-may-2026-elections/"
     },
     {
@@ -2999,10 +3159,14 @@
       "url": "https://www.instituteforgovernment.org.uk/explainer/immigration-and-asylum-party-positions"
     },
     {
+      "article_label": "three children's centres are being closed",
+      "destination_title": "JO, R (on the application of) v London Borough of Ealing - Find Case Law - The National Archives",
       "domain": "caselaw.nationalarchives.gov.uk",
-      "label": "three children's centres are being closed",
+      "label": "JO, R (on the application of) v London Borough of Ealing - Find Case Law - The National Archives",
       "post": "post:5846055",
       "provenance": "source-post-link",
+      "resolved_url": "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2026/886",
+      "title_source": "html-title",
       "url": "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2026/886"
     },
     {
@@ -3020,10 +3184,14 @@
       "url": "https://www.communitypoweredreporting.co.uk/"
     },
     {
+      "article_label": "71% pay rise",
+      "destination_title": "Ealing Council increases councillor allowances - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "domain": "ealing.news",
-      "label": "71% pay rise",
+      "label": "Ealing Council increases councillor allowances - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "post": "post:5846055",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.news/news/ealing-council-increases-councillor-allowances/",
+      "title_source": "og:title",
       "url": "https://www.ealing.news/news/ealing-council-increases-councillor-allowances/"
     },
     {
@@ -3069,38 +3237,58 @@
       "url": "https://open.substack.com/pub/theviewfromw5/p/ealing-delivers-16-percent-of-its-affordable-homes-target"
     },
     {
+      "article_label": "55 accredited employers",
+      "destination_title": "Celebrating living wage employers - Around Ealing",
       "domain": "aroundealing.com",
-      "label": "55 accredited employers",
+      "label": "Celebrating living wage employers - Around Ealing",
       "post": "post:5849581",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.aroundealing.com/children/london-living-wage-celebration-event/",
+      "title_source": "og:title",
       "url": "https://www.aroundealing.com/fighting-inequality/london-living-wage-celebration-event/"
     },
     {
+      "article_label": "Living Wage Champion",
+      "destination_title": "Rewarding fair pay - Around Ealing",
       "domain": "aroundealing.com",
-      "label": "Living Wage Champion",
+      "label": "Rewarding fair pay - Around Ealing",
       "post": "post:5849581",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.aroundealing.com/news/rewarding-fair-pay/",
+      "title_source": "og:title",
       "url": "https://www.aroundealing.com/news/rewarding-fair-pay/"
     },
     {
+      "article_label": "proposal",
+      "destination_title": "Community Land Trust proposal for Marston Court site in Ealing - Citizens UK",
       "domain": "citizensuk.org",
-      "label": "proposal",
+      "label": "Community Land Trust proposal for Marston Court site in Ealing - Citizens UK",
       "post": "post:5849581",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.citizensuk.org/chapters/west-london/west-london-news/community-land-trust-proposal-for-marston-court-site-in-ealing/",
+      "title_source": "og:title",
       "url": "https://www.citizensuk.org/chapters/west-london/west-london-news/community-land-trust-proposal-for-marston-court-site-in-ealing/"
     },
     {
+      "article_label": "Citizens UK's own account of the 27 April 2022 assembly",
+      "destination_title": "Local pre-election Assemblies: 'Citizen is the most important title' - Citizens UK",
       "domain": "citizensuk.org",
-      "label": "Citizens UK's own account of the 27 April 2022 assembly",
+      "label": "Local pre-election Assemblies: 'Citizen is the most important title' - Citizens UK",
       "post": "post:5849581",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.citizensuk.org/chapters/west-london/west-london-news/local-pre-election-assemblies-citizen-is-the-most-important-title/",
+      "title_source": "og:title",
       "url": "https://www.citizensuk.org/chapters/west-london/west-london-news/local-pre-election-assemblies-citizen-is-the-most-important-title/"
     },
     {
+      "article_label": "Living Wage Action Group",
+      "destination_title": "New ‘Ealing Living Wage Action Team’ launched to tackle low pay for local workers - Citizens UK",
       "domain": "citizensuk.org",
-      "label": "Living Wage Action Group",
+      "label": "New ‘Ealing Living Wage Action Team’ launched to tackle low pay for local workers - Citizens UK",
       "post": "post:5849581",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.citizensuk.org/chapters/west-london/west-london-news/new-ealing-living-wage-action-team-launched-to-tackle-low-pay-for-local-workers/",
+      "title_source": "og:title",
       "url": "https://www.citizensuk.org/chapters/west-london/west-london-news/new-ealing-living-wage-action-team-launched-to-tackle-low-pay-for-local-workers/"
     },
     {
@@ -3111,45 +3299,69 @@
       "url": "https://www.communitypoweredreporting.co.uk"
     },
     {
+      "article_label": "reached 100 accredited employers",
+      "destination_title": "Ealing reaches milestone of 100 London Living Wage employers - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "domain": "ealing.news",
-      "label": "reached 100 accredited employers",
+      "label": "Ealing reaches milestone of 100 London Living Wage employers - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "post": "post:5849581",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.news/business/ealing-reaches-milestone-of-100-london-living-wage-employers/",
+      "title_source": "og:title",
       "url": "https://www.ealing.news/business/ealing-reaches-milestone-of-100-london-living-wage-employers/"
     },
     {
+      "article_label": "From 14 accredited Living Wage employers in 2016",
+      "destination_title": "Number of London Living Wage employers in Ealing grows to 58 from 14 in 2016 - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "domain": "ealing.news",
-      "label": "From 14 accredited Living Wage employers in 2016",
+      "label": "Number of London Living Wage employers in Ealing grows to 58 from 14 in 2016 - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "post": "post:5849581",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.news/ealing-council/number-of-london-living-wage-employers-in-ealing-grows-to-58-from-14-in-2016/",
+      "title_source": "og:title",
       "url": "https://www.ealing.news/ealing-council/number-of-london-living-wage-employers-in-ealing-grows-to-58-from-14-in-2016/"
     },
     {
+      "article_label": "Michael Milne, founder of the Ealing Living Wage Alliance",
+      "destination_title": "Ealing Living Wage Alliance founder Michael Milne writes about Ealing Council's failures to implement Living Wage pay when it promised it would - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "domain": "ealing.news",
-      "label": "Michael Milne, founder of the Ealing Living Wage Alliance",
+      "label": "Ealing Living Wage Alliance founder Michael Milne writes about Ealing Council's failures to implement Living Wage pay when it promised it would - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "post": "post:5849581",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.news/news/opinion/ealing-living-wage-alliance-founder-michael-milne-writes-about-ealing-councils-failures-to-implement-living-wage-pay-when-it-promised-it-would/",
+      "title_source": "og:title",
       "url": "https://www.ealing.news/news/opinion/ealing-living-wage-alliance-founder-michael-milne-writes-about-ealing-councils-failures-to-implement-living-wage-pay-when-it-promised-it-would/"
     },
     {
+      "article_label": "Speaking to Ealing News on 25 April",
+      "destination_title": "Ealing Labour leader Peter Mason on why voters should back Labour - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "domain": "ealing.news",
-      "label": "Speaking to Ealing News on 25 April",
+      "label": "Ealing Labour leader Peter Mason on why voters should back Labour - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "post": "post:5849581",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.news/politics/ealing-council-elections-2026/ealing-labour-leader-peter-mason-on-why-voters-should-back-labour/",
+      "title_source": "og:title",
       "url": "https://www.ealing.news/politics/ealing-council-elections-2026/ealing-labour-leader-peter-mason-on-why-voters-should-back-labour/"
     },
     {
+      "article_label": "Mason awarded himself a 71% pay rise",
+      "destination_title": "Ealing's Local Web site",
       "domain": "ealingtoday.co.uk",
-      "label": "Mason awarded himself a 71% pay rise",
+      "label": "Ealing's Local Web site",
       "post": "post:5849581",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealingtoday.co.uk/default.asp?section=community&spage=common/eacouncil220.htm",
+      "title_source": "html-title",
       "url": "https://www.ealingtoday.co.uk/default.asp?section=community&spage=common/eacouncil220.htm"
     },
     {
+      "article_label": "independent MRP modelling commissioned by the LSE and conducted by JL Partners",
+      "destination_title": "New London poll | Greens & Reform surge, no-majority councils likely",
       "domain": "lse.ac.uk",
-      "label": "independent MRP modelling commissioned by the LSE and conducted by JL Partners",
+      "label": "New London poll | Greens & Reform surge, no-majority councils likely",
       "post": "post:5849581",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.lse.ac.uk/news/london-in-unprecedented-state-of-political-flux",
+      "title_source": "og:title",
       "url": "https://www.lse.ac.uk/news/london-in-unprecedented-state-of-political-flux"
     },
     {
@@ -3188,24 +3400,36 @@
       "url": "https://ealing.moderngov.co.uk/documents/s23017/Council%20Plan%20Performance%20Report%20Q2%20202526.pdf"
     },
     {
+      "article_label": "Ealing.News",
+      "destination_title": "Fly-tipping in Ealing up 50% in a year to over 25,000 incidents - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "domain": "ealing.news",
-      "label": "Ealing.News",
+      "label": "Fly-tipping in Ealing up 50% in a year to over 25,000 incidents - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "post": "post:5850105",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.news/news/fly-tipping-in-ealing-up-50-in-a-year-to-over-25000-incidents/",
+      "title_source": "og:title",
       "url": "https://www.ealing.news/news/fly-tipping-in-ealing-up-50-in-a-year-to-over-25000-incidents/"
     },
     {
+      "article_label": "Defra Fly-Tipping Statistics for England, 2024-25",
+      "destination_title": "Fly-tipping statistics for England",
       "domain": "gov.uk",
-      "label": "Defra Fly-Tipping Statistics for England, 2024-25",
+      "label": "Fly-tipping statistics for England",
       "post": "post:5850105",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england",
+      "title_source": "og:title",
       "url": "https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england"
     },
     {
+      "article_label": "Defra figures published today",
+      "destination_title": "Fly-tipping statistics for England, 2024 to 2025",
       "domain": "gov.uk",
-      "label": "Defra figures published today",
+      "label": "Fly-tipping statistics for England, 2024 to 2025",
       "post": "post:5850105",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england/fly-tipping-statistics-for-england-2024-to-2025",
+      "title_source": "og:title",
       "url": "https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england/fly-tipping-statistics-for-england-2024-to-2025"
     },
     {
@@ -3216,17 +3440,25 @@
       "url": "https://ealing-audit.southallstories.uk/"
     },
     {
+      "article_label": "15 January 2012",
+      "destination_title": "Wayback Machine Hamburger icon Internet Archive logo Web icon Texts icon Video icon Audio icon Software icon Images icon Donate icon Ellipses icon Donate icon User icon Upload icon Search icon Search icon Donate icon",
       "domain": "web.archive.org",
-      "label": "15 January 2012",
+      "label": "Wayback Machine Hamburger icon Internet Archive logo Web icon Texts icon Video icon Audio icon Software icon Images icon Donate icon Ellipses icon Donate icon User icon Upload icon Search icon Search icon Donate icon",
       "post": "post:5851892",
       "provenance": "source-post-link",
+      "resolved_url": "https://web.archive.org/web/20120115000000*/https://www.ealing.gov.uk/download/downloads/id/488/welcome_guide_for_new_residents",
+      "title_source": "html-title",
       "url": "https://web.archive.org/web/20120115000000*/https://www.ealing.gov.uk/download/downloads/id/488/welcome_guide_for_new_residents"
     },
     {
+      "article_label": "Wayback Machine",
+      "destination_title": "Wayback Machine Hamburger icon Internet Archive logo Web icon Texts icon Video icon Audio icon Software icon Images icon Donate icon Ellipses icon Donate icon User icon Upload icon Search icon Search icon Donate icon",
       "domain": "web.archive.org",
-      "label": "Wayback Machine",
+      "label": "Wayback Machine Hamburger icon Internet Archive logo Web icon Texts icon Video icon Audio icon Software icon Images icon Donate icon Ellipses icon Donate icon User icon Upload icon Search icon Search icon Donate icon",
       "post": "post:5851892",
       "provenance": "source-post-link",
+      "resolved_url": "https://web.archive.org/web/20241201000000*/https://www.ealing.gov.uk/download/downloads/id/488/welcome_guide_for_new_residents",
+      "title_source": "html-title",
       "url": "https://web.archive.org/web/20241201000000*/https://www.ealing.gov.uk/download/downloads/id/488/welcome_guide_for_new_residents"
     },
     {
@@ -3244,10 +3476,14 @@
       "url": "https://www.ealing.gov.uk/download/downloads/id/488/welcome_guide_for_new_residents"
     },
     {
+      "article_label": "here",
+      "destination_title": "9th SME4Labour Semi-finalists",
       "domain": "docs.google.com",
-      "label": "here",
+      "label": "9th SME4Labour Semi-finalists",
       "post": "post:5852218",
       "provenance": "source-post-link",
+      "resolved_url": "https://docs.google.com/forms/d/e/1FAIpQLSdF322O7WcchbiC6brfrpAD0cJJ7Y-XAIYAvz2GRB_ONOMNMg/viewform",
+      "title_source": "og:title",
       "url": "https://docs.google.com/forms/d/e/1FAIpQLSdF322O7WcchbiC6brfrpAD0cJJ7Y-XAIYAvz2GRB_ONOMNMg/viewform"
     },
     {
@@ -3258,17 +3494,25 @@
       "url": "https://ealing.moderngov.co.uk/documents/s1728/Appendix%202%20Southall%20Planning%20Baseline%20Report.pdf"
     },
     {
+      "article_label": "almost 6,000 Labour councillors",
+      "destination_title": "Open Council Data UK - Party Totals Archive 2016-2026",
       "domain": "opencouncildata.co.uk",
-      "label": "almost 6,000 Labour councillors",
+      "label": "Open Council Data UK - Party Totals Archive 2016-2026",
       "post": "post:5852218",
       "provenance": "source-post-link",
+      "resolved_url": "https://opencouncildata.co.uk/councillors2.php?y=0",
+      "title_source": "html-title",
       "url": "https://opencouncildata.co.uk/councillors2.php?y=0"
     },
     {
+      "article_label": "massive new data centre",
+      "destination_title": "Southall industrial site to be replaced by data centres",
       "domain": "bbc.co.uk",
-      "label": "massive new data centre",
+      "label": "Southall industrial site to be replaced by data centres",
       "post": "post:5852218",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.bbc.co.uk/news/articles/c4g7ev27yn7o",
+      "title_source": "og:title",
       "url": "https://www.bbc.co.uk/news/articles/c4g7ev27yn7o"
     },
     {
@@ -3279,17 +3523,25 @@
       "url": "https://www.ealing.gov.uk/download/downloads/id/19585/southall_regeneration_framework.pdf"
     },
     {
+      "article_label": "toddler",
+      "destination_title": "High Court upholds Ealing Council children’s centres closure - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "domain": "ealing.news",
-      "label": "toddler",
+      "label": "High Court upholds Ealing Council children’s centres closure - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "post": "post:5852218",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.news/news/high-court-upholds-ealing-council-childrens-centres-closure/",
+      "title_source": "og:title",
       "url": "https://www.ealing.news/news/high-court-upholds-ealing-council-childrens-centres-closure/"
     },
     {
+      "article_label": "almost 2,000 jobs were lost",
+      "destination_title": "Nearly 2,000 jobs lost in Ealing over past year - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "domain": "ealing.news",
-      "label": "almost 2,000 jobs were lost",
+      "label": "Nearly 2,000 jobs lost in Ealing over past year - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "post": "post:5852218",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.news/news/nearly-2000-jobs-lost-in-ealing-over-past-year/",
+      "title_source": "og:title",
       "url": "https://www.ealing.news/news/nearly-2000-jobs-lost-in-ealing-over-past-year/"
     },
     {
@@ -3339,17 +3591,25 @@
       "url": "https://ealingindependents.org/"
     },
     {
+      "article_label": "Battalion 89 of the Israeli 8th Armoured Brigade",
+      "destination_title": "Forensic Architecture",
       "domain": "forensic-architecture.org",
-      "label": "Battalion 89 of the Israeli 8th Armoured Brigade",
+      "label": "Forensic Architecture",
       "post": "post:5855020",
       "provenance": "source-post-link",
+      "resolved_url": "https://forensic-architecture.org/investigation/the-massacre-at-tur-al-zagh",
+      "title_source": "html-title",
       "url": "https://forensic-architecture.org/investigation/the-massacre-at-tur-al-zagh"
     },
     {
+      "article_label": "Yousef Qandeel",
+      "destination_title": "Yousef Qandeel for Greenford Broadway in the Ealing local election",
       "domain": "whocanivotefor.co.uk",
-      "label": "Yousef Qandeel",
+      "label": "Yousef Qandeel for Greenford Broadway in the Ealing local election",
       "post": "post:5855020",
       "provenance": "source-post-link",
+      "resolved_url": "https://whocanivotefor.co.uk/person/128743/yousef-qandeel",
+      "title_source": "og:title",
       "url": "https://whocanivotefor.co.uk/person/128743/yousef-qandeel"
     },
     {
@@ -3388,17 +3648,25 @@
       "url": "https://www.memopublishers.com/wp-content/uploads/2023/04/Dawayima-Massacre.pdf"
     },
     {
+      "article_label": "planting prickly pear cactus",
+      "destination_title": "Olive tree, za'atar, cactus: Palestine's symbolic plants and the meanings behind them",
       "domain": "middleeasteye.net",
-      "label": "planting prickly pear cactus",
+      "label": "Olive tree, za'atar, cactus: Palestine's symbolic plants and the meanings behind them",
       "post": "post:5855020",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.middleeasteye.net/discover/palestine-plants-symbolic-meanings",
+      "title_source": "og:title",
       "url": "https://www.middleeasteye.net/discover/palestine-plants-symbolic-meanings"
     },
     {
+      "article_label": "a letter written in 1948 by an Israeli soldier",
+      "destination_title": "Al-Dawayima Massacre, 29 October 1948 An Israeli Soldier Eye-Witness Account - 8 November 1948 (Historical Text)",
       "domain": "palquest.org",
-      "label": "a letter written in 1948 by an Israeli soldier",
+      "label": "Al-Dawayima Massacre, 29 October 1948 An Israeli Soldier Eye-Witness Account - 8 November 1948 (Historical Text)",
       "post": "post:5855020",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.palquest.org/en/historictext/21728/al-dawayima-massacre-29-october-1948-israeli-soldier-eye-witness-account",
+      "title_source": "og:title",
       "url": "https://www.palquest.org/en/historictext/21728/al-dawayima-massacre-29-october-1948-israeli-soldier-eye-witness-account"
     },
     {
@@ -3409,24 +3677,36 @@
       "url": "https://www.plands.org/en/articles-speeches/articles/2023/anatomy-of-a-massacre-ed-dawayima,-hebron-district"
     },
     {
+      "article_label": "wrote to the Security Council",
+      "destination_title": "Alleged truce violation by Jewish forces - Letter from Israel - Question of Palestine",
       "domain": "un.org",
-      "label": "wrote to the Security Council",
+      "label": "Alleged truce violation by Jewish forces - Letter from Israel - Question of Palestine",
       "post": "post:5855020",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.un.org/unispal/document/auto-insert-210480/",
+      "title_source": "og:title",
       "url": "https://www.un.org/unispal/document/auto-insert-210480/"
     },
     {
+      "article_label": "sworn testimony",
+      "destination_title": "Arab Refugee Congress' account of the Dawaymeh massacre - UNCCP's Technical Cttee on Refugees - Working paper - Question of Palestine",
       "domain": "un.org",
-      "label": "sworn testimony",
+      "label": "Arab Refugee Congress' account of the Dawaymeh massacre - UNCCP's Technical Cttee on Refugees - Working paper - Question of Palestine",
       "post": "post:5855020",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.un.org/unispal/document/auto-insert-211083/",
+      "title_source": "og:title",
       "url": "https://www.un.org/unispal/document/auto-insert-211083/"
     },
     {
+      "article_label": "Vote Palestine",
+      "destination_title": "Vote Palestine",
       "domain": "votepalestine.co.uk",
       "label": "Vote Palestine",
       "post": "post:5855020",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.votepalestine.co.uk",
+      "title_source": "og:title",
       "url": "https://www.votepalestine.co.uk"
     },
     {
@@ -3841,10 +4121,14 @@
       "url": "https://communitypoweredreporting.co.uk"
     },
     {
+      "article_label": "2019 Drugs and Alcohol JSNA",
+      "destination_title": "Microsoft Word - JSNA 2019 - Drugs and Alcohol in Ealing - Adults",
       "domain": "data.ealing.gov.uk",
-      "label": "2019 Drugs and Alcohol JSNA",
+      "label": "Microsoft Word - JSNA 2019 - Drugs and Alcohol in Ealing - Adults",
       "post": "post:5858389",
       "provenance": "source-post-link",
+      "resolved_url": "https://data.ealing.gov.uk/wp-content/uploads/Drugs-and-Alcohol-in-Ealing-Adults-JSNA-2019.pdf",
+      "title_source": "pdf-title",
       "url": "https://data.ealing.gov.uk/wp-content/uploads/Drugs-and-Alcohol-in-Ealing-Adults-JSNA-2019.pdf"
     },
     {
@@ -3869,66 +4153,102 @@
       "url": "https://ealing.moderngov.co.uk/mgIssueHistoryHome.aspx?IId=9740&Opt=0"
     },
     {
+      "article_label": "Hanwell Broadway",
+      "destination_title": "Local Elections Archive Project - 2022 - Ealing",
       "domain": "andrewteale.me.uk",
-      "label": "Hanwell Broadway",
+      "label": "Local Elections Archive Project - 2022 - Ealing",
       "post": "post:5858389",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.andrewteale.me.uk/leap/results/2022/5/#ward21428",
+      "title_source": "html-title",
       "url": "https://www.andrewteale.me.uk/leap/results/2022/5/#ward21428"
     },
     {
+      "article_label": "Southall Broadway",
+      "destination_title": "Local Elections Archive Project - 2022 - Ealing",
       "domain": "andrewteale.me.uk",
-      "label": "Southall Broadway",
+      "label": "Local Elections Archive Project - 2022 - Ealing",
       "post": "post:5858389",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.andrewteale.me.uk/leap/results/2022/5/#ward21440",
+      "title_source": "html-title",
       "url": "https://www.andrewteale.me.uk/leap/results/2022/5/#ward21440"
     },
     {
+      "article_label": "Southall Green",
+      "destination_title": "Local Elections Archive Project - 2022 - Ealing",
       "domain": "andrewteale.me.uk",
-      "label": "Southall Green",
+      "label": "Local Elections Archive Project - 2022 - Ealing",
       "post": "post:5858389",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.andrewteale.me.uk/leap/results/2022/5/#ward21441",
+      "title_source": "html-title",
       "url": "https://www.andrewteale.me.uk/leap/results/2022/5/#ward21441"
     },
     {
+      "article_label": "Walpole ward",
+      "destination_title": "Local Elections Archive Project - 2022 - Ealing",
       "domain": "andrewteale.me.uk",
-      "label": "Walpole ward",
+      "label": "Local Elections Archive Project - 2022 - Ealing",
       "post": "post:5858389",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.andrewteale.me.uk/leap/results/2022/5/#ward21444",
+      "title_source": "html-title",
       "url": "https://www.andrewteale.me.uk/leap/results/2022/5/#ward21444"
     },
     {
+      "article_label": "Southall Town Hall",
+      "destination_title": "West Ealing - Ealing RISE - London | Change Grow Live",
       "domain": "changegrowlive.org",
-      "label": "Southall Town Hall",
+      "label": "West Ealing - Ealing RISE - London | Change Grow Live",
       "post": "post:5858389",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.changegrowlive.org/service/ealing-rise/our-hubs",
+      "title_source": "html-title",
       "url": "https://www.changegrowlive.org/service/ealing-rise/our-hubs"
     },
     {
+      "article_label": "Ealing JSNA 2023",
+      "destination_title": "EALING JSNA Focus on drugs and alcohol 2023",
       "domain": "ealing.gov.uk",
-      "label": "Ealing JSNA 2023",
+      "label": "EALING JSNA Focus on drugs and alcohol 2023",
       "post": "post:5858389",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.gov.uk/download/downloads/id/20250/drugs_and_alcohol_-_jsna_2023.pdf",
+      "title_source": "pdf-title",
       "url": "https://www.ealing.gov.uk/download/downloads/id/20250/drugs_and_alcohol_-_jsna_2023.pdf"
     },
     {
+      "article_label": "Liberal Democrats have built their entire campaign",
+      "destination_title": "Opinion: Ealing Lib Dems call for changes to improve West Ealing following residents concerns about the area - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "domain": "ealing.news",
-      "label": "Liberal Democrats have built their entire campaign",
+      "label": "Opinion: Ealing Lib Dems call for changes to improve West Ealing following residents concerns about the area - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "post": "post:5858389",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.news/news/opinion/opinion-ealing-lib-dems-call-for-changes-to-improve-west-ealing-following-residents-concerns-about-the-area/",
+      "title_source": "og:title",
       "url": "https://www.ealing.news/news/opinion/opinion-ealing-lib-dems-call-for-changes-to-improve-west-ealing-following-residents-concerns-about-the-area/"
     },
     {
+      "article_label": "went to court to save",
+      "destination_title": "Save Southall Town Hall campaign - victory! | PILC",
       "domain": "pilc.org.uk",
-      "label": "went to court to save",
+      "label": "Save Southall Town Hall campaign - victory! | PILC",
       "post": "post:5858389",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.pilc.org.uk/post/save-southall-town-hall-campaign-victory",
+      "title_source": "og:title",
       "url": "https://www.pilc.org.uk/news/save-southall-town-hall-campaign-victory/"
     },
     {
+      "article_label": "drug crime rose 63.6% in the year to April 2026",
+      "destination_title": "Southall drugs crime stats in maps and graphs 7/2026",
       "domain": "plumplot.co.uk",
-      "label": "drug crime rose 63.6% in the year to April 2026",
+      "label": "Southall drugs crime stats in maps and graphs 7/2026",
       "post": "post:5858389",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.plumplot.co.uk/Southall-drugs-crime-statistics.html",
+      "title_source": "og:title",
       "url": "https://www.plumplot.co.uk/Southall-drugs-crime-statistics.html"
     },
     {
@@ -3960,17 +4280,25 @@
       "url": "https://www.police.uk/pu/your-area/metropolitan-police-service/walpole/"
     },
     {
+      "article_label": "open drug use, shoplifting and feeling unsafe",
+      "destination_title": "London’s wild west of drugs, shoplifting and low public confidence",
       "domain": "policeoracle.com",
-      "label": "open drug use, shoplifting and feeling unsafe",
+      "label": "London’s wild west of drugs, shoplifting and low public confidence",
       "post": "post:5858389",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.policeoracle.com/article-library/londons-wild-west-of-drugs-shoplifting-and-low-public-confidence/",
+      "title_source": "og:title",
       "url": "https://www.policeoracle.com/article-library/londons-wild-west-of-drugs-shoplifting-and-low-public-confidence/"
     },
     {
+      "article_label": "approved judgment",
+      "destination_title": "JO, R (on the application of) v London Borough of Ealing - Find Case Law - The National Archives",
       "domain": "caselaw.nationalarchives.gov.uk",
-      "label": "approved judgment",
+      "label": "JO, R (on the application of) v London Borough of Ealing - Find Case Law - The National Archives",
       "post": "post:5858871",
       "provenance": "source-post-link",
+      "resolved_url": "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2026/886",
+      "title_source": "html-title",
       "url": "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2026/886"
     },
     {
@@ -3995,17 +4323,25 @@
       "url": "https://ealing.moderngov.co.uk/ieListDocuments.aspx?MId=6661"
     },
     {
+      "article_label": "May 2021",
+      "destination_title": "Peter Mason to replace Julian Bell as Ealing Council leader",
       "domain": "ealing.nub.news",
-      "label": "May 2021",
+      "label": "Peter Mason to replace Julian Bell as Ealing Council leader",
       "post": "post:5858871",
       "provenance": "source-post-link",
+      "resolved_url": "https://ealing.nub.news/news/local-news/peter-mason-to-replace-julian-bell-as-ealing-council-leader",
+      "title_source": "og:title",
       "url": "https://ealing.nub.news/news/local-news/peter-mason-to-replace-julian-bell-as-ealing-council-leader"
     },
     {
+      "article_label": "Ealing News",
+      "destination_title": "Ealing Council increases councillor allowances - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "domain": "ealing.news",
-      "label": "Ealing News",
+      "label": "Ealing Council increases councillor allowances - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "post": "post:5858871",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.news/news/ealing-council-increases-councillor-allowances/",
+      "title_source": "og:title",
       "url": "https://www.ealing.news/news/ealing-council-increases-councillor-allowances/"
     },
     {
@@ -4020,10 +4356,14 @@
       "url": "https://dosomethinggood.ealing.gov.uk/your-voice-your-town/southall-town-team/"
     },
     {
+      "article_label": "Your Voice, Your Town",
+      "destination_title": "Your Voice Your Town",
       "domain": "dosomethinggood.ealing.gov.uk",
-      "label": "Your Voice, Your Town",
+      "label": "Your Voice Your Town",
       "post": "post:5859227",
       "provenance": "source-post-link",
+      "resolved_url": "https://dosomethinggood.ealing.gov.uk/your-voice-your-town/southall/",
+      "title_source": "html-title",
       "url": "https://dosomethinggood.ealing.gov.uk/your-voice-your-town/southall/"
     },
     {
@@ -4034,10 +4374,14 @@
       "url": "https://ealing.moderngov.co.uk"
     },
     {
+      "article_label": "One Nation",
+      "destination_title": "Welcome to One Nation",
       "domain": "one-nation.org.uk",
-      "label": "One Nation",
+      "label": "Welcome to One Nation",
       "post": "post:5859227",
       "provenance": "source-post-link",
+      "resolved_url": "https://one-nation.org.uk",
+      "title_source": "html-title",
       "url": "https://one-nation.org.uk"
     },
     {
@@ -4048,17 +4392,25 @@
       "url": "https://socialistworker.co.uk/news/help-respect-do-well-in-southall/"
     },
     {
+      "article_label": "2018",
+      "destination_title": "Local Elections Archive Project - 2018 - Ealing",
       "domain": "andrewteale.me.uk",
-      "label": "2018",
+      "label": "Local Elections Archive Project - 2018 - Ealing",
       "post": "post:5859227",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.andrewteale.me.uk/leap/results/2018/5/#ward98",
+      "title_source": "html-title",
       "url": "https://www.andrewteale.me.uk/leap/results/2018/5/#ward98"
     },
     {
+      "article_label": "2022",
+      "destination_title": "Local Elections Archive Project - 2022 - Ealing",
       "domain": "andrewteale.me.uk",
-      "label": "2022",
+      "label": "Local Elections Archive Project - 2022 - Ealing",
       "post": "post:5859227",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.andrewteale.me.uk/leap/results/2022/5/#ward21441",
+      "title_source": "html-title",
       "url": "https://www.andrewteale.me.uk/leap/results/2022/5/#ward21441"
     },
     {
@@ -4069,17 +4421,25 @@
       "url": "https://www.communitypoweredreporting.co.uk/"
     },
     {
+      "article_label": "more than £70,000 had been spent on consultant fees with no functioning replacement delivered",
+      "destination_title": "Ealing LibDems call on Ealing Council for return of ward forums - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "domain": "ealing.news",
-      "label": "more than £70,000 had been spent on consultant fees with no functioning replacement delivered",
+      "label": "Ealing LibDems call on Ealing Council for return of ward forums - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "post": "post:5859227",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.news/ealing-council/ealing-libdems-call-on-ealing-council-for-return-of-ward-forums/",
+      "title_source": "og:title",
       "url": "https://www.ealing.news/ealing-council/ealing-libdems-call-on-ealing-council-for-return-of-ward-forums/"
     },
     {
+      "article_label": "Six of twelve candidates appeared",
+      "destination_title": "Opinion: What it was like attending the Ealing Southall hustings - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "domain": "ealing.news",
-      "label": "Six of twelve candidates appeared",
+      "label": "Opinion: What it was like attending the Ealing Southall hustings - EALING.NEWS - The Voice of Ealing's 7 towns - Acton, Ealing, Greenford, Hanwell, Northolt, Perivale, Southall.",
       "post": "post:5859227",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.news/politics/general-election-2024/opinion-what-it-was-like-attending-the-ealing-southall-hustings/",
+      "title_source": "og:title",
       "url": "https://www.ealing.news/politics/general-election-2024/opinion-what-it-was-like-attending-the-ealing-southall-hustings/"
     },
     {
@@ -4105,31 +4465,47 @@
       "url": "https://www.ealingtoday.co.uk/default.asp?section=info&page=easouthallmeeting001.htm"
     },
     {
+      "article_label": "organised a full council election hustings at the Dominion Centre",
+      "destination_title": "Election Hustings 2018 - Events in and around Southall",
       "domain": "visitsouthall.co.uk",
-      "label": "organised a full council election hustings at the Dominion Centre",
+      "label": "Election Hustings 2018 - Events in and around Southall",
       "post": "post:5859227",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.visitsouthall.co.uk/Events/EventsDetails.php?recordID=1917",
+      "title_source": "og:title",
       "url": "https://www.visitsouthall.co.uk/Events/EventsDetails.php?recordID=1917"
     },
     {
+      "article_label": "hosted another General Election hustings",
+      "destination_title": "General Election Hustings and Discussion Event - Events in and around Southall",
       "domain": "visitsouthall.co.uk",
-      "label": "hosted another General Election hustings",
+      "label": "General Election Hustings and Discussion Event - Events in and around Southall",
       "post": "post:5859227",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.visitsouthall.co.uk/Events/EventsDetails.php?recordID=2083",
+      "title_source": "og:title",
       "url": "https://www.visitsouthall.co.uk/Events/EventsDetails.php?recordID=2083"
     },
     {
+      "article_label": "hosted a parliamentary hustings at Norwood Hall",
+      "destination_title": "SGSSS Hustings: Ealing Southall Candidates - Events in and around Southall",
       "domain": "visitsouthall.co.uk",
-      "label": "hosted a parliamentary hustings at Norwood Hall",
+      "label": "SGSSS Hustings: Ealing Southall Candidates - Events in and around Southall",
       "post": "post:5859227",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.visitsouthall.co.uk/Events/EventsDetails.php?recordID=2446",
+      "title_source": "og:title",
       "url": "https://www.visitsouthall.co.uk/Events/EventsDetails.php?recordID=2446"
     },
     {
+      "article_label": "hosted a parliamentary hustings",
+      "destination_title": "Election Hustings for Southall - Southall News",
       "domain": "visitsouthall.co.uk",
-      "label": "hosted a parliamentary hustings",
+      "label": "Election Hustings for Southall - Southall News",
       "post": "post:5859227",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.visitsouthall.co.uk/News/NewsDetails.php?recordID=969",
+      "title_source": "og:title",
       "url": "https://www.visitsouthall.co.uk/News/NewsDetails.php?recordID=969"
     },
     {
@@ -4147,10 +4523,14 @@
       "url": "https://www.communitypoweredreporting.co.uk/"
     },
     {
+      "article_label": "councillor allowances",
+      "destination_title": "Councillors scheme of allowances | Councillors scheme of allowances | Ealing Council",
       "domain": "ealing.gov.uk",
-      "label": "councillor allowances",
+      "label": "Councillors scheme of allowances | Councillors scheme of allowances | Ealing Council",
       "post": "post:5859443",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.gov.uk/info/201044/councillors/570/councillors_scheme_of_allowances",
+      "title_source": "html-title",
       "url": "https://www.ealing.gov.uk/info/201044/councillors/570/councillors_scheme_of_allowances"
     },
     {
@@ -4921,14 +5301,10 @@
       "url": "https://www.ealing.gov.uk/downloads/download/456/air_quality_action_plan_2022-27"
     },
     {
-      "article_label": "Ealing Race Equality Commission",
-      "destination_title": "Lamp column electric vehicle charge points (EVCP) consultation | Lamp column electric vehicle charge points (EVCP) consultation | Ealing Council",
       "domain": "ealing.gov.uk",
-      "label": "Lamp column electric vehicle charge points (EVCP) consultation | Lamp column electric vehicle charge points (EVCP) consultation | Ealing Council",
+      "label": "Ealing Race Equality Commission",
       "post": "post:5884473",
       "provenance": "source-post-link",
-      "resolved_url": "https://www.ealing.gov.uk/info/201307/past_consultations_2022/2916/lamp_column_electric_vehicle_charge_points_evcp_consultation",
-      "title_source": "html-title",
       "url": "https://www.ealing.gov.uk/info/201112/community_and_living/2916/ealing_race_equality_commission"
     },
     {
@@ -5063,8 +5439,9 @@
     }
   ],
   "counts": {
+    "citation_titles_rejected_as_stale_redirects": 3,
     "citations": 668,
-    "citations_with_destination_titles": 96,
+    "citations_with_destination_titles": 190,
     "entities": 115,
     "links": 1192,
     "posts": 69,
