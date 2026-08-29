@@ -35,6 +35,13 @@ def has_valid_occurrence(text: str, phrase: str, excluded_suffixes: list[str]) -
     return False
 
 
+def has_required_context(text: str, required_terms: list[str]) -> bool:
+    if not required_terms:
+        return True
+    lowered = text.lower()
+    return any(term.strip().lower() in lowered for term in required_terms if term and term.strip())
+
+
 def write_json(path: Path, value) -> None:
     path.write_text(json.dumps(value, indent=2, ensure_ascii=False, sort_keys=True) + "\n", encoding="utf-8")
 
@@ -58,7 +65,8 @@ def main() -> None:
     for entity_path in sorted(repo.glob("entities/*/*.md")):
         entity, _ = load_note(entity_path)
         suffixes = list(entity.get("exclude_suffixes") or [])
-        if not suffixes:
+        required_terms = list(entity.get("require_any_terms") or [])
+        if not suffixes and not required_terms:
             continue
 
         entity_id = entity["id"]
@@ -71,6 +79,8 @@ def main() -> None:
             meta, body = load_note(post_path)
             title = meta.get("title") or post_path.stem
             text = f"{title}\n{meta.get('summary') or ''}\n{body}"
+            if not has_required_context(text, required_terms):
+                continue
             valid_aliases = [p for p in phrases if p and has_valid_occurrence(text, p, suffixes)]
             if valid_aliases:
                 kept.append({**mention, "matched_aliases": valid_aliases})
@@ -111,8 +121,15 @@ def main() -> None:
     index_path = repo / "indexes/entities.md"
     index_text = index_path.read_text(encoding="utf-8")
     for entity_id, (_, new_count) in changed.items():
-        note = next(load_note(p)[0] for p in repo.glob("entities/*/*.md") if load_note(p)[0].get("id") == entity_id)
-        name = re.escape(note["name"])
+        entity_note = None
+        for path in repo.glob("entities/*/*.md"):
+            note, _ = load_note(path)
+            if note.get("id") == entity_id:
+                entity_note = note
+                break
+        if not entity_note:
+            continue
+        name = re.escape(entity_note["name"])
         index_text = re.sub(
             rf"(- \[[^\]]*{name}[^\]]*\]\([^\)]*\) — )\d+( post(?:s)?)",
             lambda m: f"{m.group(1)}{new_count}{m.group(2)}",
