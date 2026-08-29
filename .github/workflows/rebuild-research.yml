@@ -15,6 +15,7 @@ on:
       - 'config/entity-candidate-ignore.txt'
       - 'requirements.txt'
       - 'scripts/build_research.py'
+      - 'scripts/disambiguate_mentions.py'
       - 'scripts/discover_candidates.py'
       - 'scripts/enrich_citation_titles.py'
       - 'scripts/generate_link_health.py'
@@ -45,6 +46,8 @@ jobs:
         run: python scripts/discover_candidates.py
       - name: Build reviewed research graph
         run: python scripts/build_research.py
+      - name: Disambiguate ambiguous entity mentions
+        run: python scripts/disambiguate_mentions.py
       - name: Enrich article citations and check links
         run: |
           if [[ "$GITHUB_EVENT_NAME" == "schedule" ]]; then
