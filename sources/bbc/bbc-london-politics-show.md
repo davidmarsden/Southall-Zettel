@@ -3,7 +3,7 @@ id: bbc-london-politics-show
 title: "BBC London Politics Show"
 publisher: "BBC"
 source_type: broadcast
-canonical_url: ""
+canonical_url: "https://www.youtube.com/watch?v=5YMUntg8pRg"
 publication_date: "2026"
 related_entities:
   - ealing-council
@@ -16,4 +16,4 @@ cited_by:
 review_status: reviewed
 ---
 
-BBC London political programme cited in Southall Stories reporting on Ealing Council fly-tipping claims. A stable episode URL can be added when identified.
+BBC London political programme cited in Southall Stories reporting on Ealing Council fly-tipping claims. The curated canonical URL points to the YouTube clip embedded in the preserved Southall Stories article.
