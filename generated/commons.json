@@ -6063,7 +6063,7 @@
     "citations": 668,
     "citations_with_destination_titles": 345,
     "entities": 115,
-    "links": 1185,
+    "links": 1182,
     "posts": 69,
     "relationships": 25,
     "sources": 33,
@@ -7603,18 +7603,6 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:blair-peach",
-      "target": "post:5551106",
-      "type": "mentioned-in"
-    },
-    {
-      "provenance": "deterministic-alias-match",
-      "source": "entity:blair-peach",
-      "target": "post:5581131",
-      "type": "mentioned-in"
-    },
-    {
-      "provenance": "deterministic-alias-match",
-      "source": "entity:blair-peach",
       "target": "post:5841154",
       "type": "mentioned-in"
     },
@@ -7628,12 +7616,6 @@
       "provenance": "deterministic-alias-match",
       "source": "entity:blair-peach",
       "target": "post:5855337",
-      "type": "mentioned-in"
-    },
-    {
-      "provenance": "deterministic-alias-match",
-      "source": "entity:blair-peach",
-      "target": "post:5884473",
       "type": "mentioned-in"
     },
     {

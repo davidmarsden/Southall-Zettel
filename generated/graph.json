@@ -11495,18 +11495,6 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:blair-peach",
-      "target": "post:posts/2018/09/12/countering-the-southall-waterside-narrative.md",
-      "type": "mentioned-in"
-    },
-    {
-      "provenance": "deterministic-alias-match",
-      "source": "entity:blair-peach",
-      "target": "post:posts/2019/06/01/pull-the-other-one-julian.md",
-      "type": "mentioned-in"
-    },
-    {
-      "provenance": "deterministic-alias-match",
-      "source": "entity:blair-peach",
       "target": "post:posts/2026/04/24/when-deport-six-million-becomes.md",
       "type": "mentioned-in"
     },
@@ -11520,12 +11508,6 @@
       "provenance": "deterministic-alias-match",
       "source": "entity:blair-peach",
       "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
-      "type": "mentioned-in"
-    },
-    {
-      "provenance": "deterministic-alias-match",
-      "source": "entity:blair-peach",
-      "target": "post:posts/2026/05/25/feeling-the-heat.md",
       "type": "mentioned-in"
     }
   ],
