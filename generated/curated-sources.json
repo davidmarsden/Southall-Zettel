@@ -1,7 +1,7 @@
 [
   {
-    "body": "BBC London political programme cited in Southall Stories reporting on Ealing Council fly-tipping claims. A stable episode URL can be added when identified.",
-    "canonical_url": "",
+    "body": "BBC London political programme cited in Southall Stories reporting on Ealing Council fly-tipping claims. The curated canonical URL points to the YouTube clip embedded in the preserved Southall Stories article.",
+    "canonical_url": "https://www.youtube.com/watch?v=5YMUntg8pRg",
     "cited_by": [
       "posts/2026/03/01/boomerang-ten-years-sorting-out.md",
       "posts/2026/04/30/this-is-our-home-its.md"
