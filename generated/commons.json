@@ -6577,7 +6577,9 @@
       "type": "organisation"
     },
     {
-      "aliases": [],
+      "aliases": [
+        "Jags Sangera"
+      ],
       "description": null,
       "id": "entity:jags-sanghera",
       "name": "Jags Sanghera",
