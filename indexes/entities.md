@@ -7,7 +7,7 @@ Curated entities with generated mention counts.
 - [Air Quality Scrutiny Panel](../entities/organisations/air-quality-scrutiny-panel.md) — 6 posts
 - [Around Ealing](../entities/organisations/around-ealing.md) — 2 posts
 - [Berkeley Group](../entities/organisations/berkeley-group.md) — 32 posts
-- [Blair Peach Primary School](../entities/organisations/blair-peach-primary-school.md) — 9 posts
+- [Blair Peach Primary School](../entities/organisations/blair-peach-primary-school.md) — 6 posts
 - [Clean Air for Southall and Hayes](../entities/organisations/clean-air-for-southall-and-hayes.md) — 9 posts
 - [Community Powered Reporting](../entities/organisations/community-powered-reporting.md) — 7 posts
 - [Conservative Party](../entities/organisations/conservative-party.md) — 7 posts
@@ -53,7 +53,7 @@ Curated entities with generated mention counts.
 
 - [Angela Fonso](../entities/people/angela-fonso.md) — 3 posts
 - [Bassam Mahfouz](../entities/people/bassam-mahfouz.md) — 3 posts
-- [Blair Peach](../entities/people/blair-peach.md) — 13 posts
+- [Blair Peach](../entities/people/blair-peach.md) — 6 posts
 - [Boris Johnson](../entities/people/boris-johnson.md) — 2 posts
 - [Conal Urquhart](../entities/people/conal-urquhart.md) — 2 posts
 - [Damian Leydon](../entities/people/damian-leydon.md) — 3 posts

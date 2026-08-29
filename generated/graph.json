@@ -98,12 +98,6 @@
     },
     {
       "provenance": "deterministic-alias-match",
-      "source": "entity:blair-peach",
-      "target": "post:posts/2018/09/11/berkeleys-school-governors-board-member.md",
-      "type": "mentioned-in"
-    },
-    {
-      "provenance": "deterministic-alias-match",
       "source": "entity:blair-peach-primary-school",
       "target": "post:posts/2018/09/11/berkeleys-school-governors-board-member.md",
       "type": "mentioned-in"
@@ -159,12 +153,6 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
-      "target": "post:posts/2018/09/12/countering-the-southall-waterside-narrative.md",
-      "type": "mentioned-in"
-    },
-    {
-      "provenance": "deterministic-alias-match",
-      "source": "entity:blair-peach",
       "target": "post:posts/2018/09/12/countering-the-southall-waterside-narrative.md",
       "type": "mentioned-in"
     },
@@ -309,12 +297,6 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
-      "target": "post:posts/2019/06/01/pull-the-other-one-julian.md",
-      "type": "mentioned-in"
-    },
-    {
-      "provenance": "deterministic-alias-match",
-      "source": "entity:blair-peach",
       "target": "post:posts/2019/06/01/pull-the-other-one-julian.md",
       "type": "mentioned-in"
     },
@@ -543,12 +525,6 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
-      "target": "post:posts/2019/07/21/phe-coverup-continued.md",
-      "type": "mentioned-in"
-    },
-    {
-      "provenance": "deterministic-alias-match",
-      "source": "entity:blair-peach",
       "target": "post:posts/2019/07/21/phe-coverup-continued.md",
       "type": "mentioned-in"
     },
@@ -1076,12 +1052,6 @@
     },
     {
       "provenance": "deterministic-alias-match",
-      "source": "entity:blair-peach",
-      "target": "post:posts/2021/07/27/questions-for-cabinet-leads.md",
-      "type": "mentioned-in"
-    },
-    {
-      "provenance": "deterministic-alias-match",
       "source": "entity:blair-peach-primary-school",
       "target": "post:posts/2021/07/27/questions-for-cabinet-leads.md",
       "type": "mentioned-in"
@@ -1251,12 +1221,6 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
-      "target": "post:posts/2022/07/10/weasel-words-on-air-quality.md",
-      "type": "mentioned-in"
-    },
-    {
-      "provenance": "deterministic-alias-match",
-      "source": "entity:blair-peach",
       "target": "post:posts/2022/07/10/weasel-words-on-air-quality.md",
       "type": "mentioned-in"
     },
@@ -1857,12 +1821,6 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
-      "target": "post:posts/2025/07/11/perceval-house-w-where-local.md",
-      "type": "mentioned-in"
-    },
-    {
-      "provenance": "deterministic-alias-match",
-      "source": "entity:blair-peach",
       "target": "post:posts/2025/07/11/perceval-house-w-where-local.md",
       "type": "mentioned-in"
     },
@@ -2577,12 +2535,6 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:air-quality-scrutiny-panel",
-      "target": "post:posts/2026/01/20/the-council-investigation-that-found.md",
-      "type": "mentioned-in"
-    },
-    {
-      "provenance": "deterministic-alias-match",
-      "source": "entity:blair-peach",
       "target": "post:posts/2026/01/20/the-council-investigation-that-found.md",
       "type": "mentioned-in"
     },
@@ -4022,12 +3974,6 @@
     },
     {
       "provenance": "deterministic-alias-match",
-      "source": "entity:blair-peach",
-      "target": "post:posts/2026/04/24/when-deport-six-million-becomes.md",
-      "type": "mentioned-in"
-    },
-    {
-      "provenance": "deterministic-alias-match",
       "source": "entity:conservative-party",
       "target": "post:posts/2026/04/24/when-deport-six-million-becomes.md",
       "type": "mentioned-in"
@@ -4179,12 +4125,6 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
-      "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
-      "type": "mentioned-in"
-    },
-    {
-      "provenance": "deterministic-alias-match",
-      "source": "entity:blair-peach",
       "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
       "type": "mentioned-in"
     },
@@ -5894,12 +5834,6 @@
     },
     {
       "provenance": "deterministic-alias-match",
-      "source": "entity:blair-peach",
-      "target": "post:posts/2026/05/07/the-man-in-the-middle.md",
-      "type": "mentioned-in"
-    },
-    {
-      "provenance": "deterministic-alias-match",
       "source": "entity:blair-peach-primary-school",
       "target": "post:posts/2026/05/07/the-man-in-the-middle.md",
       "type": "mentioned-in"
@@ -6087,12 +6021,6 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
-      "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
-      "type": "mentioned-in"
-    },
-    {
-      "provenance": "deterministic-alias-match",
-      "source": "entity:blair-peach",
       "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
       "type": "mentioned-in"
     },
@@ -6831,12 +6759,6 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
-      "target": "post:posts/2026/05/25/feeling-the-heat.md",
-      "type": "mentioned-in"
-    },
-    {
-      "provenance": "deterministic-alias-match",
-      "source": "entity:blair-peach",
       "target": "post:posts/2026/05/25/feeling-the-heat.md",
       "type": "mentioned-in"
     },
@@ -11569,6 +11491,42 @@
       "source": "source:southall-community-alliance-trustees",
       "target": "topic:governance",
       "type": "relates-to"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach",
+      "target": "post:posts/2018/09/12/countering-the-southall-waterside-narrative.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach",
+      "target": "post:posts/2019/06/01/pull-the-other-one-julian.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach",
+      "target": "post:posts/2026/04/24/when-deport-six-million-becomes.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach",
+      "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach",
+      "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:blair-peach",
+      "target": "post:posts/2026/05/25/feeling-the-heat.md",
+      "type": "mentioned-in"
     }
   ],
   "nodes": [
