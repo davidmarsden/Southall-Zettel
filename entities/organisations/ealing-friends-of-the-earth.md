@@ -6,4 +6,4 @@ website: "https://www.ealingfoe.org.uk/"
 aliases: []
 ---
 
-Local Friends of the Earth group covering the London Borough of Ealing. It campaigns on climate change, air quality, transport, development, green space and related environmental issues, and appears in the research corpus in reporting on Ealing planning and climate policy.
+Local Friends of the Earth group covering the London Borough of Ealing, campaigning on climate change, air quality, transport, development, green space and related environmental issues.
