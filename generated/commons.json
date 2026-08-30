@@ -6074,7 +6074,7 @@
       "aliases": [
         "Ealing Air Quality Scrutiny Panel"
       ],
-      "description": null,
+      "description": "Ealing Council scrutiny panel referenced in reporting on Southall air pollution and enforcement.",
       "id": "entity:air-quality-scrutiny-panel",
       "name": "Air Quality Scrutiny Panel",
       "provenance": "curated-entity",
@@ -6083,7 +6083,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Local political and community figure recurring in Southall Stories election and engagement reporting.",
       "id": "entity:angela-fonso",
       "name": "Angela Fonso",
       "provenance": "curated-entity",
@@ -6094,7 +6094,7 @@
       "aliases": [
         "Around Ealing magazine"
       ],
-      "description": null,
+      "description": "Ealing Council's residents' publication.",
       "id": "entity:around-ealing",
       "name": "Around Ealing",
       "provenance": "curated-entity",
@@ -6105,7 +6105,7 @@
       "aliases": [
         "Cllr Bassam Mahfouz"
       ],
-      "description": null,
+      "description": "Ealing politician recurring in Southall Stories reporting.",
       "id": "entity:bassam-mahfouz",
       "name": "Bassam Mahfouz",
       "provenance": "curated-entity",
@@ -6116,7 +6116,7 @@
       "aliases": [
         "Beaconsfield Road, Southall"
       ],
-      "description": null,
+      "description": "Road in Southall near the former gasworks redevelopment.",
       "id": "entity:beaconsfield-road",
       "name": "Beaconsfield Road",
       "provenance": "curated-entity",
@@ -6129,7 +6129,7 @@
         "St George",
         "St George West London"
       ],
-      "description": null,
+      "description": "Property developer associated with Southall Waterside / the former gasworks site.",
       "id": "entity:berkeley-group",
       "name": "Berkeley Group",
       "provenance": "curated-entity",
@@ -6138,7 +6138,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Blair Peach, the anti-racist teacher killed in Southall in 1979. Kept distinct from Blair Peach Primary School. Deterministic mentions of the person are deliberately conservative and require historical / anti-racist context rather than being inferred from the school's name or unrelated civic reporting.",
       "id": "entity:blair-peach",
       "name": "Blair Peach",
       "provenance": "curated-entity",
@@ -6147,7 +6147,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Primary school in Southall. Kept distinct from the person Blair Peach.",
       "id": "entity:blair-peach-primary-school",
       "name": "Blair Peach Primary School",
       "provenance": "curated-entity",
@@ -6156,7 +6156,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "British politician referenced in Southall Stories reporting.",
       "id": "entity:boris-johnson",
       "name": "Boris Johnson",
       "provenance": "curated-entity",
@@ -6168,7 +6168,7 @@
         "CASH",
         "Clean Air"
       ],
-      "description": null,
+      "description": "Community campaign group focused on air pollution and environmental health in Southall and Hayes.",
       "id": "entity:clean-air-for-southall-and-hayes",
       "name": "Clean Air for Southall and Hayes",
       "provenance": "curated-entity",
@@ -6179,7 +6179,7 @@
       "aliases": [
         "CPR"
       ],
-      "description": null,
+      "description": "Resident-led research and reporting project focused on governance and accountability.",
       "id": "entity:community-powered-reporting",
       "name": "Community Powered Reporting",
       "provenance": "curated-entity",
@@ -6188,7 +6188,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Local journalist associated with The View From W5.",
       "id": "entity:conal-urquhart",
       "name": "Conal Urquhart",
       "provenance": "curated-entity",
@@ -6201,7 +6201,7 @@
         "Tories",
         "Tory Party"
       ],
-      "description": null,
+      "description": "UK political party.",
       "id": "entity:conservative-party",
       "name": "Conservative Party",
       "provenance": "curated-entity",
@@ -6210,7 +6210,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Berkeley Group executive recurring in Southall Gasworks / Southall Waterside reporting.",
       "id": "entity:damian-leydon",
       "name": "Damian Leydon",
       "provenance": "curated-entity",
@@ -6219,7 +6219,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Southall civic and election figure appearing in the corpus.",
       "id": "entity:dan-cortese",
       "name": "Dan Cortese",
       "provenance": "curated-entity",
@@ -6233,7 +6233,7 @@
         "Department for Environment, Food and Rural Affairs",
         "Defra Fly-Tipping Statistics"
       ],
-      "description": null,
+      "description": "UK government department. References to Defra fly-tipping statistics are treated as citations from this organisation rather than as a separate entity.",
       "id": "entity:defra",
       "name": "Defra",
       "provenance": "curated-entity",
@@ -6242,7 +6242,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Community and civic venue in Southall, recurring in reporting on council assets, local politics and public meetings.",
       "id": "entity:dominion-centre",
       "name": "Dominion Centre",
       "provenance": "curated-entity",
@@ -6253,7 +6253,7 @@
       "aliases": [
         "Dormers Wells ward"
       ],
-      "description": null,
+      "description": "Ealing ward and Southall-area locality recurring in civic and electoral reporting.",
       "id": "entity:dormers-wells",
       "name": "Dormers Wells",
       "provenance": "curated-entity",
@@ -6264,7 +6264,7 @@
       "aliases": [
         "John Freeman"
       ],
-      "description": null,
+      "description": "Ealing Council regulatory-services officer appearing in reporting on Southall air pollution and odour complaints.",
       "id": "entity:dr-john-freeman",
       "name": "Dr John Freeman",
       "provenance": "curated-entity",
@@ -6275,7 +6275,7 @@
       "aliases": [
         "London Borough of Ealing"
       ],
-      "description": null,
+      "description": "West London borough containing Southall.",
       "id": "entity:ealing",
       "name": "Ealing",
       "provenance": "curated-entity",
@@ -6286,7 +6286,7 @@
       "aliases": [
         "Ealing Common ward"
       ],
-      "description": null,
+      "description": "Ealing locality and electoral ward.",
       "id": "entity:ealing-common",
       "name": "Ealing Common",
       "provenance": "curated-entity",
@@ -6298,7 +6298,7 @@
         "ECI",
         "Ealing Community Independent"
       ],
-      "description": null,
+      "description": "Local independent political group active in Ealing and Southall.",
       "id": "entity:ealing-community-independents",
       "name": "Ealing Community Independents",
       "provenance": "curated-entity",
@@ -6309,7 +6309,7 @@
       "aliases": [
         "London Borough of Ealing"
       ],
-      "description": null,
+      "description": "Local authority for the London Borough of Ealing.",
       "id": "entity:ealing-council",
       "name": "Ealing Council",
       "provenance": "curated-entity",
@@ -6321,7 +6321,7 @@
         "Pension Fund Panel",
         "The Pension Fund Panel"
       ],
-      "description": null,
+      "description": "Ealing Council committee overseeing the borough pension fund, recurring in reporting on investment, divestment and governance.",
       "id": "entity:ealing-council-pension-fund-panel",
       "name": "Ealing Council Pension Fund Panel",
       "provenance": "curated-entity",
@@ -6330,7 +6330,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Local campaign organisation referenced in reporting on council pension divestment.",
       "id": "entity:ealing-friends-of-palestine",
       "name": "Ealing Friends of Palestine",
       "provenance": "curated-entity",
@@ -6339,7 +6339,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Local environmental campaign organisation referenced in reporting on Ealing planning and climate policy.",
       "id": "entity:ealing-friends-of-the-earth",
       "name": "Ealing Friends of the Earth",
       "provenance": "curated-entity",
@@ -6350,7 +6350,7 @@
       "aliases": [
         "EIN"
       ],
-      "description": null,
+      "description": "Local independent political network in Ealing recurring in Southall Stories reporting.",
       "id": "entity:ealing-independent-network",
       "name": "Ealing Independent Network",
       "provenance": "curated-entity",
@@ -6363,7 +6363,7 @@
         "Ealing Labour Council",
         "Labour Council"
       ],
-      "description": null,
+      "description": "Labour group and local political organisation in Ealing. This is kept distinct from the national Labour Party and from Ealing Council as the local authority.",
       "id": "entity:ealing-labour",
       "name": "Ealing Labour",
       "provenance": "curated-entity",
@@ -6372,7 +6372,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Independent local news publisher covering the London Borough of Ealing and recurring as an external source in Southall Stories reporting.",
       "id": "entity:ealing-news",
       "name": "Ealing News",
       "provenance": "curated-entity",
@@ -6383,7 +6383,7 @@
       "aliases": [
         "Ealing Southall"
       ],
-      "description": null,
+      "description": "UK parliamentary constituency covering Southall and surrounding parts of the London Borough of Ealing.",
       "id": "entity:ealing-southall-constituency",
       "name": "Ealing Southall constituency",
       "provenance": "curated-entity",
@@ -6394,7 +6394,7 @@
       "aliases": [
         "East Acton ward"
       ],
-      "description": null,
+      "description": "Ealing ward and West London place recurring in local political reporting.",
       "id": "entity:east-acton",
       "name": "East Acton",
       "provenance": "curated-entity",
@@ -6405,7 +6405,7 @@
       "aliases": [
         "Crossrail"
       ],
-      "description": null,
+      "description": "London rail infrastructure serving Southall. Treated as an infrastructure/place entity in the current schema.",
       "id": "entity:elizabeth-line",
       "name": "Elizabeth Line",
       "provenance": "curated-entity",
@@ -6416,7 +6416,7 @@
       "aliases": [
         "EA"
       ],
-      "description": null,
+      "description": "Environmental regulator cited in Southall Stories reporting.",
       "id": "entity:environment-agency",
       "name": "Environment Agency",
       "provenance": "curated-entity",
@@ -6428,7 +6428,7 @@
         "European Court",
         "ECHR"
       ],
-      "description": null,
+      "description": "International human-rights court referred to in reporting on UK migration and deportation policy.",
       "id": "entity:european-court-of-human-rights",
       "name": "European Court of Human Rights",
       "provenance": "curated-entity",
@@ -6439,7 +6439,7 @@
       "aliases": [
         "F M Conway"
       ],
-      "description": null,
+      "description": "Infrastructure and construction company associated with the Southall asphalt plant and recurring air-pollution reporting.",
       "id": "entity:fm-conway",
       "name": "FM Conway",
       "provenance": "curated-entity",
@@ -6450,7 +6450,7 @@
       "aliases": [
         "GLA"
       ],
-      "description": null,
+      "description": "Strategic authority for Greater London, recurring in reporting on housing funding and London-wide policy.",
       "id": "entity:greater-london-authority",
       "name": "Greater London Authority",
       "provenance": "curated-entity",
@@ -6462,7 +6462,7 @@
         "The Greens",
         "Greens"
       ],
-      "description": null,
+      "description": "Political party entity. Alias forms are treated as the same organisation.",
       "id": "entity:green-party",
       "name": "Green Party",
       "provenance": "curated-entity",
@@ -6471,7 +6471,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Ealing ward and local area recurring in election and local-government reporting.",
       "id": "entity:greenford-broadway",
       "name": "Greenford Broadway",
       "provenance": "curated-entity",
@@ -6482,7 +6482,7 @@
       "aliases": [
         "Grove House hub"
       ],
-      "description": null,
+      "description": "Southall children's centre hub referenced in reporting on Ealing Council's children's-centre closures.",
       "id": "entity:grove-house",
       "name": "Grove House",
       "provenance": "curated-entity",
@@ -6493,7 +6493,7 @@
       "aliases": [
         "Gurdip Chaggar"
       ],
-      "description": null,
+      "description": "Southall resident killed in a racist attack in 1976 and commemorated in local civic memory.",
       "id": "entity:gurdip-singh-chaggar",
       "name": "Gurdip Singh Chaggar",
       "provenance": "curated-entity",
@@ -6504,7 +6504,7 @@
       "aliases": [
         "Hanwell Broadway ward"
       ],
-      "description": null,
+      "description": "Ealing ward and local area.",
       "id": "entity:hanwell-broadway",
       "name": "Hanwell Broadway",
       "provenance": "curated-entity",
@@ -6515,7 +6515,7 @@
       "aliases": [
         "Henry Construction Projects"
       ],
-      "description": null,
+      "description": "Construction company associated with stalled Ealing housing projects.",
       "id": "entity:henry-construction",
       "name": "Henry Construction",
       "provenance": "curated-entity",
@@ -6526,7 +6526,7 @@
       "aliases": [
         "High Court of Justice"
       ],
-      "description": null,
+      "description": "Court institution appearing in Ealing judicial-review reporting.",
       "id": "entity:high-court",
       "name": "High Court",
       "provenance": "curated-entity",
@@ -6537,7 +6537,7 @@
       "aliases": [
         "The Housing Ombudsman"
       ],
-      "description": null,
+      "description": "Housing complaints and redress body cited in reporting on Ealing Council housing performance.",
       "id": "entity:housing-ombudsman",
       "name": "Housing Ombudsman",
       "provenance": "curated-entity",
@@ -6546,7 +6546,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "UK think tank cited in reporting on government and public policy.",
       "id": "entity:institute-for-government",
       "name": "Institute for Government",
       "provenance": "curated-entity",
@@ -6558,7 +6558,7 @@
         "International Court",
         "ICJ"
       ],
-      "description": null,
+      "description": "United Nations court referenced in reporting on pension-fund investments and Israel/Palestine.",
       "id": "entity:international-court-of-justice",
       "name": "International Court of Justice",
       "provenance": "curated-entity",
@@ -6569,7 +6569,7 @@
       "aliases": [
         "Wayback Machine"
       ],
-      "description": null,
+      "description": "Digital archive and source provider used to preserve and verify historical web evidence.",
       "id": "entity:internet-archive",
       "name": "Internet Archive",
       "provenance": "curated-entity",
@@ -6580,7 +6580,7 @@
       "aliases": [
         "Jags Sangera"
       ],
-      "description": null,
+      "description": "Southall community and political figure recurring in reporting on local organisations, development and elections.",
       "id": "entity:jags-sanghera",
       "name": "Jags Sanghera",
       "provenance": "curated-entity",
@@ -6593,7 +6593,7 @@
         "Jasbir Anand",
         "Cllr Jasbir Kaur Anand"
       ],
-      "description": null,
+      "description": "Ealing councillor and recurring figure in Southall Stories reporting.",
       "id": "entity:jasbir-kaur-anand",
       "name": "Jasbir Kaur Anand",
       "provenance": "curated-entity",
@@ -6604,7 +6604,7 @@
       "aliases": [
         "JR"
       ],
-      "description": null,
+      "description": "Southall community activist and Ealing Community Independents candidate referenced in the corpus.",
       "id": "entity:jatinder-rajput",
       "name": "Jatinder Rajput",
       "provenance": "curated-entity",
@@ -6613,7 +6613,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "British politician appearing in Southall Stories reporting on Labour politics, local events and electoral context.",
       "id": "entity:jeremy-corbyn",
       "name": "Jeremy Corbyn",
       "provenance": "curated-entity",
@@ -6622,7 +6622,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Local independent political figure recurring in Southall Stories reporting.",
       "id": "entity:joe-bhangu",
       "name": "Joe Bhangu",
       "provenance": "curated-entity",
@@ -6633,7 +6633,7 @@
       "aliases": [
         "Cllr John Martin"
       ],
-      "description": null,
+      "description": "Ealing councillor and local political figure recurring in Southall Stories reporting.",
       "id": "entity:john-martin",
       "name": "John Martin",
       "provenance": "curated-entity",
@@ -6645,7 +6645,7 @@
         "Johnson Street, Southall",
         "The Johnson Street"
       ],
-      "description": null,
+      "description": "Southall street and industrial location recurring in reporting on recycling, fire risk and regulatory oversight.",
       "id": "entity:johnson-street",
       "name": "Johnson Street",
       "provenance": "curated-entity",
@@ -6654,7 +6654,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Ealing Labour politician referenced in reporting on local governance and children's-centre closures.",
       "id": "entity:josh-blacker",
       "name": "Josh Blacker",
       "provenance": "curated-entity",
@@ -6666,7 +6666,7 @@
         "Cllr Julian Bell",
         "Councillor Julian Bell"
       ],
-      "description": null,
+      "description": "Former leader of Ealing Council and recurring figure in Southall Stories reporting.",
       "id": "entity:julian-bell",
       "name": "Julian Bell",
       "provenance": "curated-entity",
@@ -6677,7 +6677,7 @@
       "aliases": [
         "Cllr Kate Crawford"
       ],
-      "description": null,
+      "description": "Long-serving Ealing councillor and local political figure recurring in Southall Stories reporting.",
       "id": "entity:kate-crawford",
       "name": "Kate Crawford",
       "provenance": "curated-entity",
@@ -6688,7 +6688,7 @@
       "aliases": [
         "King Street, Southall"
       ],
-      "description": null,
+      "description": "Street in Southall appearing in air-quality and local civic reporting.",
       "id": "entity:king-street",
       "name": "King Street",
       "provenance": "curated-entity",
@@ -6700,7 +6700,7 @@
         "national Labour",
         "national Labour Party"
       ],
-      "description": null,
+      "description": "The national UK Labour Party. Kept distinct from the curated Ealing Labour local organisation.",
       "id": "entity:labour-party",
       "name": "Labour Party",
       "provenance": "curated-entity",
@@ -6713,7 +6713,7 @@
         "Labour NEC",
         "NEC"
       ],
-      "description": null,
+      "description": "The national Labour Party's governing National Executive Committee. Kept distinct from Ealing Labour and Ealing Council.",
       "id": "entity:labour-party-national-executive-committee",
       "name": "Labour Party National Executive Committee",
       "provenance": "curated-entity",
@@ -6724,7 +6724,7 @@
       "aliases": [
         "Lady Margaret ward"
       ],
-      "description": null,
+      "description": "Ealing ward.",
       "id": "entity:lady-margaret",
       "name": "Lady Margaret",
       "provenance": "curated-entity",
@@ -6733,7 +6733,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Former Ealing Labour councillor referenced in reporting on Peter Mason and local Labour politics.",
       "id": "entity:lewis-cox",
       "name": "Lewis Cox",
       "provenance": "curated-entity",
@@ -6746,7 +6746,7 @@
         "Lib Dem",
         "Lib Dems"
       ],
-      "description": null,
+      "description": "Political party entity. Singular and abbreviated forms are treated as the same organisation.",
       "id": "entity:liberal-democrats",
       "name": "Liberal Democrats",
       "provenance": "curated-entity",
@@ -6757,7 +6757,7 @@
       "aliases": [
         "LDRS"
       ],
-      "description": null,
+      "description": "UK local-government news reporting service appearing as a source in the corpus.",
       "id": "entity:local-democracy-reporting-service",
       "name": "Local Democracy Reporting Service",
       "provenance": "curated-entity",
@@ -6768,7 +6768,7 @@
       "aliases": [
         "LGA"
       ],
-      "description": null,
+      "description": "National membership body for local authorities in England and Wales, recurring in reporting on Peter Mason's wider local-government roles.",
       "id": "entity:local-government-association",
       "name": "Local Government Association",
       "provenance": "curated-entity",
@@ -6777,7 +6777,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Elected body scrutinising the Mayor of London, cited in Southall Stories reporting.",
       "id": "entity:london-assembly",
       "name": "London Assembly",
       "provenance": "curated-entity",
@@ -6786,7 +6786,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "London civic and amenity network referenced in the corpus for recommending Community Powered Reporting research.",
       "id": "entity:london-forum",
       "name": "London Forum",
       "provenance": "curated-entity",
@@ -6798,7 +6798,7 @@
         "Met Police",
         "Metropolitan Police Service"
       ],
-      "description": null,
+      "description": "Police force serving Greater London and a recurring institution in the Southall Stories corpus.",
       "id": "entity:metropolitan-police",
       "name": "Metropolitan Police",
       "provenance": "curated-entity",
@@ -6807,7 +6807,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Park north-west of the Southall Gasworks site and location of air-quality monitoring referenced in the corpus.",
       "id": "entity:minet-park",
       "name": "Minet Park",
       "provenance": "curated-entity",
@@ -6816,7 +6816,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Ealing Community Independents candidate and recurring figure in Southall Stories election reporting.",
       "id": "entity:minni-dogra",
       "name": "Minni Dogra",
       "provenance": "curated-entity",
@@ -6825,7 +6825,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "British far-right political organisation recurring in historical Southall reporting, particularly around the events of 23 April 1979.",
       "id": "entity:national-front",
       "name": "National Front",
       "provenance": "curated-entity",
@@ -6834,7 +6834,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Energy infrastructure organisation recurring in reporting on the former Southall Gasworks site and gasholder works.",
       "id": "entity:national-grid",
       "name": "National Grid",
       "provenance": "curated-entity",
@@ -6845,7 +6845,7 @@
       "aliases": [
         "Nigel Giffin"
       ],
-      "description": null,
+      "description": "Barrister whose legal opinion for the Local Government Association is cited in the Southall Stories corpus.",
       "id": "entity:nigel-giffin-kc",
       "name": "Nigel Giffin KC",
       "provenance": "curated-entity",
@@ -6856,7 +6856,7 @@
       "aliases": [
         "Norwood Green ward"
       ],
-      "description": null,
+      "description": "Neighbourhood and electoral ward in the London Borough of Ealing.",
       "id": "entity:norwood-green",
       "name": "Norwood Green",
       "provenance": "curated-entity",
@@ -6867,7 +6867,7 @@
       "aliases": [
         "Norwood Road, Southall"
       ],
-      "description": null,
+      "description": "Southall housing development site discussed in reporting on stalled council housing schemes.",
       "id": "entity:norwood-road",
       "name": "Norwood Road",
       "provenance": "curated-entity",
@@ -6880,7 +6880,7 @@
         "Onkar Sahota AM",
         "Dr Onkar Sahota AM"
       ],
-      "description": null,
+      "description": "London Assembly Member recurring in the Southall Stories corpus.",
       "id": "entity:onkar-sahota",
       "name": "Dr Onkar Sahota",
       "provenance": "curated-entity",
@@ -6889,7 +6889,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Southall venue recurring in reporting on public meetings and local political engagement.",
       "id": "entity:parkside-yards",
       "name": "Parkside Yards",
       "provenance": "curated-entity",
@@ -6900,7 +6900,7 @@
       "aliases": [
         "Perceval House W5"
       ],
-      "description": null,
+      "description": "Ealing Council's civic offices in central Ealing, recurring in reporting on local government and democratic accountability.",
       "id": "entity:perceval-house",
       "name": "Perceval House",
       "provenance": "curated-entity",
@@ -6912,7 +6912,7 @@
         "Cllr Peter Mason",
         "Councillor Peter Mason"
       ],
-      "description": null,
+      "description": "Ealing Labour politician and council leader, recurring subject of Southall Stories reporting.",
       "id": "entity:peter-mason",
       "name": "Peter Mason",
       "provenance": "curated-entity",
@@ -6923,7 +6923,7 @@
       "aliases": [
         "Private Eye magazine"
       ],
-      "description": null,
+      "description": "UK satirical and investigative magazine cited in Southall Stories reporting.",
       "id": "entity:private-eye",
       "name": "Private Eye",
       "provenance": "curated-entity",
@@ -6935,7 +6935,7 @@
         "PHE",
         "PHE London"
       ],
-      "description": null,
+      "description": "Former public health body cited in reporting on Southall environmental health concerns. References to PHE London are treated as the same organisation rather than a separate civic entity.",
       "id": "entity:public-health-england",
       "name": "Public Health England",
       "provenance": "curated-entity",
@@ -6947,7 +6947,7 @@
         "Mr Justice Kimblin",
         "Justice Kimblin"
       ],
-      "description": null,
+      "description": "High Court judge appearing in reporting on the Ealing children's centres judicial review.",
       "id": "entity:richard-kimblin",
       "name": "Richard Kimblin",
       "provenance": "curated-entity",
@@ -6958,7 +6958,7 @@
       "aliases": [
         "Rick Watler"
       ],
-      "description": null,
+      "description": "Figure associated with Southall Waterside / the Southall Gasworks development in the corpus.",
       "id": "entity:richard-watler",
       "name": "Richard Watler",
       "provenance": "curated-entity",
@@ -6967,7 +6967,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "River in west London referenced in local pollution and enforcement reporting.",
       "id": "entity:river-brent",
       "name": "River Brent",
       "provenance": "curated-entity",
@@ -6976,7 +6976,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Venue on Dominion Road, Southall, used for the Community Powered Reporting launch and other civic activity.",
       "id": "entity:saklatvala-hall",
       "name": "Saklatvala Hall",
       "provenance": "curated-entity",
@@ -6985,7 +6985,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Southall community organiser and former parliamentary candidate appearing in the corpus.",
       "id": "entity:salvinder-dhillon",
       "name": "Salvinder Dhillon",
       "provenance": "curated-entity",
@@ -6996,7 +6996,7 @@
       "aliases": [
         "Scotts Road, Southall"
       ],
-      "description": null,
+      "description": "Street in Southall recurring in reporting on traffic, fly-tipping and local political history.",
       "id": "entity:scotts-road",
       "name": "Scotts Road",
       "provenance": "curated-entity",
@@ -7007,7 +7007,7 @@
       "aliases": [
         "Home Secretary Shabana Mahmood"
       ],
-      "description": null,
+      "description": "UK politician referenced in reporting on national migration and deportation policy.",
       "id": "entity:shabana-mahmood",
       "name": "Shabana Mahmood",
       "provenance": "curated-entity",
@@ -7018,7 +7018,7 @@
       "aliases": [
         "SWP"
       ],
-      "description": null,
+      "description": "Political organisation referenced in reporting on Blair Peach and local political debate.",
       "id": "entity:socialist-workers-party",
       "name": "Socialist Workers Party",
       "provenance": "curated-entity",
@@ -7029,7 +7029,7 @@
       "aliases": [
         "South Road, Southall"
       ],
-      "description": null,
+      "description": "Major Southall road recurring in reporting on air quality, infrastructure and the South Road bridge.",
       "id": "entity:south-road",
       "name": "South Road",
       "provenance": "curated-entity",
@@ -7038,7 +7038,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "West London town and the primary geographic focus of the corpus.",
       "id": "entity:southall",
       "name": "Southall",
       "provenance": "curated-entity",
@@ -7049,7 +7049,7 @@
       "aliases": [
         "Southall AQFA"
       ],
-      "description": null,
+      "description": "Defined air-quality focus area in Southall. Modelled as a place/designation node so geography, monitoring, policy and reporting can connect without treating the generic term \"Air Quality Focus Area\" as an entity.",
       "id": "entity:southall-air-quality-focus-area",
       "name": "Southall Air Quality Focus Area",
       "provenance": "curated-entity",
@@ -7061,7 +7061,7 @@
         "Southall Broadway ward",
         "Southall Broadway/West"
       ],
-      "description": null,
+      "description": "Southall neighbourhood and electoral-area name used in reporting on local governance, inequality and environmental impacts.",
       "id": "entity:southall-broadway",
       "name": "Southall Broadway",
       "provenance": "curated-entity",
@@ -7072,7 +7072,7 @@
       "aliases": [
         "SCA"
       ],
-      "description": null,
+      "description": "Southall community organisation recurring in local governance and civic participation reporting.",
       "id": "entity:southall-community-alliance",
       "name": "Southall Community Alliance",
       "provenance": "curated-entity",
@@ -7091,7 +7091,7 @@
         "Gasworks",
         "Gas works"
       ],
-      "description": null,
+      "description": "Former gasworks / redevelopment site in Southall. Southall Waterside and later The Green Quarter are development brand names for the same underlying site; generic corpus references such as Gasworks, old Gasworks and Gas works are treated as aliases in this Southall-focused research corpus.",
       "id": "entity:southall-gasworks",
       "name": "Southall Gasworks",
       "provenance": "curated-entity",
@@ -7100,7 +7100,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Southall ward and neighbourhood recurring in housing and governance reporting.",
       "id": "entity:southall-green",
       "name": "Southall Green",
       "provenance": "curated-entity",
@@ -7109,7 +7109,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Market site in Southall. This is distinct from the more specific Southall Market Car Park development site.",
       "id": "entity:southall-market",
       "name": "Southall Market",
       "provenance": "curated-entity",
@@ -7120,7 +7120,7 @@
       "aliases": [
         "Southall Market Carpark"
       ],
-      "description": null,
+      "description": "Southall development site discussed in reporting on stalled council housing schemes.",
       "id": "entity:southall-market-car-park",
       "name": "Southall Market Car Park",
       "provenance": "curated-entity",
@@ -7129,7 +7129,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Historic civic building in Southall, recurring in reporting on local democracy, community assets and public services.",
       "id": "entity:southall-town-hall",
       "name": "Southall Town Hall",
       "provenance": "curated-entity",
@@ -7138,7 +7138,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Local civic and regeneration body referenced in Southall Stories reporting.",
       "id": "entity:southall-town-team",
       "name": "Southall Town Team",
       "provenance": "curated-entity",
@@ -7149,7 +7149,7 @@
       "aliases": [
         "Southall West ward"
       ],
-      "description": null,
+      "description": "Ealing electoral ward in Southall.",
       "id": "entity:southall-west",
       "name": "Southall West",
       "provenance": "curated-entity",
@@ -7162,7 +7162,7 @@
         "Young Adult Centre",
         "YAC"
       ],
-      "description": null,
+      "description": "Southall youth and community facility whose threatened demolition and community campaign recur in the corpus.",
       "id": "entity:southall-young-adult-centre",
       "name": "Southall Young Adult Centre",
       "provenance": "curated-entity",
@@ -7173,7 +7173,7 @@
       "aliases": [
         "Stop the Towers"
       ],
-      "description": null,
+      "description": "Campaign group cited in reporting on high-rise development and planning in Ealing.",
       "id": "entity:stop-the-towers",
       "name": "Stop The Towers",
       "provenance": "curated-entity",
@@ -7182,7 +7182,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Local independent candidate appearing in Southall Stories reporting.",
       "id": "entity:sukhi-floria",
       "name": "Sukhi Floria",
       "provenance": "curated-entity",
@@ -7193,7 +7193,7 @@
       "aliases": [
         "Swaran Padda"
       ],
-      "description": null,
+      "description": "Person entity. Shorter name form is treated as an alias of Swaran Singh Padda.",
       "id": "entity:swaran-singh-padda",
       "name": "Swaran Singh Padda",
       "provenance": "curated-entity",
@@ -7202,7 +7202,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Singer and Southall-related public figure referenced in the corpus.",
       "id": "entity:tasha-tah",
       "name": "Tasha Tah",
       "provenance": "curated-entity",
@@ -7213,7 +7213,7 @@
       "aliases": [
         "The Green, Southall"
       ],
-      "description": null,
+      "description": "Street and local area in Southall, distinct from The Green Quarter / Southall Gasworks redevelopment branding.",
       "id": "entity:the-green",
       "name": "The Green",
       "provenance": "curated-entity",
@@ -7222,7 +7222,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Former UK prime minister and Labour leader referenced in reporting on political lineage and local Labour politics.",
       "id": "entity:tony-blair",
       "name": "Tony Blair",
       "provenance": "curated-entity",
@@ -7231,7 +7231,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Founder and former chair of Berkeley Group, recurring in reporting on the Southall Gasworks redevelopment.",
       "id": "entity:tony-pidgley",
       "name": "Tony Pidgley",
       "provenance": "curated-entity",
@@ -7244,7 +7244,7 @@
         "Virendra Sharma MP",
         "MP Virendra Sharma"
       ],
-      "description": null,
+      "description": "Former MP for Ealing Southall and recurring figure in the Southall Stories corpus.",
       "id": "entity:virendra-sharma",
       "name": "Virendra Sharma",
       "provenance": "curated-entity",
@@ -7255,7 +7255,7 @@
       "aliases": [
         "Warren Farm Nature Reserve"
       ],
-      "description": null,
+      "description": "Warren Farm site in Ealing. In corpus-level issue tracking, references to Warren Farm Nature Reserve are grouped with Warren Farm, while the note preserves the technical distinction that the nature reserve is contained within the wider Warren Farm site.",
       "id": "entity:warren-farm",
       "name": "Warren Farm",
       "provenance": "curated-entity",
@@ -7264,7 +7264,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "West London town centre in the London Borough of Ealing, recurring in reporting on public services, safety and local politics.",
       "id": "entity:west-ealing",
       "name": "West Ealing",
       "provenance": "curated-entity",
@@ -7273,7 +7273,7 @@
     },
     {
       "aliases": [],
-      "description": null,
+      "description": "Broad geographic area used in the corpus to contextualise Ealing, Southall and neighbouring civic issues.",
       "id": "entity:west-london",
       "name": "West London",
       "provenance": "curated-entity",
@@ -7284,7 +7284,7 @@
       "aliases": [
         "Western Road, Southall"
       ],
-      "description": null,
+      "description": "Road in Southall recurring in traffic and air-quality reporting.",
       "id": "entity:western-road",
       "name": "Western Road",
       "provenance": "curated-entity",
@@ -7298,7 +7298,7 @@
         "YVYT",
         "Your Voice Your Town"
       ],
-      "description": null,
+      "description": "Ealing Council civic-engagement programme / branding. The shorter forms and comma-less form are treated as aliases of the same initiative.",
       "id": "entity:your-voice-your-town",
       "name": "Your Voice, Your Town",
       "provenance": "curated-entity",
