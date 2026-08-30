@@ -3,222 +3,12 @@
   "rule": "An entity is complete when it has identity, a useful reader-facing description, provenance, and a first-party or authoritative source/website where one exists.",
   "counts": {
     "entities": 115,
-    "flagged": 56,
+    "flagged": 37,
     "missing_descriptions": 0,
-    "weak_descriptions": 56,
-    "without_explicit_website": 112
+    "weak_descriptions": 37,
+    "without_explicit_website": 96
   },
   "flagged": [
-    {
-      "id": "around-ealing",
-      "name": "Around Ealing",
-      "type": "organisation",
-      "path": "entities/organisations/around-ealing.md",
-      "description": "Ealing Council's residents' publication.",
-      "website": null,
-      "reasons": [
-        "very-short-description"
-      ]
-    },
-    {
-      "id": "berkeley-group",
-      "name": "Berkeley Group",
-      "type": "organisation",
-      "path": "entities/organisations/berkeley-group.md",
-      "description": "Property developer associated with Southall Waterside / the former gasworks site.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "conservative-party",
-      "name": "Conservative Party",
-      "type": "organisation",
-      "path": "entities/organisations/conservative-party.md",
-      "description": "UK political party.",
-      "website": null,
-      "reasons": [
-        "very-short-description"
-      ]
-    },
-    {
-      "id": "ealing-council-pension-fund-panel",
-      "name": "Ealing Council Pension Fund Panel",
-      "type": "organisation",
-      "path": "entities/organisations/ealing-council-pension-fund-panel.md",
-      "description": "Ealing Council committee overseeing the borough pension fund, recurring in reporting on investment, divestment and governance.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "ealing-council",
-      "name": "Ealing Council",
-      "type": "organisation",
-      "path": "entities/organisations/ealing-council.md",
-      "description": "Local authority for the London Borough of Ealing.",
-      "website": null,
-      "reasons": [
-        "very-short-description"
-      ]
-    },
-    {
-      "id": "ealing-independent-network",
-      "name": "Ealing Independent Network",
-      "type": "organisation",
-      "path": "entities/organisations/ealing-independent-network.md",
-      "description": "Local independent political network in Ealing recurring in Southall Stories reporting.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description",
-        "identity-too-dependent-on-southall-stories"
-      ]
-    },
-    {
-      "id": "ealing-news",
-      "name": "Ealing News",
-      "type": "organisation",
-      "path": "entities/organisations/ealing-news.md",
-      "description": "Independent local news publisher covering the London Borough of Ealing and recurring as an external source in Southall Stories reporting.",
-      "website": null,
-      "reasons": [
-        "identity-too-dependent-on-southall-stories"
-      ]
-    },
-    {
-      "id": "environment-agency",
-      "name": "Environment Agency",
-      "type": "organisation",
-      "path": "entities/organisations/environment-agency.md",
-      "description": "Environmental regulator cited in Southall Stories reporting.",
-      "website": null,
-      "reasons": [
-        "identity-too-dependent-on-southall-stories"
-      ]
-    },
-    {
-      "id": "fm-conway",
-      "name": "FM Conway",
-      "type": "organisation",
-      "path": "entities/organisations/fm-conway.md",
-      "description": "Infrastructure and construction company associated with the Southall asphalt plant and recurring air-pollution reporting.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "greater-london-authority",
-      "name": "Greater London Authority",
-      "type": "organisation",
-      "path": "entities/organisations/greater-london-authority.md",
-      "description": "Strategic authority for Greater London, recurring in reporting on housing funding and London-wide policy.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "henry-construction",
-      "name": "Henry Construction",
-      "type": "organisation",
-      "path": "entities/organisations/henry-construction.md",
-      "description": "Construction company associated with stalled Ealing housing projects.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "local-government-association",
-      "name": "Local Government Association",
-      "type": "organisation",
-      "path": "entities/organisations/local-government-association.md",
-      "description": "National membership body for local authorities in England and Wales, recurring in reporting on Peter Mason's wider local-government roles.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "london-assembly",
-      "name": "London Assembly",
-      "type": "organisation",
-      "path": "entities/organisations/london-assembly.md",
-      "description": "Elected body scrutinising the Mayor of London, cited in Southall Stories reporting.",
-      "website": null,
-      "reasons": [
-        "identity-too-dependent-on-southall-stories"
-      ]
-    },
-    {
-      "id": "metropolitan-police",
-      "name": "Metropolitan Police",
-      "type": "organisation",
-      "path": "entities/organisations/metropolitan-police.md",
-      "description": "Police force serving Greater London and a recurring institution in the Southall Stories corpus.",
-      "website": null,
-      "reasons": [
-        "identity-too-dependent-on-southall-stories"
-      ]
-    },
-    {
-      "id": "national-front",
-      "name": "National Front",
-      "type": "organisation",
-      "path": "entities/organisations/national-front.md",
-      "description": "British far-right political organisation recurring in historical Southall reporting, particularly around the events of 23 April 1979.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "national-grid",
-      "name": "National Grid",
-      "type": "organisation",
-      "path": "entities/organisations/national-grid.md",
-      "description": "Energy infrastructure organisation recurring in reporting on the former Southall Gasworks site and gasholder works.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "private-eye",
-      "name": "Private Eye",
-      "type": "organisation",
-      "path": "entities/organisations/private-eye.md",
-      "description": "UK satirical and investigative magazine cited in Southall Stories reporting.",
-      "website": null,
-      "reasons": [
-        "identity-too-dependent-on-southall-stories"
-      ]
-    },
-    {
-      "id": "southall-community-alliance",
-      "name": "Southall Community Alliance",
-      "type": "organisation",
-      "path": "entities/organisations/southall-community-alliance.md",
-      "description": "Southall community organisation recurring in local governance and civic participation reporting.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "southall-town-team",
-      "name": "Southall Town Team",
-      "type": "organisation",
-      "path": "entities/organisations/southall-town-team.md",
-      "description": "Local civic and regeneration body referenced in Southall Stories reporting.",
-      "website": null,
-      "reasons": [
-        "identity-too-dependent-on-southall-stories"
-      ]
-    },
     {
       "id": "bassam-mahfouz",
       "name": "Bassam Mahfouz",
@@ -644,18 +434,6 @@
       "path": "entities/organisations/air-quality-scrutiny-panel.md"
     },
     {
-      "id": "around-ealing",
-      "name": "Around Ealing",
-      "type": "organisation",
-      "path": "entities/organisations/around-ealing.md"
-    },
-    {
-      "id": "berkeley-group",
-      "name": "Berkeley Group",
-      "type": "organisation",
-      "path": "entities/organisations/berkeley-group.md"
-    },
-    {
       "id": "blair-peach-primary-school",
       "name": "Blair Peach Primary School",
       "type": "organisation",
@@ -674,12 +452,6 @@
       "path": "entities/organisations/community-powered-reporting.md"
     },
     {
-      "id": "conservative-party",
-      "name": "Conservative Party",
-      "type": "organisation",
-      "path": "entities/organisations/conservative-party.md"
-    },
-    {
       "id": "defra",
       "name": "Defra",
       "type": "organisation",
@@ -690,18 +462,6 @@
       "name": "Ealing Community Independents",
       "type": "organisation",
       "path": "entities/organisations/ealing-community-independents.md"
-    },
-    {
-      "id": "ealing-council-pension-fund-panel",
-      "name": "Ealing Council Pension Fund Panel",
-      "type": "organisation",
-      "path": "entities/organisations/ealing-council-pension-fund-panel.md"
-    },
-    {
-      "id": "ealing-council",
-      "name": "Ealing Council",
-      "type": "organisation",
-      "path": "entities/organisations/ealing-council.md"
     },
     {
       "id": "ealing-friends-of-palestine",
@@ -728,34 +488,10 @@
       "path": "entities/organisations/ealing-labour.md"
     },
     {
-      "id": "ealing-news",
-      "name": "Ealing News",
-      "type": "organisation",
-      "path": "entities/organisations/ealing-news.md"
-    },
-    {
-      "id": "environment-agency",
-      "name": "Environment Agency",
-      "type": "organisation",
-      "path": "entities/organisations/environment-agency.md"
-    },
-    {
       "id": "european-court-of-human-rights",
       "name": "European Court of Human Rights",
       "type": "organisation",
       "path": "entities/organisations/european-court-of-human-rights.md"
-    },
-    {
-      "id": "fm-conway",
-      "name": "FM Conway",
-      "type": "organisation",
-      "path": "entities/organisations/fm-conway.md"
-    },
-    {
-      "id": "greater-london-authority",
-      "name": "Greater London Authority",
-      "type": "organisation",
-      "path": "entities/organisations/greater-london-authority.md"
     },
     {
       "id": "green-party",
@@ -824,46 +560,16 @@
       "path": "entities/organisations/local-democracy-reporting-service.md"
     },
     {
-      "id": "local-government-association",
-      "name": "Local Government Association",
-      "type": "organisation",
-      "path": "entities/organisations/local-government-association.md"
-    },
-    {
-      "id": "london-assembly",
-      "name": "London Assembly",
-      "type": "organisation",
-      "path": "entities/organisations/london-assembly.md"
-    },
-    {
       "id": "london-forum",
       "name": "London Forum",
       "type": "organisation",
       "path": "entities/organisations/london-forum.md"
     },
     {
-      "id": "metropolitan-police",
-      "name": "Metropolitan Police",
-      "type": "organisation",
-      "path": "entities/organisations/metropolitan-police.md"
-    },
-    {
       "id": "national-front",
       "name": "National Front",
       "type": "organisation",
       "path": "entities/organisations/national-front.md"
-    },
-    {
-      "id": "national-grid",
-      "name": "National Grid",
-      "type": "organisation",
-      "path": "entities/organisations/national-grid.md"
-    },
-    {
-      "id": "private-eye",
-      "name": "Private Eye",
-      "type": "organisation",
-      "path": "entities/organisations/private-eye.md"
     },
     {
       "id": "public-health-england",
@@ -876,18 +582,6 @@
       "name": "Socialist Workers Party",
       "type": "organisation",
       "path": "entities/organisations/socialist-workers-party.md"
-    },
-    {
-      "id": "southall-community-alliance",
-      "name": "Southall Community Alliance",
-      "type": "organisation",
-      "path": "entities/organisations/southall-community-alliance.md"
-    },
-    {
-      "id": "southall-town-team",
-      "name": "Southall Town Team",
-      "type": "organisation",
-      "path": "entities/organisations/southall-town-team.md"
     },
     {
       "id": "stop-the-towers",

@@ -6094,7 +6094,7 @@
       "aliases": [
         "Around Ealing magazine"
       ],
-      "description": "Ealing Council's residents' publication.",
+      "description": "Ealing Council's official residents' magazine and news website, publishing council news, public information, local features and history from across the borough's seven towns.",
       "id": "entity:around-ealing",
       "name": "Around Ealing",
       "provenance": "curated-entity",
@@ -6129,7 +6129,7 @@
         "St George",
         "St George West London"
       ],
-      "description": "Property developer associated with Southall Waterside / the former gasworks site.",
+      "description": "Major British housebuilder and property developer specialising in large-scale brownfield regeneration. Berkeley is the developer of the former Southall Gasworks site, now marketed as The Green Quarter.",
       "id": "entity:berkeley-group",
       "name": "Berkeley Group",
       "provenance": "curated-entity",
@@ -6201,7 +6201,7 @@
         "Tories",
         "Tory Party"
       ],
-      "description": "UK political party.",
+      "description": "UK centre-right political party and one of the national parties contesting elections in the London Borough of Ealing. Five Conservative councillors were elected to Ealing Council in May 2026.",
       "id": "entity:conservative-party",
       "name": "Conservative Party",
       "provenance": "curated-entity",
@@ -6309,7 +6309,7 @@
       "aliases": [
         "London Borough of Ealing"
       ],
-      "description": "Local authority for the London Borough of Ealing.",
+      "description": "Local authority for the London Borough of Ealing, responsible for local government and public services across Acton, Ealing, Greenford, Hanwell, Northolt, Perivale and Southall.",
       "id": "entity:ealing-council",
       "name": "Ealing Council",
       "provenance": "curated-entity",
@@ -6321,7 +6321,7 @@
         "Pension Fund Panel",
         "The Pension Fund Panel"
       ],
-      "description": "Ealing Council committee overseeing the borough pension fund, recurring in reporting on investment, divestment and governance.",
+      "description": "Ealing Council committee responsible for oversight of investment strategy, funding, administration and governance of the London Borough of Ealing Pension Fund within the Local Government Pension Scheme.",
       "id": "entity:ealing-council-pension-fund-panel",
       "name": "Ealing Council Pension Fund Panel",
       "provenance": "curated-entity",
@@ -6350,7 +6350,7 @@
       "aliases": [
         "EIN"
       ],
-      "description": "Local independent political network in Ealing recurring in Southall Stories reporting.",
+      "description": "Historical Ealing ballot description used in the 2022 local elections by candidates affiliated with the registered Independent Network party. The Ealing Independent Network description is no longer registered for use on ballot papers.",
       "id": "entity:ealing-independent-network",
       "name": "Ealing Independent Network",
       "provenance": "curated-entity",
@@ -6372,7 +6372,7 @@
     },
     {
       "aliases": [],
-      "description": "Independent local news publisher covering the London Borough of Ealing and recurring as an external source in Southall Stories reporting.",
+      "description": "Independent digital local-news publisher covering the London Borough of Ealing, with reporting across Acton, Ealing, Greenford, Hanwell, Northolt, Perivale and Southall.",
       "id": "entity:ealing-news",
       "name": "Ealing News",
       "provenance": "curated-entity",
@@ -6416,7 +6416,7 @@
       "aliases": [
         "EA"
       ],
-      "description": "Environmental regulator cited in Southall Stories reporting.",
+      "description": "Public body responsible for environmental regulation in England, including major industry and waste, water quality and resources, contaminated-land treatment, conservation and managing flood risk from main rivers and the sea.",
       "id": "entity:environment-agency",
       "name": "Environment Agency",
       "provenance": "curated-entity",
@@ -6439,7 +6439,7 @@
       "aliases": [
         "F M Conway"
       ],
-      "description": "Infrastructure and construction company associated with the Southall asphalt plant and recurring air-pollution reporting.",
+      "description": "Infrastructure, highways and construction-materials company operating asphalt and recycling facilities across London and the South East. Its Heathrow Asphalt & Recycling plant at North Hyde Gardens, Hayes, close to Southall, has been the subject of local air-quality and odour concerns.",
       "id": "entity:fm-conway",
       "name": "FM Conway",
       "provenance": "curated-entity",
@@ -6450,7 +6450,7 @@
       "aliases": [
         "GLA"
       ],
-      "description": "Strategic authority for Greater London, recurring in reporting on housing funding and London-wide policy.",
+      "description": "Strategic regional authority for Greater London, made up of the Mayor of London and the London Assembly. It has citywide responsibilities including transport, housing, planning, environment, economic development and oversight of policing and fire services.",
       "id": "entity:greater-london-authority",
       "name": "Greater London Authority",
       "provenance": "curated-entity",
@@ -6515,7 +6515,7 @@
       "aliases": [
         "Henry Construction Projects"
       ],
-      "description": "Construction company associated with stalled Ealing housing projects.",
+      "description": "Henry Construction Projects Ltd was a building contractor awarded several Ealing housing-development contracts, including Norwood Road in Southall. The company entered administration on 9 June 2023 after delays and workmanship issues, leading Ealing Council and its development company to terminate the affected contracts.",
       "id": "entity:henry-construction",
       "name": "Henry Construction",
       "provenance": "curated-entity",
@@ -6768,7 +6768,7 @@
       "aliases": [
         "LGA"
       ],
-      "description": "National membership body for local authorities in England and Wales, recurring in reporting on Peter Mason's wider local-government roles.",
+      "description": "Politically led, cross-party national membership body representing councils in England and supporting local authorities across England and Wales with policy representation, improvement work, advice and shared services.",
       "id": "entity:local-government-association",
       "name": "Local Government Association",
       "provenance": "curated-entity",
@@ -6777,7 +6777,7 @@
     },
     {
       "aliases": [],
-      "description": "Elected body scrutinising the Mayor of London, cited in Southall Stories reporting.",
+      "description": "Twenty-five-member elected body within the Greater London Authority that holds the Mayor of London to account, questions the Mayor in public and investigates London-wide issues through cross-party committees.",
       "id": "entity:london-assembly",
       "name": "London Assembly",
       "provenance": "curated-entity",
@@ -6798,7 +6798,7 @@
         "Met Police",
         "Metropolitan Police Service"
       ],
-      "description": "Police force serving Greater London and a recurring institution in the Southall Stories corpus.",
+      "description": "Territorial police force responsible for policing most of Greater London, including the London Borough of Ealing. Local Safer Neighbourhood Teams provide ward-level policing across Southall and the rest of the borough.",
       "id": "entity:metropolitan-police",
       "name": "Metropolitan Police",
       "provenance": "curated-entity",
@@ -6825,7 +6825,7 @@
     },
     {
       "aliases": [],
-      "description": "British far-right political organisation recurring in historical Southall reporting, particularly around the events of 23 April 1979.",
+      "description": "British far-right political party founded in 1967. Its decision to hold an election meeting at Southall Town Hall on 23 April 1979 prompted major anti-racist protests; teacher and anti-racist campaigner Blair Peach was killed during the policing of those events.",
       "id": "entity:national-front",
       "name": "National Front",
       "provenance": "curated-entity",
@@ -6834,7 +6834,7 @@
     },
     {
       "aliases": [],
-      "description": "Energy infrastructure organisation recurring in reporting on the former Southall Gasworks site and gasholder works.",
+      "description": "UK energy-infrastructure company whose property business owned the former Southall Gasworks and was involved in early plans to regenerate the site before the later Berkeley-led development.",
       "id": "entity:national-grid",
       "name": "National Grid",
       "provenance": "curated-entity",
@@ -6923,7 +6923,7 @@
       "aliases": [
         "Private Eye magazine"
       ],
-      "description": "UK satirical and investigative magazine cited in Southall Stories reporting.",
+      "description": "British fortnightly satirical and current-affairs magazine, founded in 1961, known for investigative journalism alongside political and media satire.",
       "id": "entity:private-eye",
       "name": "Private Eye",
       "provenance": "curated-entity",
@@ -7072,7 +7072,7 @@
       "aliases": [
         "SCA"
       ],
-      "description": "Southall community organisation recurring in local governance and civic participation reporting.",
+      "description": "Southall community organisation established in 1981 and registered as a charity in 2004. It brings together residents, voluntary and community groups, businesses and statutory partners around social, economic, cultural, health and environmental issues in Southall.",
       "id": "entity:southall-community-alliance",
       "name": "Southall Community Alliance",
       "provenance": "curated-entity",
@@ -7138,7 +7138,7 @@
     },
     {
       "aliases": [],
-      "description": "Local civic and regeneration body referenced in Southall Stories reporting.",
+      "description": "Council-facilitated civic group created through Ealing's Your Voice, Your Town programme. Its members include local residents and community stakeholders working together on priorities and projects intended to improve Southall.",
       "id": "entity:southall-town-team",
       "name": "Southall Town Team",
       "provenance": "curated-entity",

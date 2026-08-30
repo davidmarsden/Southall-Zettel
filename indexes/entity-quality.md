@@ -4,49 +4,11 @@ An entity is complete when it has identity, a useful reader-facing description, 
 
 - Entities checked: **115**
 - Missing descriptions: **0**
-- Weak/generic descriptions: **56**
-- No explicit website field: **112** (review required; not automatically an error)
+- Weak/generic descriptions: **37**
+- No explicit website field: **96** (review required; not automatically an error)
 
 ## Description review queue
 
-- **Around Ealing** (`entities/organisations/around-ealing.md`) — very-short-description
-  - Current: Ealing Council's residents' publication.
-- **Berkeley Group** (`entities/organisations/berkeley-group.md`) — reporting-defined-or-generic-description
-  - Current: Property developer associated with Southall Waterside / the former gasworks site.
-- **Conservative Party** (`entities/organisations/conservative-party.md`) — very-short-description
-  - Current: UK political party.
-- **Ealing Council Pension Fund Panel** (`entities/organisations/ealing-council-pension-fund-panel.md`) — reporting-defined-or-generic-description
-  - Current: Ealing Council committee overseeing the borough pension fund, recurring in reporting on investment, divestment and governance.
-- **Ealing Council** (`entities/organisations/ealing-council.md`) — very-short-description
-  - Current: Local authority for the London Borough of Ealing.
-- **Ealing Independent Network** (`entities/organisations/ealing-independent-network.md`) — reporting-defined-or-generic-description, identity-too-dependent-on-southall-stories
-  - Current: Local independent political network in Ealing recurring in Southall Stories reporting.
-- **Ealing News** (`entities/organisations/ealing-news.md`) — identity-too-dependent-on-southall-stories
-  - Current: Independent local news publisher covering the London Borough of Ealing and recurring as an external source in Southall Stories reporting.
-- **Environment Agency** (`entities/organisations/environment-agency.md`) — identity-too-dependent-on-southall-stories
-  - Current: Environmental regulator cited in Southall Stories reporting.
-- **FM Conway** (`entities/organisations/fm-conway.md`) — reporting-defined-or-generic-description
-  - Current: Infrastructure and construction company associated with the Southall asphalt plant and recurring air-pollution reporting.
-- **Greater London Authority** (`entities/organisations/greater-london-authority.md`) — reporting-defined-or-generic-description
-  - Current: Strategic authority for Greater London, recurring in reporting on housing funding and London-wide policy.
-- **Henry Construction** (`entities/organisations/henry-construction.md`) — reporting-defined-or-generic-description
-  - Current: Construction company associated with stalled Ealing housing projects.
-- **Local Government Association** (`entities/organisations/local-government-association.md`) — reporting-defined-or-generic-description
-  - Current: National membership body for local authorities in England and Wales, recurring in reporting on Peter Mason's wider local-government roles.
-- **London Assembly** (`entities/organisations/london-assembly.md`) — identity-too-dependent-on-southall-stories
-  - Current: Elected body scrutinising the Mayor of London, cited in Southall Stories reporting.
-- **Metropolitan Police** (`entities/organisations/metropolitan-police.md`) — identity-too-dependent-on-southall-stories
-  - Current: Police force serving Greater London and a recurring institution in the Southall Stories corpus.
-- **National Front** (`entities/organisations/national-front.md`) — reporting-defined-or-generic-description
-  - Current: British far-right political organisation recurring in historical Southall reporting, particularly around the events of 23 April 1979.
-- **National Grid** (`entities/organisations/national-grid.md`) — reporting-defined-or-generic-description
-  - Current: Energy infrastructure organisation recurring in reporting on the former Southall Gasworks site and gasholder works.
-- **Private Eye** (`entities/organisations/private-eye.md`) — identity-too-dependent-on-southall-stories
-  - Current: UK satirical and investigative magazine cited in Southall Stories reporting.
-- **Southall Community Alliance** (`entities/organisations/southall-community-alliance.md`) — reporting-defined-or-generic-description
-  - Current: Southall community organisation recurring in local governance and civic participation reporting.
-- **Southall Town Team** (`entities/organisations/southall-town-team.md`) — identity-too-dependent-on-southall-stories
-  - Current: Local civic and regeneration body referenced in Southall Stories reporting.
 - **Bassam Mahfouz** (`entities/people/bassam-mahfouz.md`) — very-short-description, reporting-defined-or-generic-description, identity-too-dependent-on-southall-stories
   - Current: Ealing politician recurring in Southall Stories reporting.
 - **Boris Johnson** (`entities/people/boris-johnson.md`) — identity-too-dependent-on-southall-stories
