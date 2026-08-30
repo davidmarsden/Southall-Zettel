@@ -6397,13 +6397,13 @@
     },
     {
       "aliases": [],
-      "description": "Local campaign organisation referenced in reporting on council pension divestment.",
+      "description": "Grassroots community campaign group in the London Borough of Ealing, formed in 2024 to organise local solidarity, awareness and campaigning around Palestine. It appears in the research corpus in reporting on council pension divestment and related local campaigns.",
       "id": "entity:ealing-friends-of-palestine",
       "name": "Ealing Friends of Palestine",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://ealingfriendsofpalestine.com/"
     },
     {
       "aliases": [],
@@ -6433,13 +6433,13 @@
         "Ealing Labour Council",
         "Labour Council"
       ],
-      "description": "Labour group and local political organisation in Ealing. This is kept distinct from the national Labour Party and from Ealing Council as the local authority.",
+      "description": "Local Labour Party organisation and council group in the London Borough of Ealing, campaigning across Acton, Ealing, Greenford, Hanwell, Northolt, Perivale and Southall. It is kept distinct from the national Labour Party and from Ealing Council as the local authority.",
       "id": "entity:ealing-labour",
       "name": "Ealing Labour",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://www.ealinglabour.co.uk/"
     },
     {
       "aliases": [],
@@ -6943,14 +6943,16 @@
       }
     },
     {
-      "aliases": [],
-      "description": "London civic and amenity network referenced in the corpus for recommending Community Powered Reporting research.",
+      "aliases": [
+        "London Forum of Amenity and Civic Societies"
+      ],
+      "description": "London-wide civic and amenity network representing more than 100 local societies on planning, heritage, transport, environment, waterways and open-space issues. It appears in the corpus in connection with civic research and Community Powered Reporting.",
       "id": "entity:london-forum",
       "name": "London Forum",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://www.londonforum.org.uk/"
     },
     {
       "aliases": [

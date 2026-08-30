@@ -3,14 +3,27 @@
   "rule": "An entity is complete when it has identity, a useful reader-facing description, provenance, and a first-party or authoritative source/website where one exists.",
   "counts": {
     "entities": 115,
-    "flagged": 4,
+    "flagged": 6,
     "missing_descriptions": 0,
-    "weak_descriptions": 4,
-    "without_explicit_website": 56,
-    "without_source_or_website": 45,
-    "description_and_source_complete": 66
+    "weak_descriptions": 6,
+    "without_explicit_website": 53,
+    "without_source_or_website": 42,
+    "description_and_source_complete": 67
   },
   "flagged": [
+    {
+      "id": "ealing-friends-of-palestine",
+      "name": "Ealing Friends of Palestine",
+      "type": "organisation",
+      "path": "entities/organisations/ealing-friends-of-palestine.md",
+      "description": "Grassroots community campaign group in the London Borough of Ealing, formed in 2024 to organise local solidarity, awareness and campaigning around Palestine. It appears in the research corpus in reporting on council pension divestment and related local campaigns.",
+      "website": "https://ealingfriendsofpalestine.com/",
+      "reviewed_sources": [],
+      "has_source_or_website": true,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
     {
       "id": "ealing-friends-of-the-earth",
       "name": "Ealing Friends of the Earth",
@@ -51,6 +64,19 @@
       ]
     },
     {
+      "id": "london-forum",
+      "name": "London Forum",
+      "type": "organisation",
+      "path": "entities/organisations/london-forum.md",
+      "description": "London-wide civic and amenity network representing more than 100 local societies on planning, heritage, transport, environment, waterways and open-space issues. It appears in the corpus in connection with civic research and Community Powered Reporting.",
+      "website": "https://www.londonforum.org.uk/",
+      "reviewed_sources": [],
+      "has_source_or_website": true,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
       "id": "shabana-mahmood",
       "name": "Shabana Mahmood",
       "type": "person",
@@ -78,22 +104,10 @@
       "path": "entities/organisations/community-powered-reporting.md"
     },
     {
-      "id": "ealing-friends-of-palestine",
-      "name": "Ealing Friends of Palestine",
-      "type": "organisation",
-      "path": "entities/organisations/ealing-friends-of-palestine.md"
-    },
-    {
       "id": "ealing-independent-network",
       "name": "Ealing Independent Network",
       "type": "organisation",
       "path": "entities/organisations/ealing-independent-network.md"
-    },
-    {
-      "id": "ealing-labour",
-      "name": "Ealing Labour",
-      "type": "organisation",
-      "path": "entities/organisations/ealing-labour.md"
     },
     {
       "id": "high-court",
@@ -112,12 +126,6 @@
       "name": "Local Democracy Reporting Service",
       "type": "organisation",
       "path": "entities/organisations/local-democracy-reporting-service.md"
-    },
-    {
-      "id": "london-forum",
-      "name": "London Forum",
-      "type": "organisation",
-      "path": "entities/organisations/london-forum.md"
     },
     {
       "id": "national-front",
@@ -362,22 +370,10 @@
       "path": "entities/organisations/community-powered-reporting.md"
     },
     {
-      "id": "ealing-friends-of-palestine",
-      "name": "Ealing Friends of Palestine",
-      "type": "organisation",
-      "path": "entities/organisations/ealing-friends-of-palestine.md"
-    },
-    {
       "id": "ealing-independent-network",
       "name": "Ealing Independent Network",
       "type": "organisation",
       "path": "entities/organisations/ealing-independent-network.md"
-    },
-    {
-      "id": "ealing-labour",
-      "name": "Ealing Labour",
-      "type": "organisation",
-      "path": "entities/organisations/ealing-labour.md"
     },
     {
       "id": "henry-construction",
@@ -402,12 +398,6 @@
       "name": "Local Democracy Reporting Service",
       "type": "organisation",
       "path": "entities/organisations/local-democracy-reporting-service.md"
-    },
-    {
-      "id": "london-forum",
-      "name": "London Forum",
-      "type": "organisation",
-      "path": "entities/organisations/london-forum.md"
     },
     {
       "id": "national-front",
