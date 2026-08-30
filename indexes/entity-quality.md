@@ -5,9 +5,9 @@ An entity is complete when it has identity, a useful reader-facing description, 
 - Entities checked: **115**
 - Missing descriptions: **0**
 - Weak/generic descriptions: **1**
-- No source or website: **33**
-- Description + source/website complete: **81**
-- No explicit website field: **44** (informational only)
+- No source or website: **32**
+- Description + source/website complete: **82**
+- No explicit website field: **43** (informational only)
 
 ## Description review queue
 
@@ -20,7 +20,6 @@ These entities currently have neither an explicit website nor a reviewed source 
 
 - **Air Quality Scrutiny Panel** (`entities/organisations/air-quality-scrutiny-panel.md`)
 - **National Front** (`entities/organisations/national-front.md`)
-- **Blair Peach** (`entities/people/blair-peach.md`)
 - **Damian Leydon** (`entities/people/damian-leydon.md`)
 - **Dr John Freeman** (`entities/people/dr-john-freeman.md`)
 - **Gurdip Singh Chaggar** (`entities/people/gurdip-singh-chaggar.md`)

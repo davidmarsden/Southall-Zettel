@@ -6,9 +6,9 @@
     "flagged": 1,
     "missing_descriptions": 0,
     "weak_descriptions": 1,
-    "without_explicit_website": 44,
-    "without_source_or_website": 33,
-    "description_and_source_complete": 81
+    "without_explicit_website": 43,
+    "without_source_or_website": 32,
+    "description_and_source_complete": 82
   },
   "flagged": [
     {
@@ -37,12 +37,6 @@
       "name": "National Front",
       "type": "organisation",
       "path": "entities/organisations/national-front.md"
-    },
-    {
-      "id": "blair-peach",
-      "name": "Blair Peach",
-      "type": "person",
-      "path": "entities/people/blair-peach.md"
     },
     {
       "id": "damian-leydon",
@@ -261,12 +255,6 @@
       "name": "Public Health England",
       "type": "organisation",
       "path": "entities/organisations/public-health-england.md"
-    },
-    {
-      "id": "blair-peach",
-      "name": "Blair Peach",
-      "type": "person",
-      "path": "entities/people/blair-peach.md"
     },
     {
       "id": "damian-leydon",
