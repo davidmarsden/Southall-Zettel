@@ -6,9 +6,9 @@
     "flagged": 1,
     "missing_descriptions": 0,
     "weak_descriptions": 1,
-    "without_explicit_website": 42,
-    "without_source_or_website": 31,
-    "description_and_source_complete": 83
+    "without_explicit_website": 41,
+    "without_source_or_website": 30,
+    "description_and_source_complete": 84
   },
   "flagged": [
     {
@@ -109,12 +109,6 @@
       "name": "Beaconsfield Road",
       "type": "place",
       "path": "entities/places/beaconsfield-road.md"
-    },
-    {
-      "id": "ealing-southall-constituency",
-      "name": "Ealing Southall constituency",
-      "type": "place",
-      "path": "entities/places/ealing-southall-constituency.md"
     },
     {
       "id": "elizabeth-line",
@@ -327,12 +321,6 @@
       "name": "Beaconsfield Road",
       "type": "place",
       "path": "entities/places/beaconsfield-road.md"
-    },
-    {
-      "id": "ealing-southall-constituency",
-      "name": "Ealing Southall constituency",
-      "type": "place",
-      "path": "entities/places/ealing-southall-constituency.md"
     },
     {
       "id": "elizabeth-line",

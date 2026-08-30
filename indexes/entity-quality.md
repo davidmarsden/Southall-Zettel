@@ -5,9 +5,9 @@ An entity is complete when it has identity, a useful reader-facing description, 
 - Entities checked: **115**
 - Missing descriptions: **0**
 - Weak/generic descriptions: **1**
-- No source or website: **31**
-- Description + source/website complete: **83**
-- No explicit website field: **42** (informational only)
+- No source or website: **30**
+- Description + source/website complete: **84**
+- No explicit website field: **41** (informational only)
 
 ## Description review queue
 
@@ -32,7 +32,6 @@ These entities currently have neither an explicit website nor a reviewed source 
 - **Swaran Singh Padda** (`entities/people/swaran-singh-padda.md`)
 - **Tasha Tah** (`entities/people/tasha-tah.md`)
 - **Beaconsfield Road** (`entities/places/beaconsfield-road.md`)
-- **Ealing Southall constituency** (`entities/places/ealing-southall-constituency.md`)
 - **Elizabeth Line** (`entities/places/elizabeth-line.md`)
 - **Grove House** (`entities/places/grove-house.md`)
 - **King Street** (`entities/places/king-street.md`)

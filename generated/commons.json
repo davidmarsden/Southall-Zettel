@@ -6458,13 +6458,13 @@
       "aliases": [
         "Ealing Southall"
       ],
-      "description": "UK parliamentary constituency covering Southall and surrounding parts of the London Borough of Ealing.",
+      "description": "UK parliamentary constituency covering Southall and surrounding parts of the London Borough of Ealing, represented in the House of Commons by the MP elected for the seat.",
       "id": "entity:ealing-southall-constituency",
       "name": "Ealing Southall constituency",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "place",
-      "website": null
+      "website": "https://members.parliament.uk/constituency/4024/overview"
     },
     {
       "aliases": [
