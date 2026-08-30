@@ -5,4 +5,4 @@ type: organisation
 aliases: []
 ---
 
-British far-right political organisation recurring in historical Southall reporting, particularly around the events of 23 April 1979.
+British far-right political party founded in 1967. Its decision to hold an election meeting at Southall Town Hall on 23 April 1979 prompted major anti-racist protests; teacher and anti-racist campaigner Blair Peach was killed during the policing of those events.

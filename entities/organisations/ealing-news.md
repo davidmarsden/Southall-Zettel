@@ -3,6 +3,9 @@ id: ealing-news
 name: "Ealing News"
 type: organisation
 aliases: []
+website:
+  label: "Ealing News"
+  url: "https://www.ealing.news/"
 ---
 
-Independent local news publisher covering the London Borough of Ealing and recurring as an external source in Southall Stories reporting.
+Independent digital local-news publisher covering the London Borough of Ealing, with reporting across Acton, Ealing, Greenford, Hanwell, Northolt, Perivale and Southall.

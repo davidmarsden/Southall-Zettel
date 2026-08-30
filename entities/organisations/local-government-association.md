@@ -4,6 +4,9 @@ name: "Local Government Association"
 type: organisation
 aliases:
   - "LGA"
+website:
+  label: "Local Government Association"
+  url: "https://www.local.gov.uk/"
 ---
 
-National membership body for local authorities in England and Wales, recurring in reporting on Peter Mason's wider local-government roles.
+Politically led, cross-party national membership body representing councils in England and supporting local authorities across England and Wales with policy representation, improvement work, advice and shared services.

@@ -6,4 +6,4 @@ aliases:
   - "Henry Construction Projects"
 ---
 
-Construction company associated with stalled Ealing housing projects.
+Henry Construction Projects Ltd was a building contractor awarded several Ealing housing-development contracts, including Norwood Road in Southall. The company entered administration on 9 June 2023 after delays and workmanship issues, leading Ealing Council and its development company to terminate the affected contracts.

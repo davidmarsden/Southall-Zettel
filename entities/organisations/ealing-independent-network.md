@@ -6,4 +6,4 @@ aliases:
   - "EIN"
 ---
 
-Local independent political network in Ealing recurring in Southall Stories reporting.
+Historical Ealing ballot description used in the 2022 local elections by candidates affiliated with the registered Independent Network party. The Ealing Independent Network description is no longer registered for use on ballot papers.

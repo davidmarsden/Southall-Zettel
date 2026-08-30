@@ -3,6 +3,9 @@ id: national-grid
 name: "National Grid"
 type: organisation
 aliases: []
+website:
+  label: "National Grid"
+  url: "https://www.nationalgrid.com/"
 ---
 
-Energy infrastructure organisation recurring in reporting on the former Southall Gasworks site and gasholder works.
+UK energy-infrastructure company whose property business owned the former Southall Gasworks and was involved in early plans to regenerate the site before the later Berkeley-led development.
