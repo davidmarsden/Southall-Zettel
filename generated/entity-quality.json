@@ -6,9 +6,9 @@
     "flagged": 1,
     "missing_descriptions": 0,
     "weak_descriptions": 1,
-    "without_explicit_website": 45,
-    "without_source_or_website": 34,
-    "description_and_source_complete": 80
+    "without_explicit_website": 44,
+    "without_source_or_website": 33,
+    "description_and_source_complete": 81
   },
   "flagged": [
     {
@@ -115,12 +115,6 @@
       "name": "Tasha Tah",
       "type": "person",
       "path": "entities/people/tasha-tah.md"
-    },
-    {
-      "id": "tony-blair",
-      "name": "Tony Blair",
-      "type": "person",
-      "path": "entities/people/tony-blair.md"
     },
     {
       "id": "beaconsfield-road",
@@ -351,12 +345,6 @@
       "name": "Tasha Tah",
       "type": "person",
       "path": "entities/people/tasha-tah.md"
-    },
-    {
-      "id": "tony-blair",
-      "name": "Tony Blair",
-      "type": "person",
-      "path": "entities/people/tony-blair.md"
     },
     {
       "id": "beaconsfield-road",
