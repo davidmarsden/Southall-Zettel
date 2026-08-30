@@ -6,4 +6,4 @@ aliases:
   - "Scotts Road, Southall"
 ---
 
-Street in Southall recurring in reporting on traffic, fly-tipping and local political history.
+Residential street in Southall near the town centre and railway, forming part of the dense network of streets between central Southall and nearby industrial areas.

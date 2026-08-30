@@ -3,7 +3,10 @@ id: perceval-house
 name: "Perceval House"
 type: place
 aliases:
-  - "Perceval House W5"
+  - "Perceval House, Ealing"
+website:
+  label: "Ealing Council — contact and location"
+  url: "https://www.ealing.gov.uk/info/200152/"
 ---
 
-Ealing Council's civic offices in central Ealing, recurring in reporting on local government and democratic accountability.
+Ealing Council's principal administrative offices at 14–16 Uxbridge Road in central Ealing, housing council services, officers and customer-facing functions.

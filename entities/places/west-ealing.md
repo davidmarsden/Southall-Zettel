@@ -5,4 +5,4 @@ type: place
 aliases: []
 ---
 
-West London town centre in the London Borough of Ealing, recurring in reporting on public services, safety and local politics.
+West London town centre and neighbourhood west of central Ealing, centred on the Uxbridge Road corridor and served by West Ealing station on the Elizabeth line and Great Western Main Line.

@@ -6,4 +6,4 @@ aliases:
   - "Western Road, Southall"
 ---
 
-Road in Southall recurring in traffic and air-quality reporting.
+Road in southern Southall linking residential neighbourhoods with the wider Southall Green area and local routes towards Norwood Green and Hayes.
