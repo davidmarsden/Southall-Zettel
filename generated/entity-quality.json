@@ -6,9 +6,9 @@
     "flagged": 1,
     "missing_descriptions": 0,
     "weak_descriptions": 1,
-    "without_explicit_website": 47,
-    "without_source_or_website": 36,
-    "description_and_source_complete": 78
+    "without_explicit_website": 46,
+    "without_source_or_website": 35,
+    "description_and_source_complete": 79
   },
   "flagged": [
     {
@@ -31,12 +31,6 @@
       "name": "Air Quality Scrutiny Panel",
       "type": "organisation",
       "path": "entities/organisations/air-quality-scrutiny-panel.md"
-    },
-    {
-      "id": "ealing-independent-network",
-      "name": "Ealing Independent Network",
-      "type": "organisation",
-      "path": "entities/organisations/ealing-independent-network.md"
     },
     {
       "id": "labour-party-national-executive-committee",
@@ -261,12 +255,6 @@
       "name": "Clean Air for Southall and Hayes",
       "type": "organisation",
       "path": "entities/organisations/clean-air-for-southall-and-hayes.md"
-    },
-    {
-      "id": "ealing-independent-network",
-      "name": "Ealing Independent Network",
-      "type": "organisation",
-      "path": "entities/organisations/ealing-independent-network.md"
     },
     {
       "id": "henry-construction",
