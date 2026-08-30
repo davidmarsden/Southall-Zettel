@@ -3,12 +3,12 @@
   "rule": "An entity is complete when it has identity, a useful reader-facing description, provenance, and a first-party or authoritative source/website where one exists.",
   "counts": {
     "entities": 115,
-    "flagged": 6,
+    "flagged": 7,
     "missing_descriptions": 0,
-    "weak_descriptions": 6,
-    "without_explicit_website": 53,
-    "without_source_or_website": 42,
-    "description_and_source_complete": 67
+    "weak_descriptions": 7,
+    "without_explicit_website": 51,
+    "without_source_or_website": 40,
+    "description_and_source_complete": 68
   },
   "flagged": [
     {
@@ -44,6 +44,19 @@
       "path": "entities/organisations/european-court-of-human-rights.md",
       "description": "International court established under the European Convention on Human Rights to hear applications alleging violations of the Convention by Council of Europe member states. It appears in the research corpus in reporting on UK migration and deportation policy.",
       "website": "https://www.echr.coe.int/",
+      "reviewed_sources": [],
+      "has_source_or_website": true,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "high-court",
+      "name": "High Court",
+      "type": "organisation",
+      "path": "entities/organisations/high-court.md",
+      "description": "Senior court of England and Wales hearing serious civil, administrative and family cases through the King's Bench, Chancery and Family divisions. It appears in the research corpus in reporting on Ealing judicial-review proceedings.",
+      "website": "https://www.judiciary.uk/courts-and-tribunals/high-court/",
       "reviewed_sources": [],
       "has_source_or_website": true,
       "reasons": [
@@ -110,22 +123,10 @@
       "path": "entities/organisations/ealing-independent-network.md"
     },
     {
-      "id": "high-court",
-      "name": "High Court",
-      "type": "organisation",
-      "path": "entities/organisations/high-court.md"
-    },
-    {
       "id": "labour-party-national-executive-committee",
       "name": "Labour Party National Executive Committee",
       "type": "organisation",
       "path": "entities/organisations/labour-party-national-executive-committee.md"
-    },
-    {
-      "id": "local-democracy-reporting-service",
-      "name": "Local Democracy Reporting Service",
-      "type": "organisation",
-      "path": "entities/organisations/local-democracy-reporting-service.md"
     },
     {
       "id": "national-front",
@@ -382,22 +383,10 @@
       "path": "entities/organisations/henry-construction.md"
     },
     {
-      "id": "high-court",
-      "name": "High Court",
-      "type": "organisation",
-      "path": "entities/organisations/high-court.md"
-    },
-    {
       "id": "labour-party-national-executive-committee",
       "name": "Labour Party National Executive Committee",
       "type": "organisation",
       "path": "entities/organisations/labour-party-national-executive-committee.md"
-    },
-    {
-      "id": "local-democracy-reporting-service",
-      "name": "Local Democracy Reporting Service",
-      "type": "organisation",
-      "path": "entities/organisations/local-democracy-reporting-service.md"
     },
     {
       "id": "national-front",

@@ -6634,13 +6634,13 @@
       "aliases": [
         "High Court of Justice"
       ],
-      "description": "Court institution appearing in Ealing judicial-review reporting.",
+      "description": "Senior court of England and Wales hearing serious civil, administrative and family cases through the King's Bench, Chancery and Family divisions. It appears in the research corpus in reporting on Ealing judicial-review proceedings.",
       "id": "entity:high-court",
       "name": "High Court",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://www.judiciary.uk/courts-and-tribunals/high-court/"
     },
     {
       "aliases": [
@@ -6906,13 +6906,13 @@
       "aliases": [
         "LDRS"
       ],
-      "description": "UK local-government news reporting service appearing as a source in the corpus.",
+      "description": "BBC-funded public-service reporting scheme delivered through local news providers to cover councils and other democratic institutions across the UK. Its reports appear as source material in the research corpus.",
       "id": "entity:local-democracy-reporting-service",
       "name": "Local Democracy Reporting Service",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://downloads.bbc.co.uk/lnp/LDRS_operation_principles.pdf"
     },
     {
       "aliases": [
