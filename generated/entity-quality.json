@@ -6,9 +6,9 @@
     "flagged": 1,
     "missing_descriptions": 0,
     "weak_descriptions": 1,
-    "without_explicit_website": 41,
-    "without_source_or_website": 30,
-    "description_and_source_complete": 84
+    "without_explicit_website": 37,
+    "without_source_or_website": 26,
+    "description_and_source_complete": 88
   },
   "flagged": [
     {
@@ -111,12 +111,6 @@
       "path": "entities/places/beaconsfield-road.md"
     },
     {
-      "id": "elizabeth-line",
-      "name": "Elizabeth Line",
-      "type": "place",
-      "path": "entities/places/elizabeth-line.md"
-    },
-    {
       "id": "grove-house",
       "name": "Grove House",
       "type": "place",
@@ -135,12 +129,6 @@
       "path": "entities/places/minet-park.md"
     },
     {
-      "id": "norwood-green",
-      "name": "Norwood Green",
-      "type": "place",
-      "path": "entities/places/norwood-green.md"
-    },
-    {
       "id": "river-brent",
       "name": "River Brent",
       "type": "place",
@@ -157,12 +145,6 @@
       "name": "Scotts Road",
       "type": "place",
       "path": "entities/places/scotts-road.md"
-    },
-    {
-      "id": "southall-air-quality-focus-area",
-      "name": "Southall Air Quality Focus Area",
-      "type": "place",
-      "path": "entities/places/southall-air-quality-focus-area.md"
     },
     {
       "id": "southall-broadway",
@@ -187,12 +169,6 @@
       "name": "The Green",
       "type": "place",
       "path": "entities/places/the-green.md"
-    },
-    {
-      "id": "warren-farm",
-      "name": "Warren Farm",
-      "type": "place",
-      "path": "entities/places/warren-farm.md"
     },
     {
       "id": "west-ealing",
@@ -323,12 +299,6 @@
       "path": "entities/places/beaconsfield-road.md"
     },
     {
-      "id": "elizabeth-line",
-      "name": "Elizabeth Line",
-      "type": "place",
-      "path": "entities/places/elizabeth-line.md"
-    },
-    {
       "id": "grove-house",
       "name": "Grove House",
       "type": "place",
@@ -345,12 +315,6 @@
       "name": "Minet Park",
       "type": "place",
       "path": "entities/places/minet-park.md"
-    },
-    {
-      "id": "norwood-green",
-      "name": "Norwood Green",
-      "type": "place",
-      "path": "entities/places/norwood-green.md"
     },
     {
       "id": "norwood-road",
@@ -381,12 +345,6 @@
       "name": "South Road",
       "type": "place",
       "path": "entities/places/south-road.md"
-    },
-    {
-      "id": "southall-air-quality-focus-area",
-      "name": "Southall Air Quality Focus Area",
-      "type": "place",
-      "path": "entities/places/southall-air-quality-focus-area.md"
     },
     {
       "id": "southall-broadway",
@@ -429,12 +387,6 @@
       "name": "The Green",
       "type": "place",
       "path": "entities/places/the-green.md"
-    },
-    {
-      "id": "warren-farm",
-      "name": "Warren Farm",
-      "type": "place",
-      "path": "entities/places/warren-farm.md"
     },
     {
       "id": "west-ealing",

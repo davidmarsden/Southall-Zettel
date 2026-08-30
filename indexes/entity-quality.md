@@ -5,9 +5,9 @@ An entity is complete when it has identity, a useful reader-facing description, 
 - Entities checked: **115**
 - Missing descriptions: **0**
 - Weak/generic descriptions: **1**
-- No source or website: **30**
-- Description + source/website complete: **84**
-- No explicit website field: **41** (informational only)
+- No source or website: **26**
+- Description + source/website complete: **88**
+- No explicit website field: **37** (informational only)
 
 ## Description review queue
 
@@ -32,19 +32,15 @@ These entities currently have neither an explicit website nor a reviewed source 
 - **Swaran Singh Padda** (`entities/people/swaran-singh-padda.md`)
 - **Tasha Tah** (`entities/people/tasha-tah.md`)
 - **Beaconsfield Road** (`entities/places/beaconsfield-road.md`)
-- **Elizabeth Line** (`entities/places/elizabeth-line.md`)
 - **Grove House** (`entities/places/grove-house.md`)
 - **King Street** (`entities/places/king-street.md`)
 - **Minet Park** (`entities/places/minet-park.md`)
-- **Norwood Green** (`entities/places/norwood-green.md`)
 - **River Brent** (`entities/places/river-brent.md`)
 - **Saklatvala Hall** (`entities/places/saklatvala-hall.md`)
 - **Scotts Road** (`entities/places/scotts-road.md`)
-- **Southall Air Quality Focus Area** (`entities/places/southall-air-quality-focus-area.md`)
 - **Southall Broadway** (`entities/places/southall-broadway.md`)
 - **Southall Market** (`entities/places/southall-market.md`)
 - **Southall Young Adult Centre** (`entities/places/southall-young-adult-centre.md`)
 - **The Green** (`entities/places/the-green.md`)
-- **Warren Farm** (`entities/places/warren-farm.md`)
 - **West Ealing** (`entities/places/west-ealing.md`)
 - **West London** (`entities/places/west-london.md`)

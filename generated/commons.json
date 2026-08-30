@@ -6485,13 +6485,13 @@
       "aliases": [
         "Crossrail"
       ],
-      "description": "London rail infrastructure serving Southall. Treated as an infrastructure/place entity in the current schema.",
+      "description": "Transport for London rail service linking Reading and Heathrow through central London to Abbey Wood and Shenfield, serving Southall, West Ealing, Ealing Broadway and other west London stations.",
       "id": "entity:elizabeth-line",
       "name": "Elizabeth Line",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "place",
-      "website": null
+      "website": "https://tfl.gov.uk/modes/elizabeth-line/"
     },
     {
       "aliases": [
@@ -7037,13 +7037,13 @@
       "aliases": [
         "Norwood Green ward"
       ],
-      "description": "Neighbourhood and electoral ward in the London Borough of Ealing.",
+      "description": "Historic village-centred neighbourhood in the London Borough of Ealing and the name of a current electoral ward. Part of the area around the village green is designated as the Norwood Green Conservation Area.",
       "id": "entity:norwood-green",
       "name": "Norwood Green",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "place",
-      "website": null
+      "website": "https://www.ealing.gov.uk/info/201158/conservation_areas/1027/southall_conservation_areas/3"
     },
     {
       "aliases": [
@@ -7263,13 +7263,13 @@
       "aliases": [
         "Southall AQFA"
       ],
-      "description": "Defined air-quality focus area in Southall. Modelled as a place/designation node so geography, monitoring, policy and reporting can connect without treating the generic term \"Air Quality Focus Area\" as an entity.",
+      "description": "Greater London Authority air-quality focus designation covering a pollution hotspot in Southall where nitrogen-dioxide limits and high human exposure make the area a priority for monitoring and action.",
       "id": "entity:southall-air-quality-focus-area",
       "name": "Southall Air Quality Focus Area",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "place",
-      "website": null
+      "website": "https://gis.london.gov.uk/arcgis/rest/services/apps/planning_data_map_02/mapserver/306"
     },
     {
       "aliases": [
@@ -7514,13 +7514,13 @@
       "aliases": [
         "Warren Farm Nature Reserve"
       ],
-      "description": "Warren Farm site in Ealing. In corpus-level issue tracking, references to Warren Farm Nature Reserve are grouped with Warren Farm, while the note preserves the technical distinction that the nature reserve is contained within the wider Warren Farm site.",
+      "description": "Large rewilded meadow and open-space site in Norwood Green, Ealing, forming part of Brent River Park and supporting significant grassland and wildlife habitat. The campaigning name Warren Farm Nature Reserve refers to the nature-rich site while the graph keeps the broader place identity as Warren Farm.",
       "id": "entity:warren-farm",
       "name": "Warren Farm",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "place",
-      "website": null
+      "website": "https://www.warrenfarmnaturereserve.co.uk/"
     },
     {
       "aliases": [],
