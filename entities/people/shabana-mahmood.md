@@ -7,4 +7,4 @@ aliases:
   - "Home Secretary Shabana Mahmood"
 ---
 
-Labour MP and senior UK government minister, serving as Home Secretary in the current government. She appears in the research corpus in reporting on national migration and deportation policy.
+Labour MP for Birmingham Ladywood and senior UK government minister, serving as Home Secretary in the current government.
