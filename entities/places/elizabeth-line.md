@@ -2,8 +2,9 @@
 id: elizabeth-line
 name: "Elizabeth Line"
 type: place
+website: "https://tfl.gov.uk/modes/elizabeth-line/"
 aliases:
   - "Crossrail"
 ---
 
-London rail infrastructure serving Southall. Treated as an infrastructure/place entity in the current schema.
+Transport for London rail service linking Reading and Heathrow through central London to Abbey Wood and Shenfield, serving Southall, West Ealing, Ealing Broadway and other west London stations.
