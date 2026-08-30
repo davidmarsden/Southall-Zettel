@@ -266,6 +266,30 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **URL:** https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/southall-gas-works-public
 - **Cited by:** 1 post(s)
 
+## Angela Fonso — LinkedIn profile
+
+- **ID:** `linkedin-angela-fonso`
+- **Publisher:** LinkedIn
+- **Type:** `professional-profile`
+- **URL:** https://uk.linkedin.com/in/angela-fonso-b1a09a173
+- **Cited by:** 0 post(s)
+
+## Jags Sanghera — LinkedIn profile
+
+- **ID:** `linkedin-jags-sanghera`
+- **Publisher:** LinkedIn
+- **Type:** `professional-profile`
+- **URL:** https://uk.linkedin.com/in/jags-sanghera-04722153
+- **Cited by:** 0 post(s)
+
+## Peter Mason — LinkedIn profile
+
+- **ID:** `linkedin-peter-mason`
+- **Publisher:** LinkedIn
+- **Type:** `professional-profile`
+- **URL:** https://uk.linkedin.com/in/peter-mason-5a377941
+- **Cited by:** 0 post(s)
+
 ## The Property Lobby: The Hidden Reality behind the Housing Crisis
 
 - **ID:** `the-property-lobby`

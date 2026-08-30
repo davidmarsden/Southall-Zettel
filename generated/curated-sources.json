@@ -782,6 +782,71 @@
     "title": "Southall Gas Works Health Impact Assessment"
   },
   {
+    "body": "Reviewed professional profile used as supporting biographical evidence for Angela Fonso's education background, campaigning history and professional experience. It supplements, rather than replaces, first-party campaign material and official election records.",
+    "canonical_url": "https://uk.linkedin.com/in/angela-fonso-b1a09a173",
+    "evidence_role": "supporting-biography",
+    "id": "linkedin-angela-fonso",
+    "path": "sources/linkedin/angela-fonso.md",
+    "publisher": "LinkedIn",
+    "related_entities": [
+      "angela-fonso"
+    ],
+    "related_topics": [
+      "air-pollution",
+      "public-health",
+      "local-democracy"
+    ],
+    "review_status": "reviewed",
+    "source_class": "first-party-professional-profile",
+    "source_type": "professional-profile",
+    "temporal_status": "current",
+    "title": "Angela Fonso — LinkedIn profile"
+  },
+  {
+    "body": "Reviewed professional profile used as supporting biographical evidence for Jags Sanghera's community-engagement work with Berkeley Homes/St George and related professional history. Current elected and civic roles remain verified against official council and organisational sources.",
+    "canonical_url": "https://uk.linkedin.com/in/jags-sanghera-04722153",
+    "evidence_role": "supporting-biography",
+    "id": "linkedin-jags-sanghera",
+    "path": "sources/linkedin/jags-sanghera.md",
+    "publisher": "LinkedIn",
+    "related_entities": [
+      "jags-sanghera",
+      "berkeley-group"
+    ],
+    "related_topics": [
+      "planning-development",
+      "local-democracy",
+      "governance"
+    ],
+    "review_status": "reviewed",
+    "source_class": "first-party-professional-profile",
+    "source_type": "professional-profile",
+    "temporal_status": "current",
+    "title": "Jags Sanghera — LinkedIn profile"
+  },
+  {
+    "body": "Reviewed professional profile used as supporting biographical evidence for Peter Mason's career history and current public-role context. Formal current office is verified independently against Ealing Council and Labour Party sources.",
+    "canonical_url": "https://uk.linkedin.com/in/peter-mason-5a377941",
+    "evidence_role": "supporting-biography",
+    "id": "linkedin-peter-mason",
+    "path": "sources/linkedin/peter-mason.md",
+    "publisher": "LinkedIn",
+    "related_entities": [
+      "peter-mason",
+      "ealing-council"
+    ],
+    "related_topics": [
+      "governance",
+      "council-accountability",
+      "local-democracy"
+    ],
+    "review_status": "reviewed",
+    "source_class": "first-party-professional-profile",
+    "source_type": "professional-profile",
+    "temporal_status": "current",
+    "title": "Peter Mason — LinkedIn profile"
+  },
+  {
     "body": "Primary Southall Community Alliance governance page used to identify trustee and chair roles.",
     "canonical_url": "https://southallcommunityalliance.com/trustees/",
     "cited_by": [

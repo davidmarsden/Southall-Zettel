@@ -6066,7 +6066,7 @@
     "links": 1182,
     "posts": 69,
     "relationships": 25,
-    "sources": 36,
+    "sources": 39,
     "topics": 10
   },
   "entities": [
@@ -16931,6 +16931,74 @@
       "source_type": "monitoring",
       "temporal_status": null,
       "title": "Independent testing at Southall Gasworks"
+    },
+    {
+      "archive_urls": [],
+      "canonical_url": "https://uk.linkedin.com/in/angela-fonso-b1a09a173",
+      "cited_by": [],
+      "id": "source:linkedin-angela-fonso",
+      "meeting_date": null,
+      "provenance": "reviewed-source-record",
+      "publication_date": null,
+      "publisher": "LinkedIn",
+      "related_entities": [
+        "entity:angela-fonso"
+      ],
+      "related_topics": [
+        "topic:air-pollution",
+        "topic:public-health",
+        "topic:local-democracy"
+      ],
+      "review_status": "reviewed",
+      "source_type": "professional-profile",
+      "temporal_status": "current",
+      "title": "Angela Fonso — LinkedIn profile"
+    },
+    {
+      "archive_urls": [],
+      "canonical_url": "https://uk.linkedin.com/in/jags-sanghera-04722153",
+      "cited_by": [],
+      "id": "source:linkedin-jags-sanghera",
+      "meeting_date": null,
+      "provenance": "reviewed-source-record",
+      "publication_date": null,
+      "publisher": "LinkedIn",
+      "related_entities": [
+        "entity:jags-sanghera",
+        "entity:berkeley-group"
+      ],
+      "related_topics": [
+        "topic:planning-development",
+        "topic:local-democracy",
+        "topic:governance"
+      ],
+      "review_status": "reviewed",
+      "source_type": "professional-profile",
+      "temporal_status": "current",
+      "title": "Jags Sanghera — LinkedIn profile"
+    },
+    {
+      "archive_urls": [],
+      "canonical_url": "https://uk.linkedin.com/in/peter-mason-5a377941",
+      "cited_by": [],
+      "id": "source:linkedin-peter-mason",
+      "meeting_date": null,
+      "provenance": "reviewed-source-record",
+      "publication_date": null,
+      "publisher": "LinkedIn",
+      "related_entities": [
+        "entity:peter-mason",
+        "entity:ealing-council"
+      ],
+      "related_topics": [
+        "topic:governance",
+        "topic:council-accountability",
+        "topic:local-democracy"
+      ],
+      "review_status": "reviewed",
+      "source_type": "professional-profile",
+      "temporal_status": "current",
+      "title": "Peter Mason — LinkedIn profile"
     },
     {
       "archive_urls": [],

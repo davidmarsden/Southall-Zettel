@@ -11518,6 +11518,90 @@
     },
     {
       "provenance": "reviewed-source-record",
+      "source": "source:linkedin-angela-fonso",
+      "target": "entity:angela-fonso",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:linkedin-angela-fonso",
+      "target": "topic:air-pollution",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:linkedin-angela-fonso",
+      "target": "topic:public-health",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:linkedin-angela-fonso",
+      "target": "topic:local-democracy",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:linkedin-jags-sanghera",
+      "target": "entity:jags-sanghera",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:linkedin-jags-sanghera",
+      "target": "entity:berkeley-group",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:linkedin-jags-sanghera",
+      "target": "topic:planning-development",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:linkedin-jags-sanghera",
+      "target": "topic:local-democracy",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:linkedin-jags-sanghera",
+      "target": "topic:governance",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:linkedin-peter-mason",
+      "target": "entity:peter-mason",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:linkedin-peter-mason",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:linkedin-peter-mason",
+      "target": "topic:governance",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:linkedin-peter-mason",
+      "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:linkedin-peter-mason",
+      "target": "topic:local-democracy",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
       "source": "post:posts/2026/05/07/the-man-in-the-middle.md",
       "target": "source:southall-community-alliance-trustees",
       "type": "cites-source"
@@ -14390,6 +14474,30 @@
       "path": "sources/gla/southall-gasworks-health-impact-assessment.md",
       "publisher": "Greater London Authority",
       "source_type": "health-impact-assessment",
+      "type": "source-record"
+    },
+    {
+      "id": "source:linkedin-angela-fonso",
+      "label": "Angela Fonso — LinkedIn profile",
+      "path": "sources/linkedin/angela-fonso.md",
+      "publisher": "LinkedIn",
+      "source_type": "professional-profile",
+      "type": "source-record"
+    },
+    {
+      "id": "source:linkedin-jags-sanghera",
+      "label": "Jags Sanghera — LinkedIn profile",
+      "path": "sources/linkedin/jags-sanghera.md",
+      "publisher": "LinkedIn",
+      "source_type": "professional-profile",
+      "type": "source-record"
+    },
+    {
+      "id": "source:linkedin-peter-mason",
+      "label": "Peter Mason — LinkedIn profile",
+      "path": "sources/linkedin/peter-mason.md",
+      "publisher": "LinkedIn",
+      "source_type": "professional-profile",
       "type": "source-record"
     },
     {
