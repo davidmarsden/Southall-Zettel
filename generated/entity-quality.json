@@ -6,9 +6,9 @@
     "flagged": 1,
     "missing_descriptions": 0,
     "weak_descriptions": 1,
-    "without_explicit_website": 50,
-    "without_source_or_website": 39,
-    "description_and_source_complete": 75
+    "without_explicit_website": 47,
+    "without_source_or_website": 36,
+    "description_and_source_complete": 78
   },
   "flagged": [
     {
@@ -33,12 +33,6 @@
       "path": "entities/organisations/air-quality-scrutiny-panel.md"
     },
     {
-      "id": "community-powered-reporting",
-      "name": "Community Powered Reporting",
-      "type": "organisation",
-      "path": "entities/organisations/community-powered-reporting.md"
-    },
-    {
       "id": "ealing-independent-network",
       "name": "Ealing Independent Network",
       "type": "organisation",
@@ -55,18 +49,6 @@
       "name": "National Front",
       "type": "organisation",
       "path": "entities/organisations/national-front.md"
-    },
-    {
-      "id": "socialist-workers-party",
-      "name": "Socialist Workers Party",
-      "type": "organisation",
-      "path": "entities/organisations/socialist-workers-party.md"
-    },
-    {
-      "id": "stop-the-towers",
-      "name": "Stop The Towers",
-      "type": "organisation",
-      "path": "entities/organisations/stop-the-towers.md"
     },
     {
       "id": "blair-peach",
@@ -281,12 +263,6 @@
       "path": "entities/organisations/clean-air-for-southall-and-hayes.md"
     },
     {
-      "id": "community-powered-reporting",
-      "name": "Community Powered Reporting",
-      "type": "organisation",
-      "path": "entities/organisations/community-powered-reporting.md"
-    },
-    {
       "id": "ealing-independent-network",
       "name": "Ealing Independent Network",
       "type": "organisation",
@@ -315,18 +291,6 @@
       "name": "Public Health England",
       "type": "organisation",
       "path": "entities/organisations/public-health-england.md"
-    },
-    {
-      "id": "socialist-workers-party",
-      "name": "Socialist Workers Party",
-      "type": "organisation",
-      "path": "entities/organisations/socialist-workers-party.md"
-    },
-    {
-      "id": "stop-the-towers",
-      "name": "Stop The Towers",
-      "type": "organisation",
-      "path": "entities/organisations/stop-the-towers.md"
     },
     {
       "id": "blair-peach",

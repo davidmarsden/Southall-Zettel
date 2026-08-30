@@ -6205,13 +6205,13 @@
       "aliases": [
         "CPR"
       ],
-      "description": "Resident-led research and reporting project focused on governance and accountability.",
+      "description": "Resident-led, community-focused research group formed by volunteers from Southall and Ealing to investigate local governance, inequality and public-policy outcomes and publish evidence-led reports for residents.",
       "id": "entity:community-powered-reporting",
       "name": "Community Powered Reporting",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://www.communitypoweredreporting.co.uk/"
     },
     {
       "aliases": [],
@@ -7229,13 +7229,13 @@
       "aliases": [
         "SWP"
       ],
-      "description": "Political organisation referenced in reporting on Blair Peach and local political debate.",
+      "description": "British revolutionary socialist political organisation with branches around the country, active in protests, strikes and campaigns on racism, inequality, climate and other issues.",
       "id": "entity:socialist-workers-party",
       "name": "Socialist Workers Party",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://socialistworker.co.uk/about-the-swp/"
     },
     {
       "aliases": [
@@ -7415,13 +7415,13 @@
       "aliases": [
         "Stop the Towers"
       ],
-      "description": "Campaign group cited in reporting on high-rise development and planning in Ealing.",
+      "description": "West Ealing community campaign group representing residents, associations and businesses opposing what it regards as inappropriate high-rise development and arguing for development of appropriate scale and design.",
       "id": "entity:stop-the-towers",
       "name": "Stop The Towers",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://stopthetowers.info/"
     },
     {
       "aliases": [],
