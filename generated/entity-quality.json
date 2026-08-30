@@ -1,0 +1,1313 @@
+{
+  "schema_version": 1,
+  "rule": "An entity is complete when it has identity, a useful reader-facing description, provenance, and a first-party or authoritative source/website where one exists.",
+  "counts": {
+    "entities": 115,
+    "flagged": 56,
+    "missing_descriptions": 0,
+    "weak_descriptions": 56,
+    "without_explicit_website": 112
+  },
+  "flagged": [
+    {
+      "id": "around-ealing",
+      "name": "Around Ealing",
+      "type": "organisation",
+      "path": "entities/organisations/around-ealing.md",
+      "description": "Ealing Council's residents' publication.",
+      "website": null,
+      "reasons": [
+        "very-short-description"
+      ]
+    },
+    {
+      "id": "berkeley-group",
+      "name": "Berkeley Group",
+      "type": "organisation",
+      "path": "entities/organisations/berkeley-group.md",
+      "description": "Property developer associated with Southall Waterside / the former gasworks site.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "conservative-party",
+      "name": "Conservative Party",
+      "type": "organisation",
+      "path": "entities/organisations/conservative-party.md",
+      "description": "UK political party.",
+      "website": null,
+      "reasons": [
+        "very-short-description"
+      ]
+    },
+    {
+      "id": "ealing-council-pension-fund-panel",
+      "name": "Ealing Council Pension Fund Panel",
+      "type": "organisation",
+      "path": "entities/organisations/ealing-council-pension-fund-panel.md",
+      "description": "Ealing Council committee overseeing the borough pension fund, recurring in reporting on investment, divestment and governance.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "ealing-council",
+      "name": "Ealing Council",
+      "type": "organisation",
+      "path": "entities/organisations/ealing-council.md",
+      "description": "Local authority for the London Borough of Ealing.",
+      "website": null,
+      "reasons": [
+        "very-short-description"
+      ]
+    },
+    {
+      "id": "ealing-independent-network",
+      "name": "Ealing Independent Network",
+      "type": "organisation",
+      "path": "entities/organisations/ealing-independent-network.md",
+      "description": "Local independent political network in Ealing recurring in Southall Stories reporting.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description",
+        "identity-too-dependent-on-southall-stories"
+      ]
+    },
+    {
+      "id": "ealing-news",
+      "name": "Ealing News",
+      "type": "organisation",
+      "path": "entities/organisations/ealing-news.md",
+      "description": "Independent local news publisher covering the London Borough of Ealing and recurring as an external source in Southall Stories reporting.",
+      "website": null,
+      "reasons": [
+        "identity-too-dependent-on-southall-stories"
+      ]
+    },
+    {
+      "id": "environment-agency",
+      "name": "Environment Agency",
+      "type": "organisation",
+      "path": "entities/organisations/environment-agency.md",
+      "description": "Environmental regulator cited in Southall Stories reporting.",
+      "website": null,
+      "reasons": [
+        "identity-too-dependent-on-southall-stories"
+      ]
+    },
+    {
+      "id": "fm-conway",
+      "name": "FM Conway",
+      "type": "organisation",
+      "path": "entities/organisations/fm-conway.md",
+      "description": "Infrastructure and construction company associated with the Southall asphalt plant and recurring air-pollution reporting.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "greater-london-authority",
+      "name": "Greater London Authority",
+      "type": "organisation",
+      "path": "entities/organisations/greater-london-authority.md",
+      "description": "Strategic authority for Greater London, recurring in reporting on housing funding and London-wide policy.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "henry-construction",
+      "name": "Henry Construction",
+      "type": "organisation",
+      "path": "entities/organisations/henry-construction.md",
+      "description": "Construction company associated with stalled Ealing housing projects.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "local-government-association",
+      "name": "Local Government Association",
+      "type": "organisation",
+      "path": "entities/organisations/local-government-association.md",
+      "description": "National membership body for local authorities in England and Wales, recurring in reporting on Peter Mason's wider local-government roles.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "london-assembly",
+      "name": "London Assembly",
+      "type": "organisation",
+      "path": "entities/organisations/london-assembly.md",
+      "description": "Elected body scrutinising the Mayor of London, cited in Southall Stories reporting.",
+      "website": null,
+      "reasons": [
+        "identity-too-dependent-on-southall-stories"
+      ]
+    },
+    {
+      "id": "metropolitan-police",
+      "name": "Metropolitan Police",
+      "type": "organisation",
+      "path": "entities/organisations/metropolitan-police.md",
+      "description": "Police force serving Greater London and a recurring institution in the Southall Stories corpus.",
+      "website": null,
+      "reasons": [
+        "identity-too-dependent-on-southall-stories"
+      ]
+    },
+    {
+      "id": "national-front",
+      "name": "National Front",
+      "type": "organisation",
+      "path": "entities/organisations/national-front.md",
+      "description": "British far-right political organisation recurring in historical Southall reporting, particularly around the events of 23 April 1979.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "national-grid",
+      "name": "National Grid",
+      "type": "organisation",
+      "path": "entities/organisations/national-grid.md",
+      "description": "Energy infrastructure organisation recurring in reporting on the former Southall Gasworks site and gasholder works.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "private-eye",
+      "name": "Private Eye",
+      "type": "organisation",
+      "path": "entities/organisations/private-eye.md",
+      "description": "UK satirical and investigative magazine cited in Southall Stories reporting.",
+      "website": null,
+      "reasons": [
+        "identity-too-dependent-on-southall-stories"
+      ]
+    },
+    {
+      "id": "southall-community-alliance",
+      "name": "Southall Community Alliance",
+      "type": "organisation",
+      "path": "entities/organisations/southall-community-alliance.md",
+      "description": "Southall community organisation recurring in local governance and civic participation reporting.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "southall-town-team",
+      "name": "Southall Town Team",
+      "type": "organisation",
+      "path": "entities/organisations/southall-town-team.md",
+      "description": "Local civic and regeneration body referenced in Southall Stories reporting.",
+      "website": null,
+      "reasons": [
+        "identity-too-dependent-on-southall-stories"
+      ]
+    },
+    {
+      "id": "bassam-mahfouz",
+      "name": "Bassam Mahfouz",
+      "type": "person",
+      "path": "entities/people/bassam-mahfouz.md",
+      "description": "Ealing politician recurring in Southall Stories reporting.",
+      "website": null,
+      "reasons": [
+        "very-short-description",
+        "reporting-defined-or-generic-description",
+        "identity-too-dependent-on-southall-stories"
+      ]
+    },
+    {
+      "id": "boris-johnson",
+      "name": "Boris Johnson",
+      "type": "person",
+      "path": "entities/people/boris-johnson.md",
+      "description": "British politician referenced in Southall Stories reporting.",
+      "website": null,
+      "reasons": [
+        "identity-too-dependent-on-southall-stories"
+      ]
+    },
+    {
+      "id": "damian-leydon",
+      "name": "Damian Leydon",
+      "type": "person",
+      "path": "entities/people/damian-leydon.md",
+      "description": "Berkeley Group executive recurring in Southall Gasworks / Southall Waterside reporting.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "dan-cortese",
+      "name": "Dan Cortese",
+      "type": "person",
+      "path": "entities/people/dan-cortese.md",
+      "description": "Southall civic and election figure appearing in the corpus.",
+      "website": null,
+      "reasons": [
+        "very-short-description"
+      ]
+    },
+    {
+      "id": "jags-sanghera",
+      "name": "Jags Sanghera",
+      "type": "person",
+      "path": "entities/people/jags-sanghera.md",
+      "description": "Southall community and political figure recurring in reporting on local organisations, development and elections.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "jasbir-kaur-anand",
+      "name": "Jasbir Kaur Anand",
+      "type": "person",
+      "path": "entities/people/jasbir-kaur-anand.md",
+      "description": "Ealing councillor and recurring figure in Southall Stories reporting.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description",
+        "identity-too-dependent-on-southall-stories"
+      ]
+    },
+    {
+      "id": "jeremy-corbyn",
+      "name": "Jeremy Corbyn",
+      "type": "person",
+      "path": "entities/people/jeremy-corbyn.md",
+      "description": "British politician appearing in Southall Stories reporting on Labour politics, local events and electoral context.",
+      "website": null,
+      "reasons": [
+        "identity-too-dependent-on-southall-stories"
+      ]
+    },
+    {
+      "id": "joe-bhangu",
+      "name": "Joe Bhangu",
+      "type": "person",
+      "path": "entities/people/joe-bhangu.md",
+      "description": "Local independent political figure recurring in Southall Stories reporting.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description",
+        "identity-too-dependent-on-southall-stories"
+      ]
+    },
+    {
+      "id": "john-martin",
+      "name": "John Martin",
+      "type": "person",
+      "path": "entities/people/john-martin.md",
+      "description": "Ealing councillor and local political figure recurring in Southall Stories reporting.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description",
+        "identity-too-dependent-on-southall-stories"
+      ]
+    },
+    {
+      "id": "julian-bell",
+      "name": "Julian Bell",
+      "type": "person",
+      "path": "entities/people/julian-bell.md",
+      "description": "Former leader of Ealing Council and recurring figure in Southall Stories reporting.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description",
+        "identity-too-dependent-on-southall-stories"
+      ]
+    },
+    {
+      "id": "kate-crawford",
+      "name": "Kate Crawford",
+      "type": "person",
+      "path": "entities/people/kate-crawford.md",
+      "description": "Long-serving Ealing councillor and local political figure recurring in Southall Stories reporting.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description",
+        "identity-too-dependent-on-southall-stories"
+      ]
+    },
+    {
+      "id": "minni-dogra",
+      "name": "Minni Dogra",
+      "type": "person",
+      "path": "entities/people/minni-dogra.md",
+      "description": "Ealing Community Independents candidate and recurring figure in Southall Stories election reporting.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description",
+        "identity-too-dependent-on-southall-stories"
+      ]
+    },
+    {
+      "id": "nigel-giffin-kc",
+      "name": "Nigel Giffin KC",
+      "type": "person",
+      "path": "entities/people/nigel-giffin-kc.md",
+      "description": "Barrister whose legal opinion for the Local Government Association is cited in the Southall Stories corpus.",
+      "website": null,
+      "reasons": [
+        "identity-too-dependent-on-southall-stories"
+      ]
+    },
+    {
+      "id": "onkar-sahota",
+      "name": "Dr Onkar Sahota",
+      "type": "person",
+      "path": "entities/people/onkar-sahota.md",
+      "description": "London Assembly Member recurring in the Southall Stories corpus.",
+      "website": null,
+      "reasons": [
+        "identity-too-dependent-on-southall-stories"
+      ]
+    },
+    {
+      "id": "richard-watler",
+      "name": "Richard Watler",
+      "type": "person",
+      "path": "entities/people/richard-watler.md",
+      "description": "Figure associated with Southall Waterside / the Southall Gasworks development in the corpus.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "sukhi-floria",
+      "name": "Sukhi Floria",
+      "type": "person",
+      "path": "entities/people/sukhi-floria.md",
+      "description": "Local independent candidate appearing in Southall Stories reporting.",
+      "website": null,
+      "reasons": [
+        "identity-too-dependent-on-southall-stories"
+      ]
+    },
+    {
+      "id": "tony-pidgley",
+      "name": "Tony Pidgley",
+      "type": "person",
+      "path": "entities/people/tony-pidgley.md",
+      "description": "Founder and former chair of Berkeley Group, recurring in reporting on the Southall Gasworks redevelopment.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "virendra-sharma",
+      "name": "Virendra Sharma",
+      "type": "person",
+      "path": "entities/people/virendra-sharma.md",
+      "description": "Former MP for Ealing Southall and recurring figure in the Southall Stories corpus.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description",
+        "identity-too-dependent-on-southall-stories"
+      ]
+    },
+    {
+      "id": "beaconsfield-road",
+      "name": "Beaconsfield Road",
+      "type": "place",
+      "path": "entities/places/beaconsfield-road.md",
+      "description": "Road in Southall near the former gasworks redevelopment.",
+      "website": null,
+      "reasons": [
+        "very-short-description"
+      ]
+    },
+    {
+      "id": "dominion-centre",
+      "name": "Dominion Centre",
+      "type": "place",
+      "path": "entities/places/dominion-centre.md",
+      "description": "Community and civic venue in Southall, recurring in reporting on council assets, local politics and public meetings.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "dormers-wells",
+      "name": "Dormers Wells",
+      "type": "place",
+      "path": "entities/places/dormers-wells.md",
+      "description": "Ealing ward and Southall-area locality recurring in civic and electoral reporting.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "ealing-common",
+      "name": "Ealing Common",
+      "type": "place",
+      "path": "entities/places/ealing-common.md",
+      "description": "Ealing locality and electoral ward.",
+      "website": null,
+      "reasons": [
+        "very-short-description"
+      ]
+    },
+    {
+      "id": "ealing",
+      "name": "Ealing",
+      "type": "place",
+      "path": "entities/places/ealing.md",
+      "description": "West London borough containing Southall.",
+      "website": null,
+      "reasons": [
+        "very-short-description"
+      ]
+    },
+    {
+      "id": "east-acton",
+      "name": "East Acton",
+      "type": "place",
+      "path": "entities/places/east-acton.md",
+      "description": "Ealing ward and West London place recurring in local political reporting.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "greenford-broadway",
+      "name": "Greenford Broadway",
+      "type": "place",
+      "path": "entities/places/greenford-broadway.md",
+      "description": "Ealing ward and local area recurring in election and local-government reporting.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "hanwell-broadway",
+      "name": "Hanwell Broadway",
+      "type": "place",
+      "path": "entities/places/hanwell-broadway.md",
+      "description": "Ealing ward and local area.",
+      "website": null,
+      "reasons": [
+        "very-short-description"
+      ]
+    },
+    {
+      "id": "johnson-street",
+      "name": "Johnson Street",
+      "type": "place",
+      "path": "entities/places/johnson-street.md",
+      "description": "Southall street and industrial location recurring in reporting on recycling, fire risk and regulatory oversight.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "lady-margaret",
+      "name": "Lady Margaret",
+      "type": "place",
+      "path": "entities/places/lady-margaret.md",
+      "description": "Ealing ward.",
+      "website": null,
+      "reasons": [
+        "very-short-description"
+      ]
+    },
+    {
+      "id": "parkside-yards",
+      "name": "Parkside Yards",
+      "type": "place",
+      "path": "entities/places/parkside-yards.md",
+      "description": "Southall venue recurring in reporting on public meetings and local political engagement.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "perceval-house",
+      "name": "Perceval House",
+      "type": "place",
+      "path": "entities/places/perceval-house.md",
+      "description": "Ealing Council's civic offices in central Ealing, recurring in reporting on local government and democratic accountability.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "scotts-road",
+      "name": "Scotts Road",
+      "type": "place",
+      "path": "entities/places/scotts-road.md",
+      "description": "Street in Southall recurring in reporting on traffic, fly-tipping and local political history.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "south-road",
+      "name": "South Road",
+      "type": "place",
+      "path": "entities/places/south-road.md",
+      "description": "Major Southall road recurring in reporting on air quality, infrastructure and the South Road bridge.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "southall-green",
+      "name": "Southall Green",
+      "type": "place",
+      "path": "entities/places/southall-green.md",
+      "description": "Southall ward and neighbourhood recurring in housing and governance reporting.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "southall-town-hall",
+      "name": "Southall Town Hall",
+      "type": "place",
+      "path": "entities/places/southall-town-hall.md",
+      "description": "Historic civic building in Southall, recurring in reporting on local democracy, community assets and public services.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "southall-west",
+      "name": "Southall West",
+      "type": "place",
+      "path": "entities/places/southall-west.md",
+      "description": "Ealing electoral ward in Southall.",
+      "website": null,
+      "reasons": [
+        "very-short-description"
+      ]
+    },
+    {
+      "id": "west-ealing",
+      "name": "West Ealing",
+      "type": "place",
+      "path": "entities/places/west-ealing.md",
+      "description": "West London town centre in the London Borough of Ealing, recurring in reporting on public services, safety and local politics.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "western-road",
+      "name": "Western Road",
+      "type": "place",
+      "path": "entities/places/western-road.md",
+      "description": "Road in Southall recurring in traffic and air-quality reporting.",
+      "website": null,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    }
+  ],
+  "without_explicit_website": [
+    {
+      "id": "air-quality-scrutiny-panel",
+      "name": "Air Quality Scrutiny Panel",
+      "type": "organisation",
+      "path": "entities/organisations/air-quality-scrutiny-panel.md"
+    },
+    {
+      "id": "around-ealing",
+      "name": "Around Ealing",
+      "type": "organisation",
+      "path": "entities/organisations/around-ealing.md"
+    },
+    {
+      "id": "berkeley-group",
+      "name": "Berkeley Group",
+      "type": "organisation",
+      "path": "entities/organisations/berkeley-group.md"
+    },
+    {
+      "id": "blair-peach-primary-school",
+      "name": "Blair Peach Primary School",
+      "type": "organisation",
+      "path": "entities/organisations/blair-peach-primary-school.md"
+    },
+    {
+      "id": "clean-air-for-southall-and-hayes",
+      "name": "Clean Air for Southall and Hayes",
+      "type": "organisation",
+      "path": "entities/organisations/clean-air-for-southall-and-hayes.md"
+    },
+    {
+      "id": "community-powered-reporting",
+      "name": "Community Powered Reporting",
+      "type": "organisation",
+      "path": "entities/organisations/community-powered-reporting.md"
+    },
+    {
+      "id": "conservative-party",
+      "name": "Conservative Party",
+      "type": "organisation",
+      "path": "entities/organisations/conservative-party.md"
+    },
+    {
+      "id": "defra",
+      "name": "Defra",
+      "type": "organisation",
+      "path": "entities/organisations/defra.md"
+    },
+    {
+      "id": "ealing-community-independents",
+      "name": "Ealing Community Independents",
+      "type": "organisation",
+      "path": "entities/organisations/ealing-community-independents.md"
+    },
+    {
+      "id": "ealing-council-pension-fund-panel",
+      "name": "Ealing Council Pension Fund Panel",
+      "type": "organisation",
+      "path": "entities/organisations/ealing-council-pension-fund-panel.md"
+    },
+    {
+      "id": "ealing-council",
+      "name": "Ealing Council",
+      "type": "organisation",
+      "path": "entities/organisations/ealing-council.md"
+    },
+    {
+      "id": "ealing-friends-of-palestine",
+      "name": "Ealing Friends of Palestine",
+      "type": "organisation",
+      "path": "entities/organisations/ealing-friends-of-palestine.md"
+    },
+    {
+      "id": "ealing-friends-of-the-earth",
+      "name": "Ealing Friends of the Earth",
+      "type": "organisation",
+      "path": "entities/organisations/ealing-friends-of-the-earth.md"
+    },
+    {
+      "id": "ealing-independent-network",
+      "name": "Ealing Independent Network",
+      "type": "organisation",
+      "path": "entities/organisations/ealing-independent-network.md"
+    },
+    {
+      "id": "ealing-labour",
+      "name": "Ealing Labour",
+      "type": "organisation",
+      "path": "entities/organisations/ealing-labour.md"
+    },
+    {
+      "id": "ealing-news",
+      "name": "Ealing News",
+      "type": "organisation",
+      "path": "entities/organisations/ealing-news.md"
+    },
+    {
+      "id": "environment-agency",
+      "name": "Environment Agency",
+      "type": "organisation",
+      "path": "entities/organisations/environment-agency.md"
+    },
+    {
+      "id": "european-court-of-human-rights",
+      "name": "European Court of Human Rights",
+      "type": "organisation",
+      "path": "entities/organisations/european-court-of-human-rights.md"
+    },
+    {
+      "id": "fm-conway",
+      "name": "FM Conway",
+      "type": "organisation",
+      "path": "entities/organisations/fm-conway.md"
+    },
+    {
+      "id": "greater-london-authority",
+      "name": "Greater London Authority",
+      "type": "organisation",
+      "path": "entities/organisations/greater-london-authority.md"
+    },
+    {
+      "id": "green-party",
+      "name": "Green Party",
+      "type": "organisation",
+      "path": "entities/organisations/green-party.md"
+    },
+    {
+      "id": "henry-construction",
+      "name": "Henry Construction",
+      "type": "organisation",
+      "path": "entities/organisations/henry-construction.md"
+    },
+    {
+      "id": "high-court",
+      "name": "High Court",
+      "type": "organisation",
+      "path": "entities/organisations/high-court.md"
+    },
+    {
+      "id": "housing-ombudsman",
+      "name": "Housing Ombudsman",
+      "type": "organisation",
+      "path": "entities/organisations/housing-ombudsman.md"
+    },
+    {
+      "id": "institute-for-government",
+      "name": "Institute for Government",
+      "type": "organisation",
+      "path": "entities/organisations/institute-for-government.md"
+    },
+    {
+      "id": "international-court-of-justice",
+      "name": "International Court of Justice",
+      "type": "organisation",
+      "path": "entities/organisations/international-court-of-justice.md"
+    },
+    {
+      "id": "internet-archive",
+      "name": "Internet Archive",
+      "type": "organisation",
+      "path": "entities/organisations/internet-archive.md"
+    },
+    {
+      "id": "labour-party-national-executive-committee",
+      "name": "Labour Party National Executive Committee",
+      "type": "organisation",
+      "path": "entities/organisations/labour-party-national-executive-committee.md"
+    },
+    {
+      "id": "labour-party",
+      "name": "Labour Party",
+      "type": "organisation",
+      "path": "entities/organisations/labour-party.md"
+    },
+    {
+      "id": "liberal-democrats",
+      "name": "Liberal Democrats",
+      "type": "organisation",
+      "path": "entities/organisations/liberal-democrats.md"
+    },
+    {
+      "id": "local-democracy-reporting-service",
+      "name": "Local Democracy Reporting Service",
+      "type": "organisation",
+      "path": "entities/organisations/local-democracy-reporting-service.md"
+    },
+    {
+      "id": "local-government-association",
+      "name": "Local Government Association",
+      "type": "organisation",
+      "path": "entities/organisations/local-government-association.md"
+    },
+    {
+      "id": "london-assembly",
+      "name": "London Assembly",
+      "type": "organisation",
+      "path": "entities/organisations/london-assembly.md"
+    },
+    {
+      "id": "london-forum",
+      "name": "London Forum",
+      "type": "organisation",
+      "path": "entities/organisations/london-forum.md"
+    },
+    {
+      "id": "metropolitan-police",
+      "name": "Metropolitan Police",
+      "type": "organisation",
+      "path": "entities/organisations/metropolitan-police.md"
+    },
+    {
+      "id": "national-front",
+      "name": "National Front",
+      "type": "organisation",
+      "path": "entities/organisations/national-front.md"
+    },
+    {
+      "id": "national-grid",
+      "name": "National Grid",
+      "type": "organisation",
+      "path": "entities/organisations/national-grid.md"
+    },
+    {
+      "id": "private-eye",
+      "name": "Private Eye",
+      "type": "organisation",
+      "path": "entities/organisations/private-eye.md"
+    },
+    {
+      "id": "public-health-england",
+      "name": "Public Health England",
+      "type": "organisation",
+      "path": "entities/organisations/public-health-england.md"
+    },
+    {
+      "id": "socialist-workers-party",
+      "name": "Socialist Workers Party",
+      "type": "organisation",
+      "path": "entities/organisations/socialist-workers-party.md"
+    },
+    {
+      "id": "southall-community-alliance",
+      "name": "Southall Community Alliance",
+      "type": "organisation",
+      "path": "entities/organisations/southall-community-alliance.md"
+    },
+    {
+      "id": "southall-town-team",
+      "name": "Southall Town Team",
+      "type": "organisation",
+      "path": "entities/organisations/southall-town-team.md"
+    },
+    {
+      "id": "stop-the-towers",
+      "name": "Stop The Towers",
+      "type": "organisation",
+      "path": "entities/organisations/stop-the-towers.md"
+    },
+    {
+      "id": "your-voice-your-town",
+      "name": "Your Voice, Your Town",
+      "type": "organisation",
+      "path": "entities/organisations/your-voice-your-town.md"
+    },
+    {
+      "id": "bassam-mahfouz",
+      "name": "Bassam Mahfouz",
+      "type": "person",
+      "path": "entities/people/bassam-mahfouz.md"
+    },
+    {
+      "id": "blair-peach",
+      "name": "Blair Peach",
+      "type": "person",
+      "path": "entities/people/blair-peach.md"
+    },
+    {
+      "id": "boris-johnson",
+      "name": "Boris Johnson",
+      "type": "person",
+      "path": "entities/people/boris-johnson.md"
+    },
+    {
+      "id": "damian-leydon",
+      "name": "Damian Leydon",
+      "type": "person",
+      "path": "entities/people/damian-leydon.md"
+    },
+    {
+      "id": "dan-cortese",
+      "name": "Dan Cortese",
+      "type": "person",
+      "path": "entities/people/dan-cortese.md"
+    },
+    {
+      "id": "dr-john-freeman",
+      "name": "Dr John Freeman",
+      "type": "person",
+      "path": "entities/people/dr-john-freeman.md"
+    },
+    {
+      "id": "gurdip-singh-chaggar",
+      "name": "Gurdip Singh Chaggar",
+      "type": "person",
+      "path": "entities/people/gurdip-singh-chaggar.md"
+    },
+    {
+      "id": "jags-sanghera",
+      "name": "Jags Sanghera",
+      "type": "person",
+      "path": "entities/people/jags-sanghera.md"
+    },
+    {
+      "id": "jasbir-kaur-anand",
+      "name": "Jasbir Kaur Anand",
+      "type": "person",
+      "path": "entities/people/jasbir-kaur-anand.md"
+    },
+    {
+      "id": "jatinder-rajput",
+      "name": "Jatinder Rajput",
+      "type": "person",
+      "path": "entities/people/jatinder-rajput.md"
+    },
+    {
+      "id": "jeremy-corbyn",
+      "name": "Jeremy Corbyn",
+      "type": "person",
+      "path": "entities/people/jeremy-corbyn.md"
+    },
+    {
+      "id": "joe-bhangu",
+      "name": "Joe Bhangu",
+      "type": "person",
+      "path": "entities/people/joe-bhangu.md"
+    },
+    {
+      "id": "john-martin",
+      "name": "John Martin",
+      "type": "person",
+      "path": "entities/people/john-martin.md"
+    },
+    {
+      "id": "josh-blacker",
+      "name": "Josh Blacker",
+      "type": "person",
+      "path": "entities/people/josh-blacker.md"
+    },
+    {
+      "id": "julian-bell",
+      "name": "Julian Bell",
+      "type": "person",
+      "path": "entities/people/julian-bell.md"
+    },
+    {
+      "id": "kate-crawford",
+      "name": "Kate Crawford",
+      "type": "person",
+      "path": "entities/people/kate-crawford.md"
+    },
+    {
+      "id": "lewis-cox",
+      "name": "Lewis Cox",
+      "type": "person",
+      "path": "entities/people/lewis-cox.md"
+    },
+    {
+      "id": "minni-dogra",
+      "name": "Minni Dogra",
+      "type": "person",
+      "path": "entities/people/minni-dogra.md"
+    },
+    {
+      "id": "nigel-giffin-kc",
+      "name": "Nigel Giffin KC",
+      "type": "person",
+      "path": "entities/people/nigel-giffin-kc.md"
+    },
+    {
+      "id": "onkar-sahota",
+      "name": "Dr Onkar Sahota",
+      "type": "person",
+      "path": "entities/people/onkar-sahota.md"
+    },
+    {
+      "id": "richard-kimblin",
+      "name": "Richard Kimblin",
+      "type": "person",
+      "path": "entities/people/richard-kimblin.md"
+    },
+    {
+      "id": "richard-watler",
+      "name": "Richard Watler",
+      "type": "person",
+      "path": "entities/people/richard-watler.md"
+    },
+    {
+      "id": "salvinder-dhillon",
+      "name": "Salvinder Dhillon",
+      "type": "person",
+      "path": "entities/people/salvinder-dhillon.md"
+    },
+    {
+      "id": "shabana-mahmood",
+      "name": "Shabana Mahmood",
+      "type": "person",
+      "path": "entities/people/shabana-mahmood.md"
+    },
+    {
+      "id": "sukhi-floria",
+      "name": "Sukhi Floria",
+      "type": "person",
+      "path": "entities/people/sukhi-floria.md"
+    },
+    {
+      "id": "swaran-singh-padda",
+      "name": "Swaran Singh Padda",
+      "type": "person",
+      "path": "entities/people/swaran-singh-padda.md"
+    },
+    {
+      "id": "tasha-tah",
+      "name": "Tasha Tah",
+      "type": "person",
+      "path": "entities/people/tasha-tah.md"
+    },
+    {
+      "id": "tony-blair",
+      "name": "Tony Blair",
+      "type": "person",
+      "path": "entities/people/tony-blair.md"
+    },
+    {
+      "id": "tony-pidgley",
+      "name": "Tony Pidgley",
+      "type": "person",
+      "path": "entities/people/tony-pidgley.md"
+    },
+    {
+      "id": "virendra-sharma",
+      "name": "Virendra Sharma",
+      "type": "person",
+      "path": "entities/people/virendra-sharma.md"
+    },
+    {
+      "id": "beaconsfield-road",
+      "name": "Beaconsfield Road",
+      "type": "place",
+      "path": "entities/places/beaconsfield-road.md"
+    },
+    {
+      "id": "dominion-centre",
+      "name": "Dominion Centre",
+      "type": "place",
+      "path": "entities/places/dominion-centre.md"
+    },
+    {
+      "id": "dormers-wells",
+      "name": "Dormers Wells",
+      "type": "place",
+      "path": "entities/places/dormers-wells.md"
+    },
+    {
+      "id": "ealing-common",
+      "name": "Ealing Common",
+      "type": "place",
+      "path": "entities/places/ealing-common.md"
+    },
+    {
+      "id": "ealing-southall-constituency",
+      "name": "Ealing Southall constituency",
+      "type": "place",
+      "path": "entities/places/ealing-southall-constituency.md"
+    },
+    {
+      "id": "ealing",
+      "name": "Ealing",
+      "type": "place",
+      "path": "entities/places/ealing.md"
+    },
+    {
+      "id": "east-acton",
+      "name": "East Acton",
+      "type": "place",
+      "path": "entities/places/east-acton.md"
+    },
+    {
+      "id": "elizabeth-line",
+      "name": "Elizabeth Line",
+      "type": "place",
+      "path": "entities/places/elizabeth-line.md"
+    },
+    {
+      "id": "greenford-broadway",
+      "name": "Greenford Broadway",
+      "type": "place",
+      "path": "entities/places/greenford-broadway.md"
+    },
+    {
+      "id": "grove-house",
+      "name": "Grove House",
+      "type": "place",
+      "path": "entities/places/grove-house.md"
+    },
+    {
+      "id": "hanwell-broadway",
+      "name": "Hanwell Broadway",
+      "type": "place",
+      "path": "entities/places/hanwell-broadway.md"
+    },
+    {
+      "id": "johnson-street",
+      "name": "Johnson Street",
+      "type": "place",
+      "path": "entities/places/johnson-street.md"
+    },
+    {
+      "id": "king-street",
+      "name": "King Street",
+      "type": "place",
+      "path": "entities/places/king-street.md"
+    },
+    {
+      "id": "lady-margaret",
+      "name": "Lady Margaret",
+      "type": "place",
+      "path": "entities/places/lady-margaret.md"
+    },
+    {
+      "id": "minet-park",
+      "name": "Minet Park",
+      "type": "place",
+      "path": "entities/places/minet-park.md"
+    },
+    {
+      "id": "norwood-green",
+      "name": "Norwood Green",
+      "type": "place",
+      "path": "entities/places/norwood-green.md"
+    },
+    {
+      "id": "norwood-road",
+      "name": "Norwood Road",
+      "type": "place",
+      "path": "entities/places/norwood-road.md"
+    },
+    {
+      "id": "parkside-yards",
+      "name": "Parkside Yards",
+      "type": "place",
+      "path": "entities/places/parkside-yards.md"
+    },
+    {
+      "id": "perceval-house",
+      "name": "Perceval House",
+      "type": "place",
+      "path": "entities/places/perceval-house.md"
+    },
+    {
+      "id": "river-brent",
+      "name": "River Brent",
+      "type": "place",
+      "path": "entities/places/river-brent.md"
+    },
+    {
+      "id": "saklatvala-hall",
+      "name": "Saklatvala Hall",
+      "type": "place",
+      "path": "entities/places/saklatvala-hall.md"
+    },
+    {
+      "id": "scotts-road",
+      "name": "Scotts Road",
+      "type": "place",
+      "path": "entities/places/scotts-road.md"
+    },
+    {
+      "id": "south-road",
+      "name": "South Road",
+      "type": "place",
+      "path": "entities/places/south-road.md"
+    },
+    {
+      "id": "southall-air-quality-focus-area",
+      "name": "Southall Air Quality Focus Area",
+      "type": "place",
+      "path": "entities/places/southall-air-quality-focus-area.md"
+    },
+    {
+      "id": "southall-broadway",
+      "name": "Southall Broadway",
+      "type": "place",
+      "path": "entities/places/southall-broadway.md"
+    },
+    {
+      "id": "southall-gasworks",
+      "name": "Southall Gasworks",
+      "type": "place",
+      "path": "entities/places/southall-gasworks.md"
+    },
+    {
+      "id": "southall-green",
+      "name": "Southall Green",
+      "type": "place",
+      "path": "entities/places/southall-green.md"
+    },
+    {
+      "id": "southall-market-car-park",
+      "name": "Southall Market Car Park",
+      "type": "place",
+      "path": "entities/places/southall-market-car-park.md"
+    },
+    {
+      "id": "southall-market",
+      "name": "Southall Market",
+      "type": "place",
+      "path": "entities/places/southall-market.md"
+    },
+    {
+      "id": "southall-town-hall",
+      "name": "Southall Town Hall",
+      "type": "place",
+      "path": "entities/places/southall-town-hall.md"
+    },
+    {
+      "id": "southall-west",
+      "name": "Southall West",
+      "type": "place",
+      "path": "entities/places/southall-west.md"
+    },
+    {
+      "id": "southall-young-adult-centre",
+      "name": "Southall Young Adult Centre",
+      "type": "place",
+      "path": "entities/places/southall-young-adult-centre.md"
+    },
+    {
+      "id": "southall",
+      "name": "Southall",
+      "type": "place",
+      "path": "entities/places/southall.md"
+    },
+    {
+      "id": "the-green",
+      "name": "The Green",
+      "type": "place",
+      "path": "entities/places/the-green.md"
+    },
+    {
+      "id": "warren-farm",
+      "name": "Warren Farm",
+      "type": "place",
+      "path": "entities/places/warren-farm.md"
+    },
+    {
+      "id": "west-ealing",
+      "name": "West Ealing",
+      "type": "place",
+      "path": "entities/places/west-ealing.md"
+    },
+    {
+      "id": "west-london",
+      "name": "West London",
+      "type": "place",
+      "path": "entities/places/west-london.md"
+    },
+    {
+      "id": "western-road",
+      "name": "Western Road",
+      "type": "place",
+      "path": "entities/places/western-road.md"
+    }
+  ]
+}
