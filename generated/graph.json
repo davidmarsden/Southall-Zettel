@@ -1646,6 +1646,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:david-marsden",
+      "target": "post:posts/2023/11/20/toryboy.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:ealing",
       "target": "post:posts/2023/11/20/toryboy.md",
       "type": "mentioned-in"
@@ -2409,6 +2415,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:conal-urquhart",
+      "target": "post:posts/2026/01/18/demolition-man-peter-masons-legacy.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:david-marsden",
       "target": "post:posts/2026/01/18/demolition-man-peter-masons-legacy.md",
       "type": "mentioned-in"
     },
@@ -3656,6 +3668,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:david-marsden",
+      "target": "post:posts/2026/04/23/canvassing-with-minni-dogra-a.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:ealing",
       "target": "post:posts/2026/04/23/canvassing-with-minni-dogra-a.md",
       "type": "mentioned-in"
@@ -4131,6 +4149,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:conservative-party",
+      "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:craig-smith",
       "target": "post:posts/2026/04/28/this-place-has-turned-into.md",
       "type": "mentioned-in"
     },
@@ -5516,6 +5540,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:mark-poulson",
+      "target": "post:posts/2026/05/06/the-meeting-that-ended-local.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:minni-dogra",
       "target": "post:posts/2026/05/06/the-meeting-that-ended-local.md",
       "type": "mentioned-in"
@@ -6369,6 +6399,12 @@
     {
       "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
+      "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:clare-welsby",
       "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
       "type": "mentioned-in"
     },
@@ -10222,6 +10258,24 @@
     },
     {
       "provenance": "reviewed-source-record",
+      "source": "source:bailii-clare-welsby-childrens-centres-judicial-review",
+      "target": "entity:clare-welsby",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:bailii-clare-welsby-childrens-centres-judicial-review",
+      "target": "topic:children-centres",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:bailii-clare-welsby-childrens-centres-judicial-review",
+      "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
       "source": "post:posts/2026/03/01/boomerang-ten-years-sorting-out.md",
       "target": "source:bbc-london-politics-show",
       "type": "cites-source"
@@ -10402,6 +10456,18 @@
     },
     {
       "provenance": "reviewed-source-record",
+      "source": "source:church-of-england-mark-poulson-interfaith-adviser",
+      "target": "entity:mark-poulson",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:church-of-england-mark-poulson-interfaith-adviser",
+      "target": "topic:governance",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
       "source": "source:cash-archived-website-2022",
       "target": "entity:clean-air-for-southall-and-hayes",
       "type": "relates-to"
@@ -10428,6 +10494,30 @@
       "provenance": "reviewed-source-record",
       "source": "source:cash-archived-website-2022",
       "target": "topic:planning-development",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:eci-craig-smith-candidate-profile",
+      "target": "entity:craig-smith",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:eci-craig-smith-candidate-profile",
+      "target": "entity:ealing-community-independents",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:eci-craig-smith-candidate-profile",
+      "target": "topic:local-democracy",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:eci-craig-smith-candidate-profile",
+      "target": "topic:children-centres",
       "type": "relates-to"
     },
     {
@@ -10494,6 +10584,24 @@
       "provenance": "reviewed-source-record",
       "source": "source:air-quality-action-plan-2022-27",
       "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-council-clare-welsby-election-2026",
+      "target": "entity:clare-welsby",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-council-clare-welsby-election-2026",
+      "target": "topic:local-democracy",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-council-clare-welsby-election-2026",
+      "target": "topic:governance",
       "type": "relates-to"
     },
     {
@@ -11632,6 +11740,36 @@
     },
     {
       "provenance": "reviewed-source-record",
+      "source": "source:southall-stories-david-marsden-about",
+      "target": "entity:david-marsden",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-stories-david-marsden-about",
+      "target": "topic:local-democracy",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:southall-stories-david-marsden-about",
+      "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:st-johns-mark-poulson-mission-zone",
+      "target": "entity:mark-poulson",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:st-johns-mark-poulson-mission-zone",
+      "target": "topic:governance",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
       "source": "source:the-view-from-w5",
       "target": "entity:conal-urquhart",
       "type": "relates-to"
@@ -12494,9 +12632,23 @@
       "type": "entity"
     },
     {
+      "id": "entity:clare-welsby",
+      "label": "Clare Welsby",
+      "path": "entities/people/clare-welsby.md",
+      "subtype": "person",
+      "type": "entity"
+    },
+    {
       "id": "entity:conal-urquhart",
       "label": "Conal Urquhart",
       "path": "entities/people/conal-urquhart.md",
+      "subtype": "person",
+      "type": "entity"
+    },
+    {
+      "id": "entity:craig-smith",
+      "label": "Craig Smith",
+      "path": "entities/people/craig-smith.md",
       "subtype": "person",
       "type": "entity"
     },
@@ -12511,6 +12663,13 @@
       "id": "entity:dan-cortese",
       "label": "Dan Cortese",
       "path": "entities/people/dan-cortese.md",
+      "subtype": "person",
+      "type": "entity"
+    },
+    {
+      "id": "entity:david-marsden",
+      "label": "David Marsden",
+      "path": "entities/people/david-marsden.md",
       "subtype": "person",
       "type": "entity"
     },
@@ -12595,6 +12754,13 @@
       "id": "entity:lewis-cox",
       "label": "Lewis Cox",
       "path": "entities/people/lewis-cox.md",
+      "subtype": "person",
+      "type": "entity"
+    },
+    {
+      "id": "entity:mark-poulson",
+      "label": "Revd Canon Mark Poulson",
+      "path": "entities/people/mark-poulson.md",
       "subtype": "person",
       "type": "entity"
     },
@@ -14205,6 +14371,14 @@
       "type": "source-domain"
     },
     {
+      "id": "source:bailii-clare-welsby-childrens-centres-judicial-review",
+      "label": "JO v London Borough of Ealing [2026] EWHC 886 (Admin)",
+      "path": "sources/bailii/clare-welsby-childrens-centres-judicial-review.md",
+      "publisher": "BAILII",
+      "source_type": "court-judgment",
+      "type": "source-record"
+    },
+    {
       "id": "source:bbc-london-politics-show",
       "label": "BBC London Politics Show",
       "path": "sources/bbc/bbc-london-politics-show.md",
@@ -14245,11 +14419,27 @@
       "type": "source-record"
     },
     {
+      "id": "source:church-of-england-mark-poulson-interfaith-adviser",
+      "label": "Revd Mark Poulson appointed Secretary for Inter-Religious Affairs",
+      "path": "sources/church-of-england/mark-poulson-interfaith-adviser.md",
+      "publisher": "Archbishop of Canterbury / Church of England",
+      "source_type": "official-appointment-announcement",
+      "type": "source-record"
+    },
+    {
       "id": "source:cash-archived-website-2022",
       "label": "Clean Air for Southall and Hayes — archived website",
       "path": "sources/clean-air-for-southall-and-hayes/archived-website-2022.md",
       "publisher": "Clean Air for Southall and Hayes",
       "source_type": "archived-website",
+      "type": "source-record"
+    },
+    {
+      "id": "source:eci-craig-smith-candidate-profile",
+      "label": "Craig Smith — Ealing Community Independents candidate profile",
+      "path": "sources/ealing-community-independents/craig-smith-candidate-profile.md",
+      "publisher": "Ealing Community Independents",
+      "source_type": "first-party-candidate-profile",
       "type": "source-record"
     },
     {
@@ -14266,6 +14456,14 @@
       "path": "sources/ealing-council/air-quality-action-plan-2022-27.md",
       "publisher": "Ealing Council",
       "source_type": "action_plan",
+      "type": "source-record"
+    },
+    {
+      "id": "source:ealing-council-clare-welsby-election-2026",
+      "label": "Hanwell Broadway ward — Council elections results 7 May 2026",
+      "path": "sources/ealing-council/clare-welsby-election-2026.md",
+      "publisher": "Ealing Council",
+      "source_type": "official-election-result",
       "type": "source-record"
     },
     {
@@ -14506,6 +14704,22 @@
       "path": "sources/southall-community-alliance/trustees.md",
       "publisher": "Southall Community Alliance",
       "source_type": "governance_page",
+      "type": "source-record"
+    },
+    {
+      "id": "source:southall-stories-david-marsden-about",
+      "label": "Southall Stories — About David Marsden",
+      "path": "sources/southall-stories/david-marsden-about.md",
+      "publisher": "Southall Stories",
+      "source_type": "first-party-biographical-page",
+      "type": "source-record"
+    },
+    {
+      "id": "source:st-johns-mark-poulson-mission-zone",
+      "label": "St John's Southall Green — Mission Zone team",
+      "path": "sources/st-johns-southall/mark-poulson-mission-zone.md",
+      "publisher": "St John's Southall Green",
+      "source_type": "first-party-organisational-page",
       "type": "source-record"
     },
     {

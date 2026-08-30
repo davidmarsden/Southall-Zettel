@@ -1,5 +1,24 @@
 [
   {
+    "body": "High Court judgment recording Clare Welsby's detailed witness evidence, her previous work in Ealing Council Children's Services and her role with groups campaigning against the proposed closure of children's centres.",
+    "canonical_url": "https://www.bailii.org/ew/cases/EWHC/Admin/2026/886.html",
+    "evidence_role": "primary-legal-record",
+    "id": "bailii-clare-welsby-childrens-centres-judicial-review",
+    "path": "sources/bailii/clare-welsby-childrens-centres-judicial-review.md",
+    "publisher": "BAILII",
+    "related_entities": [
+      "clare-welsby"
+    ],
+    "related_topics": [
+      "children-centres",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "court-judgment",
+    "temporal_status": "historical",
+    "title": "JO v London Borough of Ealing [2026] EWHC 886 (Admin)"
+  },
+  {
     "body": "BBC London political programme cited in Southall Stories reporting on Ealing Council fly-tipping claims. The curated canonical URL points to the YouTube clip embedded in the preserved Southall Stories article.",
     "canonical_url": "https://www.youtube.com/watch?v=5YMUntg8pRg",
     "cited_by": [
@@ -114,6 +133,24 @@
     "title": "Southall Community Alliance charity register entry"
   },
   {
+    "body": "Official appointment announcement recording Mark Poulson's service as Vicar of St John's Southall and his appointment as Secretary for Inter-Religious Affairs to the Archbishop of Canterbury and National Inter-Religious Affairs Adviser for the Church of England.",
+    "canonical_url": "https://www.archbishopofcanterbury.org/news/revd-mark-poulson-appointed-serve-archbishops-inter-religious-affairs-secretary",
+    "evidence_role": "primary-role-history",
+    "id": "church-of-england-mark-poulson-interfaith-adviser",
+    "path": "sources/church-of-england/mark-poulson-interfaith-adviser.md",
+    "publisher": "Archbishop of Canterbury / Church of England",
+    "related_entities": [
+      "mark-poulson"
+    ],
+    "related_topics": [
+      "governance"
+    ],
+    "review_status": "reviewed",
+    "source_type": "official-appointment-announcement",
+    "temporal_status": "historical",
+    "title": "Revd Mark Poulson appointed Secretary for Inter-Religious Affairs"
+  },
+  {
     "body": "Preserved May 2022 snapshot of the Clean Air for Southall and Hayes website. Used as the public project reference because the original domain is no longer a reliable representation of CASH.",
     "canonical_url": "https://web.archive.org/web/20220518005343/https://southallandhayescleanair.org.uk/",
     "id": "cash-archived-website-2022",
@@ -132,6 +169,26 @@
     "source_type": "archived-website",
     "temporal_status": "historical",
     "title": "Clean Air for Southall and Hayes — archived website"
+  },
+  {
+    "body": "First-party candidate biography describing Craig Smith as a community campaigner and trade unionist, founder of the Save Ealing Children's Centres campaign, former school governor and business journalist, strategic communications professional, and founder of Ealing Community Independents.",
+    "canonical_url": "https://ealingindependents.org/candidates/",
+    "evidence_role": "primary-biography",
+    "id": "eci-craig-smith-candidate-profile",
+    "path": "sources/ealing-community-independents/craig-smith-candidate-profile.md",
+    "publisher": "Ealing Community Independents",
+    "related_entities": [
+      "craig-smith",
+      "ealing-community-independents"
+    ],
+    "related_topics": [
+      "local-democracy",
+      "children-centres"
+    ],
+    "review_status": "reviewed",
+    "source_type": "first-party-candidate-profile",
+    "temporal_status": "current",
+    "title": "Craig Smith — Ealing Community Independents candidate profile"
   },
   {
     "archive_urls": [
@@ -180,6 +237,25 @@
     "review_status": "reviewed",
     "source_type": "action_plan",
     "title": "Ealing Air Quality Action Plan 2022–2027"
+  },
+  {
+    "body": "Official Ealing Council result declaring Clare Welsby elected as a Green Party councillor for Hanwell Broadway on 7 May 2026.",
+    "canonical_url": "https://www.ealing.gov.uk/info/201276/council_elections/3595/council_elections_results_7_may_2026/9",
+    "evidence_role": "primary-public-office",
+    "id": "ealing-council-clare-welsby-election-2026",
+    "path": "sources/ealing-council/clare-welsby-election-2026.md",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "clare-welsby"
+    ],
+    "related_topics": [
+      "local-democracy",
+      "governance"
+    ],
+    "review_status": "reviewed",
+    "source_type": "official-election-result",
+    "temporal_status": "current",
+    "title": "Hanwell Broadway ward — Council elections results 7 May 2026"
   },
   {
     "body": "Primary Ealing Council performance report cited for the reported 2,576 genuinely affordable homes figure at the end of March 2022.",
@@ -866,6 +942,43 @@
     "review_status": "reviewed",
     "source_type": "governance_page",
     "title": "Southall Community Alliance trustees and staff"
+  },
+  {
+    "body": "First-party biography identifying David Marsden as the investigative journalist behind Southall Stories and describing the publication's focus on local democracy, racial, social and environmental justice and civic accountability in Southall.",
+    "canonical_url": "https://southallstories.uk/about/",
+    "evidence_role": "primary-biography",
+    "id": "southall-stories-david-marsden-about",
+    "path": "sources/southall-stories/david-marsden-about.md",
+    "publisher": "Southall Stories",
+    "related_entities": [
+      "david-marsden"
+    ],
+    "related_topics": [
+      "local-democracy",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "first-party-biographical-page",
+    "temporal_status": "current",
+    "title": "Southall Stories — About David Marsden"
+  },
+  {
+    "body": "First-party St John's Southall Green team page identifying Mark Poulson as Mission Zone Hub Lead and confirming his continuing role in Southall-based church and community work.",
+    "canonical_url": "https://www.stjohnsouthall.org.uk/team-mission-zone",
+    "evidence_role": "primary-current-role",
+    "id": "st-johns-mark-poulson-mission-zone",
+    "path": "sources/st-johns-southall/mark-poulson-mission-zone.md",
+    "publisher": "St John's Southall Green",
+    "related_entities": [
+      "mark-poulson"
+    ],
+    "related_topics": [
+      "governance"
+    ],
+    "review_status": "reviewed",
+    "source_type": "first-party-organisational-page",
+    "temporal_status": "current",
+    "title": "St John's Southall Green — Mission Zone team"
   },
   {
     "body": "Conal Urquhart's independent West London news publication and a primary Civic Commons journalism source covering Ealing and neighbouring areas.",

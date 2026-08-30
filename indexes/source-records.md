@@ -2,6 +2,22 @@
 
 High-value primary or authoritative evidence promoted from raw outbound links.
 
+## Revd Mark Poulson appointed Secretary for Inter-Religious Affairs
+
+- **ID:** `church-of-england-mark-poulson-interfaith-adviser`
+- **Publisher:** Archbishop of Canterbury / Church of England
+- **Type:** `official-appointment-announcement`
+- **URL:** https://www.archbishopofcanterbury.org/news/revd-mark-poulson-appointed-serve-archbishops-inter-religious-affairs-secretary
+- **Cited by:** 0 post(s)
+
+## JO v London Borough of Ealing [2026] EWHC 886 (Admin)
+
+- **ID:** `bailii-clare-welsby-childrens-centres-judicial-review`
+- **Publisher:** BAILII
+- **Type:** `court-judgment`
+- **URL:** https://www.bailii.org/ew/cases/EWHC/Admin/2026/886.html
+- **Cited by:** 0 post(s)
+
 ## BBC London Politics Show
 
 - **ID:** `bbc-london-politics-show`
@@ -48,6 +64,14 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **Publisher:** Conal Urquhart
 - **Type:** `journalism`
 - **URL:** https://theviewfromw5.substack.com/
+- **Cited by:** 0 post(s)
+
+## Craig Smith — Ealing Community Independents candidate profile
+
+- **ID:** `eci-craig-smith-candidate-profile`
+- **Publisher:** Ealing Community Independents
+- **Type:** `first-party-candidate-profile`
+- **URL:** https://ealingindependents.org/candidates/
 - **Cited by:** 0 post(s)
 
 ## Council Performance Year End 2021-22
@@ -121,6 +145,14 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **Type:** `policy_report`
 - **URL:** https://ealing.moderngov.co.uk/documents/s17247/App%20A%20-%20GFE%20Sponsorship%20Explainer.pdf
 - **Cited by:** 1 post(s)
+
+## Hanwell Broadway ward — Council elections results 7 May 2026
+
+- **ID:** `ealing-council-clare-welsby-election-2026`
+- **Publisher:** Ealing Council
+- **Type:** `official-election-result`
+- **URL:** https://www.ealing.gov.uk/info/201276/council_elections/3595/council_elections_results_7_may_2026/9
+- **Cited by:** 0 post(s)
 
 ## Housing Development and Regeneration Report to Scrutiny
 
@@ -313,3 +345,19 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **Type:** `governance_page`
 - **URL:** https://southallcommunityalliance.com/trustees/
 - **Cited by:** 1 post(s)
+
+## Southall Stories — About David Marsden
+
+- **ID:** `southall-stories-david-marsden-about`
+- **Publisher:** Southall Stories
+- **Type:** `first-party-biographical-page`
+- **URL:** https://southallstories.uk/about/
+- **Cited by:** 0 post(s)
+
+## St John's Southall Green — Mission Zone team
+
+- **ID:** `st-johns-mark-poulson-mission-zone`
+- **Publisher:** St John's Southall Green
+- **Type:** `first-party-organisational-page`
+- **URL:** https://www.stjohnsouthall.org.uk/team-mission-zone
+- **Cited by:** 0 post(s)

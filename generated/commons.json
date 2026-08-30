@@ -6062,11 +6062,11 @@
     "citation_titles_rejected_as_stale_redirects": 4,
     "citations": 668,
     "citations_with_destination_titles": 345,
-    "entities": 115,
-    "links": 1182,
+    "entities": 119,
+    "links": 1188,
     "posts": 69,
     "relationships": 25,
-    "sources": 39,
+    "sources": 45,
     "topics": 10
   },
   "entities": [
@@ -6190,6 +6190,22 @@
     },
     {
       "aliases": [
+        "Cllr Clare Welsby",
+        "Councillor Clare Welsby"
+      ],
+      "description": "Green Party councillor for Hanwell Broadway, elected in May 2026. She previously worked in Ealing Council Children's Services and became a prominent campaigner with Save Ealing Children's Centres, including giving evidence in the 2026 High Court challenge to the council's children's-centre closure programme. She serves on Ealing Council's Children's Services Scrutiny Panel.",
+      "id": "entity:clare-welsby",
+      "name": "Clare Welsby",
+      "provenance": "curated-entity",
+      "review_status": "reviewed",
+      "type": "person",
+      "website": {
+        "label": "Ealing Green Party — councillors",
+        "url": "https://ealing.greenparty.org.uk/councillors/"
+      }
+    },
+    {
+      "aliases": [
         "CASH",
         "Clean Air"
       ],
@@ -6245,6 +6261,19 @@
     },
     {
       "aliases": [],
+      "description": "Ealing community campaigner, trade unionist and founder of Ealing Community Independents. He is a founder of the Save Ealing Children's Centres campaign, an officer of Ealing Trades Union Council, a former school governor and former business journalist who now works in strategic communications. He stood for Ealing Community Independents in the 2026 council elections and the June 2026 North Acton by-election.",
+      "id": "entity:craig-smith",
+      "name": "Craig Smith",
+      "provenance": "curated-entity",
+      "review_status": "reviewed",
+      "type": "person",
+      "website": {
+        "label": "Ealing Community Independents — candidates",
+        "url": "https://ealingindependents.org/candidates/"
+      }
+    },
+    {
+      "aliases": [],
       "description": "Construction executive who served as Operations Director at Berkeley Group / Berkeley West Thames and at Southall Waterside during remediation and redevelopment of the former Southall Gasworks, including the period of intense local concern about odour and air pollution.",
       "id": "entity:damian-leydon",
       "name": "Damian Leydon",
@@ -6264,6 +6293,19 @@
       "website": {
         "label": "Ealing Community Independents — candidates",
         "url": "https://ealingindependents.org/candidates/"
+      }
+    },
+    {
+      "aliases": [],
+      "description": "Southall-based investigative journalist, publisher of Southall Stories and community campaigner whose work focuses on local democracy, planning, air pollution, public services and civic accountability in the London Borough of Ealing. He stood as an independent candidate for Southall Green ward in the 2022 Ealing Council elections.",
+      "id": "entity:david-marsden",
+      "name": "David Marsden",
+      "provenance": "curated-entity",
+      "review_status": "reviewed",
+      "type": "person",
+      "website": {
+        "label": "Southall Stories — About",
+        "url": "https://southallstories.uk/about/"
       }
     },
     {
@@ -6957,6 +6999,22 @@
       "review_status": "reviewed",
       "type": "organisation",
       "website": "https://www.londonforum.org.uk/"
+    },
+    {
+      "aliases": [
+        "Mark Poulson",
+        "Revd Mark Poulson"
+      ],
+      "description": "Church of England priest and interfaith practitioner with long-standing roots in Southall. He served for 11 years as Vicar of St John's Southall, later served as Secretary for Inter-Religious Affairs to the Archbishop of Canterbury and National Inter-Religious Affairs Adviser for the Church of England, and continues to support mission, community and interfaith work in Southall. He is also a director of The Kings Centre Southall.",
+      "id": "entity:mark-poulson",
+      "name": "Revd Canon Mark Poulson",
+      "provenance": "curated-entity",
+      "review_status": "reviewed",
+      "type": "person",
+      "website": {
+        "label": "St John's Southall Green — Mission Zone team",
+        "url": "https://www.stjohnsouthall.org.uk/team-mission-zone"
+      }
     },
     {
       "aliases": [
@@ -7959,6 +8017,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:clare-welsby",
+      "target": "post:5863048",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:clean-air-for-southall-and-hayes",
       "target": "post:5543191",
       "type": "mentioned-in"
@@ -8109,6 +8173,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:craig-smith",
+      "target": "post:5846055",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:damian-leydon",
       "target": "post:5543514",
       "type": "mentioned-in"
@@ -8135,6 +8205,24 @@
       "provenance": "deterministic-alias-match",
       "source": "entity:dan-cortese",
       "target": "post:5859227",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:david-marsden",
+      "target": "post:5543522",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:david-marsden",
+      "target": "post:5722627",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:david-marsden",
+      "target": "post:5839992",
       "type": "mentioned-in"
     },
     {
@@ -10145,6 +10233,12 @@
       "provenance": "deterministic-alias-match",
       "source": "entity:london-forum",
       "target": "post:5855337",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:mark-poulson",
+      "target": "post:5859227",
       "type": "mentioned-in"
     },
     {
@@ -16514,6 +16608,27 @@
     },
     {
       "archive_urls": [],
+      "canonical_url": "https://www.bailii.org/ew/cases/EWHC/Admin/2026/886.html",
+      "cited_by": [],
+      "id": "source:bailii-clare-welsby-childrens-centres-judicial-review",
+      "meeting_date": null,
+      "provenance": "reviewed-source-record",
+      "publication_date": null,
+      "publisher": "BAILII",
+      "related_entities": [
+        "entity:clare-welsby"
+      ],
+      "related_topics": [
+        "topic:children-centres",
+        "topic:council-accountability"
+      ],
+      "review_status": "reviewed",
+      "source_type": "court-judgment",
+      "temporal_status": "historical",
+      "title": "JO v London Borough of Ealing [2026] EWHC 886 (Admin)"
+    },
+    {
+      "archive_urls": [],
       "canonical_url": "https://www.youtube.com/watch?v=5YMUntg8pRg",
       "cited_by": [
         "post:5772909",
@@ -16612,6 +16727,26 @@
     },
     {
       "archive_urls": [],
+      "canonical_url": "https://www.archbishopofcanterbury.org/news/revd-mark-poulson-appointed-serve-archbishops-inter-religious-affairs-secretary",
+      "cited_by": [],
+      "id": "source:church-of-england-mark-poulson-interfaith-adviser",
+      "meeting_date": null,
+      "provenance": "reviewed-source-record",
+      "publication_date": null,
+      "publisher": "Archbishop of Canterbury / Church of England",
+      "related_entities": [
+        "entity:mark-poulson"
+      ],
+      "related_topics": [
+        "topic:governance"
+      ],
+      "review_status": "reviewed",
+      "source_type": "official-appointment-announcement",
+      "temporal_status": "historical",
+      "title": "Revd Mark Poulson appointed Secretary for Inter-Religious Affairs"
+    },
+    {
+      "archive_urls": [],
       "canonical_url": "https://ealing.moderngov.co.uk/documents/s1725/Council%20Performance%20Year%20End%202021-22.pdf",
       "cited_by": [
         "post:5722627"
@@ -16684,6 +16819,27 @@
       "source_type": "consultation_representation",
       "temporal_status": null,
       "title": "Berkeley Homes representation on Ealing CIL, 12 November 2024"
+    },
+    {
+      "archive_urls": [],
+      "canonical_url": "https://www.ealing.gov.uk/info/201276/council_elections/3595/council_elections_results_7_may_2026/9",
+      "cited_by": [],
+      "id": "source:ealing-council-clare-welsby-election-2026",
+      "meeting_date": null,
+      "provenance": "reviewed-source-record",
+      "publication_date": null,
+      "publisher": "Ealing Council",
+      "related_entities": [
+        "entity:clare-welsby"
+      ],
+      "related_topics": [
+        "topic:local-democracy",
+        "topic:governance"
+      ],
+      "review_status": "reviewed",
+      "source_type": "official-election-result",
+      "temporal_status": "current",
+      "title": "Hanwell Broadway ward — Council elections results 7 May 2026"
     },
     {
       "archive_urls": [],
@@ -16782,6 +16938,28 @@
       "source_type": "civic_programme_page",
       "temporal_status": null,
       "title": "Southall Town Team"
+    },
+    {
+      "archive_urls": [],
+      "canonical_url": "https://ealingindependents.org/candidates/",
+      "cited_by": [],
+      "id": "source:eci-craig-smith-candidate-profile",
+      "meeting_date": null,
+      "provenance": "reviewed-source-record",
+      "publication_date": null,
+      "publisher": "Ealing Community Independents",
+      "related_entities": [
+        "entity:craig-smith",
+        "entity:ealing-community-independents"
+      ],
+      "related_topics": [
+        "topic:local-democracy",
+        "topic:children-centres"
+      ],
+      "review_status": "reviewed",
+      "source_type": "first-party-candidate-profile",
+      "temporal_status": "current",
+      "title": "Craig Smith — Ealing Community Independents candidate profile"
     },
     {
       "archive_urls": [],
@@ -17390,6 +17568,47 @@
       "source_type": "cabinet_record",
       "temporal_status": null,
       "title": "Southall Reset: Cabinet item, 13 July 2022"
+    },
+    {
+      "archive_urls": [],
+      "canonical_url": "https://southallstories.uk/about/",
+      "cited_by": [],
+      "id": "source:southall-stories-david-marsden-about",
+      "meeting_date": null,
+      "provenance": "reviewed-source-record",
+      "publication_date": null,
+      "publisher": "Southall Stories",
+      "related_entities": [
+        "entity:david-marsden"
+      ],
+      "related_topics": [
+        "topic:local-democracy",
+        "topic:council-accountability"
+      ],
+      "review_status": "reviewed",
+      "source_type": "first-party-biographical-page",
+      "temporal_status": "current",
+      "title": "Southall Stories — About David Marsden"
+    },
+    {
+      "archive_urls": [],
+      "canonical_url": "https://www.stjohnsouthall.org.uk/team-mission-zone",
+      "cited_by": [],
+      "id": "source:st-johns-mark-poulson-mission-zone",
+      "meeting_date": null,
+      "provenance": "reviewed-source-record",
+      "publication_date": null,
+      "publisher": "St John's Southall Green",
+      "related_entities": [
+        "entity:mark-poulson"
+      ],
+      "related_topics": [
+        "topic:governance"
+      ],
+      "review_status": "reviewed",
+      "source_type": "first-party-organisational-page",
+      "temporal_status": "current",
+      "title": "St John's Southall Green — Mission Zone team"
     },
     {
       "archive_urls": [],

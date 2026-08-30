@@ -55,9 +55,12 @@ Curated entities with generated mention counts.
 - [Bassam Mahfouz](../entities/people/bassam-mahfouz.md) — 3 posts
 - [Blair Peach](../entities/people/blair-peach.md) — 3 posts
 - [Boris Johnson](../entities/people/boris-johnson.md) — 2 posts
+- [Clare Welsby](../entities/people/clare-welsby.md) — 1 post
 - [Conal Urquhart](../entities/people/conal-urquhart.md) — 2 posts
+- [Craig Smith](../entities/people/craig-smith.md) — 1 post
 - [Damian Leydon](../entities/people/damian-leydon.md) — 3 posts
 - [Dan Cortese](../entities/people/dan-cortese.md) — 2 posts
+- [David Marsden](../entities/people/david-marsden.md) — 3 posts
 - [Dr John Freeman](../entities/people/dr-john-freeman.md) — 3 posts
 - [Dr Onkar Sahota](../entities/people/onkar-sahota.md) — 2 posts
 - [Gurdip Singh Chaggar](../entities/people/gurdip-singh-chaggar.md) — 2 posts
@@ -74,6 +77,7 @@ Curated entities with generated mention counts.
 - [Minni Dogra](../entities/people/minni-dogra.md) — 6 posts
 - [Nigel Giffin KC](../entities/people/nigel-giffin-kc.md) — 2 posts
 - [Peter Mason](../entities/people/peter-mason.md) — 30 posts
+- [Revd Canon Mark Poulson](../entities/people/mark-poulson.md) — 1 post
 - [Richard Kimblin](../entities/people/richard-kimblin.md) — 2 posts
 - [Richard Watler](../entities/people/richard-watler.md) — 3 posts
 - [Salvinder Dhillon](../entities/people/salvinder-dhillon.md) — 2 posts

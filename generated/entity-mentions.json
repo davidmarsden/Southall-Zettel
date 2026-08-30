@@ -552,6 +552,16 @@
       "title": "Bangarang! Pirate Pete and the Lost Bin Collections of Southall"
     }
   ],
+  "clare-welsby": [
+    {
+      "date": "2026-05-09T18:20:45+0100",
+      "matched_aliases": [
+        "Clare Welsby"
+      ],
+      "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "title": "Lift-Off! Ealing Elections Special "
+    }
+  ],
   "clean-air-for-southall-and-hayes": [
     {
       "date": "2019-08-25T22:14:32+0100",
@@ -769,6 +779,16 @@
       "title": "Lift-Off! Ealing Elections Special "
     }
   ],
+  "craig-smith": [
+    {
+      "date": "2026-04-28T13:21:52+0100",
+      "matched_aliases": [
+        "Craig Smith"
+      ],
+      "path": "posts/2026/04/28/this-place-has-turned-into.md",
+      "title": "\"This Place Has Turned Into a Bloody Slum\": Southall Wards Meeting with ECI candidates"
+    }
+  ],
   "damian-leydon": [
     {
       "date": "2018-09-12T20:40:00+0100",
@@ -811,6 +831,32 @@
       ],
       "path": "posts/2026/05/06/the-meeting-that-ended-local.md",
       "title": "The Meeting that Ended Local Democracy in Southall"
+    }
+  ],
+  "david-marsden": [
+    {
+      "date": "2023-11-20T18:35:00+0100",
+      "matched_aliases": [
+        "David Marsden"
+      ],
+      "path": "posts/2023/11/20/toryboy.md",
+      "title": "ToryBoy"
+    },
+    {
+      "date": "2026-01-18T11:05:37+0100",
+      "matched_aliases": [
+        "David Marsden"
+      ],
+      "path": "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
+      "title": "Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises"
+    },
+    {
+      "date": "2026-04-23T20:27:40+0100",
+      "matched_aliases": [
+        "David Marsden"
+      ],
+      "path": "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
+      "title": "Canvassing with Minni Dogra: A Councillor in All But Name"
     }
   ],
   "defra": [
@@ -3683,6 +3729,17 @@
       ],
       "path": "posts/2026/05/07/who-does-peter-mason-really.md",
       "title": "Who Does Peter Mason Really Represent?"
+    }
+  ],
+  "mark-poulson": [
+    {
+      "date": "2026-05-06T17:44:53+0100",
+      "matched_aliases": [
+        "Mark Poulson",
+        "Revd Mark Poulson"
+      ],
+      "path": "posts/2026/05/06/the-meeting-that-ended-local.md",
+      "title": "The Meeting that Ended Local Democracy in Southall"
     }
   ],
   "metropolitan-police": [

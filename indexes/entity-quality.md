@@ -2,12 +2,12 @@
 
 An entity is complete when it has identity, a useful reader-facing description, provenance, and a first-party or authoritative source/website where one exists; reviewed exceptions are recorded explicitly rather than filled with artificial links.
 
-- Entities checked: **115**
+- Entities checked: **119**
 - Missing descriptions: **0**
 - Weak/generic descriptions: **0**
 - Source/website review queue: **0**
 - Reviewed source exemptions: **0**
-- Fully reviewed complete entities: **115**
+- Fully reviewed complete entities: **119**
 - No explicit website field: **11** (informational only)
 
 ## Description review queue
