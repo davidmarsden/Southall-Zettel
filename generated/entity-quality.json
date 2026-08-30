@@ -6,9 +6,9 @@
     "flagged": 1,
     "missing_descriptions": 0,
     "weak_descriptions": 1,
-    "without_explicit_website": 46,
-    "without_source_or_website": 35,
-    "description_and_source_complete": 79
+    "without_explicit_website": 45,
+    "without_source_or_website": 34,
+    "description_and_source_complete": 80
   },
   "flagged": [
     {
@@ -31,12 +31,6 @@
       "name": "Air Quality Scrutiny Panel",
       "type": "organisation",
       "path": "entities/organisations/air-quality-scrutiny-panel.md"
-    },
-    {
-      "id": "labour-party-national-executive-committee",
-      "name": "Labour Party National Executive Committee",
-      "type": "organisation",
-      "path": "entities/organisations/labour-party-national-executive-committee.md"
     },
     {
       "id": "national-front",
@@ -261,12 +255,6 @@
       "name": "Henry Construction",
       "type": "organisation",
       "path": "entities/organisations/henry-construction.md"
-    },
-    {
-      "id": "labour-party-national-executive-committee",
-      "name": "Labour Party National Executive Committee",
-      "type": "organisation",
-      "path": "entities/organisations/labour-party-national-executive-committee.md"
     },
     {
       "id": "national-front",

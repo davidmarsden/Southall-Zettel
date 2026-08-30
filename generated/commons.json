@@ -6855,13 +6855,13 @@
         "Labour NEC",
         "NEC"
       ],
-      "description": "The national Labour Party's governing National Executive Committee. Kept distinct from Ealing Labour and Ealing Council.",
+      "description": "The Labour Party's national governing body, responsible for strategic direction and oversight of the party and made up of representatives from its major internal sections and elected constituencies.",
       "id": "entity:labour-party-national-executive-committee",
       "name": "Labour Party National Executive Committee",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://labour.org.uk/whos-on-the-nec/"
     },
     {
       "aliases": [

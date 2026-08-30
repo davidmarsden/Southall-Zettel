@@ -5,9 +5,9 @@ An entity is complete when it has identity, a useful reader-facing description, 
 - Entities checked: **115**
 - Missing descriptions: **0**
 - Weak/generic descriptions: **1**
-- No source or website: **35**
-- Description + source/website complete: **79**
-- No explicit website field: **46** (informational only)
+- No source or website: **34**
+- Description + source/website complete: **80**
+- No explicit website field: **45** (informational only)
 
 ## Description review queue
 
@@ -19,7 +19,6 @@ An entity is complete when it has identity, a useful reader-facing description, 
 These entities currently have neither an explicit website nor a reviewed source record with a canonical URL. This is a review queue, not automatically an error: some historical people, streets and defunct organisations may legitimately have no suitable first-party site. Prefer first-party evidence where available, then authoritative or archived sources.
 
 - **Air Quality Scrutiny Panel** (`entities/organisations/air-quality-scrutiny-panel.md`)
-- **Labour Party National Executive Committee** (`entities/organisations/labour-party-national-executive-committee.md`)
 - **National Front** (`entities/organisations/national-front.md`)
 - **Blair Peach** (`entities/people/blair-peach.md`)
 - **Damian Leydon** (`entities/people/damian-leydon.md`)
