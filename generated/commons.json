@@ -6066,7 +6066,7 @@
     "links": 1182,
     "posts": 69,
     "relationships": 25,
-    "sources": 35,
+    "sources": 36,
     "topics": 10
   },
   "entities": [
@@ -16462,6 +16462,28 @@
       "source_type": "programme_page",
       "temporal_status": null,
       "title": "New housing developments"
+    },
+    {
+      "archive_urls": [],
+      "canonical_url": "https://www.ealing.gov.uk/info/201044/councillors/567/cabinet",
+      "cited_by": [],
+      "id": "source:ealing-peter-mason-current-leadership",
+      "meeting_date": null,
+      "provenance": "reviewed-source-record",
+      "publication_date": null,
+      "publisher": "Ealing Council",
+      "related_entities": [
+        "entity:peter-mason",
+        "entity:ealing-council"
+      ],
+      "related_topics": [
+        "topic:governance",
+        "topic:council-accountability"
+      ],
+      "review_status": "reviewed",
+      "source_type": "official-web-page",
+      "temporal_status": "current",
+      "title": "Ealing Council Cabinet — Leader: Cllr Peter Mason"
     },
     {
       "archive_urls": [],

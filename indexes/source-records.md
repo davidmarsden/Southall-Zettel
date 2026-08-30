@@ -90,6 +90,14 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **URL:** https://www.ealing.gov.uk/downloads/download/7039/ealing_council_air_quality_strategy_2020-30
 - **Cited by:** 2 post(s)
 
+## Ealing Council Cabinet — Leader: Cllr Peter Mason
+
+- **ID:** `ealing-peter-mason-current-leadership`
+- **Publisher:** Ealing Council
+- **Type:** `official-web-page`
+- **URL:** https://www.ealing.gov.uk/info/201044/councillors/567/cabinet
+- **Cited by:** 0 post(s)
+
 ## Ealing affordable homes performance dashboard
 
 - **ID:** `affordable-homes-performance-dashboard`

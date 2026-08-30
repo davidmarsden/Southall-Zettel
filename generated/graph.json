@@ -10888,6 +10888,30 @@
     },
     {
       "provenance": "reviewed-source-record",
+      "source": "source:ealing-peter-mason-current-leadership",
+      "target": "entity:peter-mason",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-peter-mason-current-leadership",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-peter-mason-current-leadership",
+      "target": "topic:governance",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-peter-mason-current-leadership",
+      "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
       "source": "post:posts/2019/08/25/southall-under-siege-the-neighbours.md",
       "target": "source:phe-southall-waterside-health-risk-assessment-july-2020",
       "type": "cites-source"
@@ -14246,6 +14270,14 @@
       "path": "sources/ealing-council/new-housing-developments.md",
       "publisher": "Ealing Council",
       "source_type": "programme_page",
+      "type": "source-record"
+    },
+    {
+      "id": "source:ealing-peter-mason-current-leadership",
+      "label": "Ealing Council Cabinet — Leader: Cllr Peter Mason",
+      "path": "sources/ealing-council/peter-mason-current-leadership.md",
+      "publisher": "Ealing Council",
+      "source_type": "official-web-page",
       "type": "source-record"
     },
     {

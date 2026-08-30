@@ -431,6 +431,25 @@
     "title": "New housing developments"
   },
   {
+    "body": "Current Ealing Council Cabinet page identifying Peter Mason as Leader of the Council and setting out the leader's portfolio responsibilities.",
+    "canonical_url": "https://www.ealing.gov.uk/info/201044/councillors/567/cabinet",
+    "id": "ealing-peter-mason-current-leadership",
+    "path": "sources/ealing-council/peter-mason-current-leadership.md",
+    "publisher": "Ealing Council",
+    "related_entities": [
+      "peter-mason",
+      "ealing-council"
+    ],
+    "related_topics": [
+      "governance",
+      "council-accountability"
+    ],
+    "review_status": "reviewed",
+    "source_type": "official-web-page",
+    "temporal_status": "current",
+    "title": "Ealing Council Cabinet — Leader: Cllr Peter Mason"
+  },
+  {
     "body": "Final PHE risk assessment in the Southall Waterside monitoring series, published by Ealing Council and based on air-quality monitoring data supplied for the development site.",
     "canonical_url": "https://www.ealing.gov.uk/download/downloads/id/14128/public_health_england_-_southall_waterside_interim_health_risk_assessment.pdf",
     "cited_by": [
