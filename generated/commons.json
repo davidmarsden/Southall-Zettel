@@ -6103,9 +6103,10 @@
     },
     {
       "aliases": [
-        "Cllr Bassam Mahfouz"
+        "Cllr Bassam Mahfouz",
+        "Bassam Mahfouz AM"
       ],
-      "description": "Ealing politician recurring in Southall Stories reporting.",
+      "description": "Labour London Assembly Member for Ealing and Hillingdon, elected in May 2024. In 2026 he chairs the Assembly's Economy, Culture and Skills Committee and serves on the GLA Oversight, Transport and Environment committees.",
       "id": "entity:bassam-mahfouz",
       "name": "Bassam Mahfouz",
       "provenance": "curated-entity",
@@ -6156,7 +6157,7 @@
     },
     {
       "aliases": [],
-      "description": "British politician referenced in Southall Stories reporting.",
+      "description": "British Conservative politician who served as Mayor of London from 2008 to 2016 and as Prime Minister of the United Kingdom from 2019 to 2022.",
       "id": "entity:boris-johnson",
       "name": "Boris Johnson",
       "provenance": "curated-entity",
@@ -6210,7 +6211,7 @@
     },
     {
       "aliases": [],
-      "description": "Berkeley Group executive recurring in Southall Gasworks / Southall Waterside reporting.",
+      "description": "Berkeley Group executive who served as Operations Director at Southall Waterside during the remediation and redevelopment of the former Southall Gasworks, including the period of intense local concern about odour and air pollution.",
       "id": "entity:damian-leydon",
       "name": "Damian Leydon",
       "provenance": "curated-entity",
@@ -6219,7 +6220,7 @@
     },
     {
       "aliases": [],
-      "description": "Southall civic and election figure appearing in the corpus.",
+      "description": "Southall resident and community campaigner who moved to the Green Quarter in 2021, helped organise local residents and stood for Ealing Community Independents in Southall West at the May 2026 council election.",
       "id": "entity:dan-cortese",
       "name": "Dan Cortese",
       "provenance": "curated-entity",
@@ -6580,7 +6581,7 @@
       "aliases": [
         "Jags Sangera"
       ],
-      "description": "Southall community and political figure recurring in reporting on local organisations, development and elections.",
+      "description": "Labour councillor for Norwood Green, elected in May 2026. He is chair of Southall Community Alliance and a member of the Ealing Safer Neighbourhood Board, and has also held community-engagement roles connected with Berkeley Group's Southall development.",
       "id": "entity:jags-sanghera",
       "name": "Jags Sanghera",
       "provenance": "curated-entity",
@@ -6593,7 +6594,7 @@
         "Jasbir Anand",
         "Cllr Jasbir Kaur Anand"
       ],
-      "description": "Ealing councillor and recurring figure in Southall Stories reporting.",
+      "description": "Labour councillor for Southall Green, re-elected in May 2026, and Ealing Council's Cabinet Member for Tackling Crime and Antisocial Behaviour.",
       "id": "entity:jasbir-kaur-anand",
       "name": "Jasbir Kaur Anand",
       "provenance": "curated-entity",
@@ -6613,7 +6614,7 @@
     },
     {
       "aliases": [],
-      "description": "British politician appearing in Southall Stories reporting on Labour politics, local events and electoral context.",
+      "description": "British politician and long-serving Member of Parliament for Islington North. He led the Labour Party and served as Leader of the Opposition from 2015 to 2020.",
       "id": "entity:jeremy-corbyn",
       "name": "Jeremy Corbyn",
       "provenance": "curated-entity",
@@ -6622,7 +6623,7 @@
     },
     {
       "aliases": [],
-      "description": "Local independent political figure recurring in Southall Stories reporting.",
+      "description": "Southall businessman and community campaigner who helped found Clean Air for Southall and Hayes (CASH). He stood as an independent parliamentary candidate in Ealing Southall in 2024 and for Ealing Community Independents in Southall Green in May 2026.",
       "id": "entity:joe-bhangu",
       "name": "Joe Bhangu",
       "provenance": "curated-entity",
@@ -6633,7 +6634,7 @@
       "aliases": [
         "Cllr John Martin"
       ],
-      "description": "Ealing councillor and local political figure recurring in Southall Stories reporting.",
+      "description": "Independent Ealing councillor for Norwood Green, elected in May 2026 with 1,396 votes. He is also a current member of the Ealing Safer Neighbourhood Board.",
       "id": "entity:john-martin",
       "name": "John Martin",
       "provenance": "curated-entity",
@@ -6666,7 +6667,7 @@
         "Cllr Julian Bell",
         "Councillor Julian Bell"
       ],
-      "description": "Former leader of Ealing Council and recurring figure in Southall Stories reporting.",
+      "description": "Labour politician who served as Leader of Ealing Council before Peter Mason. His period as council leader included the early remediation and redevelopment of the former Southall Gasworks and major council regeneration programmes.",
       "id": "entity:julian-bell",
       "name": "Julian Bell",
       "provenance": "curated-entity",
@@ -6677,7 +6678,7 @@
       "aliases": [
         "Cllr Kate Crawford"
       ],
-      "description": "Long-serving Ealing councillor and local political figure recurring in Southall Stories reporting.",
+      "description": "Former East Acton councillor who served the ward from 1998 to May 2026. After 28 years as a Labour councillor she joined the Liberal Democrats in March 2026 and stood unsuccessfully for re-election that May.",
       "id": "entity:kate-crawford",
       "name": "Kate Crawford",
       "provenance": "curated-entity",
@@ -6815,8 +6816,10 @@
       "type": "place"
     },
     {
-      "aliases": [],
-      "description": "Ealing Community Independents candidate and recurring figure in Southall Stories election reporting.",
+      "aliases": [
+        "Minni Kumari Dogra"
+      ],
+      "description": "Southall community and independent political campaigner who stood in local elections in 2022 and as an Ealing Community Independents candidate in Southall Green in May 2026, receiving 1,107 votes.",
       "id": "entity:minni-dogra",
       "name": "Minni Dogra",
       "provenance": "curated-entity",
@@ -6845,7 +6848,7 @@
       "aliases": [
         "Nigel Giffin"
       ],
-      "description": "Barrister whose legal opinion for the Local Government Association is cited in the Southall Stories corpus.",
+      "description": "King's Counsel at 11KBW whose practice is principally in public law, including local-government law, judicial review, education, housing, public finance and elections. He has provided legal advice to the Local Government Association.",
       "id": "entity:nigel-giffin-kc",
       "name": "Nigel Giffin KC",
       "provenance": "curated-entity",
@@ -6880,7 +6883,7 @@
         "Onkar Sahota AM",
         "Dr Onkar Sahota AM"
       ],
-      "description": "London Assembly Member recurring in the Southall Stories corpus.",
+      "description": "West London GP and Labour politician who represented Ealing and Hillingdon on the London Assembly from 2012 until May 2024. His Assembly roles included Deputy Chair of the Assembly and Chair of its Health Committee.",
       "id": "entity:onkar-sahota",
       "name": "Dr Onkar Sahota",
       "provenance": "curated-entity",
@@ -6958,7 +6961,7 @@
       "aliases": [
         "Rick Watler"
       ],
-      "description": "Figure associated with Southall Waterside / the Southall Gasworks development in the corpus.",
+      "description": "Construction executive who was Berkeley Group's Head of Construction at Southall Waterside during the redevelopment of the former Southall Gasworks. He was also a co-opted governor of nearby Blair Peach Primary School from 2017 until 2019.",
       "id": "entity:richard-watler",
       "name": "Richard Watler",
       "provenance": "curated-entity",
@@ -7182,7 +7185,7 @@
     },
     {
       "aliases": [],
-      "description": "Local independent candidate appearing in Southall Stories reporting.",
+      "description": "Lifelong Southall resident and community campaigner who stood for Ealing Community Independents in Southall West at the May 2026 council election, campaigning on local services, safety, accountability and neighbourhood wellbeing.",
       "id": "entity:sukhi-floria",
       "name": "Sukhi Floria",
       "provenance": "curated-entity",
@@ -7231,7 +7234,7 @@
     },
     {
       "aliases": [],
-      "description": "Founder and former chair of Berkeley Group, recurring in reporting on the Southall Gasworks redevelopment.",
+      "description": "British property developer who co-founded Berkeley Group with Jim Farrer in 1976 and led the company for 44 years. Pidgley, who died in 2020, became one of the most influential figures in large-scale housing and regeneration development in London.",
       "id": "entity:tony-pidgley",
       "name": "Tony Pidgley",
       "provenance": "curated-entity",
@@ -7244,7 +7247,7 @@
         "Virendra Sharma MP",
         "MP Virendra Sharma"
       ],
-      "description": "Former MP for Ealing Southall and recurring figure in the Southall Stories corpus.",
+      "description": "Labour politician who served as Member of Parliament for Ealing Southall from July 2007 until May 2024, winning the seat five times and serving on parliamentary committees including International Development and Human Rights.",
       "id": "entity:virendra-sharma",
       "name": "Virendra Sharma",
       "provenance": "curated-entity",

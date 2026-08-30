@@ -4,47 +4,11 @@ An entity is complete when it has identity, a useful reader-facing description, 
 
 - Entities checked: **115**
 - Missing descriptions: **0**
-- Weak/generic descriptions: **37**
-- No explicit website field: **96** (review required; not automatically an error)
+- Weak/generic descriptions: **19**
+- No explicit website field: **82** (review required; not automatically an error)
 
 ## Description review queue
 
-- **Bassam Mahfouz** (`entities/people/bassam-mahfouz.md`) — very-short-description, reporting-defined-or-generic-description, identity-too-dependent-on-southall-stories
-  - Current: Ealing politician recurring in Southall Stories reporting.
-- **Boris Johnson** (`entities/people/boris-johnson.md`) — identity-too-dependent-on-southall-stories
-  - Current: British politician referenced in Southall Stories reporting.
-- **Damian Leydon** (`entities/people/damian-leydon.md`) — reporting-defined-or-generic-description
-  - Current: Berkeley Group executive recurring in Southall Gasworks / Southall Waterside reporting.
-- **Dan Cortese** (`entities/people/dan-cortese.md`) — very-short-description
-  - Current: Southall civic and election figure appearing in the corpus.
-- **Jags Sanghera** (`entities/people/jags-sanghera.md`) — reporting-defined-or-generic-description
-  - Current: Southall community and political figure recurring in reporting on local organisations, development and elections.
-- **Jasbir Kaur Anand** (`entities/people/jasbir-kaur-anand.md`) — reporting-defined-or-generic-description, identity-too-dependent-on-southall-stories
-  - Current: Ealing councillor and recurring figure in Southall Stories reporting.
-- **Jeremy Corbyn** (`entities/people/jeremy-corbyn.md`) — identity-too-dependent-on-southall-stories
-  - Current: British politician appearing in Southall Stories reporting on Labour politics, local events and electoral context.
-- **Joe Bhangu** (`entities/people/joe-bhangu.md`) — reporting-defined-or-generic-description, identity-too-dependent-on-southall-stories
-  - Current: Local independent political figure recurring in Southall Stories reporting.
-- **John Martin** (`entities/people/john-martin.md`) — reporting-defined-or-generic-description, identity-too-dependent-on-southall-stories
-  - Current: Ealing councillor and local political figure recurring in Southall Stories reporting.
-- **Julian Bell** (`entities/people/julian-bell.md`) — reporting-defined-or-generic-description, identity-too-dependent-on-southall-stories
-  - Current: Former leader of Ealing Council and recurring figure in Southall Stories reporting.
-- **Kate Crawford** (`entities/people/kate-crawford.md`) — reporting-defined-or-generic-description, identity-too-dependent-on-southall-stories
-  - Current: Long-serving Ealing councillor and local political figure recurring in Southall Stories reporting.
-- **Minni Dogra** (`entities/people/minni-dogra.md`) — reporting-defined-or-generic-description, identity-too-dependent-on-southall-stories
-  - Current: Ealing Community Independents candidate and recurring figure in Southall Stories election reporting.
-- **Nigel Giffin KC** (`entities/people/nigel-giffin-kc.md`) — identity-too-dependent-on-southall-stories
-  - Current: Barrister whose legal opinion for the Local Government Association is cited in the Southall Stories corpus.
-- **Dr Onkar Sahota** (`entities/people/onkar-sahota.md`) — identity-too-dependent-on-southall-stories
-  - Current: London Assembly Member recurring in the Southall Stories corpus.
-- **Richard Watler** (`entities/people/richard-watler.md`) — reporting-defined-or-generic-description
-  - Current: Figure associated with Southall Waterside / the Southall Gasworks development in the corpus.
-- **Sukhi Floria** (`entities/people/sukhi-floria.md`) — identity-too-dependent-on-southall-stories
-  - Current: Local independent candidate appearing in Southall Stories reporting.
-- **Tony Pidgley** (`entities/people/tony-pidgley.md`) — reporting-defined-or-generic-description
-  - Current: Founder and former chair of Berkeley Group, recurring in reporting on the Southall Gasworks redevelopment.
-- **Virendra Sharma** (`entities/people/virendra-sharma.md`) — reporting-defined-or-generic-description, identity-too-dependent-on-southall-stories
-  - Current: Former MP for Ealing Southall and recurring figure in the Southall Stories corpus.
 - **Beaconsfield Road** (`entities/places/beaconsfield-road.md`) — very-short-description
   - Current: Road in Southall near the former gasworks redevelopment.
 - **Dominion Centre** (`entities/places/dominion-centre.md`) — reporting-defined-or-generic-description

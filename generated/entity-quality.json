@@ -3,219 +3,12 @@
   "rule": "An entity is complete when it has identity, a useful reader-facing description, provenance, and a first-party or authoritative source/website where one exists.",
   "counts": {
     "entities": 115,
-    "flagged": 37,
+    "flagged": 19,
     "missing_descriptions": 0,
-    "weak_descriptions": 37,
-    "without_explicit_website": 96
+    "weak_descriptions": 19,
+    "without_explicit_website": 82
   },
   "flagged": [
-    {
-      "id": "bassam-mahfouz",
-      "name": "Bassam Mahfouz",
-      "type": "person",
-      "path": "entities/people/bassam-mahfouz.md",
-      "description": "Ealing politician recurring in Southall Stories reporting.",
-      "website": null,
-      "reasons": [
-        "very-short-description",
-        "reporting-defined-or-generic-description",
-        "identity-too-dependent-on-southall-stories"
-      ]
-    },
-    {
-      "id": "boris-johnson",
-      "name": "Boris Johnson",
-      "type": "person",
-      "path": "entities/people/boris-johnson.md",
-      "description": "British politician referenced in Southall Stories reporting.",
-      "website": null,
-      "reasons": [
-        "identity-too-dependent-on-southall-stories"
-      ]
-    },
-    {
-      "id": "damian-leydon",
-      "name": "Damian Leydon",
-      "type": "person",
-      "path": "entities/people/damian-leydon.md",
-      "description": "Berkeley Group executive recurring in Southall Gasworks / Southall Waterside reporting.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "dan-cortese",
-      "name": "Dan Cortese",
-      "type": "person",
-      "path": "entities/people/dan-cortese.md",
-      "description": "Southall civic and election figure appearing in the corpus.",
-      "website": null,
-      "reasons": [
-        "very-short-description"
-      ]
-    },
-    {
-      "id": "jags-sanghera",
-      "name": "Jags Sanghera",
-      "type": "person",
-      "path": "entities/people/jags-sanghera.md",
-      "description": "Southall community and political figure recurring in reporting on local organisations, development and elections.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "jasbir-kaur-anand",
-      "name": "Jasbir Kaur Anand",
-      "type": "person",
-      "path": "entities/people/jasbir-kaur-anand.md",
-      "description": "Ealing councillor and recurring figure in Southall Stories reporting.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description",
-        "identity-too-dependent-on-southall-stories"
-      ]
-    },
-    {
-      "id": "jeremy-corbyn",
-      "name": "Jeremy Corbyn",
-      "type": "person",
-      "path": "entities/people/jeremy-corbyn.md",
-      "description": "British politician appearing in Southall Stories reporting on Labour politics, local events and electoral context.",
-      "website": null,
-      "reasons": [
-        "identity-too-dependent-on-southall-stories"
-      ]
-    },
-    {
-      "id": "joe-bhangu",
-      "name": "Joe Bhangu",
-      "type": "person",
-      "path": "entities/people/joe-bhangu.md",
-      "description": "Local independent political figure recurring in Southall Stories reporting.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description",
-        "identity-too-dependent-on-southall-stories"
-      ]
-    },
-    {
-      "id": "john-martin",
-      "name": "John Martin",
-      "type": "person",
-      "path": "entities/people/john-martin.md",
-      "description": "Ealing councillor and local political figure recurring in Southall Stories reporting.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description",
-        "identity-too-dependent-on-southall-stories"
-      ]
-    },
-    {
-      "id": "julian-bell",
-      "name": "Julian Bell",
-      "type": "person",
-      "path": "entities/people/julian-bell.md",
-      "description": "Former leader of Ealing Council and recurring figure in Southall Stories reporting.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description",
-        "identity-too-dependent-on-southall-stories"
-      ]
-    },
-    {
-      "id": "kate-crawford",
-      "name": "Kate Crawford",
-      "type": "person",
-      "path": "entities/people/kate-crawford.md",
-      "description": "Long-serving Ealing councillor and local political figure recurring in Southall Stories reporting.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description",
-        "identity-too-dependent-on-southall-stories"
-      ]
-    },
-    {
-      "id": "minni-dogra",
-      "name": "Minni Dogra",
-      "type": "person",
-      "path": "entities/people/minni-dogra.md",
-      "description": "Ealing Community Independents candidate and recurring figure in Southall Stories election reporting.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description",
-        "identity-too-dependent-on-southall-stories"
-      ]
-    },
-    {
-      "id": "nigel-giffin-kc",
-      "name": "Nigel Giffin KC",
-      "type": "person",
-      "path": "entities/people/nigel-giffin-kc.md",
-      "description": "Barrister whose legal opinion for the Local Government Association is cited in the Southall Stories corpus.",
-      "website": null,
-      "reasons": [
-        "identity-too-dependent-on-southall-stories"
-      ]
-    },
-    {
-      "id": "onkar-sahota",
-      "name": "Dr Onkar Sahota",
-      "type": "person",
-      "path": "entities/people/onkar-sahota.md",
-      "description": "London Assembly Member recurring in the Southall Stories corpus.",
-      "website": null,
-      "reasons": [
-        "identity-too-dependent-on-southall-stories"
-      ]
-    },
-    {
-      "id": "richard-watler",
-      "name": "Richard Watler",
-      "type": "person",
-      "path": "entities/people/richard-watler.md",
-      "description": "Figure associated with Southall Waterside / the Southall Gasworks development in the corpus.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "sukhi-floria",
-      "name": "Sukhi Floria",
-      "type": "person",
-      "path": "entities/people/sukhi-floria.md",
-      "description": "Local independent candidate appearing in Southall Stories reporting.",
-      "website": null,
-      "reasons": [
-        "identity-too-dependent-on-southall-stories"
-      ]
-    },
-    {
-      "id": "tony-pidgley",
-      "name": "Tony Pidgley",
-      "type": "person",
-      "path": "entities/people/tony-pidgley.md",
-      "description": "Founder and former chair of Berkeley Group, recurring in reporting on the Southall Gasworks redevelopment.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "virendra-sharma",
-      "name": "Virendra Sharma",
-      "type": "person",
-      "path": "entities/people/virendra-sharma.md",
-      "description": "Former MP for Ealing Southall and recurring figure in the Southall Stories corpus.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description",
-        "identity-too-dependent-on-southall-stories"
-      ]
-    },
     {
       "id": "beaconsfield-road",
       "name": "Beaconsfield Road",
@@ -596,34 +389,16 @@
       "path": "entities/organisations/your-voice-your-town.md"
     },
     {
-      "id": "bassam-mahfouz",
-      "name": "Bassam Mahfouz",
-      "type": "person",
-      "path": "entities/people/bassam-mahfouz.md"
-    },
-    {
       "id": "blair-peach",
       "name": "Blair Peach",
       "type": "person",
       "path": "entities/people/blair-peach.md"
     },
     {
-      "id": "boris-johnson",
-      "name": "Boris Johnson",
-      "type": "person",
-      "path": "entities/people/boris-johnson.md"
-    },
-    {
       "id": "damian-leydon",
       "name": "Damian Leydon",
       "type": "person",
       "path": "entities/people/damian-leydon.md"
-    },
-    {
-      "id": "dan-cortese",
-      "name": "Dan Cortese",
-      "type": "person",
-      "path": "entities/people/dan-cortese.md"
     },
     {
       "id": "dr-john-freeman",
@@ -638,34 +413,10 @@
       "path": "entities/people/gurdip-singh-chaggar.md"
     },
     {
-      "id": "jags-sanghera",
-      "name": "Jags Sanghera",
-      "type": "person",
-      "path": "entities/people/jags-sanghera.md"
-    },
-    {
-      "id": "jasbir-kaur-anand",
-      "name": "Jasbir Kaur Anand",
-      "type": "person",
-      "path": "entities/people/jasbir-kaur-anand.md"
-    },
-    {
       "id": "jatinder-rajput",
       "name": "Jatinder Rajput",
       "type": "person",
       "path": "entities/people/jatinder-rajput.md"
-    },
-    {
-      "id": "jeremy-corbyn",
-      "name": "Jeremy Corbyn",
-      "type": "person",
-      "path": "entities/people/jeremy-corbyn.md"
-    },
-    {
-      "id": "joe-bhangu",
-      "name": "Joe Bhangu",
-      "type": "person",
-      "path": "entities/people/joe-bhangu.md"
     },
     {
       "id": "john-martin",
@@ -686,34 +437,10 @@
       "path": "entities/people/julian-bell.md"
     },
     {
-      "id": "kate-crawford",
-      "name": "Kate Crawford",
-      "type": "person",
-      "path": "entities/people/kate-crawford.md"
-    },
-    {
       "id": "lewis-cox",
       "name": "Lewis Cox",
       "type": "person",
       "path": "entities/people/lewis-cox.md"
-    },
-    {
-      "id": "minni-dogra",
-      "name": "Minni Dogra",
-      "type": "person",
-      "path": "entities/people/minni-dogra.md"
-    },
-    {
-      "id": "nigel-giffin-kc",
-      "name": "Nigel Giffin KC",
-      "type": "person",
-      "path": "entities/people/nigel-giffin-kc.md"
-    },
-    {
-      "id": "onkar-sahota",
-      "name": "Dr Onkar Sahota",
-      "type": "person",
-      "path": "entities/people/onkar-sahota.md"
     },
     {
       "id": "richard-kimblin",
@@ -740,12 +467,6 @@
       "path": "entities/people/shabana-mahmood.md"
     },
     {
-      "id": "sukhi-floria",
-      "name": "Sukhi Floria",
-      "type": "person",
-      "path": "entities/people/sukhi-floria.md"
-    },
-    {
       "id": "swaran-singh-padda",
       "name": "Swaran Singh Padda",
       "type": "person",
@@ -762,18 +483,6 @@
       "name": "Tony Blair",
       "type": "person",
       "path": "entities/people/tony-blair.md"
-    },
-    {
-      "id": "tony-pidgley",
-      "name": "Tony Pidgley",
-      "type": "person",
-      "path": "entities/people/tony-pidgley.md"
-    },
-    {
-      "id": "virendra-sharma",
-      "name": "Virendra Sharma",
-      "type": "person",
-      "path": "entities/people/virendra-sharma.md"
     },
     {
       "id": "beaconsfield-road",
