@@ -6079,7 +6079,8 @@
       "name": "Air Quality Scrutiny Panel",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [],
@@ -6088,7 +6089,11 @@
       "name": "Angela Fonso",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": {
+        "label": "Clean Air for Southall and Hayes (archived)",
+        "url": "https://web.archive.org/web/20220518005343/https://southallandhayescleanair.org.uk/"
+      }
     },
     {
       "aliases": [
@@ -6099,7 +6104,11 @@
       "name": "Around Ealing",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": {
+        "label": "Around Ealing",
+        "url": "https://www.aroundealing.com/"
+      }
     },
     {
       "aliases": [
@@ -6111,7 +6120,11 @@
       "name": "Bassam Mahfouz",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": {
+        "label": "London Assembly — Bassam Mahfouz",
+        "url": "https://www.london.gov.uk/who-we-are/what-london-assembly-does/london-assembly-members/bassam-mahfouz"
+      }
     },
     {
       "aliases": [
@@ -6122,7 +6135,8 @@
       "name": "Beaconsfield Road",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -6135,7 +6149,11 @@
       "name": "Berkeley Group",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": {
+        "label": "Berkeley Group",
+        "url": "https://www.berkeleygroup.co.uk/"
+      }
     },
     {
       "aliases": [],
@@ -6144,7 +6162,8 @@
       "name": "Blair Peach",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": null
     },
     {
       "aliases": [],
@@ -6153,7 +6172,8 @@
       "name": "Blair Peach Primary School",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [],
@@ -6162,7 +6182,11 @@
       "name": "Boris Johnson",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": {
+        "label": "UK Government — Boris Johnson",
+        "url": "https://www.gov.uk/government/history/past-prime-ministers/boris-johnson"
+      }
     },
     {
       "aliases": [
@@ -6174,7 +6198,8 @@
       "name": "Clean Air for Southall and Hayes",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [
@@ -6185,7 +6210,8 @@
       "name": "Community Powered Reporting",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [],
@@ -6194,7 +6220,11 @@
       "name": "Conal Urquhart",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": {
+        "label": "The View from W5",
+        "url": "https://theviewfromw5.substack.com/"
+      }
     },
     {
       "aliases": [
@@ -6207,7 +6237,11 @@
       "name": "Conservative Party",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": {
+        "label": "Conservative Party",
+        "url": "https://www.conservatives.com/"
+      }
     },
     {
       "aliases": [],
@@ -6216,7 +6250,8 @@
       "name": "Damian Leydon",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": null
     },
     {
       "aliases": [],
@@ -6225,7 +6260,11 @@
       "name": "Dan Cortese",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": {
+        "label": "Ealing Community Independents — candidates",
+        "url": "https://ealingindependents.org/candidates/"
+      }
     },
     {
       "aliases": [
@@ -6239,7 +6278,8 @@
       "name": "Defra",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [],
@@ -6248,7 +6288,8 @@
       "name": "Dominion Centre",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -6259,7 +6300,8 @@
       "name": "Dormers Wells",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -6270,7 +6312,8 @@
       "name": "Dr John Freeman",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": null
     },
     {
       "aliases": [
@@ -6281,7 +6324,8 @@
       "name": "Ealing",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -6292,7 +6336,8 @@
       "name": "Ealing Common",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -6304,7 +6349,8 @@
       "name": "Ealing Community Independents",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [
@@ -6315,7 +6361,11 @@
       "name": "Ealing Council",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": {
+        "label": "Ealing Council",
+        "url": "https://www.ealing.gov.uk/"
+      }
     },
     {
       "aliases": [
@@ -6327,7 +6377,11 @@
       "name": "Ealing Council Pension Fund Panel",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": {
+        "label": "Ealing Council — Local Government Pension Scheme",
+        "url": "https://www.ealing.gov.uk/info/201322/local_government_pension_scheme"
+      }
     },
     {
       "aliases": [],
@@ -6336,7 +6390,8 @@
       "name": "Ealing Friends of Palestine",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [],
@@ -6345,7 +6400,8 @@
       "name": "Ealing Friends of the Earth",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [
@@ -6356,7 +6412,8 @@
       "name": "Ealing Independent Network",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [
@@ -6369,7 +6426,8 @@
       "name": "Ealing Labour",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [],
@@ -6378,7 +6436,11 @@
       "name": "Ealing News",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": {
+        "label": "Ealing News",
+        "url": "https://www.ealing.news/"
+      }
     },
     {
       "aliases": [
@@ -6389,7 +6451,8 @@
       "name": "Ealing Southall constituency",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -6400,7 +6463,8 @@
       "name": "East Acton",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -6411,7 +6475,8 @@
       "name": "Elizabeth Line",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -6422,7 +6487,11 @@
       "name": "Environment Agency",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": {
+        "label": "Environment Agency — GOV.UK",
+        "url": "https://www.gov.uk/government/organisations/environment-agency"
+      }
     },
     {
       "aliases": [
@@ -6434,7 +6503,8 @@
       "name": "European Court of Human Rights",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [
@@ -6445,7 +6515,11 @@
       "name": "FM Conway",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": {
+        "label": "FM Conway",
+        "url": "https://www.fmconway.co.uk/"
+      }
     },
     {
       "aliases": [
@@ -6456,7 +6530,11 @@
       "name": "Greater London Authority",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": {
+        "label": "London City Hall",
+        "url": "https://www.london.gov.uk/"
+      }
     },
     {
       "aliases": [
@@ -6468,7 +6546,8 @@
       "name": "Green Party",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [],
@@ -6477,7 +6556,8 @@
       "name": "Greenford Broadway",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -6488,7 +6568,8 @@
       "name": "Grove House",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -6499,7 +6580,8 @@
       "name": "Gurdip Singh Chaggar",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": null
     },
     {
       "aliases": [
@@ -6510,7 +6592,8 @@
       "name": "Hanwell Broadway",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -6521,7 +6604,8 @@
       "name": "Henry Construction",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [
@@ -6532,7 +6616,8 @@
       "name": "High Court",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [
@@ -6543,7 +6628,8 @@
       "name": "Housing Ombudsman",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [],
@@ -6552,7 +6638,8 @@
       "name": "Institute for Government",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [
@@ -6564,7 +6651,8 @@
       "name": "International Court of Justice",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [
@@ -6575,7 +6663,8 @@
       "name": "Internet Archive",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [
@@ -6586,7 +6675,11 @@
       "name": "Jags Sanghera",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": {
+        "label": "Southall Community Alliance",
+        "url": "https://southallcommunityalliance.com/"
+      }
     },
     {
       "aliases": [
@@ -6599,7 +6692,11 @@
       "name": "Jasbir Kaur Anand",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": {
+        "label": "Ealing Council — Cabinet",
+        "url": "https://www.ealing.gov.uk/info/201044/councillors/567/cabinet"
+      }
     },
     {
       "aliases": [
@@ -6610,7 +6707,8 @@
       "name": "Jatinder Rajput",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": null
     },
     {
       "aliases": [],
@@ -6619,7 +6717,11 @@
       "name": "Jeremy Corbyn",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": {
+        "label": "UK Parliament — Jeremy Corbyn",
+        "url": "https://members.parliament.uk/member/185/contact"
+      }
     },
     {
       "aliases": [],
@@ -6628,7 +6730,11 @@
       "name": "Joe Bhangu",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": {
+        "label": "Ealing Community Independents — candidates",
+        "url": "https://ealingindependents.org/candidates/"
+      }
     },
     {
       "aliases": [
@@ -6639,7 +6745,8 @@
       "name": "John Martin",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": null
     },
     {
       "aliases": [
@@ -6651,7 +6758,8 @@
       "name": "Johnson Street",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [],
@@ -6660,7 +6768,8 @@
       "name": "Josh Blacker",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": null
     },
     {
       "aliases": [
@@ -6672,7 +6781,8 @@
       "name": "Julian Bell",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": null
     },
     {
       "aliases": [
@@ -6683,7 +6793,11 @@
       "name": "Kate Crawford",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": {
+        "label": "Ealing Council — councillor record",
+        "url": "https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=138"
+      }
     },
     {
       "aliases": [
@@ -6694,7 +6808,8 @@
       "name": "King Street",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -6706,7 +6821,8 @@
       "name": "Labour Party",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [
@@ -6719,7 +6835,8 @@
       "name": "Labour Party National Executive Committee",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [
@@ -6730,7 +6847,8 @@
       "name": "Lady Margaret",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [],
@@ -6739,7 +6857,8 @@
       "name": "Lewis Cox",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": null
     },
     {
       "aliases": [
@@ -6752,7 +6871,8 @@
       "name": "Liberal Democrats",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [
@@ -6763,7 +6883,8 @@
       "name": "Local Democracy Reporting Service",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [
@@ -6774,7 +6895,11 @@
       "name": "Local Government Association",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": {
+        "label": "Local Government Association",
+        "url": "https://www.local.gov.uk/"
+      }
     },
     {
       "aliases": [],
@@ -6783,7 +6908,11 @@
       "name": "London Assembly",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": {
+        "label": "London Assembly",
+        "url": "https://www.london.gov.uk/who-we-are/what-london-assembly-does"
+      }
     },
     {
       "aliases": [],
@@ -6792,7 +6921,8 @@
       "name": "London Forum",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [
@@ -6804,7 +6934,11 @@
       "name": "Metropolitan Police",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": {
+        "label": "Metropolitan Police",
+        "url": "https://www.met.police.uk/"
+      }
     },
     {
       "aliases": [],
@@ -6813,7 +6947,8 @@
       "name": "Minet Park",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -6824,7 +6959,11 @@
       "name": "Minni Dogra",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": {
+        "label": "Ealing Community Independents — candidates",
+        "url": "https://ealingindependents.org/candidates/"
+      }
     },
     {
       "aliases": [],
@@ -6833,7 +6972,8 @@
       "name": "National Front",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [],
@@ -6842,7 +6982,11 @@
       "name": "National Grid",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": {
+        "label": "National Grid",
+        "url": "https://www.nationalgrid.com/"
+      }
     },
     {
       "aliases": [
@@ -6853,7 +6997,11 @@
       "name": "Nigel Giffin KC",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": {
+        "label": "11KBW — Nigel Giffin KC",
+        "url": "https://www.11kbw.com/barristers/nigel-giffin-kc/"
+      }
     },
     {
       "aliases": [
@@ -6864,7 +7012,8 @@
       "name": "Norwood Green",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -6875,7 +7024,8 @@
       "name": "Norwood Road",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -6888,7 +7038,11 @@
       "name": "Dr Onkar Sahota",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": {
+        "label": "London Assembly — Dr Onkar Sahota",
+        "url": "https://www.london.gov.uk/who-we-are/what-london-assembly-does/london-assembly-members/dr-onkar-sahota"
+      }
     },
     {
       "aliases": [],
@@ -6897,7 +7051,8 @@
       "name": "Parkside Yards",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -6908,7 +7063,8 @@
       "name": "Perceval House",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -6920,7 +7076,11 @@
       "name": "Peter Mason",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": {
+        "label": "Ealing Council — Cabinet",
+        "url": "https://www.ealing.gov.uk/info/201044/councillors/567/cabinet"
+      }
     },
     {
       "aliases": [
@@ -6931,7 +7091,11 @@
       "name": "Private Eye",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": {
+        "label": "Private Eye",
+        "url": "https://www.private-eye.co.uk/"
+      }
     },
     {
       "aliases": [
@@ -6943,7 +7107,8 @@
       "name": "Public Health England",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [
@@ -6955,7 +7120,8 @@
       "name": "Richard Kimblin",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": null
     },
     {
       "aliases": [
@@ -6966,7 +7132,8 @@
       "name": "Richard Watler",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": null
     },
     {
       "aliases": [],
@@ -6975,7 +7142,8 @@
       "name": "River Brent",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [],
@@ -6984,7 +7152,8 @@
       "name": "Saklatvala Hall",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [],
@@ -6993,7 +7162,8 @@
       "name": "Salvinder Dhillon",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": null
     },
     {
       "aliases": [
@@ -7004,7 +7174,8 @@
       "name": "Scotts Road",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -7015,7 +7186,8 @@
       "name": "Shabana Mahmood",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": null
     },
     {
       "aliases": [
@@ -7026,7 +7198,8 @@
       "name": "Socialist Workers Party",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [
@@ -7037,7 +7210,8 @@
       "name": "South Road",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [],
@@ -7046,7 +7220,8 @@
       "name": "Southall",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -7057,7 +7232,8 @@
       "name": "Southall Air Quality Focus Area",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -7069,7 +7245,8 @@
       "name": "Southall Broadway",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -7080,7 +7257,11 @@
       "name": "Southall Community Alliance",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": {
+        "label": "Southall Community Alliance",
+        "url": "https://southallcommunityalliance.com/"
+      }
     },
     {
       "aliases": [
@@ -7099,7 +7280,8 @@
       "name": "Southall Gasworks",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [],
@@ -7108,7 +7290,8 @@
       "name": "Southall Green",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [],
@@ -7117,7 +7300,8 @@
       "name": "Southall Market",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -7128,7 +7312,8 @@
       "name": "Southall Market Car Park",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [],
@@ -7137,7 +7322,8 @@
       "name": "Southall Town Hall",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [],
@@ -7146,7 +7332,11 @@
       "name": "Southall Town Team",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": {
+        "label": "Ealing Council — Southall Town Team",
+        "url": "https://dosomethinggood.ealing.gov.uk/your-voice-your-town/southall-town-team/"
+      }
     },
     {
       "aliases": [
@@ -7157,7 +7347,8 @@
       "name": "Southall West",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -7170,7 +7361,8 @@
       "name": "Southall Young Adult Centre",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -7181,7 +7373,8 @@
       "name": "Stop The Towers",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     },
     {
       "aliases": [],
@@ -7190,7 +7383,11 @@
       "name": "Sukhi Floria",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": {
+        "label": "Ealing Community Independents — candidates",
+        "url": "https://ealingindependents.org/candidates/"
+      }
     },
     {
       "aliases": [
@@ -7201,7 +7398,8 @@
       "name": "Swaran Singh Padda",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": null
     },
     {
       "aliases": [],
@@ -7210,7 +7408,8 @@
       "name": "Tasha Tah",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": null
     },
     {
       "aliases": [
@@ -7221,7 +7420,8 @@
       "name": "The Green",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [],
@@ -7230,7 +7430,8 @@
       "name": "Tony Blair",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": null
     },
     {
       "aliases": [],
@@ -7239,7 +7440,11 @@
       "name": "Tony Pidgley",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": {
+        "label": "Berkeley Group — history",
+        "url": "https://www.berkeleygroup.co.uk/about-us/who-we-are/history"
+      }
     },
     {
       "aliases": [
@@ -7252,7 +7457,11 @@
       "name": "Virendra Sharma",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "person"
+      "type": "person",
+      "website": {
+        "label": "UK Parliament — Virendra Sharma",
+        "url": "https://members.parliament.uk/member/1604/career"
+      }
     },
     {
       "aliases": [
@@ -7263,7 +7472,8 @@
       "name": "Warren Farm",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [],
@@ -7272,7 +7482,8 @@
       "name": "West Ealing",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [],
@@ -7281,7 +7492,8 @@
       "name": "West London",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -7292,7 +7504,8 @@
       "name": "Western Road",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "place"
+      "type": "place",
+      "website": null
     },
     {
       "aliases": [
@@ -7306,7 +7519,8 @@
       "name": "Your Voice, Your Town",
       "provenance": "curated-entity",
       "review_status": "reviewed",
-      "type": "organisation"
+      "type": "organisation",
+      "website": null
     }
   ],
   "export_name": "Southall-Zettel Civic Commons Export",
