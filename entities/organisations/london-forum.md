@@ -7,4 +7,4 @@ aliases:
   - "London Forum of Amenity and Civic Societies"
 ---
 
-London-wide civic and amenity network representing more than 100 local societies on planning, heritage, transport, environment, waterways and open-space issues. It appears in the corpus in connection with civic research and Community Powered Reporting.
+London-wide civic and amenity network representing more than 100 local societies on planning, development, heritage, transport, environment, waterways and open-space issues.
