@@ -7462,13 +7462,13 @@
       "aliases": [
         "The Green, Southall"
       ],
-      "description": "Street and local area in Southall, distinct from The Green Quarter / Southall Gasworks redevelopment branding.",
+      "description": "Historic street and local area in central Southall around Southall station and Southall Manor House, distinct from The Green Quarter / Southall Gasworks redevelopment branding.",
       "id": "entity:the-green",
       "name": "The Green",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "place",
-      "website": null
+      "website": "https://www.ealing.gov.uk/downloads/download/8238/the_green_southall_cpo"
     },
     {
       "aliases": [],

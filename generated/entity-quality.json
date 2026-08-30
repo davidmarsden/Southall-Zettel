@@ -6,9 +6,9 @@
     "flagged": 1,
     "missing_descriptions": 0,
     "weak_descriptions": 1,
-    "without_explicit_website": 34,
-    "without_source_or_website": 23,
-    "description_and_source_complete": 91
+    "without_explicit_website": 33,
+    "without_source_or_website": 22,
+    "description_and_source_complete": 92
   },
   "flagged": [
     {
@@ -151,12 +151,6 @@
       "name": "Southall Market",
       "type": "place",
       "path": "entities/places/southall-market.md"
-    },
-    {
-      "id": "the-green",
-      "name": "The Green",
-      "type": "place",
-      "path": "entities/places/the-green.md"
     },
     {
       "id": "west-london",
@@ -351,12 +345,6 @@
       "name": "Southall",
       "type": "place",
       "path": "entities/places/southall.md"
-    },
-    {
-      "id": "the-green",
-      "name": "The Green",
-      "type": "place",
-      "path": "entities/places/the-green.md"
     },
     {
       "id": "west-london",
