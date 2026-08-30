@@ -20,12 +20,24 @@ def load_json(path: Path):
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def clean_markdown_description(value: str) -> str:
+    value = re.sub(r"^#{1,6}\s+", "", value.strip(), flags=re.MULTILINE)
+    value = re.sub(r"\[([^\]]+)\]\([^\)]+\)", r"\1", value)
+    value = re.sub(r"[*_`]+", "", value)
+    value = HTML_TAG_RE.sub("", value)
+    return re.sub(r"\s+", " ", value).strip()
+
+
 def load_note(path: Path) -> dict:
     text = path.read_text(encoding="utf-8")
     match = FRONT_MATTER_RE.match(text)
     if not match:
         raise ValueError(f"Missing YAML front matter: {path}")
-    return yaml.safe_load(match.group(1)) or {}
+    note = yaml.safe_load(match.group(1)) or {}
+    body = clean_markdown_description(text[match.end():])
+    if body and not note.get("description"):
+        note["description"] = body
+    return note
 
 
 def absolute_post_url(url: str) -> str:
