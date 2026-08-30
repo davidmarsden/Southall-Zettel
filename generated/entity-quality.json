@@ -1,14 +1,360 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "rule": "An entity is complete when it has identity, a useful reader-facing description, provenance, and a first-party or authoritative source/website where one exists.",
   "counts": {
     "entities": 115,
     "flagged": 0,
     "missing_descriptions": 0,
     "weak_descriptions": 0,
-    "without_explicit_website": 68
+    "without_explicit_website": 68,
+    "without_source_or_website": 57,
+    "description_and_source_complete": 58
   },
   "flagged": [],
+  "without_source_or_website": [
+    {
+      "id": "air-quality-scrutiny-panel",
+      "name": "Air Quality Scrutiny Panel",
+      "type": "organisation",
+      "path": "entities/organisations/air-quality-scrutiny-panel.md"
+    },
+    {
+      "id": "community-powered-reporting",
+      "name": "Community Powered Reporting",
+      "type": "organisation",
+      "path": "entities/organisations/community-powered-reporting.md"
+    },
+    {
+      "id": "defra",
+      "name": "Defra",
+      "type": "organisation",
+      "path": "entities/organisations/defra.md"
+    },
+    {
+      "id": "ealing-community-independents",
+      "name": "Ealing Community Independents",
+      "type": "organisation",
+      "path": "entities/organisations/ealing-community-independents.md"
+    },
+    {
+      "id": "ealing-friends-of-palestine",
+      "name": "Ealing Friends of Palestine",
+      "type": "organisation",
+      "path": "entities/organisations/ealing-friends-of-palestine.md"
+    },
+    {
+      "id": "ealing-friends-of-the-earth",
+      "name": "Ealing Friends of the Earth",
+      "type": "organisation",
+      "path": "entities/organisations/ealing-friends-of-the-earth.md"
+    },
+    {
+      "id": "ealing-independent-network",
+      "name": "Ealing Independent Network",
+      "type": "organisation",
+      "path": "entities/organisations/ealing-independent-network.md"
+    },
+    {
+      "id": "ealing-labour",
+      "name": "Ealing Labour",
+      "type": "organisation",
+      "path": "entities/organisations/ealing-labour.md"
+    },
+    {
+      "id": "european-court-of-human-rights",
+      "name": "European Court of Human Rights",
+      "type": "organisation",
+      "path": "entities/organisations/european-court-of-human-rights.md"
+    },
+    {
+      "id": "green-party",
+      "name": "Green Party",
+      "type": "organisation",
+      "path": "entities/organisations/green-party.md"
+    },
+    {
+      "id": "high-court",
+      "name": "High Court",
+      "type": "organisation",
+      "path": "entities/organisations/high-court.md"
+    },
+    {
+      "id": "housing-ombudsman",
+      "name": "Housing Ombudsman",
+      "type": "organisation",
+      "path": "entities/organisations/housing-ombudsman.md"
+    },
+    {
+      "id": "institute-for-government",
+      "name": "Institute for Government",
+      "type": "organisation",
+      "path": "entities/organisations/institute-for-government.md"
+    },
+    {
+      "id": "international-court-of-justice",
+      "name": "International Court of Justice",
+      "type": "organisation",
+      "path": "entities/organisations/international-court-of-justice.md"
+    },
+    {
+      "id": "internet-archive",
+      "name": "Internet Archive",
+      "type": "organisation",
+      "path": "entities/organisations/internet-archive.md"
+    },
+    {
+      "id": "labour-party-national-executive-committee",
+      "name": "Labour Party National Executive Committee",
+      "type": "organisation",
+      "path": "entities/organisations/labour-party-national-executive-committee.md"
+    },
+    {
+      "id": "labour-party",
+      "name": "Labour Party",
+      "type": "organisation",
+      "path": "entities/organisations/labour-party.md"
+    },
+    {
+      "id": "liberal-democrats",
+      "name": "Liberal Democrats",
+      "type": "organisation",
+      "path": "entities/organisations/liberal-democrats.md"
+    },
+    {
+      "id": "local-democracy-reporting-service",
+      "name": "Local Democracy Reporting Service",
+      "type": "organisation",
+      "path": "entities/organisations/local-democracy-reporting-service.md"
+    },
+    {
+      "id": "london-forum",
+      "name": "London Forum",
+      "type": "organisation",
+      "path": "entities/organisations/london-forum.md"
+    },
+    {
+      "id": "national-front",
+      "name": "National Front",
+      "type": "organisation",
+      "path": "entities/organisations/national-front.md"
+    },
+    {
+      "id": "socialist-workers-party",
+      "name": "Socialist Workers Party",
+      "type": "organisation",
+      "path": "entities/organisations/socialist-workers-party.md"
+    },
+    {
+      "id": "stop-the-towers",
+      "name": "Stop The Towers",
+      "type": "organisation",
+      "path": "entities/organisations/stop-the-towers.md"
+    },
+    {
+      "id": "your-voice-your-town",
+      "name": "Your Voice, Your Town",
+      "type": "organisation",
+      "path": "entities/organisations/your-voice-your-town.md"
+    },
+    {
+      "id": "blair-peach",
+      "name": "Blair Peach",
+      "type": "person",
+      "path": "entities/people/blair-peach.md"
+    },
+    {
+      "id": "damian-leydon",
+      "name": "Damian Leydon",
+      "type": "person",
+      "path": "entities/people/damian-leydon.md"
+    },
+    {
+      "id": "dr-john-freeman",
+      "name": "Dr John Freeman",
+      "type": "person",
+      "path": "entities/people/dr-john-freeman.md"
+    },
+    {
+      "id": "gurdip-singh-chaggar",
+      "name": "Gurdip Singh Chaggar",
+      "type": "person",
+      "path": "entities/people/gurdip-singh-chaggar.md"
+    },
+    {
+      "id": "jatinder-rajput",
+      "name": "Jatinder Rajput",
+      "type": "person",
+      "path": "entities/people/jatinder-rajput.md"
+    },
+    {
+      "id": "john-martin",
+      "name": "John Martin",
+      "type": "person",
+      "path": "entities/people/john-martin.md"
+    },
+    {
+      "id": "josh-blacker",
+      "name": "Josh Blacker",
+      "type": "person",
+      "path": "entities/people/josh-blacker.md"
+    },
+    {
+      "id": "lewis-cox",
+      "name": "Lewis Cox",
+      "type": "person",
+      "path": "entities/people/lewis-cox.md"
+    },
+    {
+      "id": "richard-kimblin",
+      "name": "Richard Kimblin",
+      "type": "person",
+      "path": "entities/people/richard-kimblin.md"
+    },
+    {
+      "id": "richard-watler",
+      "name": "Richard Watler",
+      "type": "person",
+      "path": "entities/people/richard-watler.md"
+    },
+    {
+      "id": "salvinder-dhillon",
+      "name": "Salvinder Dhillon",
+      "type": "person",
+      "path": "entities/people/salvinder-dhillon.md"
+    },
+    {
+      "id": "shabana-mahmood",
+      "name": "Shabana Mahmood",
+      "type": "person",
+      "path": "entities/people/shabana-mahmood.md"
+    },
+    {
+      "id": "swaran-singh-padda",
+      "name": "Swaran Singh Padda",
+      "type": "person",
+      "path": "entities/people/swaran-singh-padda.md"
+    },
+    {
+      "id": "tasha-tah",
+      "name": "Tasha Tah",
+      "type": "person",
+      "path": "entities/people/tasha-tah.md"
+    },
+    {
+      "id": "tony-blair",
+      "name": "Tony Blair",
+      "type": "person",
+      "path": "entities/people/tony-blair.md"
+    },
+    {
+      "id": "beaconsfield-road",
+      "name": "Beaconsfield Road",
+      "type": "place",
+      "path": "entities/places/beaconsfield-road.md"
+    },
+    {
+      "id": "ealing-southall-constituency",
+      "name": "Ealing Southall constituency",
+      "type": "place",
+      "path": "entities/places/ealing-southall-constituency.md"
+    },
+    {
+      "id": "elizabeth-line",
+      "name": "Elizabeth Line",
+      "type": "place",
+      "path": "entities/places/elizabeth-line.md"
+    },
+    {
+      "id": "grove-house",
+      "name": "Grove House",
+      "type": "place",
+      "path": "entities/places/grove-house.md"
+    },
+    {
+      "id": "king-street",
+      "name": "King Street",
+      "type": "place",
+      "path": "entities/places/king-street.md"
+    },
+    {
+      "id": "minet-park",
+      "name": "Minet Park",
+      "type": "place",
+      "path": "entities/places/minet-park.md"
+    },
+    {
+      "id": "norwood-green",
+      "name": "Norwood Green",
+      "type": "place",
+      "path": "entities/places/norwood-green.md"
+    },
+    {
+      "id": "river-brent",
+      "name": "River Brent",
+      "type": "place",
+      "path": "entities/places/river-brent.md"
+    },
+    {
+      "id": "saklatvala-hall",
+      "name": "Saklatvala Hall",
+      "type": "place",
+      "path": "entities/places/saklatvala-hall.md"
+    },
+    {
+      "id": "scotts-road",
+      "name": "Scotts Road",
+      "type": "place",
+      "path": "entities/places/scotts-road.md"
+    },
+    {
+      "id": "southall-air-quality-focus-area",
+      "name": "Southall Air Quality Focus Area",
+      "type": "place",
+      "path": "entities/places/southall-air-quality-focus-area.md"
+    },
+    {
+      "id": "southall-broadway",
+      "name": "Southall Broadway",
+      "type": "place",
+      "path": "entities/places/southall-broadway.md"
+    },
+    {
+      "id": "southall-market",
+      "name": "Southall Market",
+      "type": "place",
+      "path": "entities/places/southall-market.md"
+    },
+    {
+      "id": "southall-young-adult-centre",
+      "name": "Southall Young Adult Centre",
+      "type": "place",
+      "path": "entities/places/southall-young-adult-centre.md"
+    },
+    {
+      "id": "the-green",
+      "name": "The Green",
+      "type": "place",
+      "path": "entities/places/the-green.md"
+    },
+    {
+      "id": "warren-farm",
+      "name": "Warren Farm",
+      "type": "place",
+      "path": "entities/places/warren-farm.md"
+    },
+    {
+      "id": "west-ealing",
+      "name": "West Ealing",
+      "type": "place",
+      "path": "entities/places/west-ealing.md"
+    },
+    {
+      "id": "west-london",
+      "name": "West London",
+      "type": "place",
+      "path": "entities/places/west-london.md"
+    }
+  ],
   "without_explicit_website": [
     {
       "id": "air-quality-scrutiny-panel",
