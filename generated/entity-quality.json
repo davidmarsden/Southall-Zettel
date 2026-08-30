@@ -3,32 +3,15 @@
   "rule": "An entity is complete when it has identity, a useful reader-facing description, provenance, and a first-party or authoritative source/website where one exists; reviewed exceptions are recorded explicitly rather than filled with artificial links.",
   "counts": {
     "entities": 115,
-    "flagged": 1,
+    "flagged": 0,
     "missing_descriptions": 0,
-    "weak_descriptions": 1,
+    "weak_descriptions": 0,
     "without_explicit_website": 32,
     "source_review_queue": 21,
     "reviewed_source_exemptions": 0,
-    "complete": 93
+    "complete": 94
   },
-  "flagged": [
-    {
-      "id": "high-court",
-      "name": "High Court",
-      "type": "organisation",
-      "path": "entities/organisations/high-court.md",
-      "description": "Senior court of England and Wales hearing serious civil, administrative and family cases through the King's Bench, Chancery and Family divisions. It appears in the research corpus in reporting on Ealing judicial-review proceedings.",
-      "website": "https://www.judiciary.uk/courts-and-tribunals/high-court/",
-      "reviewed_sources": [],
-      "source_review": null,
-      "source_review_note": null,
-      "has_source_or_website": true,
-      "source_complete": true,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    }
-  ],
+  "flagged": [],
   "source_review_queue": [
     {
       "id": "air-quality-scrutiny-panel",

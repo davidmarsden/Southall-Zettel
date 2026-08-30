@@ -6634,7 +6634,7 @@
       "aliases": [
         "High Court of Justice"
       ],
-      "description": "Senior court of England and Wales hearing serious civil, administrative and family cases through the King's Bench, Chancery and Family divisions. It appears in the research corpus in reporting on Ealing judicial-review proceedings.",
+      "description": "Senior court of England and Wales hearing serious civil, administrative and family cases through the King's Bench, Chancery and Family divisions.",
       "id": "entity:high-court",
       "name": "High Court",
       "provenance": "curated-entity",

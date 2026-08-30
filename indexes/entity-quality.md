@@ -4,16 +4,15 @@ An entity is complete when it has identity, a useful reader-facing description, 
 
 - Entities checked: **115**
 - Missing descriptions: **0**
-- Weak/generic descriptions: **1**
+- Weak/generic descriptions: **0**
 - Source/website review queue: **21**
 - Reviewed source exemptions: **0**
-- Fully reviewed complete entities: **93**
+- Fully reviewed complete entities: **94**
 - No explicit website field: **32** (informational only)
 
 ## Description review queue
 
-- **High Court** (`entities/organisations/high-court.md`) — reporting-defined-or-generic-description
-  - Current: Senior court of England and Wales hearing serious civil, administrative and family cases through the King's Bench, Chancery and Family divisions. It appears in the research corpus in reporting on Ealing judicial-review proceedings.
+No description-quality flags.
 
 ## Source / website review queue
 
