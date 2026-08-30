@@ -7,4 +7,4 @@ aliases:
   - "High Court of Justice"
 ---
 
-Senior court of England and Wales hearing serious civil, administrative and family cases through the King's Bench, Chancery and Family divisions. It appears in the research corpus in reporting on Ealing judicial-review proceedings.
+Senior court of England and Wales hearing serious civil, administrative and family cases through the King's Bench, Chancery and Family divisions.
