@@ -2,6 +2,7 @@
 id: blair-peach
 name: "Blair Peach"
 type: person
+website: "https://history.inquest.org.uk/case-profiles/blair-peach/"
 aliases: []
 exclude_suffixes:
   - "Primary School"
@@ -20,4 +21,4 @@ require_any_terms:
   - "Bishopsgate Institute"
 ---
 
-Blair Peach, the anti-racist teacher killed in Southall in 1979. Kept distinct from Blair Peach Primary School. Deterministic mentions of the person are deliberately conservative and require historical / anti-racist context rather than being inferred from the school's name or unrelated civic reporting.
+New Zealand-born teacher, anti-racist campaigner and trade unionist who was killed in Southall on 23 April 1979 after being struck during policing of a demonstration against the National Front. Kept distinct from Blair Peach Primary School.
