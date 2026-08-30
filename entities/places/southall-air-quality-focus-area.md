@@ -2,8 +2,9 @@
 id: southall-air-quality-focus-area
 name: "Southall Air Quality Focus Area"
 type: place
+website: "https://gis.london.gov.uk/arcgis/rest/services/apps/planning_data_map_02/mapserver/306"
 aliases:
   - "Southall AQFA"
 ---
 
-Defined air-quality focus area in Southall. Modelled as a place/designation node so geography, monitoring, policy and reporting can connect without treating the generic term "Air Quality Focus Area" as an entity.
+Greater London Authority air-quality focus designation covering a pollution hotspot in Southall where nitrogen-dioxide limits and high human exposure make the area a priority for monitoring and action.
