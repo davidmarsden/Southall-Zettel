@@ -6397,7 +6397,7 @@
     },
     {
       "aliases": [],
-      "description": "Grassroots community campaign group in the London Borough of Ealing, formed in 2024 to organise local solidarity, awareness and campaigning around Palestine. It appears in the research corpus in reporting on council pension divestment and related local campaigns.",
+      "description": "Grassroots community campaign group in the London Borough of Ealing, formed in 2024 to organise local solidarity, public awareness and campaigning around Palestine.",
       "id": "entity:ealing-friends-of-palestine",
       "name": "Ealing Friends of Palestine",
       "provenance": "curated-entity",
@@ -6407,7 +6407,7 @@
     },
     {
       "aliases": [],
-      "description": "Local Friends of the Earth group covering the London Borough of Ealing. It campaigns on climate change, air quality, transport, development, green space and related environmental issues, and appears in the research corpus in reporting on Ealing planning and climate policy.",
+      "description": "Local Friends of the Earth group covering the London Borough of Ealing, campaigning on climate change, air quality, transport, development, green space and related environmental issues.",
       "id": "entity:ealing-friends-of-the-earth",
       "name": "Ealing Friends of the Earth",
       "provenance": "curated-entity",
@@ -6513,7 +6513,7 @@
         "European Court",
         "ECHR"
       ],
-      "description": "International court established under the European Convention on Human Rights to hear applications alleging violations of the Convention by Council of Europe member states. It appears in the research corpus in reporting on UK migration and deportation policy.",
+      "description": "International court established under the European Convention on Human Rights to hear applications alleging violations of the Convention by Council of Europe member states.",
       "id": "entity:european-court-of-human-rights",
       "name": "European Court of Human Rights",
       "provenance": "curated-entity",
@@ -6669,7 +6669,7 @@
         "International Court",
         "ICJ"
       ],
-      "description": "Principal judicial organ of the United Nations, deciding legal disputes between states and giving advisory opinions on questions of international law. It appears in the research corpus in reporting on pension-fund investments and Israel/Palestine.",
+      "description": "Principal judicial organ of the United Nations, deciding legal disputes between states and giving advisory opinions on questions of international law.",
       "id": "entity:international-court-of-justice",
       "name": "International Court of Justice",
       "provenance": "curated-entity",
@@ -6946,7 +6946,7 @@
       "aliases": [
         "London Forum of Amenity and Civic Societies"
       ],
-      "description": "London-wide civic and amenity network representing more than 100 local societies on planning, heritage, transport, environment, waterways and open-space issues. It appears in the corpus in connection with civic research and Community Powered Reporting.",
+      "description": "London-wide civic and amenity network representing more than 100 local societies on planning, development, heritage, transport, environment, waterways and open-space issues.",
       "id": "entity:london-forum",
       "name": "London Forum",
       "provenance": "curated-entity",
@@ -7217,7 +7217,7 @@
       "aliases": [
         "Home Secretary Shabana Mahmood"
       ],
-      "description": "Labour MP and senior UK government minister, serving as Home Secretary in the current government. She appears in the research corpus in reporting on national migration and deportation policy.",
+      "description": "Labour MP for Birmingham Ladywood and senior UK government minister, serving as Home Secretary in the current government.",
       "id": "entity:shabana-mahmood",
       "name": "Shabana Mahmood",
       "provenance": "curated-entity",

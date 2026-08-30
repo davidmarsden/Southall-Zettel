@@ -3,53 +3,14 @@
   "rule": "An entity is complete when it has identity, a useful reader-facing description, provenance, and a first-party or authoritative source/website where one exists.",
   "counts": {
     "entities": 115,
-    "flagged": 7,
+    "flagged": 1,
     "missing_descriptions": 0,
-    "weak_descriptions": 7,
+    "weak_descriptions": 1,
     "without_explicit_website": 51,
     "without_source_or_website": 40,
-    "description_and_source_complete": 68
+    "description_and_source_complete": 74
   },
   "flagged": [
-    {
-      "id": "ealing-friends-of-palestine",
-      "name": "Ealing Friends of Palestine",
-      "type": "organisation",
-      "path": "entities/organisations/ealing-friends-of-palestine.md",
-      "description": "Grassroots community campaign group in the London Borough of Ealing, formed in 2024 to organise local solidarity, awareness and campaigning around Palestine. It appears in the research corpus in reporting on council pension divestment and related local campaigns.",
-      "website": "https://ealingfriendsofpalestine.com/",
-      "reviewed_sources": [],
-      "has_source_or_website": true,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "ealing-friends-of-the-earth",
-      "name": "Ealing Friends of the Earth",
-      "type": "organisation",
-      "path": "entities/organisations/ealing-friends-of-the-earth.md",
-      "description": "Local Friends of the Earth group covering the London Borough of Ealing. It campaigns on climate change, air quality, transport, development, green space and related environmental issues, and appears in the research corpus in reporting on Ealing planning and climate policy.",
-      "website": "https://www.ealingfoe.org.uk/",
-      "reviewed_sources": [],
-      "has_source_or_website": true,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "european-court-of-human-rights",
-      "name": "European Court of Human Rights",
-      "type": "organisation",
-      "path": "entities/organisations/european-court-of-human-rights.md",
-      "description": "International court established under the European Convention on Human Rights to hear applications alleging violations of the Convention by Council of Europe member states. It appears in the research corpus in reporting on UK migration and deportation policy.",
-      "website": "https://www.echr.coe.int/",
-      "reviewed_sources": [],
-      "has_source_or_website": true,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
     {
       "id": "high-court",
       "name": "High Court",
@@ -57,45 +18,6 @@
       "path": "entities/organisations/high-court.md",
       "description": "Senior court of England and Wales hearing serious civil, administrative and family cases through the King's Bench, Chancery and Family divisions. It appears in the research corpus in reporting on Ealing judicial-review proceedings.",
       "website": "https://www.judiciary.uk/courts-and-tribunals/high-court/",
-      "reviewed_sources": [],
-      "has_source_or_website": true,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "international-court-of-justice",
-      "name": "International Court of Justice",
-      "type": "organisation",
-      "path": "entities/organisations/international-court-of-justice.md",
-      "description": "Principal judicial organ of the United Nations, deciding legal disputes between states and giving advisory opinions on questions of international law. It appears in the research corpus in reporting on pension-fund investments and Israel/Palestine.",
-      "website": "https://www.icj-cij.org/",
-      "reviewed_sources": [],
-      "has_source_or_website": true,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "london-forum",
-      "name": "London Forum",
-      "type": "organisation",
-      "path": "entities/organisations/london-forum.md",
-      "description": "London-wide civic and amenity network representing more than 100 local societies on planning, heritage, transport, environment, waterways and open-space issues. It appears in the corpus in connection with civic research and Community Powered Reporting.",
-      "website": "https://www.londonforum.org.uk/",
-      "reviewed_sources": [],
-      "has_source_or_website": true,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "shabana-mahmood",
-      "name": "Shabana Mahmood",
-      "type": "person",
-      "path": "entities/people/shabana-mahmood.md",
-      "description": "Labour MP and senior UK government minister, serving as Home Secretary in the current government. She appears in the research corpus in reporting on national migration and deportation policy.",
-      "website": "https://www.gov.uk/government/people/shabana-mahmood",
       "reviewed_sources": [],
       "has_source_or_website": true,
       "reasons": [
