@@ -1,12 +1,13 @@
 # Entity quality audit
 
-An entity is complete when it has identity, a useful reader-facing description, provenance, and a first-party or authoritative source/website where one exists.
+An entity is complete when it has identity, a useful reader-facing description, provenance, and a first-party or authoritative source/website where one exists; reviewed exceptions are recorded explicitly rather than filled with artificial links.
 
 - Entities checked: **115**
 - Missing descriptions: **0**
 - Weak/generic descriptions: **1**
-- No source or website: **21**
-- Description + source/website complete: **93**
+- Source/website review queue: **21**
+- Reviewed source exemptions: **0**
+- Fully reviewed complete entities: **93**
 - No explicit website field: **32** (informational only)
 
 ## Description review queue
@@ -16,7 +17,7 @@ An entity is complete when it has identity, a useful reader-facing description, 
 
 ## Source / website review queue
 
-These entities currently have neither an explicit website nor a reviewed source record with a canonical URL. This is a review queue, not automatically an error: some historical people, streets and defunct organisations may legitimately have no suitable first-party site. Prefer first-party evidence where available, then authoritative or archived sources.
+These entities still need an editorial decision: attach a suitable first-party or authoritative source/website where one exists, or explicitly record `source_review: no-suitable-external-source` / `not-applicable` when no meaningful external link should be manufactured.
 
 - **Air Quality Scrutiny Panel** (`entities/organisations/air-quality-scrutiny-panel.md`)
 - **National Front** (`entities/organisations/national-front.md`)
@@ -39,3 +40,7 @@ These entities currently have neither an explicit website nor a reviewed source 
 - **Scotts Road** (`entities/places/scotts-road.md`)
 - **Southall Market** (`entities/places/southall-market.md`)
 - **West London** (`entities/places/west-london.md`)
+
+## Reviewed source exemptions
+
+None.

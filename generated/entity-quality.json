@@ -1,14 +1,15 @@
 {
-  "schema_version": 2,
-  "rule": "An entity is complete when it has identity, a useful reader-facing description, provenance, and a first-party or authoritative source/website where one exists.",
+  "schema_version": 3,
+  "rule": "An entity is complete when it has identity, a useful reader-facing description, provenance, and a first-party or authoritative source/website where one exists; reviewed exceptions are recorded explicitly rather than filled with artificial links.",
   "counts": {
     "entities": 115,
     "flagged": 1,
     "missing_descriptions": 0,
     "weak_descriptions": 1,
     "without_explicit_website": 32,
-    "without_source_or_website": 21,
-    "description_and_source_complete": 93
+    "source_review_queue": 21,
+    "reviewed_source_exemptions": 0,
+    "complete": 93
   },
   "flagged": [
     {
@@ -19,13 +20,16 @@
       "description": "Senior court of England and Wales hearing serious civil, administrative and family cases through the King's Bench, Chancery and Family divisions. It appears in the research corpus in reporting on Ealing judicial-review proceedings.",
       "website": "https://www.judiciary.uk/courts-and-tribunals/high-court/",
       "reviewed_sources": [],
+      "source_review": null,
+      "source_review_note": null,
       "has_source_or_website": true,
+      "source_complete": true,
       "reasons": [
         "reporting-defined-or-generic-description"
       ]
     }
   ],
-  "without_source_or_website": [
+  "source_review_queue": [
     {
       "id": "air-quality-scrutiny-panel",
       "name": "Air Quality Scrutiny Panel",
@@ -153,6 +157,7 @@
       "path": "entities/places/west-london.md"
     }
   ],
+  "reviewed_source_exemptions": [],
   "without_explicit_website": [
     {
       "id": "air-quality-scrutiny-panel",
