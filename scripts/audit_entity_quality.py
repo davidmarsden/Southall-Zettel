@@ -50,19 +50,43 @@ def reasons(description: str) -> list[str]:
     return found
 
 
+def reviewed_sources_by_entity() -> dict[str, list[dict]]:
+    lookup: dict[str, list[dict]] = {}
+    for path in sorted(Path("sources").glob("**/*.md")):
+        note = load_note(path)
+        meta = note.get("meta") or {}
+        if meta.get("review_status") != "reviewed" or not meta.get("canonical_url"):
+            continue
+        source = {
+            "title": meta.get("title"),
+            "publisher": meta.get("publisher"),
+            "url": meta.get("canonical_url"),
+            "path": path.as_posix(),
+        }
+        for entity_id in meta.get("related_entities") or []:
+            lookup.setdefault(entity_id, []).append(source)
+    return lookup
+
+
 def main() -> None:
+    source_lookup = reviewed_sources_by_entity()
     rows = []
     for path in sorted(Path("entities").glob("*/*.md")):
         note = load_note(path)
         meta = note.get("meta") or {}
+        entity_id = meta.get("id")
         description = note.get("description") or ""
+        reviewed_sources = source_lookup.get(entity_id, [])
+        website = meta.get("website")
         row = {
-            "id": meta.get("id"),
+            "id": entity_id,
             "name": meta.get("name"),
             "type": meta.get("type"),
             "path": note["path"],
             "description": description,
-            "website": meta.get("website"),
+            "website": website,
+            "reviewed_sources": reviewed_sources,
+            "has_source_or_website": bool(website or reviewed_sources),
             "reasons": reasons(description),
         }
         if note.get("error"):
@@ -73,9 +97,11 @@ def main() -> None:
     missing = [row for row in rows if "missing-description" in row["reasons"]]
     weak = [row for row in rows if row["reasons"] and "missing-description" not in row["reasons"]]
     without_website = [row for row in rows if not row.get("website")]
+    without_source_or_website = [row for row in rows if not row["has_source_or_website"]]
+    complete = [row for row in rows if not row["reasons"] and row["has_source_or_website"]]
 
     report = {
-        "schema_version": 1,
+        "schema_version": 2,
         "rule": "An entity is complete when it has identity, a useful reader-facing description, provenance, and a first-party or authoritative source/website where one exists.",
         "counts": {
             "entities": len(rows),
@@ -83,8 +109,14 @@ def main() -> None:
             "missing_descriptions": len(missing),
             "weak_descriptions": len(weak),
             "without_explicit_website": len(without_website),
+            "without_source_or_website": len(without_source_or_website),
+            "description_and_source_complete": len(complete),
         },
         "flagged": flagged,
+        "without_source_or_website": [
+            {"id": row["id"], "name": row["name"], "type": row["type"], "path": row["path"]}
+            for row in without_source_or_website
+        ],
         "without_explicit_website": [
             {"id": row["id"], "name": row["name"], "type": row["type"], "path": row["path"]}
             for row in without_website
@@ -100,7 +132,9 @@ def main() -> None:
         f"- Entities checked: **{len(rows)}**",
         f"- Missing descriptions: **{len(missing)}**",
         f"- Weak/generic descriptions: **{len(weak)}**",
-        f"- No explicit website field: **{len(without_website)}** (review required; not automatically an error)",
+        f"- No source or website: **{len(without_source_or_website)}**",
+        f"- Description + source/website complete: **{len(complete)}**",
+        f"- No explicit website field: **{len(without_website)}** (informational only)",
         "",
         "## Description review queue",
         "",
@@ -114,13 +148,18 @@ def main() -> None:
                 lines.append(f"  - Current: {row['description']}")
     lines.extend([
         "",
-        "## Website/source review",
+        "## Source / website review queue",
         "",
-        "Absence of an explicit website is a review prompt, not a failure: some historical people, places and defunct organisations legitimately have no current first-party site. Prefer a first-party site when available; otherwise use an authoritative or archived source.",
+        "These entities currently have neither an explicit website nor a reviewed source record with a canonical URL. This is a review queue, not automatically an error: some historical people, streets and defunct organisations may legitimately have no suitable first-party site. Prefer first-party evidence where available, then authoritative or archived sources.",
         "",
     ])
-    Path("indexes/entity-quality.md").write_text("\n".join(lines), encoding="utf-8")
-    print(f"Entity quality: {len(rows)} checked, {len(flagged)} description flags, {len(without_website)} without explicit website")
+    if without_source_or_website:
+        for row in without_source_or_website:
+            lines.append(f"- **{row['name'] or row['id']}** (`{row['path']}`)")
+    else:
+        lines.append("None.")
+    Path("indexes/entity-quality.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"Entity quality: {len(rows)} checked, {len(flagged)} description flags, {len(without_source_or_website)} without source/website")
 
 
 if __name__ == "__main__":
