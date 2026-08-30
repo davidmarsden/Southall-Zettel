@@ -6273,13 +6273,13 @@
         "Department for Environment, Food and Rural Affairs",
         "Defra Fly-Tipping Statistics"
       ],
-      "description": "UK government department. References to Defra fly-tipping statistics are treated as citations from this organisation rather than as a separate entity.",
+      "description": "UK government department responsible for environmental protection, food production and standards, agriculture, fisheries and rural communities. References to Defra fly-tipping statistics are treated as citations from this organisation rather than as a separate entity.",
       "id": "entity:defra",
       "name": "Defra",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
     },
     {
       "aliases": [],

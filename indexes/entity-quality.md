@@ -5,9 +5,9 @@ An entity is complete when it has identity, a useful reader-facing description, 
 - Entities checked: **115**
 - Missing descriptions: **0**
 - Weak/generic descriptions: **0**
-- No source or website: **57**
-- Description + source/website complete: **58**
-- No explicit website field: **68** (informational only)
+- No source or website: **56**
+- Description + source/website complete: **59**
+- No explicit website field: **67** (informational only)
 
 ## Description review queue
 
@@ -19,7 +19,6 @@ These entities currently have neither an explicit website nor a reviewed source 
 
 - **Air Quality Scrutiny Panel** (`entities/organisations/air-quality-scrutiny-panel.md`)
 - **Community Powered Reporting** (`entities/organisations/community-powered-reporting.md`)
-- **Defra** (`entities/organisations/defra.md`)
 - **Ealing Community Independents** (`entities/organisations/ealing-community-independents.md`)
 - **Ealing Friends of Palestine** (`entities/organisations/ealing-friends-of-palestine.md`)
 - **Ealing Friends of the Earth** (`entities/organisations/ealing-friends-of-the-earth.md`)

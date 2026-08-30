@@ -6,9 +6,9 @@
     "flagged": 0,
     "missing_descriptions": 0,
     "weak_descriptions": 0,
-    "without_explicit_website": 68,
-    "without_source_or_website": 57,
-    "description_and_source_complete": 58
+    "without_explicit_website": 67,
+    "without_source_or_website": 56,
+    "description_and_source_complete": 59
   },
   "flagged": [],
   "without_source_or_website": [
@@ -23,12 +23,6 @@
       "name": "Community Powered Reporting",
       "type": "organisation",
       "path": "entities/organisations/community-powered-reporting.md"
-    },
-    {
-      "id": "defra",
-      "name": "Defra",
-      "type": "organisation",
-      "path": "entities/organisations/defra.md"
     },
     {
       "id": "ealing-community-independents",
@@ -379,12 +373,6 @@
       "name": "Community Powered Reporting",
       "type": "organisation",
       "path": "entities/organisations/community-powered-reporting.md"
-    },
-    {
-      "id": "defra",
-      "name": "Defra",
-      "type": "organisation",
-      "path": "entities/organisations/defra.md"
     },
     {
       "id": "ealing-community-independents",
