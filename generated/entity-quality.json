@@ -6,32 +6,13 @@
     "flagged": 0,
     "missing_descriptions": 0,
     "weak_descriptions": 0,
-    "without_explicit_website": 14,
-    "source_review_queue": 3,
+    "without_explicit_website": 11,
+    "source_review_queue": 0,
     "reviewed_source_exemptions": 0,
-    "complete": 112
+    "complete": 115
   },
   "flagged": [],
-  "source_review_queue": [
-    {
-      "id": "scotts-road",
-      "name": "Scotts Road",
-      "type": "place",
-      "path": "entities/places/scotts-road.md"
-    },
-    {
-      "id": "southall-market",
-      "name": "Southall Market",
-      "type": "place",
-      "path": "entities/places/southall-market.md"
-    },
-    {
-      "id": "west-london",
-      "name": "West London",
-      "type": "place",
-      "path": "entities/places/west-london.md"
-    }
-  ],
+  "source_review_queue": [],
   "reviewed_source_exemptions": [],
   "without_explicit_website": [
     {
@@ -71,12 +52,6 @@
       "path": "entities/places/norwood-road.md"
     },
     {
-      "id": "scotts-road",
-      "name": "Scotts Road",
-      "type": "place",
-      "path": "entities/places/scotts-road.md"
-    },
-    {
       "id": "south-road",
       "name": "South Road",
       "type": "place",
@@ -95,22 +70,10 @@
       "path": "entities/places/southall-market-car-park.md"
     },
     {
-      "id": "southall-market",
-      "name": "Southall Market",
-      "type": "place",
-      "path": "entities/places/southall-market.md"
-    },
-    {
       "id": "southall",
       "name": "Southall",
       "type": "place",
       "path": "entities/places/southall.md"
-    },
-    {
-      "id": "west-london",
-      "name": "West London",
-      "type": "place",
-      "path": "entities/places/west-london.md"
     },
     {
       "id": "western-road",

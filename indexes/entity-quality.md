@@ -5,10 +5,10 @@ An entity is complete when it has identity, a useful reader-facing description, 
 - Entities checked: **115**
 - Missing descriptions: **0**
 - Weak/generic descriptions: **0**
-- Source/website review queue: **3**
+- Source/website review queue: **0**
 - Reviewed source exemptions: **0**
-- Fully reviewed complete entities: **112**
-- No explicit website field: **14** (informational only)
+- Fully reviewed complete entities: **115**
+- No explicit website field: **11** (informational only)
 
 ## Description review queue
 
@@ -18,9 +18,7 @@ No description-quality flags.
 
 These entities still need an editorial decision: attach a suitable first-party or authoritative source/website where one exists, or explicitly record `source_review: no-suitable-external-source` / `not-applicable` when no meaningful external link should be manufactured.
 
-- **Scotts Road** (`entities/places/scotts-road.md`)
-- **Southall Market** (`entities/places/southall-market.md`)
-- **West London** (`entities/places/west-london.md`)
+None.
 
 ## Reviewed source exemptions
 

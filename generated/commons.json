@@ -7212,13 +7212,13 @@
       "aliases": [
         "Scotts Road, Southall"
       ],
-      "description": "Residential street in Southall near the town centre and railway, forming part of the dense network of streets between central Southall and nearby industrial areas.",
+      "description": "Residential street and adjoining trading-estate area in Southall, close to the town centre and identified in Ealing's Local Plan work as a potential residential-led mixed-use redevelopment site.",
       "id": "entity:scotts-road",
       "name": "Scotts Road",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "place",
-      "website": null
+      "website": "https://www.ealing.gov.uk/download/downloads/id/20982/ealing_council_matter_9_q10.pdf"
     },
     {
       "aliases": [
@@ -7343,13 +7343,13 @@
     },
     {
       "aliases": [],
-      "description": "Market site in Southall. This is distinct from the more specific Southall Market Car Park development site.",
+      "description": "Long-running street market in central Southall, selling food, clothing, jewellery, household goods and other merchandise. It is distinct from the adjoining Southall Market Car Park redevelopment site.",
       "id": "entity:southall-market",
       "name": "Southall Market",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "place",
-      "website": null
+      "website": "https://www.ealing.gov.uk/info/201143/tourism/95/southall"
     },
     {
       "aliases": [
@@ -7541,13 +7541,13 @@
     },
     {
       "aliases": [],
-      "description": "Broad geographic area used in the corpus to contextualise Ealing, Southall and neighbouring civic issues.",
+      "description": "Broad geographic area of London that includes Ealing, Southall and neighbouring districts, used here to situate local civic issues within their wider sub-regional context.",
       "id": "entity:west-london",
       "name": "West London",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "place",
-      "website": null
+      "website": "https://www.visitlondon.com/things-to-do/london-areas/west"
     },
     {
       "aliases": [
