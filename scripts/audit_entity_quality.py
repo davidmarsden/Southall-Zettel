@@ -17,6 +17,7 @@ GENERIC_PATTERNS = [
     re.compile(r"\bsubject of .*reporting\b", re.I),
     re.compile(r"^local (?:political|community|civic|public) (?:and \w+ )?figure\b", re.I),
 ]
+SOURCE_REVIEW_EXEMPTIONS = {"no-suitable-external-source", "not-applicable"}
 
 
 def clean_body(value: str) -> str:
@@ -78,6 +79,10 @@ def main() -> None:
         description = note.get("description") or ""
         reviewed_sources = source_lookup.get(entity_id, [])
         website = meta.get("website")
+        source_review = meta.get("source_review")
+        source_exempt = source_review in SOURCE_REVIEW_EXEMPTIONS
+        has_source_or_website = bool(website or reviewed_sources)
+        source_complete = has_source_or_website or source_exempt
         row = {
             "id": entity_id,
             "name": meta.get("name"),
@@ -86,7 +91,10 @@ def main() -> None:
             "description": description,
             "website": website,
             "reviewed_sources": reviewed_sources,
-            "has_source_or_website": bool(website or reviewed_sources),
+            "source_review": source_review,
+            "source_review_note": meta.get("source_review_note"),
+            "has_source_or_website": has_source_or_website,
+            "source_complete": source_complete,
             "reasons": reasons(description),
         }
         if note.get("error"):
@@ -97,25 +105,38 @@ def main() -> None:
     missing = [row for row in rows if "missing-description" in row["reasons"]]
     weak = [row for row in rows if row["reasons"] and "missing-description" not in row["reasons"]]
     without_website = [row for row in rows if not row.get("website")]
-    without_source_or_website = [row for row in rows if not row["has_source_or_website"]]
-    complete = [row for row in rows if not row["reasons"] and row["has_source_or_website"]]
+    source_review_queue = [row for row in rows if not row["source_complete"]]
+    source_exemptions = [row for row in rows if row["source_review"] in SOURCE_REVIEW_EXEMPTIONS]
+    complete = [row for row in rows if not row["reasons"] and row["source_complete"]]
 
     report = {
-        "schema_version": 2,
-        "rule": "An entity is complete when it has identity, a useful reader-facing description, provenance, and a first-party or authoritative source/website where one exists.",
+        "schema_version": 3,
+        "rule": "An entity is complete when it has identity, a useful reader-facing description, provenance, and a first-party or authoritative source/website where one exists; reviewed exceptions are recorded explicitly rather than filled with artificial links.",
         "counts": {
             "entities": len(rows),
             "flagged": len(flagged),
             "missing_descriptions": len(missing),
             "weak_descriptions": len(weak),
             "without_explicit_website": len(without_website),
-            "without_source_or_website": len(without_source_or_website),
-            "description_and_source_complete": len(complete),
+            "source_review_queue": len(source_review_queue),
+            "reviewed_source_exemptions": len(source_exemptions),
+            "complete": len(complete),
         },
         "flagged": flagged,
-        "without_source_or_website": [
+        "source_review_queue": [
             {"id": row["id"], "name": row["name"], "type": row["type"], "path": row["path"]}
-            for row in without_source_or_website
+            for row in source_review_queue
+        ],
+        "reviewed_source_exemptions": [
+            {
+                "id": row["id"],
+                "name": row["name"],
+                "type": row["type"],
+                "path": row["path"],
+                "source_review": row["source_review"],
+                "source_review_note": row["source_review_note"],
+            }
+            for row in source_exemptions
         ],
         "without_explicit_website": [
             {"id": row["id"], "name": row["name"], "type": row["type"], "path": row["path"]}
@@ -132,8 +153,9 @@ def main() -> None:
         f"- Entities checked: **{len(rows)}**",
         f"- Missing descriptions: **{len(missing)}**",
         f"- Weak/generic descriptions: **{len(weak)}**",
-        f"- No source or website: **{len(without_source_or_website)}**",
-        f"- Description + source/website complete: **{len(complete)}**",
+        f"- Source/website review queue: **{len(source_review_queue)}**",
+        f"- Reviewed source exemptions: **{len(source_exemptions)}**",
+        f"- Fully reviewed complete entities: **{len(complete)}**",
         f"- No explicit website field: **{len(without_website)}** (informational only)",
         "",
         "## Description review queue",
@@ -150,16 +172,28 @@ def main() -> None:
         "",
         "## Source / website review queue",
         "",
-        "These entities currently have neither an explicit website nor a reviewed source record with a canonical URL. This is a review queue, not automatically an error: some historical people, streets and defunct organisations may legitimately have no suitable first-party site. Prefer first-party evidence where available, then authoritative or archived sources.",
+        "These entities still need an editorial decision: attach a suitable first-party or authoritative source/website where one exists, or explicitly record `source_review: no-suitable-external-source` / `not-applicable` when no meaningful external link should be manufactured.",
         "",
     ])
-    if without_source_or_website:
-        for row in without_source_or_website:
+    if source_review_queue:
+        for row in source_review_queue:
             lines.append(f"- **{row['name'] or row['id']}** (`{row['path']}`)")
     else:
         lines.append("None.")
+
+    lines.extend(["", "## Reviewed source exemptions", ""])
+    if source_exemptions:
+        for row in source_exemptions:
+            suffix = f" — {row['source_review_note']}" if row.get("source_review_note") else ""
+            lines.append(f"- **{row['name'] or row['id']}** — `{row['source_review']}`{suffix}")
+    else:
+        lines.append("None.")
+
     Path("indexes/entity-quality.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print(f"Entity quality: {len(rows)} checked, {len(flagged)} description flags, {len(without_source_or_website)} without source/website")
+    print(
+        f"Entity quality: {len(rows)} checked, {len(flagged)} description flags, "
+        f"{len(source_review_queue)} source decisions outstanding, {len(source_exemptions)} reviewed exemptions"
+    )
 
 
 if __name__ == "__main__":
