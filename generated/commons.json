@@ -7561,13 +7561,13 @@
         "YVYT",
         "Your Voice Your Town"
       ],
-      "description": "Ealing Council civic-engagement programme / branding. The shorter forms and comma-less form are treated as aliases of the same initiative.",
+      "description": "Ealing Council-supported civic-engagement programme bringing residents, businesses, faith and community organisations, councillors and town teams together around priorities and community funding across the borough's seven towns.",
       "id": "entity:your-voice-your-town",
       "name": "Your Voice, Your Town",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://www.ealing.gov.uk/info/201324/community/3274/your_voice_your_town"
     }
   ],
   "export_name": "Southall-Zettel Civic Commons Export",

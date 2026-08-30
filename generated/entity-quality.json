@@ -6,9 +6,9 @@
     "flagged": 1,
     "missing_descriptions": 0,
     "weak_descriptions": 1,
-    "without_explicit_website": 51,
-    "without_source_or_website": 40,
-    "description_and_source_complete": 74
+    "without_explicit_website": 50,
+    "without_source_or_website": 39,
+    "description_and_source_complete": 75
   },
   "flagged": [
     {
@@ -67,12 +67,6 @@
       "name": "Stop The Towers",
       "type": "organisation",
       "path": "entities/organisations/stop-the-towers.md"
-    },
-    {
-      "id": "your-voice-your-town",
-      "name": "Your Voice, Your Town",
-      "type": "organisation",
-      "path": "entities/organisations/your-voice-your-town.md"
     },
     {
       "id": "blair-peach",
@@ -333,12 +327,6 @@
       "name": "Stop The Towers",
       "type": "organisation",
       "path": "entities/organisations/stop-the-towers.md"
-    },
-    {
-      "id": "your-voice-your-town",
-      "name": "Your Voice, Your Town",
-      "type": "organisation",
-      "path": "entities/organisations/your-voice-your-town.md"
     },
     {
       "id": "blair-peach",

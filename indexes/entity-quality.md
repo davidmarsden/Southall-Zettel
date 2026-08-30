@@ -5,9 +5,9 @@ An entity is complete when it has identity, a useful reader-facing description, 
 - Entities checked: **115**
 - Missing descriptions: **0**
 - Weak/generic descriptions: **1**
-- No source or website: **40**
-- Description + source/website complete: **74**
-- No explicit website field: **51** (informational only)
+- No source or website: **39**
+- Description + source/website complete: **75**
+- No explicit website field: **50** (informational only)
 
 ## Description review queue
 
@@ -25,7 +25,6 @@ These entities currently have neither an explicit website nor a reviewed source 
 - **National Front** (`entities/organisations/national-front.md`)
 - **Socialist Workers Party** (`entities/organisations/socialist-workers-party.md`)
 - **Stop The Towers** (`entities/organisations/stop-the-towers.md`)
-- **Your Voice, Your Town** (`entities/organisations/your-voice-your-town.md`)
 - **Blair Peach** (`entities/people/blair-peach.md`)
 - **Damian Leydon** (`entities/people/damian-leydon.md`)
 - **Dr John Freeman** (`entities/people/dr-john-freeman.md`)
