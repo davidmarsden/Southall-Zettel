@@ -6356,13 +6356,13 @@
         "ECI",
         "Ealing Community Independent"
       ],
-      "description": "Local independent political group active in Ealing and Southall.",
+      "description": "Local political organisation formed to contest elections and campaign on borough issues in Ealing, including Southall. It stood candidates across the borough in the 2026 local elections but did not win council seats under the ECI label.",
       "id": "entity:ealing-community-independents",
       "name": "Ealing Community Independents",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://ealingindependents.org/"
     },
     {
       "aliases": [
@@ -6407,13 +6407,13 @@
     },
     {
       "aliases": [],
-      "description": "Local environmental campaign organisation referenced in reporting on Ealing planning and climate policy.",
+      "description": "Local Friends of the Earth group covering the London Borough of Ealing. It campaigns on climate change, air quality, transport, development, green space and related environmental issues, and appears in the research corpus in reporting on Ealing planning and climate policy.",
       "id": "entity:ealing-friends-of-the-earth",
       "name": "Ealing Friends of the Earth",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://www.ealingfoe.org.uk/"
     },
     {
       "aliases": [
@@ -6513,13 +6513,13 @@
         "European Court",
         "ECHR"
       ],
-      "description": "International human-rights court referred to in reporting on UK migration and deportation policy.",
+      "description": "International court established under the European Convention on Human Rights to hear applications alleging violations of the Convention by Council of Europe member states. It appears in the research corpus in reporting on UK migration and deportation policy.",
       "id": "entity:european-court-of-human-rights",
       "name": "European Court of Human Rights",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://www.echr.coe.int/"
     },
     {
       "aliases": [
@@ -6556,13 +6556,13 @@
         "The Greens",
         "Greens"
       ],
-      "description": "Political party entity. Alias forms are treated as the same organisation.",
+      "description": "The Green Party of England and Wales, a UK political party organised around environmental, social-justice and democratic-reform policies. Alias forms are treated as the same organisation in the graph.",
       "id": "entity:green-party",
       "name": "Green Party",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://greenparty.org.uk/"
     },
     {
       "aliases": [
@@ -6646,48 +6646,48 @@
       "aliases": [
         "The Housing Ombudsman"
       ],
-      "description": "Housing complaints and redress body cited in reporting on Ealing Council housing performance.",
+      "description": "Independent statutory housing-redress body for social housing in England, investigating complaints and publishing findings and guidance. It is cited in the research corpus in reporting on Ealing Council housing performance and complaint handling.",
       "id": "entity:housing-ombudsman",
       "name": "Housing Ombudsman",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://www.housing-ombudsman.org.uk/"
     },
     {
       "aliases": [],
-      "description": "UK think tank cited in reporting on government and public policy.",
+      "description": "Independent UK think tank focused on improving the effectiveness of government and public administration. It is cited in the research corpus for analysis of government, institutions and public policy.",
       "id": "entity:institute-for-government",
       "name": "Institute for Government",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://www.instituteforgovernment.org.uk/"
     },
     {
       "aliases": [
         "International Court",
         "ICJ"
       ],
-      "description": "United Nations court referenced in reporting on pension-fund investments and Israel/Palestine.",
+      "description": "Principal judicial organ of the United Nations, deciding legal disputes between states and giving advisory opinions on questions of international law. It appears in the research corpus in reporting on pension-fund investments and Israel/Palestine.",
       "id": "entity:international-court-of-justice",
       "name": "International Court of Justice",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://www.icj-cij.org/"
     },
     {
       "aliases": [
         "Wayback Machine"
       ],
-      "description": "Digital archive and source provider used to preserve and verify historical web evidence.",
+      "description": "Non-profit digital library preserving websites, books, audio, video and other digital material. Its Wayback Machine is used throughout the research corpus to preserve and verify historical web evidence.",
       "id": "entity:internet-archive",
       "name": "Internet Archive",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://archive.org/"
     },
     {
       "aliases": [
@@ -6841,13 +6841,13 @@
         "national Labour",
         "national Labour Party"
       ],
-      "description": "The national UK Labour Party. Kept distinct from the curated Ealing Labour local organisation.",
+      "description": "The national UK Labour Party, one of the country's major political parties. It is kept distinct in the graph from the curated Ealing Labour local organisation and from individual Labour office-holders.",
       "id": "entity:labour-party",
       "name": "Labour Party",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://labour.org.uk/"
     },
     {
       "aliases": [
@@ -6894,13 +6894,13 @@
         "Lib Dem",
         "Lib Dems"
       ],
-      "description": "Political party entity. Singular and abbreviated forms are treated as the same organisation.",
+      "description": "UK political party with elected representatives at local, regional and national level. Singular and abbreviated forms are treated as the same organisation in the graph.",
       "id": "entity:liberal-democrats",
       "name": "Liberal Democrats",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://www.libdems.org.uk/"
     },
     {
       "aliases": [
@@ -7215,13 +7215,13 @@
       "aliases": [
         "Home Secretary Shabana Mahmood"
       ],
-      "description": "UK politician referenced in reporting on national migration and deportation policy.",
+      "description": "Labour MP and senior UK government minister, serving as Home Secretary in the current government. She appears in the research corpus in reporting on national migration and deportation policy.",
       "id": "entity:shabana-mahmood",
       "name": "Shabana Mahmood",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "person",
-      "website": null
+      "website": "https://www.gov.uk/government/people/shabana-mahmood"
     },
     {
       "aliases": [

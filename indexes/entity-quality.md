@@ -4,14 +4,21 @@ An entity is complete when it has identity, a useful reader-facing description, 
 
 - Entities checked: **115**
 - Missing descriptions: **0**
-- Weak/generic descriptions: **0**
-- No source or website: **56**
-- Description + source/website complete: **59**
-- No explicit website field: **67** (informational only)
+- Weak/generic descriptions: **4**
+- No source or website: **45**
+- Description + source/website complete: **66**
+- No explicit website field: **56** (informational only)
 
 ## Description review queue
 
-No description-quality flags.
+- **Ealing Friends of the Earth** (`entities/organisations/ealing-friends-of-the-earth.md`) — reporting-defined-or-generic-description
+  - Current: Local Friends of the Earth group covering the London Borough of Ealing. It campaigns on climate change, air quality, transport, development, green space and related environmental issues, and appears in the research corpus in reporting on Ealing planning and climate policy.
+- **European Court of Human Rights** (`entities/organisations/european-court-of-human-rights.md`) — reporting-defined-or-generic-description
+  - Current: International court established under the European Convention on Human Rights to hear applications alleging violations of the Convention by Council of Europe member states. It appears in the research corpus in reporting on UK migration and deportation policy.
+- **International Court of Justice** (`entities/organisations/international-court-of-justice.md`) — reporting-defined-or-generic-description
+  - Current: Principal judicial organ of the United Nations, deciding legal disputes between states and giving advisory opinions on questions of international law. It appears in the research corpus in reporting on pension-fund investments and Israel/Palestine.
+- **Shabana Mahmood** (`entities/people/shabana-mahmood.md`) — reporting-defined-or-generic-description
+  - Current: Labour MP and senior UK government minister, serving as Home Secretary in the current government. She appears in the research corpus in reporting on national migration and deportation policy.
 
 ## Source / website review queue
 
@@ -19,21 +26,11 @@ These entities currently have neither an explicit website nor a reviewed source 
 
 - **Air Quality Scrutiny Panel** (`entities/organisations/air-quality-scrutiny-panel.md`)
 - **Community Powered Reporting** (`entities/organisations/community-powered-reporting.md`)
-- **Ealing Community Independents** (`entities/organisations/ealing-community-independents.md`)
 - **Ealing Friends of Palestine** (`entities/organisations/ealing-friends-of-palestine.md`)
-- **Ealing Friends of the Earth** (`entities/organisations/ealing-friends-of-the-earth.md`)
 - **Ealing Independent Network** (`entities/organisations/ealing-independent-network.md`)
 - **Ealing Labour** (`entities/organisations/ealing-labour.md`)
-- **European Court of Human Rights** (`entities/organisations/european-court-of-human-rights.md`)
-- **Green Party** (`entities/organisations/green-party.md`)
 - **High Court** (`entities/organisations/high-court.md`)
-- **Housing Ombudsman** (`entities/organisations/housing-ombudsman.md`)
-- **Institute for Government** (`entities/organisations/institute-for-government.md`)
-- **International Court of Justice** (`entities/organisations/international-court-of-justice.md`)
-- **Internet Archive** (`entities/organisations/internet-archive.md`)
 - **Labour Party National Executive Committee** (`entities/organisations/labour-party-national-executive-committee.md`)
-- **Labour Party** (`entities/organisations/labour-party.md`)
-- **Liberal Democrats** (`entities/organisations/liberal-democrats.md`)
 - **Local Democracy Reporting Service** (`entities/organisations/local-democracy-reporting-service.md`)
 - **London Forum** (`entities/organisations/london-forum.md`)
 - **National Front** (`entities/organisations/national-front.md`)
@@ -51,7 +48,6 @@ These entities currently have neither an explicit website nor a reviewed source 
 - **Richard Kimblin** (`entities/people/richard-kimblin.md`)
 - **Richard Watler** (`entities/people/richard-watler.md`)
 - **Salvinder Dhillon** (`entities/people/salvinder-dhillon.md`)
-- **Shabana Mahmood** (`entities/people/shabana-mahmood.md`)
 - **Swaran Singh Padda** (`entities/people/swaran-singh-padda.md`)
 - **Tasha Tah** (`entities/people/tasha-tah.md`)
 - **Tony Blair** (`entities/people/tony-blair.md`)

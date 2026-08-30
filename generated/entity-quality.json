@@ -3,14 +3,67 @@
   "rule": "An entity is complete when it has identity, a useful reader-facing description, provenance, and a first-party or authoritative source/website where one exists.",
   "counts": {
     "entities": 115,
-    "flagged": 0,
+    "flagged": 4,
     "missing_descriptions": 0,
-    "weak_descriptions": 0,
-    "without_explicit_website": 67,
-    "without_source_or_website": 56,
-    "description_and_source_complete": 59
+    "weak_descriptions": 4,
+    "without_explicit_website": 56,
+    "without_source_or_website": 45,
+    "description_and_source_complete": 66
   },
-  "flagged": [],
+  "flagged": [
+    {
+      "id": "ealing-friends-of-the-earth",
+      "name": "Ealing Friends of the Earth",
+      "type": "organisation",
+      "path": "entities/organisations/ealing-friends-of-the-earth.md",
+      "description": "Local Friends of the Earth group covering the London Borough of Ealing. It campaigns on climate change, air quality, transport, development, green space and related environmental issues, and appears in the research corpus in reporting on Ealing planning and climate policy.",
+      "website": "https://www.ealingfoe.org.uk/",
+      "reviewed_sources": [],
+      "has_source_or_website": true,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "european-court-of-human-rights",
+      "name": "European Court of Human Rights",
+      "type": "organisation",
+      "path": "entities/organisations/european-court-of-human-rights.md",
+      "description": "International court established under the European Convention on Human Rights to hear applications alleging violations of the Convention by Council of Europe member states. It appears in the research corpus in reporting on UK migration and deportation policy.",
+      "website": "https://www.echr.coe.int/",
+      "reviewed_sources": [],
+      "has_source_or_website": true,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "international-court-of-justice",
+      "name": "International Court of Justice",
+      "type": "organisation",
+      "path": "entities/organisations/international-court-of-justice.md",
+      "description": "Principal judicial organ of the United Nations, deciding legal disputes between states and giving advisory opinions on questions of international law. It appears in the research corpus in reporting on pension-fund investments and Israel/Palestine.",
+      "website": "https://www.icj-cij.org/",
+      "reviewed_sources": [],
+      "has_source_or_website": true,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    },
+    {
+      "id": "shabana-mahmood",
+      "name": "Shabana Mahmood",
+      "type": "person",
+      "path": "entities/people/shabana-mahmood.md",
+      "description": "Labour MP and senior UK government minister, serving as Home Secretary in the current government. She appears in the research corpus in reporting on national migration and deportation policy.",
+      "website": "https://www.gov.uk/government/people/shabana-mahmood",
+      "reviewed_sources": [],
+      "has_source_or_website": true,
+      "reasons": [
+        "reporting-defined-or-generic-description"
+      ]
+    }
+  ],
   "without_source_or_website": [
     {
       "id": "air-quality-scrutiny-panel",
@@ -25,22 +78,10 @@
       "path": "entities/organisations/community-powered-reporting.md"
     },
     {
-      "id": "ealing-community-independents",
-      "name": "Ealing Community Independents",
-      "type": "organisation",
-      "path": "entities/organisations/ealing-community-independents.md"
-    },
-    {
       "id": "ealing-friends-of-palestine",
       "name": "Ealing Friends of Palestine",
       "type": "organisation",
       "path": "entities/organisations/ealing-friends-of-palestine.md"
-    },
-    {
-      "id": "ealing-friends-of-the-earth",
-      "name": "Ealing Friends of the Earth",
-      "type": "organisation",
-      "path": "entities/organisations/ealing-friends-of-the-earth.md"
     },
     {
       "id": "ealing-independent-network",
@@ -55,64 +96,16 @@
       "path": "entities/organisations/ealing-labour.md"
     },
     {
-      "id": "european-court-of-human-rights",
-      "name": "European Court of Human Rights",
-      "type": "organisation",
-      "path": "entities/organisations/european-court-of-human-rights.md"
-    },
-    {
-      "id": "green-party",
-      "name": "Green Party",
-      "type": "organisation",
-      "path": "entities/organisations/green-party.md"
-    },
-    {
       "id": "high-court",
       "name": "High Court",
       "type": "organisation",
       "path": "entities/organisations/high-court.md"
     },
     {
-      "id": "housing-ombudsman",
-      "name": "Housing Ombudsman",
-      "type": "organisation",
-      "path": "entities/organisations/housing-ombudsman.md"
-    },
-    {
-      "id": "institute-for-government",
-      "name": "Institute for Government",
-      "type": "organisation",
-      "path": "entities/organisations/institute-for-government.md"
-    },
-    {
-      "id": "international-court-of-justice",
-      "name": "International Court of Justice",
-      "type": "organisation",
-      "path": "entities/organisations/international-court-of-justice.md"
-    },
-    {
-      "id": "internet-archive",
-      "name": "Internet Archive",
-      "type": "organisation",
-      "path": "entities/organisations/internet-archive.md"
-    },
-    {
       "id": "labour-party-national-executive-committee",
       "name": "Labour Party National Executive Committee",
       "type": "organisation",
       "path": "entities/organisations/labour-party-national-executive-committee.md"
-    },
-    {
-      "id": "labour-party",
-      "name": "Labour Party",
-      "type": "organisation",
-      "path": "entities/organisations/labour-party.md"
-    },
-    {
-      "id": "liberal-democrats",
-      "name": "Liberal Democrats",
-      "type": "organisation",
-      "path": "entities/organisations/liberal-democrats.md"
     },
     {
       "id": "local-democracy-reporting-service",
@@ -215,12 +208,6 @@
       "name": "Salvinder Dhillon",
       "type": "person",
       "path": "entities/people/salvinder-dhillon.md"
-    },
-    {
-      "id": "shabana-mahmood",
-      "name": "Shabana Mahmood",
-      "type": "person",
-      "path": "entities/people/shabana-mahmood.md"
     },
     {
       "id": "swaran-singh-padda",
@@ -375,22 +362,10 @@
       "path": "entities/organisations/community-powered-reporting.md"
     },
     {
-      "id": "ealing-community-independents",
-      "name": "Ealing Community Independents",
-      "type": "organisation",
-      "path": "entities/organisations/ealing-community-independents.md"
-    },
-    {
       "id": "ealing-friends-of-palestine",
       "name": "Ealing Friends of Palestine",
       "type": "organisation",
       "path": "entities/organisations/ealing-friends-of-palestine.md"
-    },
-    {
-      "id": "ealing-friends-of-the-earth",
-      "name": "Ealing Friends of the Earth",
-      "type": "organisation",
-      "path": "entities/organisations/ealing-friends-of-the-earth.md"
     },
     {
       "id": "ealing-independent-network",
@@ -405,18 +380,6 @@
       "path": "entities/organisations/ealing-labour.md"
     },
     {
-      "id": "european-court-of-human-rights",
-      "name": "European Court of Human Rights",
-      "type": "organisation",
-      "path": "entities/organisations/european-court-of-human-rights.md"
-    },
-    {
-      "id": "green-party",
-      "name": "Green Party",
-      "type": "organisation",
-      "path": "entities/organisations/green-party.md"
-    },
-    {
       "id": "henry-construction",
       "name": "Henry Construction",
       "type": "organisation",
@@ -429,46 +392,10 @@
       "path": "entities/organisations/high-court.md"
     },
     {
-      "id": "housing-ombudsman",
-      "name": "Housing Ombudsman",
-      "type": "organisation",
-      "path": "entities/organisations/housing-ombudsman.md"
-    },
-    {
-      "id": "institute-for-government",
-      "name": "Institute for Government",
-      "type": "organisation",
-      "path": "entities/organisations/institute-for-government.md"
-    },
-    {
-      "id": "international-court-of-justice",
-      "name": "International Court of Justice",
-      "type": "organisation",
-      "path": "entities/organisations/international-court-of-justice.md"
-    },
-    {
-      "id": "internet-archive",
-      "name": "Internet Archive",
-      "type": "organisation",
-      "path": "entities/organisations/internet-archive.md"
-    },
-    {
       "id": "labour-party-national-executive-committee",
       "name": "Labour Party National Executive Committee",
       "type": "organisation",
       "path": "entities/organisations/labour-party-national-executive-committee.md"
-    },
-    {
-      "id": "labour-party",
-      "name": "Labour Party",
-      "type": "organisation",
-      "path": "entities/organisations/labour-party.md"
-    },
-    {
-      "id": "liberal-democrats",
-      "name": "Liberal Democrats",
-      "type": "organisation",
-      "path": "entities/organisations/liberal-democrats.md"
     },
     {
       "id": "local-democracy-reporting-service",
@@ -583,12 +510,6 @@
       "name": "Salvinder Dhillon",
       "type": "person",
       "path": "entities/people/salvinder-dhillon.md"
-    },
-    {
-      "id": "shabana-mahmood",
-      "name": "Shabana Mahmood",
-      "type": "person",
-      "path": "entities/people/shabana-mahmood.md"
     },
     {
       "id": "swaran-singh-padda",
