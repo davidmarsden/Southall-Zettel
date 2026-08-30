@@ -6,10 +6,10 @@
     "flagged": 0,
     "missing_descriptions": 0,
     "weak_descriptions": 0,
-    "without_explicit_website": 27,
-    "source_review_queue": 16,
+    "without_explicit_website": 26,
+    "source_review_queue": 15,
     "reviewed_source_exemptions": 0,
-    "complete": 99
+    "complete": 100
   },
   "flagged": [],
   "source_review_queue": [
@@ -24,12 +24,6 @@
       "name": "National Front",
       "type": "organisation",
       "path": "entities/organisations/national-front.md"
-    },
-    {
-      "id": "dr-john-freeman",
-      "name": "Dr John Freeman",
-      "type": "person",
-      "path": "entities/people/dr-john-freeman.md"
     },
     {
       "id": "lewis-cox",
@@ -147,12 +141,6 @@
       "name": "Public Health England",
       "type": "organisation",
       "path": "entities/organisations/public-health-england.md"
-    },
-    {
-      "id": "dr-john-freeman",
-      "name": "Dr John Freeman",
-      "type": "person",
-      "path": "entities/people/dr-john-freeman.md"
     },
     {
       "id": "julian-bell",
