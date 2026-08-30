@@ -6,10 +6,10 @@
     "flagged": 0,
     "missing_descriptions": 0,
     "weak_descriptions": 0,
-    "without_explicit_website": 24,
-    "source_review_queue": 13,
+    "without_explicit_website": 23,
+    "source_review_queue": 12,
     "reviewed_source_exemptions": 0,
-    "complete": 102
+    "complete": 103
   },
   "flagged": [],
   "source_review_queue": [
@@ -24,12 +24,6 @@
       "name": "National Front",
       "type": "organisation",
       "path": "entities/organisations/national-front.md"
-    },
-    {
-      "id": "salvinder-dhillon",
-      "name": "Salvinder Dhillon",
-      "type": "person",
-      "path": "entities/people/salvinder-dhillon.md"
     },
     {
       "id": "swaran-singh-padda",
@@ -135,12 +129,6 @@
       "name": "Julian Bell",
       "type": "person",
       "path": "entities/people/julian-bell.md"
-    },
-    {
-      "id": "salvinder-dhillon",
-      "name": "Salvinder Dhillon",
-      "type": "person",
-      "path": "entities/people/salvinder-dhillon.md"
     },
     {
       "id": "swaran-singh-padda",

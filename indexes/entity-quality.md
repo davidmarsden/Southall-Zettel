@@ -5,10 +5,10 @@ An entity is complete when it has identity, a useful reader-facing description, 
 - Entities checked: **115**
 - Missing descriptions: **0**
 - Weak/generic descriptions: **0**
-- Source/website review queue: **13**
+- Source/website review queue: **12**
 - Reviewed source exemptions: **0**
-- Fully reviewed complete entities: **102**
-- No explicit website field: **24** (informational only)
+- Fully reviewed complete entities: **103**
+- No explicit website field: **23** (informational only)
 
 ## Description review queue
 
@@ -20,7 +20,6 @@ These entities still need an editorial decision: attach a suitable first-party o
 
 - **Air Quality Scrutiny Panel** (`entities/organisations/air-quality-scrutiny-panel.md`)
 - **National Front** (`entities/organisations/national-front.md`)
-- **Salvinder Dhillon** (`entities/people/salvinder-dhillon.md`)
 - **Swaran Singh Padda** (`entities/people/swaran-singh-padda.md`)
 - **Tasha Tah** (`entities/people/tasha-tah.md`)
 - **Beaconsfield Road** (`entities/places/beaconsfield-road.md`)
