@@ -31,6 +31,7 @@ Curated entities with generated mention counts.
 - [Institute for Government](../entities/organisations/institute-for-government.md) — 2 posts
 - [International Court of Justice](../entities/organisations/international-court-of-justice.md) — 2 posts
 - [Internet Archive](../entities/organisations/internet-archive.md) — 3 posts
+- [LAGER Can](../entities/organisations/lager-can.md) — 1 post
 - [Labour Party](../entities/organisations/labour-party.md) — 15 posts
 - [Labour Party National Executive Committee](../entities/organisations/labour-party-national-executive-committee.md) — 2 posts
 - [Liberal Democrats](../entities/organisations/liberal-democrats.md) — 9 posts
@@ -55,6 +56,7 @@ Curated entities with generated mention counts.
 - [Bassam Mahfouz](../entities/people/bassam-mahfouz.md) — 3 posts
 - [Blair Peach](../entities/people/blair-peach.md) — 3 posts
 - [Boris Johnson](../entities/people/boris-johnson.md) — 2 posts
+- [Cathy Swift](../entities/people/cathy-swift.md) — 0 posts
 - [Clare Welsby](../entities/people/clare-welsby.md) — 1 post
 - [Conal Urquhart](../entities/people/conal-urquhart.md) — 2 posts
 - [Craig Smith](../entities/people/craig-smith.md) — 1 post

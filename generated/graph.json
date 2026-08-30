@@ -2924,6 +2924,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:lager-can",
+      "target": "post:posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:peter-mason",
       "target": "post:posts/2026/02/13/bangarang-pirate-pete-and-the.md",
       "type": "mentioned-in"
@@ -10498,6 +10504,36 @@
     },
     {
       "provenance": "reviewed-source-record",
+      "source": "source:eci-cathy-swift-candidate-profile",
+      "target": "entity:cathy-swift",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:eci-cathy-swift-candidate-profile",
+      "target": "entity:lager-can",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:eci-cathy-swift-candidate-profile",
+      "target": "entity:ealing-community-independents",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:eci-cathy-swift-candidate-profile",
+      "target": "topic:waste-flytipping",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:eci-cathy-swift-candidate-profile",
+      "target": "topic:governance",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
       "source": "source:eci-craig-smith-candidate-profile",
       "target": "entity:craig-smith",
       "type": "relates-to"
@@ -10836,6 +10872,36 @@
       "provenance": "reviewed-source-record",
       "source": "source:independent-testing-at-southall-gasworks",
       "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-lager-can-community-directory",
+      "target": "entity:lager-can",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-lager-can-community-directory",
+      "target": "entity:cathy-swift",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-lager-can-community-directory",
+      "target": "entity:ealing-council",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-lager-can-community-directory",
+      "target": "topic:waste-flytipping",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:ealing-lager-can-community-directory",
+      "target": "topic:governance",
       "type": "relates-to"
     },
     {
@@ -12499,6 +12565,13 @@
       "type": "entity"
     },
     {
+      "id": "entity:lager-can",
+      "label": "LAGER Can",
+      "path": "entities/organisations/lager-can.md",
+      "subtype": "organisation",
+      "type": "entity"
+    },
+    {
       "id": "entity:liberal-democrats",
       "label": "Liberal Democrats",
       "path": "entities/organisations/liberal-democrats.md",
@@ -12628,6 +12701,13 @@
       "id": "entity:boris-johnson",
       "label": "Boris Johnson",
       "path": "entities/people/boris-johnson.md",
+      "subtype": "person",
+      "type": "entity"
+    },
+    {
+      "id": "entity:cathy-swift",
+      "label": "Cathy Swift",
+      "path": "entities/people/cathy-swift.md",
       "subtype": "person",
       "type": "entity"
     },
@@ -14435,6 +14515,14 @@
       "type": "source-record"
     },
     {
+      "id": "source:eci-cathy-swift-candidate-profile",
+      "label": "Cathy Swift — Greenford Broadway candidate",
+      "path": "sources/ealing-community-independents/cathy-swift-candidate-profile.md",
+      "publisher": "Ealing Community Independents",
+      "source_type": "first-party-political-profile",
+      "type": "source-record"
+    },
+    {
       "id": "source:eci-craig-smith-candidate-profile",
       "label": "Craig Smith — Ealing Community Independents candidate profile",
       "path": "sources/ealing-community-independents/craig-smith-candidate-profile.md",
@@ -14520,6 +14608,14 @@
       "path": "sources/ealing-council/independent-testing-at-southall-gasworks.md",
       "publisher": "Ealing Council",
       "source_type": "monitoring",
+      "type": "source-record"
+    },
+    {
+      "id": "source:ealing-lager-can-community-directory",
+      "label": "Litter Action Group for Ealing Residents (LAGER Can)",
+      "path": "sources/ealing-council/lager-can-community-directory.md",
+      "publisher": "Ealing Council — Do Something Good",
+      "source_type": "official-web-page",
       "type": "source-record"
     },
     {

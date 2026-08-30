@@ -2,14 +2,14 @@
   "schema_version": 3,
   "rule": "An entity is complete when it has identity, a useful reader-facing description, provenance, and a first-party or authoritative source/website where one exists; reviewed exceptions are recorded explicitly rather than filled with artificial links.",
   "counts": {
-    "entities": 119,
+    "entities": 121,
     "flagged": 0,
     "missing_descriptions": 0,
     "weak_descriptions": 0,
     "without_explicit_website": 11,
     "source_review_queue": 0,
     "reviewed_source_exemptions": 0,
-    "complete": 119
+    "complete": 121
   },
   "flagged": [],
   "source_review_queue": [],

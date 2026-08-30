@@ -171,6 +171,26 @@
     "title": "Clean Air for Southall and Hayes — archived website"
   },
   {
+    "body": "First-party 2026 candidate profile describing Cathy Swift's environmental campaigning, leadership of LAGER Can and candidacy in Greenford Broadway.",
+    "canonical_url": "https://ealingindependents.org/candidates/",
+    "id": "eci-cathy-swift-candidate-profile",
+    "path": "sources/ealing-community-independents/cathy-swift-candidate-profile.md",
+    "publisher": "Ealing Community Independents",
+    "related_entities": [
+      "cathy-swift",
+      "lager-can",
+      "ealing-community-independents"
+    ],
+    "related_topics": [
+      "waste-flytipping",
+      "governance"
+    ],
+    "review_status": "reviewed",
+    "source_type": "first-party-political-profile",
+    "temporal_status": "historical",
+    "title": "Cathy Swift — Greenford Broadway candidate"
+  },
+  {
     "body": "First-party candidate biography describing Craig Smith as a community campaigner and trade unionist, founder of the Save Ealing Children's Centres campaign, former school governor and business journalist, strategic communications professional, and founder of Ealing Community Independents.",
     "canonical_url": "https://ealingindependents.org/candidates/",
     "evidence_role": "primary-biography",
@@ -411,6 +431,26 @@
     "review_status": "reviewed",
     "source_type": "monitoring",
     "title": "Independent testing at Southall Gasworks"
+  },
+  {
+    "body": "Ealing Council community directory entry describing LAGER Can as a borough-wide volunteer group working to make Ealing cleaner and greener and identifying Cathy Swift as Chair.",
+    "canonical_url": "https://dosomethinggood.ealing.gov.uk/community-support/litter-action-group-for-ealing-residents-lager-can/",
+    "id": "ealing-lager-can-community-directory",
+    "path": "sources/ealing-council/lager-can-community-directory.md",
+    "publisher": "Ealing Council — Do Something Good",
+    "related_entities": [
+      "lager-can",
+      "cathy-swift",
+      "ealing-council"
+    ],
+    "related_topics": [
+      "waste-flytipping",
+      "governance"
+    ],
+    "review_status": "reviewed",
+    "source_type": "official-web-page",
+    "temporal_status": "current",
+    "title": "Litter Action Group for Ealing Residents (LAGER Can)"
   },
   {
     "body": "Primary Ealing Council land and property strategy, cited in reporting on the council's asset-management and disposal programme.",

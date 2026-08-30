@@ -179,6 +179,7 @@ Generated reverse links between posts plus entity/topic mention counts.
 - **Craig Smith** — 1
 - **Ealing Friends of Palestine** — 1
 - **Ealing Friends of the Earth** — 1
+- **LAGER Can** — 1
 - **Revd Canon Mark Poulson** — 1
 
 ## Most-mentioned topics

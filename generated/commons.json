@@ -6062,11 +6062,11 @@
     "citation_titles_rejected_as_stale_redirects": 4,
     "citations": 668,
     "citations_with_destination_titles": 345,
-    "entities": 119,
-    "links": 1188,
+    "entities": 121,
+    "links": 1189,
     "posts": 69,
     "relationships": 25,
-    "sources": 45,
+    "sources": 47,
     "topics": 10
   },
   "entities": [
@@ -6186,6 +6186,19 @@
       "website": {
         "label": "UK Government — Boris Johnson",
         "url": "https://www.gov.uk/government/history/past-prime-ministers/boris-johnson"
+      }
+    },
+    {
+      "aliases": [],
+      "description": "Ealing environmental campaigner and Chair of LAGER Can, the Litter Action Group for Ealing Residents. She has led the group's borough-wide growth and campaigning on litter, fly-tipping and waste policy, and stood for Ealing Community Independents in Greenford Broadway at the 2026 council elections.",
+      "id": "entity:cathy-swift",
+      "name": "Cathy Swift",
+      "provenance": "curated-entity",
+      "review_status": "reviewed",
+      "type": "person",
+      "website": {
+        "label": "Ealing Community Independents — Cathy Swift",
+        "url": "https://ealingindependents.org/candidates/"
       }
     },
     {
@@ -6920,6 +6933,23 @@
       "website": {
         "label": "Ealing Council — Lady Margaret ward election results 2026",
         "url": "https://www.ealing.gov.uk/info/201276/council_elections/3595/council_elections_results_7_may_2026/10"
+      }
+    },
+    {
+      "aliases": [
+        "LAGERcan",
+        "LAGER CAN",
+        "Litter Action Group for Ealing Residents"
+      ],
+      "description": "Volunteer environmental group working across the London Borough of Ealing to tackle litter, fly-tipping and related environmental problems. Founded in 2017, LAGER Can has grown into a borough-wide network of thousands of volunteers and received the Queen's Award for Voluntary Service in 2021.",
+      "id": "entity:lager-can",
+      "name": "LAGER Can",
+      "provenance": "curated-entity",
+      "review_status": "reviewed",
+      "type": "organisation",
+      "website": {
+        "label": "Ealing Council community directory — LAGER Can",
+        "url": "https://dosomethinggood.ealing.gov.uk/community-support/litter-action-group-for-ealing-residents-lager-can/"
       }
     },
     {
@@ -10107,6 +10137,12 @@
       "provenance": "deterministic-alias-match",
       "source": "entity:lady-margaret",
       "target": "post:5855337",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:lager-can",
+      "target": "post:5754191",
       "type": "mentioned-in"
     },
     {
@@ -16843,6 +16879,29 @@
     },
     {
       "archive_urls": [],
+      "canonical_url": "https://dosomethinggood.ealing.gov.uk/community-support/litter-action-group-for-ealing-residents-lager-can/",
+      "cited_by": [],
+      "id": "source:ealing-lager-can-community-directory",
+      "meeting_date": null,
+      "provenance": "reviewed-source-record",
+      "publication_date": null,
+      "publisher": "Ealing Council — Do Something Good",
+      "related_entities": [
+        "entity:lager-can",
+        "entity:cathy-swift",
+        "entity:ealing-council"
+      ],
+      "related_topics": [
+        "topic:waste-flytipping",
+        "topic:governance"
+      ],
+      "review_status": "reviewed",
+      "source_type": "official-web-page",
+      "temporal_status": "current",
+      "title": "Litter Action Group for Ealing Residents (LAGER Can)"
+    },
+    {
+      "archive_urls": [],
       "canonical_url": "https://www.ealing.gov.uk/download/downloads/id/18971/land_and_property_strategy.pdf",
       "cited_by": [
         "post:5581562"
@@ -16938,6 +16997,29 @@
       "source_type": "civic_programme_page",
       "temporal_status": null,
       "title": "Southall Town Team"
+    },
+    {
+      "archive_urls": [],
+      "canonical_url": "https://ealingindependents.org/candidates/",
+      "cited_by": [],
+      "id": "source:eci-cathy-swift-candidate-profile",
+      "meeting_date": null,
+      "provenance": "reviewed-source-record",
+      "publication_date": null,
+      "publisher": "Ealing Community Independents",
+      "related_entities": [
+        "entity:cathy-swift",
+        "entity:lager-can",
+        "entity:ealing-community-independents"
+      ],
+      "related_topics": [
+        "topic:waste-flytipping",
+        "topic:governance"
+      ],
+      "review_status": "reviewed",
+      "source_type": "first-party-political-profile",
+      "temporal_status": "historical",
+      "title": "Cathy Swift — Greenford Broadway candidate"
     },
     {
       "archive_urls": [],

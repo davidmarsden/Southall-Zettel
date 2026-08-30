@@ -66,6 +66,14 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **URL:** https://theviewfromw5.substack.com/
 - **Cited by:** 0 post(s)
 
+## Cathy Swift — Greenford Broadway candidate
+
+- **ID:** `eci-cathy-swift-candidate-profile`
+- **Publisher:** Ealing Community Independents
+- **Type:** `first-party-political-profile`
+- **URL:** https://ealingindependents.org/candidates/
+- **Cited by:** 0 post(s)
+
 ## Craig Smith — Ealing Community Independents candidate profile
 
 - **ID:** `eci-craig-smith-candidate-profile`
@@ -273,6 +281,14 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **Type:** `council_questions`
 - **URL:** https://ealing.moderngov.co.uk/Data/Council/201804241930/Agenda/Written%20Council%20Questions%20-%2024%20April%202018.pdf
 - **Cited by:** 2 post(s)
+
+## Litter Action Group for Ealing Residents (LAGER Can)
+
+- **ID:** `ealing-lager-can-community-directory`
+- **Publisher:** Ealing Council — Do Something Good
+- **Type:** `official-web-page`
+- **URL:** https://dosomethinggood.ealing.gov.uk/community-support/litter-action-group-for-ealing-residents-lager-can/
+- **Cited by:** 0 post(s)
 
 ## Mayor's Question Time: Henry Construction
 
