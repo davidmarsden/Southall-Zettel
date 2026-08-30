@@ -6066,7 +6066,7 @@
     "links": 1182,
     "posts": 69,
     "relationships": 25,
-    "sources": 33,
+    "sources": 35,
     "topics": 10
   },
   "entities": [
@@ -16294,6 +16294,29 @@
     },
     {
       "archive_urls": [],
+      "canonical_url": "https://web.archive.org/web/20220518005343/https://southallandhayescleanair.org.uk/",
+      "cited_by": [],
+      "id": "source:cash-archived-website-2022",
+      "meeting_date": null,
+      "provenance": "reviewed-source-record",
+      "publication_date": null,
+      "publisher": "Clean Air for Southall and Hayes",
+      "related_entities": [
+        "entity:clean-air-for-southall-and-hayes",
+        "entity:angela-fonso"
+      ],
+      "related_topics": [
+        "topic:air-pollution",
+        "topic:public-health",
+        "topic:planning-development"
+      ],
+      "review_status": "reviewed",
+      "source_type": "archived-website",
+      "temporal_status": "historical",
+      "title": "Clean Air for Southall and Hayes — archived website"
+    },
+    {
+      "archive_urls": [],
       "canonical_url": "https://register.charitycommission.gov.uk/en/charity-details/?regId=1104671",
       "cited_by": [
         "post:5859956"
@@ -17029,6 +17052,28 @@
       "source_type": "book",
       "temporal_status": null,
       "title": "The Property Lobby: The Hidden Reality behind the Housing Crisis"
+    },
+    {
+      "archive_urls": [],
+      "canonical_url": "https://theviewfromw5.substack.com/",
+      "cited_by": [],
+      "id": "source:the-view-from-w5",
+      "meeting_date": null,
+      "provenance": "reviewed-source-record",
+      "publication_date": null,
+      "publisher": "Conal Urquhart",
+      "related_entities": [
+        "entity:conal-urquhart"
+      ],
+      "related_topics": [
+        "topic:council-accountability",
+        "topic:governance",
+        "topic:planning-development"
+      ],
+      "review_status": "reviewed",
+      "source_type": "journalism",
+      "temporal_status": "current",
+      "title": "The View from W5"
     }
   ],
   "topics": [

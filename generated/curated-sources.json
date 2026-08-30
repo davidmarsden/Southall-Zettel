@@ -114,6 +114,26 @@
     "title": "Southall Community Alliance charity register entry"
   },
   {
+    "body": "Preserved May 2022 snapshot of the Clean Air for Southall and Hayes website. Used as the public project reference because the original domain is no longer a reliable representation of CASH.",
+    "canonical_url": "https://web.archive.org/web/20220518005343/https://southallandhayescleanair.org.uk/",
+    "id": "cash-archived-website-2022",
+    "path": "sources/clean-air-for-southall-and-hayes/archived-website-2022.md",
+    "publisher": "Clean Air for Southall and Hayes",
+    "related_entities": [
+      "clean-air-for-southall-and-hayes",
+      "angela-fonso"
+    ],
+    "related_topics": [
+      "air-pollution",
+      "public-health",
+      "planning-development"
+    ],
+    "review_status": "reviewed",
+    "source_type": "archived-website",
+    "temporal_status": "historical",
+    "title": "Clean Air for Southall and Hayes — archived website"
+  },
+  {
     "archive_urls": [
       "https://web.archive.org/web/20220120143225/https://ealingperformance.inphase.com/Detail/865_17759",
       "https://web.archive.org/web/20220120134535/https://ealingperformance.inphase.com/Detail/865_17759?s=09"
@@ -762,5 +782,24 @@
     "review_status": "reviewed",
     "source_type": "governance_page",
     "title": "Southall Community Alliance trustees and staff"
+  },
+  {
+    "body": "Conal Urquhart's independent West London news publication and a primary Civic Commons journalism source covering Ealing and neighbouring areas.",
+    "canonical_url": "https://theviewfromw5.substack.com/",
+    "id": "the-view-from-w5",
+    "path": "sources/the-view-from-w5/the-view-from-w5.md",
+    "publisher": "Conal Urquhart",
+    "related_entities": [
+      "conal-urquhart"
+    ],
+    "related_topics": [
+      "council-accountability",
+      "governance",
+      "planning-development"
+    ],
+    "review_status": "reviewed",
+    "source_type": "journalism",
+    "temporal_status": "current",
+    "title": "The View from W5"
   }
 ]

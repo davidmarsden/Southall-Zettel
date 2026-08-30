@@ -10402,6 +10402,36 @@
     },
     {
       "provenance": "reviewed-source-record",
+      "source": "source:cash-archived-website-2022",
+      "target": "entity:clean-air-for-southall-and-hayes",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:cash-archived-website-2022",
+      "target": "entity:angela-fonso",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:cash-archived-website-2022",
+      "target": "topic:air-pollution",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:cash-archived-website-2022",
+      "target": "topic:public-health",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:cash-archived-website-2022",
+      "target": "topic:planning-development",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
       "source": "post:posts/2026/01/18/demolition-man-peter-masons-legacy.md",
       "target": "source:affordable-homes-performance-dashboard",
       "type": "cites-source"
@@ -11490,6 +11520,30 @@
       "provenance": "reviewed-source-record",
       "source": "source:southall-community-alliance-trustees",
       "target": "topic:governance",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:the-view-from-w5",
+      "target": "entity:conal-urquhart",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:the-view-from-w5",
+      "target": "topic:council-accountability",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:the-view-from-w5",
+      "target": "topic:governance",
+      "type": "relates-to"
+    },
+    {
+      "provenance": "reviewed-source-record",
+      "source": "source:the-view-from-w5",
+      "target": "topic:planning-development",
       "type": "relates-to"
     },
     {
@@ -14083,6 +14137,14 @@
       "type": "source-record"
     },
     {
+      "id": "source:cash-archived-website-2022",
+      "label": "Clean Air for Southall and Hayes — archived website",
+      "path": "sources/clean-air-for-southall-and-hayes/archived-website-2022.md",
+      "publisher": "Clean Air for Southall and Hayes",
+      "source_type": "archived-website",
+      "type": "source-record"
+    },
+    {
       "id": "source:affordable-homes-performance-dashboard",
       "label": "Ealing affordable homes performance dashboard",
       "path": "sources/ealing-council/affordable-homes-performance-dashboard.md",
@@ -14304,6 +14366,14 @@
       "path": "sources/southall-community-alliance/trustees.md",
       "publisher": "Southall Community Alliance",
       "source_type": "governance_page",
+      "type": "source-record"
+    },
+    {
+      "id": "source:the-view-from-w5",
+      "label": "The View from W5",
+      "path": "sources/the-view-from-w5/the-view-from-w5.md",
+      "publisher": "Conal Urquhart",
+      "source_type": "journalism",
       "type": "source-record"
     }
   ]

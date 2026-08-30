@@ -34,6 +34,22 @@ High-value primary or authoritative evidence promoted from raw outbound links.
 - **URL:** https://register.charitycommission.gov.uk/en/charity-details/?regId=1104671
 - **Cited by:** 1 post(s)
 
+## Clean Air for Southall and Hayes — archived website
+
+- **ID:** `cash-archived-website-2022`
+- **Publisher:** Clean Air for Southall and Hayes
+- **Type:** `archived-website`
+- **URL:** https://web.archive.org/web/20220518005343/https://southallandhayescleanair.org.uk/
+- **Cited by:** 0 post(s)
+
+## The View from W5
+
+- **ID:** `the-view-from-w5`
+- **Publisher:** Conal Urquhart
+- **Type:** `journalism`
+- **URL:** https://theviewfromw5.substack.com/
+- **Cited by:** 0 post(s)
+
 ## Council Performance Year End 2021-22
 
 - **ID:** `council-performance-year-end-2021-22`
