@@ -6,55 +6,13 @@
     "flagged": 0,
     "missing_descriptions": 0,
     "weak_descriptions": 0,
-    "without_explicit_website": 21,
-    "source_review_queue": 10,
+    "without_explicit_website": 14,
+    "source_review_queue": 3,
     "reviewed_source_exemptions": 0,
-    "complete": 105
+    "complete": 112
   },
   "flagged": [],
   "source_review_queue": [
-    {
-      "id": "air-quality-scrutiny-panel",
-      "name": "Air Quality Scrutiny Panel",
-      "type": "organisation",
-      "path": "entities/organisations/air-quality-scrutiny-panel.md"
-    },
-    {
-      "id": "national-front",
-      "name": "National Front",
-      "type": "organisation",
-      "path": "entities/organisations/national-front.md"
-    },
-    {
-      "id": "beaconsfield-road",
-      "name": "Beaconsfield Road",
-      "type": "place",
-      "path": "entities/places/beaconsfield-road.md"
-    },
-    {
-      "id": "grove-house",
-      "name": "Grove House",
-      "type": "place",
-      "path": "entities/places/grove-house.md"
-    },
-    {
-      "id": "king-street",
-      "name": "King Street",
-      "type": "place",
-      "path": "entities/places/king-street.md"
-    },
-    {
-      "id": "minet-park",
-      "name": "Minet Park",
-      "type": "place",
-      "path": "entities/places/minet-park.md"
-    },
-    {
-      "id": "saklatvala-hall",
-      "name": "Saklatvala Hall",
-      "type": "place",
-      "path": "entities/places/saklatvala-hall.md"
-    },
     {
       "id": "scotts-road",
       "name": "Scotts Road",
@@ -77,12 +35,6 @@
   "reviewed_source_exemptions": [],
   "without_explicit_website": [
     {
-      "id": "air-quality-scrutiny-panel",
-      "name": "Air Quality Scrutiny Panel",
-      "type": "organisation",
-      "path": "entities/organisations/air-quality-scrutiny-panel.md"
-    },
-    {
       "id": "blair-peach-primary-school",
       "name": "Blair Peach Primary School",
       "type": "organisation",
@@ -101,12 +53,6 @@
       "path": "entities/organisations/henry-construction.md"
     },
     {
-      "id": "national-front",
-      "name": "National Front",
-      "type": "organisation",
-      "path": "entities/organisations/national-front.md"
-    },
-    {
       "id": "public-health-england",
       "name": "Public Health England",
       "type": "organisation",
@@ -119,40 +65,10 @@
       "path": "entities/people/julian-bell.md"
     },
     {
-      "id": "beaconsfield-road",
-      "name": "Beaconsfield Road",
-      "type": "place",
-      "path": "entities/places/beaconsfield-road.md"
-    },
-    {
-      "id": "grove-house",
-      "name": "Grove House",
-      "type": "place",
-      "path": "entities/places/grove-house.md"
-    },
-    {
-      "id": "king-street",
-      "name": "King Street",
-      "type": "place",
-      "path": "entities/places/king-street.md"
-    },
-    {
-      "id": "minet-park",
-      "name": "Minet Park",
-      "type": "place",
-      "path": "entities/places/minet-park.md"
-    },
-    {
       "id": "norwood-road",
       "name": "Norwood Road",
       "type": "place",
       "path": "entities/places/norwood-road.md"
-    },
-    {
-      "id": "saklatvala-hall",
-      "name": "Saklatvala Hall",
-      "type": "place",
-      "path": "entities/places/saklatvala-hall.md"
     },
     {
       "id": "scotts-road",

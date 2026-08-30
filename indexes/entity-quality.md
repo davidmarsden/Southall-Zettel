@@ -5,10 +5,10 @@ An entity is complete when it has identity, a useful reader-facing description, 
 - Entities checked: **115**
 - Missing descriptions: **0**
 - Weak/generic descriptions: **0**
-- Source/website review queue: **10**
+- Source/website review queue: **3**
 - Reviewed source exemptions: **0**
-- Fully reviewed complete entities: **105**
-- No explicit website field: **21** (informational only)
+- Fully reviewed complete entities: **112**
+- No explicit website field: **14** (informational only)
 
 ## Description review queue
 
@@ -18,13 +18,6 @@ No description-quality flags.
 
 These entities still need an editorial decision: attach a suitable first-party or authoritative source/website where one exists, or explicitly record `source_review: no-suitable-external-source` / `not-applicable` when no meaningful external link should be manufactured.
 
-- **Air Quality Scrutiny Panel** (`entities/organisations/air-quality-scrutiny-panel.md`)
-- **National Front** (`entities/organisations/national-front.md`)
-- **Beaconsfield Road** (`entities/places/beaconsfield-road.md`)
-- **Grove House** (`entities/places/grove-house.md`)
-- **King Street** (`entities/places/king-street.md`)
-- **Minet Park** (`entities/places/minet-park.md`)
-- **Saklatvala Hall** (`entities/places/saklatvala-hall.md`)
 - **Scotts Road** (`entities/places/scotts-road.md`)
 - **Southall Market** (`entities/places/southall-market.md`)
 - **West London** (`entities/places/west-london.md`)

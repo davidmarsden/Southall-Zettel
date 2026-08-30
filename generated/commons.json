@@ -6074,13 +6074,13 @@
       "aliases": [
         "Ealing Air Quality Scrutiny Panel"
       ],
-      "description": "Ealing Council scrutiny panel referenced in reporting on Southall air pollution and enforcement.",
+      "description": "Ealing Council scrutiny initiative developed through the borough's Overview and Scrutiny process to examine air-quality policy, monitoring and enforcement.",
       "id": "entity:air-quality-scrutiny-panel",
       "name": "Air Quality Scrutiny Panel",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://ealing.moderngov.co.uk/Data/Overview%20and%20Scrutiny%20Committee/201703091900/Agenda/OSC%20Minutes%20-%20%2809.03.17%29.pdf"
     },
     {
       "aliases": [],
@@ -6136,7 +6136,7 @@
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "place",
-      "website": null
+      "website": "https://www.ealing.gov.uk/directory_record/282/hayes_bridge"
     },
     {
       "aliases": [
@@ -6583,13 +6583,13 @@
       "aliases": [
         "Grove House hub"
       ],
-      "description": "Southall children's centre hub referenced in reporting on Ealing Council's children's-centre closures.",
+      "description": "Grove House Children's Centre at 77a North Road, Southall, an Ealing children's-centre hub serving families in and around Dormers Wells and Southall.",
       "id": "entity:grove-house",
       "name": "Grove House",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "place",
-      "website": null
+      "website": "https://get-information-schools.service.gov.uk/Establishments/Establishment/Details/21319"
     },
     {
       "aliases": [
@@ -6830,13 +6830,13 @@
       "aliases": [
         "King Street, Southall"
       ],
-      "description": "Street in Southall appearing in air-quality and local civic reporting.",
+      "description": "Street and neighbourhood centre in Southall Green, forming part of the local shopping and community area around The Green and the Dominion Centre.",
       "id": "entity:king-street",
       "name": "King Street",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "place",
-      "website": null
+      "website": "https://www.ealing.gov.uk/download/downloads/id/19585/southall_regeneration_framework.pdf"
     },
     {
       "aliases": [
@@ -6976,13 +6976,13 @@
     },
     {
       "aliases": [],
-      "description": "Park north-west of the Southall Gasworks site and location of air-quality monitoring referenced in the corpus.",
+      "description": "Park and open-space area north-west of the former Southall Gasworks site, connected to the wider Southall Green landscape and used as a location in local air-quality monitoring and redevelopment evidence.",
       "id": "entity:minet-park",
       "name": "Minet Park",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "place",
-      "website": null
+      "website": "https://www.ealing.gov.uk/download/downloads/id/18216/chapter_2_-_site_context.pdf"
     },
     {
       "aliases": [
@@ -7007,7 +7007,7 @@
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "organisation",
-      "website": null
+      "website": "https://www.northampton.ac.uk/about-us/services-and-facilities/the-searchlight-archives/"
     },
     {
       "aliases": [],
@@ -7188,13 +7188,13 @@
     },
     {
       "aliases": [],
-      "description": "Venue on Dominion Road, Southall, used for the Community Powered Reporting launch and other civic activity.",
+      "description": "Community and political meeting hall on Dominion Road, Southall, named after former Communist MP Shapurji Saklatvala and used for public meetings, campaigning and community events.",
       "id": "entity:saklatvala-hall",
       "name": "Saklatvala Hall",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "place",
-      "website": null
+      "website": "https://archive.cpgb-ml.org/index.php?leafletId=77&secName=leaflets&subName=display"
     },
     {
       "aliases": [
