@@ -6,10 +6,10 @@
     "flagged": 0,
     "missing_descriptions": 0,
     "weak_descriptions": 0,
-    "without_explicit_website": 23,
-    "source_review_queue": 12,
+    "without_explicit_website": 21,
+    "source_review_queue": 10,
     "reviewed_source_exemptions": 0,
-    "complete": 103
+    "complete": 105
   },
   "flagged": [],
   "source_review_queue": [
@@ -24,18 +24,6 @@
       "name": "National Front",
       "type": "organisation",
       "path": "entities/organisations/national-front.md"
-    },
-    {
-      "id": "swaran-singh-padda",
-      "name": "Swaran Singh Padda",
-      "type": "person",
-      "path": "entities/people/swaran-singh-padda.md"
-    },
-    {
-      "id": "tasha-tah",
-      "name": "Tasha Tah",
-      "type": "person",
-      "path": "entities/people/tasha-tah.md"
     },
     {
       "id": "beaconsfield-road",
@@ -129,18 +117,6 @@
       "name": "Julian Bell",
       "type": "person",
       "path": "entities/people/julian-bell.md"
-    },
-    {
-      "id": "swaran-singh-padda",
-      "name": "Swaran Singh Padda",
-      "type": "person",
-      "path": "entities/people/swaran-singh-padda.md"
-    },
-    {
-      "id": "tasha-tah",
-      "name": "Tasha Tah",
-      "type": "person",
-      "path": "entities/people/tasha-tah.md"
     },
     {
       "id": "beaconsfield-road",

@@ -7447,23 +7447,23 @@
       "aliases": [
         "Swaran Padda"
       ],
-      "description": "Person entity. Shorter name form is treated as an alias of Swaran Singh Padda.",
+      "description": "Former Ealing councillor for Lady Margaret, originally elected for Labour. He left the Labour group in November 2025 to sit as an independent and later stood as an independent candidate in Southall Green at the 2026 local elections.",
       "id": "entity:swaran-singh-padda",
       "name": "Swaran Singh Padda",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "person",
-      "website": null
+      "website": "https://ealing.moderngov.co.uk/documents/g6665/Public%20reports%20pack%20Tuesday%2016-Dec-2025%2019.00%20Council.pdf?T=10"
     },
     {
       "aliases": [],
-      "description": "Singer and Southall-related public figure referenced in the corpus.",
+      "description": "West London British-Asian singer and songwriter known for an urban Punjabi / desi-pop sound, with charting releases including Haan De Munde, Oye Oye and Bang Bang.",
       "id": "entity:tasha-tah",
       "name": "Tasha Tah",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "person",
-      "website": null
+      "website": "https://www.tashatahworld.com/"
     },
     {
       "aliases": [
