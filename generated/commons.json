@@ -7173,13 +7173,13 @@
     },
     {
       "aliases": [],
-      "description": "River in west London referenced in local pollution and enforcement reporting.",
+      "description": "West London river flowing through parts of Ealing and Hounslow before joining the Thames, with sections running through Greenford, Hanwell and the Brent River Park landscape. It is relevant to local flooding, pollution, habitat and enforcement issues.",
       "id": "entity:river-brent",
       "name": "River Brent",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "place",
-      "website": null
+      "website": "https://check-for-flooding.service.gov.uk/target-area/062FWF38LBEaling"
     },
     {
       "aliases": [],
@@ -7403,13 +7403,13 @@
         "Young Adult Centre",
         "YAC"
       ],
-      "description": "Southall youth and community facility whose threatened demolition and community campaign recur in the corpus.",
+      "description": "Youth and community facility on Park View Road in Southall, providing sports, recreation and youth activities and reopened after a major Ealing Council refurbishment.",
       "id": "entity:southall-young-adult-centre",
       "name": "Southall Young Adult Centre",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "place",
-      "website": null
+      "website": "https://www.youngealing.co.uk/young-adult-centre-3/"
     },
     {
       "aliases": [
@@ -7530,7 +7530,7 @@
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "place",
-      "website": null
+      "website": "https://www.ealing.gov.uk/info/201146/neighbourhood_and_streets/2433/liveable_neighbourhoods/2"
     },
     {
       "aliases": [],

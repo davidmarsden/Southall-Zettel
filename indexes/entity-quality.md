@@ -5,9 +5,9 @@ An entity is complete when it has identity, a useful reader-facing description, 
 - Entities checked: **115**
 - Missing descriptions: **0**
 - Weak/generic descriptions: **1**
-- No source or website: **26**
-- Description + source/website complete: **88**
-- No explicit website field: **37** (informational only)
+- No source or website: **23**
+- Description + source/website complete: **91**
+- No explicit website field: **34** (informational only)
 
 ## Description review queue
 
@@ -35,12 +35,9 @@ These entities currently have neither an explicit website nor a reviewed source 
 - **Grove House** (`entities/places/grove-house.md`)
 - **King Street** (`entities/places/king-street.md`)
 - **Minet Park** (`entities/places/minet-park.md`)
-- **River Brent** (`entities/places/river-brent.md`)
 - **Saklatvala Hall** (`entities/places/saklatvala-hall.md`)
 - **Scotts Road** (`entities/places/scotts-road.md`)
 - **Southall Broadway** (`entities/places/southall-broadway.md`)
 - **Southall Market** (`entities/places/southall-market.md`)
-- **Southall Young Adult Centre** (`entities/places/southall-young-adult-centre.md`)
 - **The Green** (`entities/places/the-green.md`)
-- **West Ealing** (`entities/places/west-ealing.md`)
 - **West London** (`entities/places/west-london.md`)

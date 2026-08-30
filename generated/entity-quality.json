@@ -6,9 +6,9 @@
     "flagged": 1,
     "missing_descriptions": 0,
     "weak_descriptions": 1,
-    "without_explicit_website": 37,
-    "without_source_or_website": 26,
-    "description_and_source_complete": 88
+    "without_explicit_website": 34,
+    "without_source_or_website": 23,
+    "description_and_source_complete": 91
   },
   "flagged": [
     {
@@ -129,12 +129,6 @@
       "path": "entities/places/minet-park.md"
     },
     {
-      "id": "river-brent",
-      "name": "River Brent",
-      "type": "place",
-      "path": "entities/places/river-brent.md"
-    },
-    {
       "id": "saklatvala-hall",
       "name": "Saklatvala Hall",
       "type": "place",
@@ -159,22 +153,10 @@
       "path": "entities/places/southall-market.md"
     },
     {
-      "id": "southall-young-adult-centre",
-      "name": "Southall Young Adult Centre",
-      "type": "place",
-      "path": "entities/places/southall-young-adult-centre.md"
-    },
-    {
       "id": "the-green",
       "name": "The Green",
       "type": "place",
       "path": "entities/places/the-green.md"
-    },
-    {
-      "id": "west-ealing",
-      "name": "West Ealing",
-      "type": "place",
-      "path": "entities/places/west-ealing.md"
     },
     {
       "id": "west-london",
@@ -323,12 +305,6 @@
       "path": "entities/places/norwood-road.md"
     },
     {
-      "id": "river-brent",
-      "name": "River Brent",
-      "type": "place",
-      "path": "entities/places/river-brent.md"
-    },
-    {
       "id": "saklatvala-hall",
       "name": "Saklatvala Hall",
       "type": "place",
@@ -371,12 +347,6 @@
       "path": "entities/places/southall-market.md"
     },
     {
-      "id": "southall-young-adult-centre",
-      "name": "Southall Young Adult Centre",
-      "type": "place",
-      "path": "entities/places/southall-young-adult-centre.md"
-    },
-    {
       "id": "southall",
       "name": "Southall",
       "type": "place",
@@ -387,12 +357,6 @@
       "name": "The Green",
       "type": "place",
       "path": "entities/places/the-green.md"
-    },
-    {
-      "id": "west-ealing",
-      "name": "West Ealing",
-      "type": "place",
-      "path": "entities/places/west-ealing.md"
     },
     {
       "id": "west-london",
