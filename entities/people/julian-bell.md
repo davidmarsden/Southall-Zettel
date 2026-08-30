@@ -7,4 +7,4 @@ aliases:
   - "Councillor Julian Bell"
 ---
 
-Former leader of Ealing Council and recurring figure in Southall Stories reporting.
+Labour politician who served as Leader of Ealing Council before Peter Mason. His period as council leader included the early remediation and redevelopment of the former Southall Gasworks and major council regeneration programmes.

@@ -6,4 +6,4 @@ aliases:
   - "Rick Watler"
 ---
 
-Figure associated with Southall Waterside / the Southall Gasworks development in the corpus.
+Construction executive who was Berkeley Group's Head of Construction at Southall Waterside during the redevelopment of the former Southall Gasworks. He was also a co-opted governor of nearby Blair Peach Primary School from 2017 until 2019.

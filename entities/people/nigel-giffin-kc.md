@@ -4,6 +4,9 @@ name: "Nigel Giffin KC"
 type: person
 aliases:
   - "Nigel Giffin"
+website:
+  label: "11KBW — Nigel Giffin KC"
+  url: "https://www.11kbw.com/barristers/nigel-giffin-kc/"
 ---
 
-Barrister whose legal opinion for the Local Government Association is cited in the Southall Stories corpus.
+King's Counsel at 11KBW whose practice is principally in public law, including local-government law, judicial review, education, housing, public finance and elections. He has provided legal advice to the Local Government Association.

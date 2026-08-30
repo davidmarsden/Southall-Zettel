@@ -6,4 +6,4 @@ aliases:
   - "Cllr John Martin"
 ---
 
-Ealing councillor and local political figure recurring in Southall Stories reporting.
+Independent Ealing councillor for Norwood Green, elected in May 2026 with 1,396 votes. He is also a current member of the Ealing Safer Neighbourhood Board.
