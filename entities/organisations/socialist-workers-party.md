@@ -2,8 +2,9 @@
 id: socialist-workers-party
 name: "Socialist Workers Party"
 type: organisation
+website: "https://socialistworker.co.uk/about-the-swp/"
 aliases:
   - "SWP"
 ---
 
-Political organisation referenced in reporting on Blair Peach and local political debate.
+British revolutionary socialist political organisation with branches around the country, active in protests, strikes and campaigns on racism, inequality, climate and other issues.
