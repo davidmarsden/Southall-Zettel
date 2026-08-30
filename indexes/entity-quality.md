@@ -5,10 +5,10 @@ An entity is complete when it has identity, a useful reader-facing description, 
 - Entities checked: **115**
 - Missing descriptions: **0**
 - Weak/generic descriptions: **0**
-- Source/website review queue: **17**
+- Source/website review queue: **16**
 - Reviewed source exemptions: **0**
-- Fully reviewed complete entities: **98**
-- No explicit website field: **28** (informational only)
+- Fully reviewed complete entities: **99**
+- No explicit website field: **27** (informational only)
 
 ## Description review queue
 
@@ -20,7 +20,6 @@ These entities still need an editorial decision: attach a suitable first-party o
 
 - **Air Quality Scrutiny Panel** (`entities/organisations/air-quality-scrutiny-panel.md`)
 - **National Front** (`entities/organisations/national-front.md`)
-- **Damian Leydon** (`entities/people/damian-leydon.md`)
 - **Dr John Freeman** (`entities/people/dr-john-freeman.md`)
 - **Lewis Cox** (`entities/people/lewis-cox.md`)
 - **Richard Watler** (`entities/people/richard-watler.md`)

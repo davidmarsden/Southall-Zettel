@@ -6,10 +6,10 @@
     "flagged": 0,
     "missing_descriptions": 0,
     "weak_descriptions": 0,
-    "without_explicit_website": 28,
-    "source_review_queue": 17,
+    "without_explicit_website": 27,
+    "source_review_queue": 16,
     "reviewed_source_exemptions": 0,
-    "complete": 98
+    "complete": 99
   },
   "flagged": [],
   "source_review_queue": [
@@ -24,12 +24,6 @@
       "name": "National Front",
       "type": "organisation",
       "path": "entities/organisations/national-front.md"
-    },
-    {
-      "id": "damian-leydon",
-      "name": "Damian Leydon",
-      "type": "person",
-      "path": "entities/people/damian-leydon.md"
     },
     {
       "id": "dr-john-freeman",
@@ -153,12 +147,6 @@
       "name": "Public Health England",
       "type": "organisation",
       "path": "entities/organisations/public-health-england.md"
-    },
-    {
-      "id": "damian-leydon",
-      "name": "Damian Leydon",
-      "type": "person",
-      "path": "entities/people/damian-leydon.md"
     },
     {
       "id": "dr-john-freeman",
