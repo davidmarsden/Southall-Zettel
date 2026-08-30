@@ -2662,7 +2662,8 @@
     {
       "date": "2026-05-03T23:52:46+0100",
       "matched_aliases": [
-        "Greenford Broadway"
+        "Greenford Broadway",
+        "Greenford Broadway ward"
       ],
       "path": "posts/2026/05/03/cactuses-never-die.md",
       "title": "Cactuses Never Die"
@@ -2670,7 +2671,8 @@
     {
       "date": "2026-05-07T10:29:47+0100",
       "matched_aliases": [
-        "Greenford Broadway"
+        "Greenford Broadway",
+        "Greenford Broadway ward"
       ],
       "path": "posts/2026/05/07/the-man-in-the-middle.md",
       "title": "The Man in the Middle"
@@ -3106,8 +3108,7 @@
       "date": "2026-01-12T19:00:00+0100",
       "matched_aliases": [
         "Johnson Street",
-        "Johnson Street, Southall",
-        "The Johnson Street"
+        "Johnson Street, Southall"
       ],
       "path": "posts/2026/01/12/a-fire-we-were-warned.md",
       "title": "A Fire We Were Warned About"
@@ -3115,8 +3116,7 @@
     {
       "date": "2026-01-20T16:01:05+0100",
       "matched_aliases": [
-        "Johnson Street",
-        "The Johnson Street"
+        "Johnson Street"
       ],
       "path": "posts/2026/01/20/the-council-investigation-that-found.md",
       "title": "The Council Investigation That Found Nothing "
@@ -3124,8 +3124,7 @@
     {
       "date": "2026-01-26T00:44:37+0100",
       "matched_aliases": [
-        "Johnson Street",
-        "The Johnson Street"
+        "Johnson Street"
       ],
       "path": "posts/2026/01/25/the-ea-files-what-regulators.md",
       "title": "The EA Files: What Regulators Knew About Fire Risks at Southall Recycling Site"
@@ -3974,8 +3973,7 @@
     {
       "date": "2025-07-11T13:50:30+0100",
       "matched_aliases": [
-        "Perceval House",
-        "Perceval House W5"
+        "Perceval House"
       ],
       "path": "posts/2025/07/11/perceval-house-w-where-local.md",
       "title": "Perceval House W5: Where Local Democracy in Ealing Goes to Die"
@@ -3983,8 +3981,7 @@
     {
       "date": "2025-07-16T00:33:52+0100",
       "matched_aliases": [
-        "Perceval House",
-        "Perceval House W5"
+        "Perceval House"
       ],
       "path": "posts/2025/07/16/the-pied-piper-of-ealing.md",
       "title": "The Pied Piper of Ealing"
@@ -5647,7 +5644,8 @@
     {
       "date": "2022-12-17T02:30:00+0100",
       "matched_aliases": [
-        "Southall Green"
+        "Southall Green",
+        "Southall Green ward"
       ],
       "path": "posts/2022/12/17/the-property-lobby-the-hidden.md",
       "title": "The Property Lobby: the Hidden Reality behind the Housing Crisis in Ealing "
@@ -5679,7 +5677,8 @@
     {
       "date": "2026-01-20T16:01:05+0100",
       "matched_aliases": [
-        "Southall Green"
+        "Southall Green",
+        "Southall Green ward"
       ],
       "path": "posts/2026/01/20/the-council-investigation-that-found.md",
       "title": "The Council Investigation That Found Nothing "
@@ -5703,7 +5702,8 @@
     {
       "date": "2026-04-23T20:27:40+0100",
       "matched_aliases": [
-        "Southall Green"
+        "Southall Green",
+        "Southall Green ward"
       ],
       "path": "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
       "title": "Canvassing with Minni Dogra: A Councillor in All But Name"
@@ -5751,7 +5751,8 @@
     {
       "date": "2026-05-03T23:52:46+0100",
       "matched_aliases": [
-        "Southall Green"
+        "Southall Green",
+        "Southall Green ward"
       ],
       "path": "posts/2026/05/03/cactuses-never-die.md",
       "title": "Cactuses Never Die"

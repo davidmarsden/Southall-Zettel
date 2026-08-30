@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "name": "The Johnson Street",
+    "class_hint": "place_or_site",
+    "score": 22,
+    "post_count": 2,
+    "mention_count": 2,
+    "first_mention": "2026-01-12T19:00:00+0100",
+    "last_mention": "2026-01-20T16:01:05+0100",
+    "variant_forms": [
+      "The Johnson Street"
+    ],
+    "representative_posts": [
+      "posts/2026/01/12/a-fire-we-were-warned.md",
+      "posts/2026/01/20/the-council-investigation-that-found.md"
+    ],
+    "contexts": [
+      {
+        "post": "posts/2026/01/12/a-fire-we-were-warned.md",
+        "snippet": "ngs - A failure to protect a vulnerable community , long accustomed to being told pollution levels were “within limits” The Johnson Street fire should be treated as a sentinel event . It exposes systemic regulatory failure and confirms the validity of years"
+      },
+      {
+        "post": "posts/2026/01/20/the-council-investigation-that-found.md",
+        "snippet": "il Investigation That Found Nothing A year-long investigation by the council into complaints about harmful practices at the Johnson Street recycling site that burned last week ultimately failed to identify any issues, revealing a systemic problem in regulato"
+      }
+    ],
+    "review_status": "candidate"
+  }
+]

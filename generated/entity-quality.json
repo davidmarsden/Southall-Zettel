@@ -3,222 +3,12 @@
   "rule": "An entity is complete when it has identity, a useful reader-facing description, provenance, and a first-party or authoritative source/website where one exists.",
   "counts": {
     "entities": 115,
-    "flagged": 19,
+    "flagged": 0,
     "missing_descriptions": 0,
-    "weak_descriptions": 19,
-    "without_explicit_website": 82
+    "weak_descriptions": 0,
+    "without_explicit_website": 68
   },
-  "flagged": [
-    {
-      "id": "beaconsfield-road",
-      "name": "Beaconsfield Road",
-      "type": "place",
-      "path": "entities/places/beaconsfield-road.md",
-      "description": "Road in Southall near the former gasworks redevelopment.",
-      "website": null,
-      "reasons": [
-        "very-short-description"
-      ]
-    },
-    {
-      "id": "dominion-centre",
-      "name": "Dominion Centre",
-      "type": "place",
-      "path": "entities/places/dominion-centre.md",
-      "description": "Community and civic venue in Southall, recurring in reporting on council assets, local politics and public meetings.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "dormers-wells",
-      "name": "Dormers Wells",
-      "type": "place",
-      "path": "entities/places/dormers-wells.md",
-      "description": "Ealing ward and Southall-area locality recurring in civic and electoral reporting.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "ealing-common",
-      "name": "Ealing Common",
-      "type": "place",
-      "path": "entities/places/ealing-common.md",
-      "description": "Ealing locality and electoral ward.",
-      "website": null,
-      "reasons": [
-        "very-short-description"
-      ]
-    },
-    {
-      "id": "ealing",
-      "name": "Ealing",
-      "type": "place",
-      "path": "entities/places/ealing.md",
-      "description": "West London borough containing Southall.",
-      "website": null,
-      "reasons": [
-        "very-short-description"
-      ]
-    },
-    {
-      "id": "east-acton",
-      "name": "East Acton",
-      "type": "place",
-      "path": "entities/places/east-acton.md",
-      "description": "Ealing ward and West London place recurring in local political reporting.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "greenford-broadway",
-      "name": "Greenford Broadway",
-      "type": "place",
-      "path": "entities/places/greenford-broadway.md",
-      "description": "Ealing ward and local area recurring in election and local-government reporting.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "hanwell-broadway",
-      "name": "Hanwell Broadway",
-      "type": "place",
-      "path": "entities/places/hanwell-broadway.md",
-      "description": "Ealing ward and local area.",
-      "website": null,
-      "reasons": [
-        "very-short-description"
-      ]
-    },
-    {
-      "id": "johnson-street",
-      "name": "Johnson Street",
-      "type": "place",
-      "path": "entities/places/johnson-street.md",
-      "description": "Southall street and industrial location recurring in reporting on recycling, fire risk and regulatory oversight.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "lady-margaret",
-      "name": "Lady Margaret",
-      "type": "place",
-      "path": "entities/places/lady-margaret.md",
-      "description": "Ealing ward.",
-      "website": null,
-      "reasons": [
-        "very-short-description"
-      ]
-    },
-    {
-      "id": "parkside-yards",
-      "name": "Parkside Yards",
-      "type": "place",
-      "path": "entities/places/parkside-yards.md",
-      "description": "Southall venue recurring in reporting on public meetings and local political engagement.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "perceval-house",
-      "name": "Perceval House",
-      "type": "place",
-      "path": "entities/places/perceval-house.md",
-      "description": "Ealing Council's civic offices in central Ealing, recurring in reporting on local government and democratic accountability.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "scotts-road",
-      "name": "Scotts Road",
-      "type": "place",
-      "path": "entities/places/scotts-road.md",
-      "description": "Street in Southall recurring in reporting on traffic, fly-tipping and local political history.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "south-road",
-      "name": "South Road",
-      "type": "place",
-      "path": "entities/places/south-road.md",
-      "description": "Major Southall road recurring in reporting on air quality, infrastructure and the South Road bridge.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "southall-green",
-      "name": "Southall Green",
-      "type": "place",
-      "path": "entities/places/southall-green.md",
-      "description": "Southall ward and neighbourhood recurring in housing and governance reporting.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "southall-town-hall",
-      "name": "Southall Town Hall",
-      "type": "place",
-      "path": "entities/places/southall-town-hall.md",
-      "description": "Historic civic building in Southall, recurring in reporting on local democracy, community assets and public services.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "southall-west",
-      "name": "Southall West",
-      "type": "place",
-      "path": "entities/places/southall-west.md",
-      "description": "Ealing electoral ward in Southall.",
-      "website": null,
-      "reasons": [
-        "very-short-description"
-      ]
-    },
-    {
-      "id": "west-ealing",
-      "name": "West Ealing",
-      "type": "place",
-      "path": "entities/places/west-ealing.md",
-      "description": "West London town centre in the London Borough of Ealing, recurring in reporting on public services, safety and local politics.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    },
-    {
-      "id": "western-road",
-      "name": "Western Road",
-      "type": "place",
-      "path": "entities/places/western-road.md",
-      "description": "Road in Southall recurring in traffic and air-quality reporting.",
-      "website": null,
-      "reasons": [
-        "reporting-defined-or-generic-description"
-      ]
-    }
-  ],
+  "flagged": [],
   "without_explicit_website": [
     {
       "id": "air-quality-scrutiny-panel",
@@ -491,40 +281,10 @@
       "path": "entities/places/beaconsfield-road.md"
     },
     {
-      "id": "dominion-centre",
-      "name": "Dominion Centre",
-      "type": "place",
-      "path": "entities/places/dominion-centre.md"
-    },
-    {
-      "id": "dormers-wells",
-      "name": "Dormers Wells",
-      "type": "place",
-      "path": "entities/places/dormers-wells.md"
-    },
-    {
-      "id": "ealing-common",
-      "name": "Ealing Common",
-      "type": "place",
-      "path": "entities/places/ealing-common.md"
-    },
-    {
       "id": "ealing-southall-constituency",
       "name": "Ealing Southall constituency",
       "type": "place",
       "path": "entities/places/ealing-southall-constituency.md"
-    },
-    {
-      "id": "ealing",
-      "name": "Ealing",
-      "type": "place",
-      "path": "entities/places/ealing.md"
-    },
-    {
-      "id": "east-acton",
-      "name": "East Acton",
-      "type": "place",
-      "path": "entities/places/east-acton.md"
     },
     {
       "id": "elizabeth-line",
@@ -533,40 +293,16 @@
       "path": "entities/places/elizabeth-line.md"
     },
     {
-      "id": "greenford-broadway",
-      "name": "Greenford Broadway",
-      "type": "place",
-      "path": "entities/places/greenford-broadway.md"
-    },
-    {
       "id": "grove-house",
       "name": "Grove House",
       "type": "place",
       "path": "entities/places/grove-house.md"
     },
     {
-      "id": "hanwell-broadway",
-      "name": "Hanwell Broadway",
-      "type": "place",
-      "path": "entities/places/hanwell-broadway.md"
-    },
-    {
-      "id": "johnson-street",
-      "name": "Johnson Street",
-      "type": "place",
-      "path": "entities/places/johnson-street.md"
-    },
-    {
       "id": "king-street",
       "name": "King Street",
       "type": "place",
       "path": "entities/places/king-street.md"
-    },
-    {
-      "id": "lady-margaret",
-      "name": "Lady Margaret",
-      "type": "place",
-      "path": "entities/places/lady-margaret.md"
     },
     {
       "id": "minet-park",
@@ -585,18 +321,6 @@
       "name": "Norwood Road",
       "type": "place",
       "path": "entities/places/norwood-road.md"
-    },
-    {
-      "id": "parkside-yards",
-      "name": "Parkside Yards",
-      "type": "place",
-      "path": "entities/places/parkside-yards.md"
-    },
-    {
-      "id": "perceval-house",
-      "name": "Perceval House",
-      "type": "place",
-      "path": "entities/places/perceval-house.md"
     },
     {
       "id": "river-brent",
@@ -641,12 +365,6 @@
       "path": "entities/places/southall-gasworks.md"
     },
     {
-      "id": "southall-green",
-      "name": "Southall Green",
-      "type": "place",
-      "path": "entities/places/southall-green.md"
-    },
-    {
       "id": "southall-market-car-park",
       "name": "Southall Market Car Park",
       "type": "place",
@@ -657,18 +375,6 @@
       "name": "Southall Market",
       "type": "place",
       "path": "entities/places/southall-market.md"
-    },
-    {
-      "id": "southall-town-hall",
-      "name": "Southall Town Hall",
-      "type": "place",
-      "path": "entities/places/southall-town-hall.md"
-    },
-    {
-      "id": "southall-west",
-      "name": "Southall West",
-      "type": "place",
-      "path": "entities/places/southall-west.md"
     },
     {
       "id": "southall-young-adult-centre",
