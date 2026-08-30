@@ -2,6 +2,7 @@
 id: beaconsfield-road
 name: "Beaconsfield Road"
 type: place
+website: "https://www.ealing.gov.uk/directory_record/282/hayes_bridge"
 aliases:
   - "Beaconsfield Road, Southall"
 ---
