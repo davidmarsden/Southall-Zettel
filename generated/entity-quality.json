@@ -6,9 +6,9 @@
     "flagged": 1,
     "missing_descriptions": 0,
     "weak_descriptions": 1,
-    "without_explicit_website": 43,
-    "without_source_or_website": 32,
-    "description_and_source_complete": 82
+    "without_explicit_website": 42,
+    "without_source_or_website": 31,
+    "description_and_source_complete": 83
   },
   "flagged": [
     {
@@ -49,12 +49,6 @@
       "name": "Dr John Freeman",
       "type": "person",
       "path": "entities/people/dr-john-freeman.md"
-    },
-    {
-      "id": "gurdip-singh-chaggar",
-      "name": "Gurdip Singh Chaggar",
-      "type": "person",
-      "path": "entities/people/gurdip-singh-chaggar.md"
     },
     {
       "id": "jatinder-rajput",
@@ -267,12 +261,6 @@
       "name": "Dr John Freeman",
       "type": "person",
       "path": "entities/people/dr-john-freeman.md"
-    },
-    {
-      "id": "gurdip-singh-chaggar",
-      "name": "Gurdip Singh Chaggar",
-      "type": "person",
-      "path": "entities/people/gurdip-singh-chaggar.md"
     },
     {
       "id": "jatinder-rajput",

@@ -5,9 +5,9 @@ An entity is complete when it has identity, a useful reader-facing description, 
 - Entities checked: **115**
 - Missing descriptions: **0**
 - Weak/generic descriptions: **1**
-- No source or website: **32**
-- Description + source/website complete: **82**
-- No explicit website field: **43** (informational only)
+- No source or website: **31**
+- Description + source/website complete: **83**
+- No explicit website field: **42** (informational only)
 
 ## Description review queue
 
@@ -22,7 +22,6 @@ These entities currently have neither an explicit website nor a reviewed source 
 - **National Front** (`entities/organisations/national-front.md`)
 - **Damian Leydon** (`entities/people/damian-leydon.md`)
 - **Dr John Freeman** (`entities/people/dr-john-freeman.md`)
-- **Gurdip Singh Chaggar** (`entities/people/gurdip-singh-chaggar.md`)
 - **Jatinder Rajput** (`entities/people/jatinder-rajput.md`)
 - **John Martin** (`entities/people/john-martin.md`)
 - **Josh Blacker** (`entities/people/josh-blacker.md`)
