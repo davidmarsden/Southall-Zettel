@@ -6725,13 +6725,13 @@
       "aliases": [
         "JR"
       ],
-      "description": "Southall community activist and Ealing Community Independents candidate referenced in the corpus.",
+      "description": "Southall community campaigner with a background in creative leadership and campaign strategy. He stood for Ealing Community Independents in Southall Green in the 2026 local elections.",
       "id": "entity:jatinder-rajput",
       "name": "Jatinder Rajput",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "person",
-      "website": null
+      "website": "https://ealingindependents.org/candidates/"
     },
     {
       "aliases": [],
@@ -6787,14 +6787,16 @@
       }
     },
     {
-      "aliases": [],
-      "description": "Ealing Labour politician referenced in reporting on local governance and children's-centre closures.",
+      "aliases": [
+        "Cllr Josh Blacker"
+      ],
+      "description": "Ealing Labour councillor who has held senior council roles including Cabinet portfolios and scrutiny responsibilities. He currently chairs Ealing's Education Joint Committee and serves on the Corporate Parent Committee.",
       "id": "entity:josh-blacker",
       "name": "Josh Blacker",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "person",
-      "website": null
+      "website": "https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=128"
     },
     {
       "aliases": [
@@ -7149,15 +7151,16 @@
     {
       "aliases": [
         "Mr Justice Kimblin",
-        "Justice Kimblin"
+        "Justice Kimblin",
+        "Richard Kimblin KC"
       ],
-      "description": "High Court judge appearing in reporting on the Ealing children's centres judicial review.",
+      "description": "High Court judge appointed in November 2025 after practising as Richard Kimblin KC. He has heard public-law cases including the judicial review concerning Ealing Council's children's-centre decisions.",
       "id": "entity:richard-kimblin",
       "name": "Richard Kimblin",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "person",
-      "website": null
+      "website": "https://judicialappointments.gov.uk/news/appointment-of-high-court-judge-richard-kimblin/"
     },
     {
       "aliases": [

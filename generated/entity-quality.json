@@ -6,10 +6,10 @@
     "flagged": 0,
     "missing_descriptions": 0,
     "weak_descriptions": 0,
-    "without_explicit_website": 31,
-    "source_review_queue": 20,
+    "without_explicit_website": 28,
+    "source_review_queue": 17,
     "reviewed_source_exemptions": 0,
-    "complete": 95
+    "complete": 98
   },
   "flagged": [],
   "source_review_queue": [
@@ -38,28 +38,10 @@
       "path": "entities/people/dr-john-freeman.md"
     },
     {
-      "id": "jatinder-rajput",
-      "name": "Jatinder Rajput",
-      "type": "person",
-      "path": "entities/people/jatinder-rajput.md"
-    },
-    {
-      "id": "josh-blacker",
-      "name": "Josh Blacker",
-      "type": "person",
-      "path": "entities/people/josh-blacker.md"
-    },
-    {
       "id": "lewis-cox",
       "name": "Lewis Cox",
       "type": "person",
       "path": "entities/people/lewis-cox.md"
-    },
-    {
-      "id": "richard-kimblin",
-      "name": "Richard Kimblin",
-      "type": "person",
-      "path": "entities/people/richard-kimblin.md"
     },
     {
       "id": "richard-watler",
@@ -185,18 +167,6 @@
       "path": "entities/people/dr-john-freeman.md"
     },
     {
-      "id": "jatinder-rajput",
-      "name": "Jatinder Rajput",
-      "type": "person",
-      "path": "entities/people/jatinder-rajput.md"
-    },
-    {
-      "id": "josh-blacker",
-      "name": "Josh Blacker",
-      "type": "person",
-      "path": "entities/people/josh-blacker.md"
-    },
-    {
       "id": "julian-bell",
       "name": "Julian Bell",
       "type": "person",
@@ -207,12 +177,6 @@
       "name": "Lewis Cox",
       "type": "person",
       "path": "entities/people/lewis-cox.md"
-    },
-    {
-      "id": "richard-kimblin",
-      "name": "Richard Kimblin",
-      "type": "person",
-      "path": "entities/people/richard-kimblin.md"
     },
     {
       "id": "richard-watler",
