@@ -183,6 +183,7 @@ def main() -> None:
             "type": note.get("type"),
             "aliases": note.get("aliases") or [],
             "description": note.get("description"),
+            "website": note.get("website"),
             "review_status": "reviewed",
             "provenance": "curated-entity",
         })
