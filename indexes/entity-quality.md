@@ -5,9 +5,9 @@ An entity is complete when it has identity, a useful reader-facing description, 
 - Entities checked: **115**
 - Missing descriptions: **0**
 - Weak/generic descriptions: **1**
-- No source or website: **22**
-- Description + source/website complete: **92**
-- No explicit website field: **33** (informational only)
+- No source or website: **21**
+- Description + source/website complete: **93**
+- No explicit website field: **32** (informational only)
 
 ## Description review queue
 
@@ -37,6 +37,5 @@ These entities currently have neither an explicit website nor a reviewed source 
 - **Minet Park** (`entities/places/minet-park.md`)
 - **Saklatvala Hall** (`entities/places/saklatvala-hall.md`)
 - **Scotts Road** (`entities/places/scotts-road.md`)
-- **Southall Broadway** (`entities/places/southall-broadway.md`)
 - **Southall Market** (`entities/places/southall-market.md`)
 - **West London** (`entities/places/west-london.md`)

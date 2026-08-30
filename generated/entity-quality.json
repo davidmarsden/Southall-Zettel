@@ -6,9 +6,9 @@
     "flagged": 1,
     "missing_descriptions": 0,
     "weak_descriptions": 1,
-    "without_explicit_website": 33,
-    "without_source_or_website": 22,
-    "description_and_source_complete": 92
+    "without_explicit_website": 32,
+    "without_source_or_website": 21,
+    "description_and_source_complete": 93
   },
   "flagged": [
     {
@@ -139,12 +139,6 @@
       "name": "Scotts Road",
       "type": "place",
       "path": "entities/places/scotts-road.md"
-    },
-    {
-      "id": "southall-broadway",
-      "name": "Southall Broadway",
-      "type": "place",
-      "path": "entities/places/southall-broadway.md"
     },
     {
       "id": "southall-market",
@@ -315,12 +309,6 @@
       "name": "South Road",
       "type": "place",
       "path": "entities/places/south-road.md"
-    },
-    {
-      "id": "southall-broadway",
-      "name": "Southall Broadway",
-      "type": "place",
-      "path": "entities/places/southall-broadway.md"
     },
     {
       "id": "southall-gasworks",

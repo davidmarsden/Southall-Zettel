@@ -7276,13 +7276,13 @@
         "Southall Broadway ward",
         "Southall Broadway/West"
       ],
-      "description": "Southall neighbourhood and electoral-area name used in reporting on local governance, inequality and environmental impacts.",
+      "description": "Central Southall shopping district and the name of an electoral ward in the London Borough of Ealing, centred on the Broadway / Uxbridge Road corridor.",
       "id": "entity:southall-broadway",
       "name": "Southall Broadway",
       "provenance": "curated-entity",
       "review_status": "reviewed",
       "type": "place",
-      "website": null
+      "website": "https://www.ealing.gov.uk/download/downloads/id/17032/southall_broadway.pdf"
     },
     {
       "aliases": [
