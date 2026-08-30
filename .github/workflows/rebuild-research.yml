@@ -17,6 +17,7 @@ on:
       - 'scripts/build_research.py'
       - 'scripts/disambiguate_mentions.py'
       - 'scripts/discover_candidates.py'
+      - 'scripts/audit_entity_quality.py'
       - 'scripts/enrich_citation_titles.py'
       - 'scripts/generate_link_health.py'
       - 'scripts/add_resolved_link_health.py'
@@ -48,6 +49,8 @@ jobs:
         run: python scripts/build_research.py
       - name: Disambiguate ambiguous entity mentions
         run: python scripts/disambiguate_mentions.py
+      - name: Audit entity completeness and description quality
+        run: python scripts/audit_entity_quality.py
       - name: Enrich article citations and check links
         run: |
           if [[ "$GITHUB_EVENT_NAME" == "schedule" ]]; then
@@ -69,6 +72,7 @@ jobs:
         run: |
           python -m json.tool generated/commons.json > /dev/null
           python -m json.tool generated/link-health.json > /dev/null
+          python -m json.tool generated/entity-quality.json > /dev/null
           python - <<'PY'
           import json
           from pathlib import Path
