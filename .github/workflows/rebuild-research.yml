@@ -14,6 +14,8 @@ on:
       - 'sources/**'
       - 'config/entity-candidate-ignore.txt'
       - 'requirements.txt'
+      - 'scripts/sync_microblog.py'
+      - 'scripts/rebuild_post_inventory.py'
       - 'scripts/build_research.py'
       - 'scripts/disambiguate_mentions.py'
       - 'scripts/discover_candidates.py'
@@ -43,6 +45,13 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install -r requirements.txt
+      - name: Sync live Southall Stories posts
+        env:
+          MICROBLOG_TOKEN: ${{ secrets.MICROBLOG_TOKEN }}
+          MICROBLOG_HOSTS: southallstories.uk,www.southallstories.uk,southall.micro.blog
+        run: python scripts/sync_microblog.py
+      - name: Rebuild post inventory
+        run: python scripts/rebuild_post_inventory.py
       - name: Discover candidate entities
         run: python scripts/discover_candidates.py
       - name: Build reviewed research graph
@@ -115,14 +124,14 @@ jobs:
             -H "Authorization: Bearer $RESEND_API_KEY" \
             -H "Content-Type: application/json" \
             --data-binary @/tmp/resend-link-health.json
-      - name: Commit generated research layer
+      - name: Commit refreshed corpus and research layer
         run: |
-          git add generated indexes
+          git add posts generated indexes
           if git diff --cached --quiet; then
-            echo 'Research layer already up to date.'
+            echo 'Corpus and research layer already up to date.'
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'Rebuild Southall Zettel research layer'
+          git commit -m 'Sync Southall Stories and rebuild research layer'
           git push
