@@ -113,7 +113,7 @@ What followed was the complete opposite.
 ## 2016: The Spike
 
 
-<img src="uploads/2026/file-00000000e630720abf62da140a635247.jpg" width="600" height="380" alt="A bar chart compares the number of fly-tipping incidents reported each month in Ealing for the current (2016) and previous year (2015). Reported incidents more than doubled from June 2016.">
+<img src="https://southallstories.uk/uploads/2026/file-00000000e630720abf62da140a635247.jpg" width="600" height="380" alt="A bar chart compares the number of fly-tipping incidents reported each month in Ealing for the current (2016) and previous year (2015). Reported incidents more than doubled from June 2016.">
 
 
 --- 
@@ -225,7 +225,7 @@ In May 2018, Peter Mason tweeted:
 > “As well as Ealing Labour’s priorities for genuinely affordable homes and decent jobs, we’ve got to sort out the lorries on Scotts Road, flytipping and the canal…”
 
 
-<img src="uploads/2026/screenshot-2021-08-07-10.32.31.png" width="600" height="362" alt="Auto-generated description: A tweet by Peter Mason discusses local issues including affordable homes, jobs, and problems with lorries and flytipping on Scotts Road.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-2021-08-07-10.32.31.png" width="600" height="362" alt="Auto-generated description: A tweet by Peter Mason discusses local issues including affordable homes, jobs, and problems with lorries and flytipping on Scotts Road.">
 
 
 --- 
@@ -440,10 +440,10 @@ The baseline never returned.
 ## Campaign of the Year?
 
 
-In 2026, Ealing’s “This Is Our Home, Not a Tip” campaign was shortlisted for an LGC Award under [Campaign of the Year](https://awards.lgcplus.com/lgca2026/en/page/2026-shortlist).
+In 2026, Ealing’s “This Is Our Home, Not a Tip” campaign was shortlisted for an LGC Award under [Campaign of the Year](https://web.archive.org/web/20260420032016/https://www.awards.lgcplus.com/lgca2026/en/page/2026-shortlist).
 
 
-<img src="uploads/2026/screenshot-20260226-124030.png" width="600" height="765" alt="A webpage displays the 2026 shortlist for the LGC Awards, highlighting categories like Campaign of the Year and Children’s Services with details of nominees including Ealing's fly-tipping campaign.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260226-124030.png" width="600" height="765" alt="A webpage displays the 2026 shortlist for the LGC Awards, highlighting categories like Campaign of the Year and Children’s Services with details of nominees including Ealing's fly-tipping campaign.">
 
 
 --- 
@@ -515,7 +515,7 @@ Because arithmetic is harder to campaign against than residents.
 Unless you're Ealing Labour. In which case, you simply claim that fly-tipping is down 54% across Southall!
 
 
-<img src="uploads/2026/screenshot-20260228-141627.png" width="600" height="1346" alt="Ealing Labour highlights its record of achievement in Southall, notably a 54% reduction in fly-tipping, contrary to all published data.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260228-141627.png" width="600" height="1346" alt="Ealing Labour highlights its record of achievement in Southall, notably a 54% reduction in fly-tipping, contrary to all published data.">
 
 --- 
 Without a specified baseline year or dataset, the 54% figure cannot be reconciled with published Defra or council performance data.  

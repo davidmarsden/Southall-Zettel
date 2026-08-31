@@ -73,7 +73,7 @@ This is the shocking story of how for sixteen years Ealing Labour councillors ta
 
 It's a story about an ambitious New Labour leader - [politically aligned with Tony Blair](https://southallstories.uk/2025/09/26/ealing-for-sale/) and his campaign director in 1997, the three times disgraced ex-Lord [Peter Mandelson](https://www.theguardian.com/commentisfree/2026/feb/10/peter-mandelson-new-labour-jeffrey-epstein-corporate-power) - who makes bad choices that harm the very people (and their children) who elected him to represent them in Southall Green, one of the poorest council wards in Ealing.  
 
-<img src="uploads/2026/screenshot-20260213-094729.png" width="600" height="375" alt="A LinkedIn post from Peter Mason talking rubbish and discussing a campaign in Ealing to reduce fly-tipping and change resident behavior, highlighting specific achievements and initiatives, signed off with Bangarang.">  
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260213-094729.png" width="600" height="375" alt="A LinkedIn post from Peter Mason talking rubbish and discussing a campaign in Ealing to reduce fly-tipping and change resident behavior, highlighting specific achievements and initiatives, signed off with Bangarang.">  
 
 ---
 
@@ -85,7 +85,7 @@ Seemingly oblivious (or maybe not) to the chaos and disorder caused, he celebrat
 
 ---
 
-<img src="uploads/2026/pxl-20260210-115133587.jpg" width="600" height="451" alt="Ruskin Hall in Acton, Ealing Labour Party's official HQ, with a sign for The Labour Party and some fly-tipped rubbish bags on the pavement out front.">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260210-115133587.jpg" width="600" height="451" alt="Ruskin Hall in Acton, Ealing Labour Party's official HQ, with a sign for The Labour Party and some fly-tipped rubbish bags on the pavement out front.">
 
 
 ---
@@ -148,7 +148,7 @@ In 2003, "Filthy streets, dirty parks, a growing drug problem and overcrowding m
 Around the same time, Southallians [complained about rubbish and litter](https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf) on our streets in response to a consultation on the possible development of the old Southall Gasworks site.
 
 
-<img src="uploads/2026/screenshot-2021-08-03-19.47.15.png" width="600" height="287" alt="Southall Gasworks consultation report from April 2003 outlines the perceived negative aspects of Southall in categories such as the environment, with particular reference to Rubbish/litter on streets.">---
+<img src="https://southallstories.uk/uploads/2026/screenshot-2021-08-03-19.47.15.png" width="600" height="287" alt="Southall Gasworks consultation report from April 2003 outlines the perceived negative aspects of Southall in categories such as the environment, with particular reference to Rubbish/litter on streets.">---
 
 
 In 2010, soon after Peter Mason arrived in the borough, he was complaining about his new neighbours on Facebook, who - quite possibly - were rooting through his trash in the night:
@@ -159,7 +159,7 @@ Rather than set an example and [report a noise nuisance](https://southallstories
 > "will somebody please shoot these fucking foxes in Acton!"
 
 
-<img src="uploads/2026/20260211-184450.jpg" width="600" height="464" alt="Peter Mason's Facebook post from 2010 expresses a plea to shoot these fucking foxes in Acton and a fantasy of a fox-hunt through Ealing.">
+<img src="https://southallstories.uk/uploads/2026/20260211-184450.jpg" width="600" height="464" alt="Peter Mason's Facebook post from 2010 expresses a plea to shoot these fucking foxes in Acton and a fantasy of a fox-hunt through Ealing.">
 
 
 ---
@@ -180,7 +180,7 @@ In 2015, [residents protested](https://www.mylondon.news/news/west-london-news/n
 > "Some protesting wheelie bins, many more protesting adult social care [sic]. Priority?"
 
 
-<img src="uploads/2026/screenshot-20260210-215254.png" width="600" height="241" alt="A tweet from Peter Mason mentions large protests outside Ealing Town Hall about wheelie bins and adult social care, and appearing to question people's priorities.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260210-215254.png" width="600" height="241" alt="A tweet from Peter Mason mentions large protests outside Ealing Town Hall about wheelie bins and adult social care, and appearing to question people's priorities.">
 
 
 ---
@@ -192,7 +192,7 @@ When Ealing Council switched from weekly black rubbish bag collections to fortni
 Peter Mason, never shy about telling residents why he's right and they're wrong, tweeted that rolling out wheelie bins was "unavoidable" and that cutting collections by half would save £3 million.
 
 
-<img src="uploads/2026/screenshot-20260210-215239.png" width="600" height="960" alt="A Twitter conversation discusses recycling strategies and the rollout of wheelie bins in a local area, with Peter Mason claiming it is unavoidable and will save £3 million.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260210-215239.png" width="600" height="960" alt="A Twitter conversation discusses recycling strategies and the rollout of wheelie bins in a local area, with Peter Mason claiming it is unavoidable and will save £3 million.">
 
 ---
 
@@ -214,7 +214,7 @@ On social media in May 2017, barely a year after the policy change, residents di
 **VisitSouthall responded:** "You have done it. Reduced rubbish collections - leading to fly-tipping."
 
 
-<img src="uploads/2026/screenshot-20260210-183524.png" width="600" height="960" alt="Auto-generated description: A Twitter conversation about recycling and alleged fly-tipping issues features several replies and interactions.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260210-183524.png" width="600" height="960" alt="Auto-generated description: A Twitter conversation about recycling and alleged fly-tipping issues features several replies and interactions.">
 
 
 ---
@@ -223,7 +223,7 @@ On social media in May 2017, barely a year after the policy change, residents di
 By November 2018, at the Southall Green / Broadway Ward Forum, Peter Mason was still talking rubbish about tackling fly-tipping, claiming "packed house, passionate people and ideas a plenty."
 
 
-<img src="uploads/2026/screenshot-20260210-183436.png" width="600" height="960" alt="Peter Mason tweets rubbish as a large group of people is attending a community meeting at the Dominion Centre in Southall in 2018.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260210-183436.png" width="600" height="960" alt="Peter Mason tweets rubbish as a large group of people is attending a community meeting at the Dominion Centre in Southall in 2018.">
 
 
 ---
@@ -250,7 +250,7 @@ This part of Southall is right around the corner from where we live. I feel so a
 Later that year, the Young Ealing Foundation published a report aiming to help [tackle youth violence in Southall](https://youngealingfoundation.org.uk/images/downloads/ealing/TACKLING-YOUTH-VIOLENCE-IN-SNG-22-1.pdf).  
 
 
-<img src="uploads/2026/screenshot-20260213-131156.png" width="600" height="461" alt="Auto-generated description: Key findings indicate that poor environmental appearance negatively affects young people, with many expressing feelings of neglect and a lack of care from authorities.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260213-131156.png" width="600" height="461" alt="Auto-generated description: Key findings indicate that poor environmental appearance negatively affects young people, with many expressing feelings of neglect and a lack of care from authorities.">
 
 ---
 
@@ -405,7 +405,7 @@ The council claimed the changes would:
 ---
 
 
-<img src="uploads/2026/file-00000000d0a87246a03e592b765cc8b8.png" width="600" height="400" alt="A fox sniffs at garbage bags on the left pre-2016, while two rats are near massively overflowing wheelie bins on the right, post-2016.">
+<img src="https://southallstories.uk/uploads/2026/file-00000000d0a87246a03e592b765cc8b8.png" width="600" height="400" alt="A fox sniffs at garbage bags on the left pre-2016, while two rats are near massively overflowing wheelie bins on the right, post-2016.">
 
 
 ---
@@ -485,7 +485,7 @@ The council claimed fortnightly collections would save £1.7 million per year, r
 ## The current annual cost
 
 
-<img src="uploads/2026/20260208-234604.jpg" width="600" height="848" alt="Auto-generated description: Ealing's enforcement activity report details monthly fly-tipping fines issued from January 2023, totaling 3,328 fines with an 11.09% issuance rate.">
+<img src="https://southallstories.uk/uploads/2026/20260208-234604.jpg" width="600" height="848" alt="Auto-generated description: Ealing's enforcement activity report details monthly fly-tipping fines issued from January 2023, totaling 3,328 fines with an 11.09% issuance rate.">
 
 
 ---
@@ -697,7 +697,7 @@ If you're not familiar with Catch-22, Milo Minderbinder is the mess officer who 
 **We just need to dump enough rubbish to earn enough money to keep the children's centres open!**
 
 
-<img src="uploads/2026/screenshot-20260210-215538.png" width="600" height="960" alt="Former Ealing Council leader Julian Bell in brand new spotlessly clean high-visibility clothing is pulling a wheelie bin full of cash along a residential street, with a tweet discussing recycling targets and saving £2.2m.">_Former Ealing Council leader Julian Bell in brand new spotlessly clean high-visibility clothing is pulling a wheelie bin full of cash?_
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260210-215538.png" width="600" height="960" alt="Former Ealing Council leader Julian Bell in brand new spotlessly clean high-visibility clothing is pulling a wheelie bin full of cash along a residential street, with a tweet discussing recycling targets and saving £2.2m.">_Former Ealing Council leader Julian Bell in brand new spotlessly clean high-visibility clothing is pulling a wheelie bin full of cash?_
 ---
 
 Milo would absolutely pitch this:
@@ -901,7 +901,7 @@ When data contradicts promises, ignore the data, blame residents, and spend mill
 ---
 # Where are we now?
 
-<img src="uploads/2026/yvyt-southall-flyer.jpg" width="580" height="764" alt="Auto-generated description: An advertisement encourages community members to submit ideas to improve Southall, featuring images of people shopping and sitting, and provides a QR code and website for more information.">
+<img src="https://southallstories.uk/uploads/2026/yvyt-southall-flyer.jpg" width="580" height="764" alt="Auto-generated description: An advertisement encourages community members to submit ideas to improve Southall, featuring images of people shopping and sitting, and provides a QR code and website for more information.">
 
 
 ---

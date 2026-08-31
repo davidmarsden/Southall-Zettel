@@ -2,13 +2,13 @@
   "curated_sources": 47,
   "entities": 121,
   "entity_mentions": 757,
-  "graph_edges": 1949,
-  "graph_nodes": 444,
+  "graph_edges": 1981,
+  "graph_nodes": 443,
   "internal_post_links": 132,
   "posts": 69,
   "reviewed_relationships": 25,
-  "source_domains": 197,
-  "source_urls": 725,
+  "source_domains": 196,
+  "source_urls": 935,
   "topic_mentions": 300,
   "topics": 10
 }

@@ -68,4 +68,4 @@ I hope to see and meet some of you later today at the report's official launch e
 
 > communitypoweredreporting@proton.me
 
-<img src="uploads/2026/img-20260324-wa0009.jpg">
+<img src="https://southallstories.uk/uploads/2026/img-20260324-wa0009.jpg">

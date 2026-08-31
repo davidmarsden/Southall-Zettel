@@ -25,7 +25,7 @@ photos_with_metadata:
 - url: https://eu.uploads.micro.blog/251858/2025/68c3fbfa39.jpg
 url: "/2020/10/05/high-traffic-neighbourhood/"
 ---
-<img src="uploads/2025/68c3fbfa39.jpg" width="600" height="337" alt="">
+<img src="https://southallstories.uk/uploads/2025/68c3fbfa39.jpg" width="600" height="337" alt="">
 
 Took me an hour (as opposed to 10 minutes) to drive my lad home from school this afternoon, thanks in part to the High Traffic Neighbourhood (['Improving access for HGVs'](https://drive.google.com/file/d/18k_2hRx7EC4ov1mVrzH0GzV3v-6hUH4W/view?usp=sharing)) in Southall 'Green'.  
 

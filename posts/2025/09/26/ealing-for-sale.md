@@ -77,7 +77,7 @@ It was perfect New Labour thinking: consolidate services, cut costs, and rebrand
 This is where Mason's true inspiration comes. In January 2014, he posted a photo of Tony Blair's 1994 "Change and National Renewal" manifesto, adding: "Its content is as true now as it was 20 (yes, 20) years ago #tony." That Blair document became the blueprint for New Labour's PFI (private finance initiative) obsession - and Mason has been implementing its asset disposal philosophy ever since.
 
 
-<img src="uploads/2025/screenshot-20220109-092617.png" width="600" height="829" alt="Auto-generated description: A booklet titled Change and National Renewal by Tony Blair MP is shown, described as an original copy from 20 years ago.">  ---
+<img src="https://southallstories.uk/uploads/2025/screenshot-20220109-092617.png" width="600" height="829" alt="Auto-generated description: A booklet titled Change and National Renewal by Tony Blair MP is shown, described as an original copy from 20 years ago.">  ---
 
 
 This was Thatcherism enacted by Ealing's own fanboy of Thatcher's greatest achievement, Tony Blair. Public assets re-conceptualised as "underutilised resources" requiring "optimisation." The Dominion Centre pioneered the PFI [dogma](https://www.common-wealth.org/interactive/who-owns-britain/data-dashboard/home) that would define New Labour: why provide dedicated public services when you can cram everything into one building, call it efficiency, and sell off the valuable bits?
@@ -137,7 +137,7 @@ The strategy presents this as "empowering communities to own and manage spaces" 
 ## **The Pay Rise Principle**  ---
 
 
-<img src="uploads/2025/img-20220118-wa0025.jpg" width="600" height="339" alt="Auto-generated description: A person wearing a coat and scarf speaks outside a modern building with large windows, while subtitles appear at the bottom.">
+<img src="https://southallstories.uk/uploads/2025/img-20220118-wa0025.jpg" width="600" height="339" alt="Auto-generated description: A person wearing a coat and scarf speaks outside a modern building with large windows, while subtitles appear at the bottom.">
 ---
 
 But perhaps Mason's most revealing statement comes in a video where he promises to "work with developers who will help us deliver what we need." What Mason needs, it turns out, is [substantial personal enrichment](https://www.ealingtoday.co.uk/default.asp?section=community&spage=common/eacouncil220.htm). His Special Responsibility Allowance rose from £32,100 to £54,860 - a 70.9% increase that brought his total council remuneration to £66,874.
@@ -158,7 +158,7 @@ But Victoria Hall was never an isolated case. It's the implementation of a plan 
 ## **"People Before Buildings": The Perfect Slogan**  ---
 
 
-<img src="uploads/2025/fc83f238fa.jpg" width="600" height="388" alt="Auto-generated description: Two tweets by Peter Mason discuss prioritizing people over buildings and mention a meeting about community centers with Ealing Council.">
+<img src="https://southallstories.uk/uploads/2025/fc83f238fa.jpg" width="600" height="388" alt="Auto-generated description: Two tweets by Peter Mason discuss prioritizing people over buildings and mention a meeting about community centers with Ealing Council.">
 
 ---
 Mason's genius lies in his messaging consistency and ideological clarity. On January 15, 2015, he tweeted: "Think its really important that we put people before buildings. Important we keep activities going & that can be done in a different way."
@@ -176,13 +176,13 @@ It's the perfect slogan for systematic asset disposal. Why preserve purpose-buil
 The systematic disposal becomes more sinister when connected to the [£33,000+ in "gifts"](https://southallstories.uk/2022/12/17/the-property-lobby-the-hidden/) and MIPIM conference attendance that Mason and his predecessor Julian Bell accepted from developers, including Berkeley Group. 
 
 
-<img src="uploads/2025/img-20211110-wa0008.jpg" width="600" height="693" alt="Auto-generated description: Two men are discussing a detailed architectural model with a backdrop showcasing Ealing's development plans.">
+<img src="https://southallstories.uk/uploads/2025/img-20211110-wa0008.jpg" width="600" height="693" alt="Auto-generated description: Two men are discussing a detailed architectural model with a backdrop showcasing Ealing's development plans.">
 ---
 
 The visual evidence tells the story perfectly. At property conferences, Mason sits listening intently as Bell explains developer's "long-term vision" - not for residents, but for profitable disposal. 
 
 
-<img src="uploads/2025/screenshot-20210522-203508.png" width="237" height="254" alt="Auto-generated description: Two men are sitting at a table with drinks and holding a framed picture between them.">
+<img src="https://southallstories.uk/uploads/2025/screenshot-20210522-203508.png" width="237" height="254" alt="Auto-generated description: Two men are sitting at a table with drinks and holding a framed picture between them.">
 ---
 
 Elsewhere, Mason and Bell enjoy a pint together down the local pub, the mentor passing on his expertise to the protégé. At MIPIM-style events, they share champagne and development plans with property interests. 
@@ -191,7 +191,7 @@ Elsewhere, Mason and Bell enjoy a pint together down the local pub, the mentor p
 When Berkeley Group literally sponsors council events with "PROUDLY SPONSORED BY Berkeley" branding, the capture becomes complete.
 
 
-<img src="uploads/2025/pmtq12.jpg" width="410" height="178" alt="Auto-generated description: A sponsorship wall displays logos of various companies, including British Land and Berkeley, with the prominent text Ealing London on the left.">
+<img src="https://southallstories.uk/uploads/2025/pmtq12.jpg" width="410" height="178" alt="Auto-generated description: A sponsorship wall displays logos of various companies, including British Land and Berkeley, with the prominent text Ealing London on the left.">
 ---
 
 When your town planner council leader and his mentor [take developer hospitality](https://southallstories.uk/2022/12/17/the-property-lobby-the-hidden/) while disposing of community assets, the conflicts of interest become embedded in the planning system itself.
@@ -212,7 +212,7 @@ They've solved the democracy problem by removing the democratic bits from democr
 What Ealing's 18-year asset disposal programme reveals isn't just local government corruption - it's the systematic implementation of neoliberal ideology through administrative process. The Dominion Centre model of 2007 has become the "community hub" euphemism of 2023, turning public assets into "underutilised resources" requiring "optimisation."
 
 
-<img src="uploads/2025/img-20220216-wa0005.jpg" width="600" height="346" alt="Auto-generated description: Two people in safety gear are enjoying a snack of popcorn at a construction site.">
+<img src="https://southallstories.uk/uploads/2025/img-20220216-wa0005.jpg" width="600" height="346" alt="Auto-generated description: Two people in safety gear are enjoying a snack of popcorn at a construction site.">
 
 ---
 The 2011 developers' wish-list has become official council strategy. The governance failures Eric Leach exposed around Victoria Hall operate across every aspect of the programme. Mason's 70.9% pay rise and the £1m+ cost of his and councillor allowances increases while closing half of Ealing's Children's Centres to save a few hundred thousand pounds shows exactly whose side Ealing Labour are on. And it isn't ours!
@@ -221,7 +221,7 @@ The 2011 developers' wish-list has become official council strategy. The governa
 It's Thatcherism with a human face - and that face belongs to Peter Mason, the New Labour politician who learned to speak her language fluently while pretending to oppose her legacy.
 
 
-<img src="uploads/2025/img-20211223-wa0006.jpg" width="600" height="363" alt="Auto-generated description: A person with a microphone stands outdoors next to a decorated tree, wearing a coat and scarf, with the text I'm sorry that visible.">---
+<img src="https://southallstories.uk/uploads/2025/img-20211223-wa0006.jpg" width="600" height="363" alt="Auto-generated description: A person with a microphone stands outdoors next to a decorated tree, wearing a coat and scarf, with the text I'm sorry that visible.">---
 
 
 The Victoria Hall campaign continues. The legal challenge proceeds. The 760+ assets remain under "strategic review." And the machinery of systematic disposal, finally revealed in the 2023 strategy document, operates in plain sight - hidden only by the euphemistic language that transforms asset stripping into community empowerment.

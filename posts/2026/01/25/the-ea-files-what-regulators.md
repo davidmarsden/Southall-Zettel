@@ -52,7 +52,7 @@ The council did check. Repeatedly. For over a year.
 And officially, they [found nothing](https://southallstories.uk/2026/01/20/the-council-investigation-that-found/).
 
 
-<img src="uploads/2026/screenshot-20260125-185000.png" width="600" height="341" alt="Auto-generated description: A complaint alleges that Sams Recycling is burning toxic melamine-coated wood particles, which may violate environmental regulations and pose health risks.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260125-185000.png" width="600" height="341" alt="Auto-generated description: A complaint alleges that Sams Recycling is burning toxic melamine-coated wood particles, which may violate environmental regulations and pose health risks.">
 
 
 ---
@@ -67,7 +67,7 @@ What follows is drawn from Environment Agency inspection reports, enforcement co
 Together, they form a paper trail showing regulatory awareness without proportionate intervention.
 
 
-<img src="uploads/2026/screenshot-20260118-175149.png" width="600" height="632" alt="Auto-generated description: A letter from the Environment Agency detailing a site visit report to SAMS RECYCLING on 1 August 2023, addressing exemptions and non-compliance issues regarding waste regulations.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260118-175149.png" width="600" height="632" alt="Auto-generated description: A letter from the Environment Agency detailing a site visit report to SAMS RECYCLING on 1 August 2023, addressing exemptions and non-compliance issues regarding waste regulations.">
 
 
 ---
@@ -100,7 +100,7 @@ They also recorded:
 This was not an invisible problem.
 
 
-<img src="uploads/2026/screenshot-20260118-191340.png" width="600" height="883" alt="Environment Agency inspection photo collage of Sam's Recycling site showing red gas canisters stored under tarpaulins alongside and among bales of waste paper, wooden pallets, cardboard boxes, assorted rubbish and plastic bins.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260118-191340.png" width="600" height="883" alt="Environment Agency inspection photo collage of Sam's Recycling site showing red gas canisters stored under tarpaulins alongside and among bales of waste paper, wooden pallets, cardboard boxes, assorted rubbish and plastic bins.">
 
 
 ---
@@ -115,7 +115,7 @@ In November 2022, regulators recorded a formal complaint from a nearby resident 
 > “It’s been alleged by a nearby sensitive receptor that an incinerator is being used to burn what appears to be toxic melamine-coated wood particle fibreboard, which may be illegal and dangerous to health (carcinogenic).”
 
 
-<img src="uploads/2026/screenshot-20260125-185000.png" width="600" height="341" alt="Auto-generated description: A complaint alleges that Sams Recycling is burning toxic melamine-coated wood particles, which may violate environmental regulations and pose health risks.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260125-185000.png" width="600" height="341" alt="Auto-generated description: A complaint alleges that Sams Recycling is burning toxic melamine-coated wood particles, which may violate environmental regulations and pose health risks.">
 
 
 ---
@@ -136,7 +136,7 @@ Yet follow-up correspondence shows inspectors believed incinerator use continued
 > “Our regular and pro-active odour assessment visits suggest that the incinerator is in use at least once to twice per week.”
 
 
-<img src="uploads/2026/screenshot-20260125-185606.png" width="600" height="328" alt="Extract from an email from Ealing Council's Environmental Protection Manager states that the information from operator in regards to frequency of use of 'once a month' seems significantly understated as according to our regular and pro-active odour assessment visits to the site suggest that incinerator is in use at least once to twice per week.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260125-185606.png" width="600" height="328" alt="Extract from an email from Ealing Council's Environmental Protection Manager states that the information from operator in regards to frequency of use of 'once a month' seems significantly understated as according to our regular and pro-active odour assessment visits to the site suggest that incinerator is in use at least once to twice per week.">
 
 
 ---
@@ -166,7 +166,7 @@ One visit record states:
 This is not journalistic exaggeration. It is the agency’s own language.
 
 
-<img src="uploads/2026/screenshot-20260125-192016.png" width="600" height="337" alt="An Environment Agency site visit report notes that an inspector went mountaineering to climb over piles of waste paper in order to access the incinerator.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260125-192016.png" width="600" height="337" alt="An Environment Agency site visit report notes that an inspector went mountaineering to climb over piles of waste paper in order to access the incinerator.">
 
 
 ---
@@ -181,7 +181,7 @@ The same inspection recorded:
 - Poor housekeeping and litter control  
 
 
-<img src="uploads/2026/screenshot-20260125-192119.png" width="600" height="128" alt="Inspection note discussing litter and non-compliant items including gas canisters.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260125-192119.png" width="600" height="128" alt="Inspection note discussing litter and non-compliant items including gas canisters.">
 
 
 ---
@@ -193,7 +193,7 @@ The same inspection recorded:
 In August 2023, the EA finally issued enforcement instructions — but only relating to specific non-permitted waste streams (gas canisters, WEEE items, photocopiers, chairs).
 
 
-<img src="uploads/2026/screenshot-20260125-192247.png" width="600" height="287" alt="Image showing piles of tyres and mixed waste materials on site.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260125-192247.png" width="600" height="287" alt="Image showing piles of tyres and mixed waste materials on site.">
 
 
 ---
@@ -226,7 +226,7 @@ What follows is not historical archive material. This is post-fire reality.
 ---
 
 
-<img src="uploads/2026/pxl-20260117-123150769.jpg" width="600" height="451" alt="Entrance to Sam's Recycling site with standing water and debris">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260117-123150769.jpg" width="600" height="451" alt="Entrance to Sam's Recycling site with standing water and debris">
 
 
 *Entrance to the Johnson Street recycling site, January 2026. Standing water and pooled runoff remain visible a week after the fire. EA inspections previously recorded that “no drainage was seen on either area of the site”.*
@@ -235,7 +235,7 @@ What follows is not historical archive material. This is post-fire reality.
 ---
 
 
-<img src="uploads/2026/pxl-20260117-123121503.jpg" width="600" height="451" alt="Fire damaged building remains visible behind fencing">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260117-123121503.jpg" width="600" height="451" alt="Fire damaged building remains visible behind fencing">
 
 
 *Fire-damaged structural remains visible from the entrance to the industrial estate. Sections of collapsed roofing and exposed framework remain in place.*
@@ -244,7 +244,7 @@ What follows is not historical archive material. This is post-fire reality.
 ---
 
 
-<img src="uploads/2026/pxl-20260117-123158606.jpg" width="600" height="451" alt="Large mixed waste pile inside yard">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260117-123158606.jpg" width="600" height="451" alt="Large mixed waste pile inside yard">
 
 
 *Large mixed waste stockpile occupying the central yard. EA inspection records previously noted that waste was stored so densely officers “had to climb over waste piles” to inspect the site.*

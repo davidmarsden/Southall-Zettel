@@ -54,7 +54,7 @@ videos:
 - https://cdn.uploads.micro.mov/251858/2026/screen-20260428-102645-1777368351404/playlist.m3u8
 url: "/2026/04/28/this-place-has-turned-into/"
 ---
-<img src="uploads/2026/img-20260426-wa0028.jpg" width="600" height="848" alt="An election special poster announces a Southall wards engagement event on April 27, 2026, featuring Ealing Community Independents candidates and listing various key community issues.">
+<img src="https://southallstories.uk/uploads/2026/img-20260426-wa0028.jpg" width="600" height="848" alt="An election special poster announces a Southall wards engagement event on April 27, 2026, featuring Ealing Community Independents candidates and listing various key community issues.">
 
 
 --- 
@@ -66,7 +66,7 @@ I arrived late to the Ealing Community Independents' Southall Wards Engagement E
 --- 
 
 
-<img src="uploads/2026/pxl-20260427-194313888.jpg" width="600" height="451" alt="Auto-generated description: A building with a warmly lit interior is surrounded by a playground and trees in an outdoor area at dusk.">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260427-194313888.jpg" width="600" height="451" alt="Auto-generated description: A building with a warmly lit interior is surrounded by a playground and trees in an outdoor area at dusk.">
 
 
 --- 
@@ -102,7 +102,7 @@ On the screen: images of Southall. Construction cranes. High-rises going up. The
 --- 
 
 
-<img src="uploads/2026/pxl-20260427-194238312.jpg" width="600" height="451" alt="People are gathered in a cozy room watching a presentation on a large screen, surrounded by bookshelves and comfortable seating.">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260427-194238312.jpg" width="600" height="451" alt="People are gathered in a cozy room watching a presentation on a large screen, surrounded by bookshelves and comfortable seating.">
 
 
 --- 

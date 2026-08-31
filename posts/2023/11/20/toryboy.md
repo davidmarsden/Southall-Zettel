@@ -30,7 +30,7 @@ Under his own steam and £15,000 of his own money, John found his opponent, Sir 
 
 Despite this record of failure, Bell was duly elected again, with Walsh coming in third behind the newly Nick Clegg-revitalised Lib Dems. 
 
-<img src="uploads/2025/pxl-20220416-095839241.mp.jpg" width="600" height="800" alt="Auto-generated description: A person wearing a hat and sunglasses is holding a flyer in front of a palm tree and sidewalk.">
+<img src="https://southallstories.uk/uploads/2025/pxl-20220416-095839241.mp.jpg" width="600" height="800" alt="Auto-generated description: A person wearing a hat and sunglasses is holding a flyer in front of a palm tree and sidewalk.">
 
 Last year, I had my own attempt to counter what I (and many others) saw as corruption, lies, hypocrisy and general incompetence of our local elected councillors. Standing as independent candidates, me and my two friends came fourth in the safest Labour ward in Ealing. It was good fun campaigning, and I enjoyed the physical activity of walking almost every street in my ward dropping leaflets, and the social activity of actually talking to people in person. And we helped to reduce  Labour's vote share and majority (not that it makes any difference to the result). 
 

@@ -31,7 +31,7 @@ photos_with_metadata:
 - url: https://eu.uploads.micro.blog/251858/2026/2026-05-01-20.03.44-ealing-audit.netlify.app-592b8ec7-0940-490a-bc3b-a14d6d.jpg
 url: "/2026/05/01/back-to-the-future/"
 ---
-<img src="uploads/2026/screenshot-20260501-202107.png" width="600" height="379" alt="Auto-generated description: A grassy hill with people walking on it is overlaid with the text Welcome to Ealing and Your guide to living in Ealing.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260501-202107.png" width="600" height="379" alt="Auto-generated description: A grassy hill with people walking on it is overlaid with the text Welcome to Ealing and Your guide to living in Ealing.">
 
 
 
@@ -192,7 +192,7 @@ Freedom Pass eligibility is now tied to the state pension age, which is 66. The 
 ---
 
 
-<img src="uploads/2026/20260501-201621-collage.jpg" width="600" height="450" alt="Auto-generated description: A labeled map of a borough shows various locations, including libraries, leisure centers, and community facilities, marked with corresponding numbers and icons.">
+<img src="https://southallstories.uk/uploads/2026/20260501-201621-collage.jpg" width="600" height="450" alt="Auto-generated description: A labeled map of a borough shows various locations, including libraries, leisure centers, and community facilities, marked with corresponding numbers and icons.">
 
 
 
@@ -209,7 +209,7 @@ So I've built a [community audit tool](https://ealing-audit.southallstories.uk/)
 
 ---
 
-<img src="uploads/2026/2026-05-01-20.03.44-ealing-audit.netlify.app-592b8ec7-0940-490a-bc3b-a14d6d.jpg" width="600" height="799" alt="Auto-generated description: A web page displays a list of council buildings and sports & leisure facilities, indicating their status with some marked as closed.">
+<img src="https://southallstories.uk/uploads/2026/2026-05-01-20.03.44-ealing-audit.netlify.app-592b8ec7-0940-490a-bc3b-a14d6d.jpg" width="600" height="799" alt="Auto-generated description: A web page displays a list of council buildings and sports & leisure facilities, indicating their status with some marked as closed.">
 
 ---
 

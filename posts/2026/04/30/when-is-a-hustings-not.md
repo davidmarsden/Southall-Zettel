@@ -173,7 +173,7 @@ That is not accountability. It's political convenience.
 ---
 
 
-<img src="uploads/2026/image-20260429131314.jpg" width="600" height="858" alt="Ealing Citizens is organizing a Pre-Election Accountability Assembly on Tuesday, 28th April, as depicted on a colorful flyer featuring a venue photo, event details, and a section about joining the cause.">
+<img src="https://southallstories.uk/uploads/2026/image-20260429131314.jpg" width="600" height="858" alt="Ealing Citizens is organizing a Pre-Election Accountability Assembly on Tuesday, 28th April, as depicted on a colorful flyer featuring a venue photo, event details, and a section about joining the cause.">
 
 
 ---
@@ -192,7 +192,7 @@ On the evening of 28 April 2026 — nine days before Ealing residents go to the 
 ---
 
 
-<img src="uploads/2026/image-20260429130856.jpg" width="600" height="278" alt="St Anselm's newsletter invites people to hear a discussion on housing and employment issues for the upcoming May Council Elections on Tuesday, 28th April 2026 at 6 pm.">
+<img src="https://southallstories.uk/uploads/2026/image-20260429130856.jpg" width="600" height="278" alt="St Anselm's newsletter invites people to hear a discussion on housing and employment issues for the upcoming May Council Elections on Tuesday, 28th April 2026 at 6 pm.">
 
 
 ---
@@ -207,7 +207,7 @@ Three candidates were invited to make opening statements and respond to the asse
 ---
 
 
-<img src="uploads/2026/pxl-20260428-173035874.jpg" width="600" height="451" alt="Ealing LibDem leader Gary Malcolm stands in front of a presentation slide listing political candidates from Labour, Liberal Democrats, and Conservatives.">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260428-173035874.jpg" width="600" height="451" alt="Ealing LibDem leader Gary Malcolm stands in front of a presentation slide listing political candidates from Labour, Liberal Democrats, and Conservatives.">
 
 
 ---
@@ -228,7 +228,7 @@ This is not a new arrangement. Four years ago, on 27 April 2022, Ealing Labour's
 ---
 
 
-<img src="uploads/2026/screenshot-20220429-122115.png" width="600" height="692" alt="A group of individuals is seated and standing inside St Martin's church, West Acton, with Peter Mason speaking passionately into a microphone alongside Citizens UK banners and audience members listening.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20220429-122115.png" width="600" height="692" alt="A group of individuals is seated and standing inside St Martin's church, West Acton, with Peter Mason speaking passionately into a microphone alongside Citizens UK banners and audience members listening.">
 
 
 ---
@@ -243,7 +243,7 @@ In 2026, the event has been rebranded. It is no longer a hustings. It is an "acc
 ---
 
 
-<img src="uploads/2026/pxl-20260428-173002325.jpg" width="600" height="451" alt="Julian Gallant stands speaking at a podium with two people seated beside him against a backdrop of colorful murals and a West London Citizens banner.">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260428-173002325.jpg" width="600" height="451" alt="Julian Gallant stands speaking at a podium with two people seated beside him against a backdrop of colorful murals and a West London Citizens banner.">
 
 
 --- 
@@ -267,7 +267,7 @@ This is a legitimate format for some purposes. But calling it an accountability 
 ---
 
 
-<img src="uploads/2026/pxl-20260428-172731944.jpg" width="600" height="451" alt="Peter Mason stands and speaks into a microphone in front of the audience, holding a piece of paper with a lectern beside him.">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260428-172731944.jpg" width="600" height="451" alt="Peter Mason stands and speaks into a microphone in front of the audience, holding a piece of paper with a lectern beside him.">
 
 
 ---
@@ -288,7 +288,7 @@ In 2022, Ealing Labour promised to build 4,000 affordable homes. By 2026, the pa
 ---
 
 
-<img src="uploads/2026/screenshot-20260429-181827.png" width="600" height="799" alt="A black and white photograph depicts a cluttered urban scene with garbage and discarded furniture, overlaid with red text addressing council failings in Southall.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260429-181827.png" width="600" height="799" alt="A black and white photograph depicts a cluttered urban scene with garbage and discarded furniture, overlaid with red text addressing council failings in Southall.">
 
 
 ---
@@ -339,7 +339,7 @@ The closures will proceed.
 ---
 
 
-<img src="uploads/2026/pxl-20260428-1657260742.jpg" width="600" height="451" alt="People are seated on wooden pews inside a church with a high wooden ceiling and a large cross on the wall.">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260428-1657260742.jpg" width="600" height="451" alt="People are seated on wooden pews inside a church with a high wooden ceiling and a large cross on the wall.">
 
 
 ---
@@ -396,7 +396,7 @@ It was also one of the asks Peter Mason committed to at the same event four year
 ---
 
 
-<img src="uploads/2026/screenshot-20260429-112940.png" 
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260429-112940.png" 
 width="600" height="734" alt="Peter Mason wearing a red rosette sits next to a board listing various community initiatives, including Living Wage Place and Mental health workshops.">
 
 
@@ -428,7 +428,7 @@ On the Living Wage, the record is similarly instructive.
 ---
 
 
-<img src="uploads/2026/20260429-122121.jpg" 
+<img src="https://southallstories.uk/uploads/2026/20260429-122121.jpg" 
 width="600" height="853" alt="Auto-generated description: A news article headline discusses Ealing school catering staff being paid £8.91 per hour instead of the £10.85 London Living Wage.">
 
 
@@ -447,7 +447,7 @@ In May 2022, shortly after making his Citizens UK commitments, [Mason awarded hi
 ---
 
 
-<img src="uploads/2026/screenshot-20260429-123213.png" 
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260429-123213.png" 
 width="600" height="203" alt="A tweet from Ealing Living Wage Alliance criticises a council decision regarding allowances and wage requirements for care workers.">
 
 
@@ -466,7 +466,7 @@ When the Alliance raised this publicly, both their local councillor and Virendra
 ---
 
 
-<img src="uploads/2026/screenshot-20260429-123143.png" 
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260429-123143.png" 
 width="600" height="298" alt="Two tweets discuss investments in social care and ensuring living wages for care workers in Ealing during the cost of living crisis.">
 
 
@@ -491,7 +491,7 @@ By October 2025, Ealing [reached 100 accredited employers](https://www.ealing.ne
 ---
 
 
-<img src="uploads/2026/screenshot-20260429-121538.png" 
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260429-121538.png" 
 width="600" height="805" alt="A wallet with money is placed in the foreground, accompanied by a headline discussing living wages, while text below elaborates on Ealing Council's efforts to encourage fair pay.">
 
 
@@ -536,7 +536,7 @@ Four years ago, at the same event, he already had.
 ---
 
 
-<img src="uploads/2026/20260428-181429.jpg" width="600" height="501" alt="A map of London boroughs is color-coded to show the projected highest vote share for different political parties in the May 2026 elections with Ealing coloured green.">
+<img src="https://southallstories.uk/uploads/2026/20260428-181429.jpg" width="600" height="501" alt="A map of London boroughs is color-coded to show the projected highest vote share for different political parties in the May 2026 elections with Ealing coloured green.">
 
 
 ---
@@ -584,7 +584,7 @@ It is gatekeeping.
 ---
 
 
-<img src="uploads/2026/screenshot-20210512-000118.png" width="496" height="410" alt="A Twitter post from June 25, 2020, by Peter Mason outlines lessons such as the impact of words and the importance of leadership in culture.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20210512-000118.png" width="496" height="410" alt="A Twitter post from June 25, 2020, by Peter Mason outlines lessons such as the impact of words and the importance of leadership in culture.">
 
 
 

@@ -122,7 +122,7 @@ videos:
 - https://cdn.uploads.micro.mov/251858/2026/aqmzdj0skhoid2ei-qjyvzalrtjrpnp2oxacksgqrihvjzafyp0jbvflxpn444zrgib91-gugso/playlist.m3u8
 url: "/2026/05/03/cactuses-never-die/"
 ---
-<img src="uploads/2026/fb-img-1777733016949.jpg" width="600" height="800" alt="Yousef Qandeel wearing glasses and a Palestinian scarf (keffiyeh) is holding a bunch of old keys.">
+<img src="https://southallstories.uk/uploads/2026/fb-img-1777733016949.jpg" width="600" height="800" alt="Yousef Qandeel wearing glasses and a Palestinian scarf (keffiyeh) is holding a bunch of old keys.">
 
 
 ---
@@ -163,7 +163,7 @@ They grow back among the ruins of terraced fields. They mark, in living tissue, 
 ---
 
 
-<img src="uploads/2026/fb-img-1777733060677.jpg" width="600" height="450" alt="Old keys on a ring are placed on a folded Palestine flag, with red, green, white, and black colors.">
+<img src="https://southallstories.uk/uploads/2026/fb-img-1777733060677.jpg" width="600" height="450" alt="Old keys on a ring are placed on a folded Palestine flag, with red, green, white, and black colors.">
 
 
 ---
@@ -175,7 +175,7 @@ We met over coffee at Chaiiwala on Greenford Broadway, the morning after he'd be
 ---
 
 
-<img src="uploads/2026/fb-img-1777733008846.jpg" width="540" height="960" alt="Yousef Qandeel stands beside a large key sculpture — The Key of Return — on a pedestal outside St. Mary's Cathedral in Edinburgh.">
+<img src="https://southallstories.uk/uploads/2026/fb-img-1777733008846.jpg" width="540" height="960" alt="Yousef Qandeel stands beside a large key sculpture — The Key of Return — on a pedestal outside St. Mary's Cathedral in Edinburgh.">
 
 
 ---
@@ -193,7 +193,7 @@ He also brought the map.
 
 
 
-<img src="uploads/2026/fb-img-1777732908271.jpg" width="600" height="856" alt="A detailed map illustrates various routes, landmarks, and geographical features of al-Dawayima in Palestine, with text in Arabic.">
+<img src="https://southallstories.uk/uploads/2026/fb-img-1777732908271.jpg" width="600" height="856" alt="A detailed map illustrates various routes, landmarks, and geographical features of al-Dawayima in Palestine, with text in Arabic.">
 
 
 ---
@@ -223,7 +223,7 @@ The letter was written ten days after the massacre. It disappeared from the arch
 ---
 
 
-<img src="uploads/2026/img-0585.jpg" width="600" height="476" alt="A quote from the Israeli daily 'Al ha-Mishmar' describes violent and disturbing actions of the Israel Defence Force (IDF) during a the massacre of al-Dawayima in 1948.">
+<img src="https://southallstories.uk/uploads/2026/img-0585.jpg" width="600" height="476" alt="A quote from the Israeli daily 'Al ha-Mishmar' describes violent and disturbing actions of the Israel Defence Force (IDF) during a the massacre of al-Dawayima in 1948.">
 
 
 ---
@@ -347,7 +347,7 @@ In Edinburgh's Bruntsfield Links, [a tree was planted on 29 October 1998](https:
 ---
 
 
-<img src="uploads/2026/473193968-122197615424061435-4545661091277298245-n.jpg" width="468" height="776" alt="Yousef Qandeel is standing by the Edinburgh memorial to the al-Dawayima massacre of 1948, holding a Palestinian flag, with flowers placed at the base of the memorial.">
+<img src="https://southallstories.uk/uploads/2026/473193968-122197615424061435-4545661091277298245-n.jpg" width="468" height="776" alt="Yousef Qandeel is standing by the Edinburgh memorial to the al-Dawayima massacre of 1948, holding a Palestinian flag, with flowers placed at the base of the memorial.">
 
 
 ---
@@ -364,7 +364,7 @@ Yousef has been photographed at all of these sites, and at the Key of Return scu
 ---
 
 
-<img src="uploads/2026/img-5171.jpg" width="600" height="800" alt="Auto-generated description: A green sign provides information in Hebrew, Arabic, and English about the Tomb of Sheikh Ali, warning of potential danger due to structural collapse.">
+<img src="https://southallstories.uk/uploads/2026/img-5171.jpg" width="600" height="800" alt="Auto-generated description: A green sign provides information in Hebrew, Arabic, and English about the Tomb of Sheikh Ali, warning of potential danger due to structural collapse.">
 
 
 ---
@@ -377,7 +377,7 @@ On the land where al-Dawayima once stood, an Israeli nature reserve sign marks t
 
 ---
 
-<img src="uploads/2026/img-1640.jpg" width="600" height="800" alt="A solitary tree stands in front of the ancient stone tomb of Sheikh Ali on a hill outside al-Dawayima in Palestine, under a partly cloudy sky.">
+<img src="https://southallstories.uk/uploads/2026/img-1640.jpg" width="600" height="800" alt="A solitary tree stands in front of the ancient stone tomb of Sheikh Ali on a hill outside al-Dawayima in Palestine, under a partly cloudy sky.">
 
 
 ---
@@ -397,7 +397,7 @@ A family whose roots in a place stretch back generations, who hold the keys, who
 ---
 
 
-<img src="uploads/2026/screenshot-20260503-183606.png" width="600" height="843" alt="Ealing Community Independents candidate Yousef Qandeel holding a sign that says I'M VOTING in front of a welcome sign for Greenford Town Centre.">  
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260503-183606.png" width="600" height="843" alt="Ealing Community Independents candidate Yousef Qandeel holding a sign that says I'M VOTING in front of a welcome sign for Greenford Town Centre.">  
 
 
 
@@ -422,7 +422,7 @@ He left voluntarily when right-wing factions in the party the party began attack
 
 ---
 
-<img src="uploads/2026/img-20260503-wa0015.jpg" width="600" height="800" alt="Jeremy Corbyn and Yousef Qandeel shaking hands in front of a St John's old church on King Street public square in Southall Green, with a table nearby displaying various items and a Palestinian flag.">
+<img src="https://southallstories.uk/uploads/2026/img-20260503-wa0015.jpg" width="600" height="800" alt="Jeremy Corbyn and Yousef Qandeel shaking hands in front of a St John's old church on King Street public square in Southall Green, with a table nearby displaying various items and a Palestinian flag.">
 
 ---
 
@@ -445,7 +445,7 @@ The party that did not want him as a candidate is the party that runs Ealing Cou
 
 ---
 
-<img src="uploads/2026/screenshot-20260429-181827.png" width="600" height="799" alt="Auto-generated description: A black and white photograph depicts a cluttered urban scene with garbage and discarded furniture, overlaid with red text addressing council failings in Southall.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260429-181827.png" width="600" height="799" alt="Auto-generated description: A black and white photograph depicts a cluttered urban scene with garbage and discarded furniture, overlaid with red text addressing council failings in Southall.">
 
 ---
 
@@ -461,7 +461,7 @@ The list, the report says, includes Maersk, Palantir, and Elbit Systems — the 
 ---
 
 
-<img src="uploads/2026/screenshot-20260503-170425.png" width="600" height="751" alt="Yousef Qandeel stands alongside two women holding Palestine flags outside the steps to Ealing Town Hall.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260503-170425.png" width="600" height="751" alt="Yousef Qandeel stands alongside two women holding Palestine flags outside the steps to Ealing Town Hall.">
 
 
 ---
@@ -495,7 +495,7 @@ The report is careful to note there is no public evidence that Mason directed or
 ---
 
 
-<img src="uploads/2025/160bd2a958.jpg" width="600" height="382" alt="Auto-generated description: A Twitter conversation shows a user named Peter Mason expressing opposition to anti-Zionism while distinguishing it from non-Zionism.">
+<img src="https://southallstories.uk/uploads/2025/160bd2a958.jpg" width="600" height="382" alt="Auto-generated description: A Twitter conversation shows a user named Peter Mason expressing opposition to anti-Zionism while distinguishing it from non-Zionism.">
 
 
 
@@ -533,7 +533,7 @@ So this is the situation in Ealing in May 2026.
 ---
 
 
-<img src="uploads/2026/fb-img-1777732939712.jpg" width="600" height="800" alt="Yousef Qandeel, wearing glasses and a keffiyeh, is holding a set of large vintage keys to his father's home in al-Dawayima in Palestine.">
+<img src="https://southallstories.uk/uploads/2026/fb-img-1777732939712.jpg" width="600" height="800" alt="Yousef Qandeel, wearing glasses and a keffiyeh, is holding a set of large vintage keys to his father's home in al-Dawayima in Palestine.">
 
 
 

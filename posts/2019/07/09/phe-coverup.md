@@ -35,7 +35,7 @@ url: "/2019/07/09/phe-coverup/"
 Public Health England’s [third report](https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1dIP7WF5MtN0KxDq2Nit0y6m10KRTFVw5%26fbclid%3DIwZXh0bgNhZW0CMTEAYnJpZBEwUmlIVk1ndU5iSEhKVmZOTwEeshcc03pifH-kjEdnrhuTIw_EpjoEpxeN3uLejZ7hDAyO2sIgl1rs0k1xGqg_aem_xNToKk--wLenCOT-AozQ7A&h=AT0qk6Xjk7eneE8bWUcifN1yWT1tnJEnUs6kjlKcNGE_iVwO9DAQXwLQzgsIdPh4lmSs92M9xUSQ5TQ2E6GZosQw-WONWbi3TPMqL_cR3ZjtjsC_vP1rVrnXwAZhghKAA0kDNzB0) released today is a cause of real concern.
 
 
-<img src="uploads/2025/aspose.words.fe0f6e8e-f9f0-4b2e-a08b-b6b45e53827c.008.jpg" width="514" height="110" alt="">  
+<img src="https://southallstories.uk/uploads/2025/aspose.words.fe0f6e8e-f9f0-4b2e-a08b-b6b45e53827c.008.jpg" width="514" height="110" alt="">  
 
 
 Of course, it basically re-states its position in previous reports that there is nothing to worry about.
@@ -47,7 +47,7 @@ But in [PHE’s second report](https://l.facebook.com/l.php?u=https%3A%2F%2Fdriv
 This table shows significant increases in average and maximum (range) recorded
 
 
-<img src="uploads/2025/aspose.words.fe0f6e8e-f9f0-4b2e-a08b-b6b45e53827c.006.jpg" width="497" height="166" alt="">  
+<img src="https://southallstories.uk/uploads/2025/aspose.words.fe0f6e8e-f9f0-4b2e-a08b-b6b45e53827c.006.jpg" width="497" height="166" alt="">  
 
 
 levels of benzene and naphthalene in the 17-27 week period (October to December 2018), compared to the 1-16 week period (June to September 2018).
@@ -59,7 +59,7 @@ In their third report, though, there was no such useful comparison table for wee
 So I made [my own comparison table](https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1FMr5C_x1whdSUaWDLUpps1qWJe41MMEIU8jwqx6KT6c%2Fedit%3Fusp%3Dsharing%26fbclid%3DIwZXh0bgNhZW0CMTEAYnJpZBEwUmlIVk1ndU5iSEhKVmZOTwEeC_kYbPGVgijgEfLm3jZ6JgqRICaFY1OS9DfMnVyFN1XvGIgClOU5VKsfCYk_aem_wkeQvk6TJ1KeGzcKZCo4zA&h=AT36TKLKdp8M0H-0VFSMEduCrYhw0LbKTdP6LZDJxsg6V2OIdvX1dJ6ykyla0bjhswGo6DKfs263YSUllvKrsxK0e8UcQgCGFARMfSbdcFe2zqHo4ewyWEv5MTs) (please feel free to share, edit, copy, download - I have my own separate version, too):
 
 
-<img src="uploads/2025/aspose.words.fe0f6e8e-f9f0-4b2e-a08b-b6b45e53827c.007.jpg" width="478" height="347" alt="">  
+<img src="https://southallstories.uk/uploads/2025/aspose.words.fe0f6e8e-f9f0-4b2e-a08b-b6b45e53827c.007.jpg" width="478" height="347" alt="">  
 
 
 My numbers are rounded to make it easier to read.

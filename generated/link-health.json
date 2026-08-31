@@ -1,10 +1,11 @@
 {
   "counts": {
-    "gone": 16,
-    "healthy": 418,
+    "blocked": 1,
+    "gone": 11,
+    "healthy": 425,
     "redirected": 27,
-    "suspicious-redirect": 2,
-    "unreachable": 67
+    "suspicious-redirect": 1,
+    "unreachable": 66
   },
   "inconclusive_count": 67,
   "links": [
@@ -68,7 +69,7 @@
       "failure_streak": 0,
       "health": "gone",
       "http_status": 404,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Use Micro.blog’s archived version or replace the source URL.",
       "repeat_failure": false,
       "resolved_url": "https://aresok.org/npg/nioshdbs/calc.htm",
@@ -244,83 +245,11 @@
       "failure_streak": 0,
       "health": "gone",
       "http_status": 410,
-      "new_problem": true,
-      "recommendation": "Use Micro.blog’s archived version or replace the source URL.",
-      "repeat_failure": false,
-      "resolved_url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf",
-      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf"
-    },
-    {
-      "actionable": true,
-      "affected_posts": [
-        {
-          "article_label": "assets.publishing.service.gov.uk/government/upl…",
-          "path": "posts/2018/08/03/health-risks-of-exposure-to.md",
-          "title": "Health Risks of Exposure to Benzene",
-          "url": "https://southallstories.uk/2018/08/03/health-risks-of-exposure-to/"
-        }
-      ],
-      "checked_at": 1788176201,
-      "destination_title": null,
-      "domain": "assets.publishing.service.gov.uk",
-      "failure_streak": 0,
-      "health": "gone",
-      "http_status": 410,
-      "new_problem": true,
-      "recommendation": "Use Micro.blog’s archived version or replace the source URL.",
-      "repeat_failure": false,
-      "resolved_url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/825197/Benzene_incident_management_PHE_2019.pdf",
-      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/522459/Benzene_IM_PHE_050516.pdf"
-    },
-    {
-      "actionable": true,
-      "affected_posts": [
-        {
-          "article_label": "assets.publishing.service.gov.uk/government/upl…",
-          "path": "posts/2018/08/03/health-risks-of-exposure-to.md",
-          "title": "Health Risks of Exposure to Benzene",
-          "url": "https://southallstories.uk/2018/08/03/health-risks-of-exposure-to/"
-        }
-      ],
-      "checked_at": 1788176201,
-      "destination_title": null,
-      "domain": "assets.publishing.service.gov.uk",
-      "failure_streak": 0,
-      "health": "gone",
-      "http_status": 410,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Use Micro.blog’s archived version or replace the source URL.",
       "repeat_failure": false,
       "resolved_url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/791325/Benzene_general_information_2019.pdf",
       "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/561046/benzene_general_information.pdf"
-    },
-    {
-      "actionable": true,
-      "affected_posts": [
-        {
-          "article_label": "Campaign of the Year",
-          "path": "posts/2026/03/01/boomerang-ten-years-sorting-out.md",
-          "title": "Boomerang! Ten Years Sorting Out Fly-tipping",
-          "url": "https://southallstories.uk/2026/03/01/boomerang-ten-years-sorting-out/"
-        },
-        {
-          "article_label": "LGC award",
-          "path": "posts/2026/04/30/this-is-our-home-its.md",
-          "title": "This Is Our Home. It's a Tip.",
-          "url": "https://southallstories.uk/2026/04/30/this-is-our-home-its/"
-        }
-      ],
-      "checked_at": 1788176181,
-      "destination_title": "LGC Awards 2027",
-      "domain": "awards.lgcplus.com",
-      "failure_streak": 0,
-      "health": "suspicious-redirect",
-      "http_status": 200,
-      "new_problem": true,
-      "recommendation": "Check the Micro.blog archived version; the live URL now appears to point at unrelated content.",
-      "repeat_failure": false,
-      "resolved_url": "https://awards.lgcplus.com/lgca2027/en/page/home",
-      "url": "https://awards.lgcplus.com/lgca2026/en/page/2026-shortlist"
     },
     {
       "actionable": false,
@@ -1033,7 +962,7 @@
       "url": "https://docs.google.com/document/d/e/2PACX-1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zE0Dwo2-05cAiMcRsCx0y2x8D0gF/pub?fbclid=IwY2xjawNCe_UBHVvMQp8wFOoZliZ8wKMJQ3w_DXbDzKkL4v14y2sQlJw2wT_rpijebOZP0A"
     },
     {
-      "actionable": true,
+      "actionable": false,
       "affected_posts": [
         {
           "article_label": "docs.google.com/document/...",
@@ -1042,17 +971,17 @@
           "url": "https://southallstories.uk/2018/11/02/lies-damned-lies-and-statistics/"
         }
       ],
-      "checked_at": 1788176200,
-      "destination_title": null,
+      "checked_at": 1788185069,
+      "destination_title": "Technical Note for Residents",
       "domain": "docs.google.com",
       "failure_streak": 0,
-      "health": "gone",
-      "http_status": 404,
-      "new_problem": true,
-      "recommendation": "Use Micro.blog’s archived version or replace the source URL.",
+      "health": "healthy",
+      "http_status": 200,
+      "new_problem": false,
+      "recommendation": "No action needed.",
       "repeat_failure": false,
-      "resolved_url": "https://docs.google.com/document/d/e/2PACX1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zEoDwo205cAiMcRsCxoy2x8DogF/pub",
-      "url": "https://docs.google.com/document/d/e/2PACX1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zEoDwo205cAiMcRsCxoy2x8DogF/pub"
+      "resolved_url": "https://docs.google.com/document/d/e/2PACX-1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zE0Dwo2-05cAiMcRsCx0y2x8D0gF/pub?fbclid=IwY2xjawT-45wBHVvMQp8wFOoZliZ8wKMJQ3w_DXbDzKkL4v14y2sQlJw2wT_rpijebOZP0A",
+      "url": "https://docs.google.com/document/d/e/2PACX-1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zE0Dwo2-05cAiMcRsCx0y2x8D0gF/pub?fbclid=IwY2xjawT-45wBHVvMQp8wFOoZliZ8wKMJQ3w_DXbDzKkL4v14y2sQlJw2wT_rpijebOZP0A"
     },
     {
       "actionable": false,
@@ -1417,28 +1346,6 @@
       "repeat_failure": false,
       "resolved_url": null,
       "url": "https://ealing.cmis.uk.com/ealing/Meetings/tabid/70/ctl/ViewMeetingPublic/mid/397/Meeting/6876/Committee/3/Default.aspx"
-    },
-    {
-      "actionable": false,
-      "affected_posts": [
-        {
-          "article_label": "Southall Broadway ward forum on the council's own record",
-          "path": "posts/2026/05/06/the-meeting-that-ended-local.md",
-          "title": "The Meeting that Ended Local Democracy in Southall",
-          "url": "https://southallstories.uk/2026/05/06/the-meeting-that-ended-local/"
-        }
-      ],
-      "checked_at": 1788176173,
-      "destination_title": null,
-      "domain": "ealing.moderngov.co.uk",
-      "failure_streak": 0,
-      "health": "unreachable",
-      "http_status": 403,
-      "new_problem": false,
-      "recommendation": "No edit recommended after a single failure; retry on the next scheduled check.",
-      "repeat_failure": false,
-      "resolved_url": "https://ealing.moderngov.co.uk",
-      "url": "https://ealing.moderngov.co.uk"
     },
     {
       "actionable": false,
@@ -1809,6 +1716,28 @@
       "repeat_failure": false,
       "resolved_url": "https://ealing.moderngov.co.uk/ieListDocuments.aspx?MId=6661",
       "url": "https://ealing.moderngov.co.uk/ieListDocuments.aspx?MId=6661"
+    },
+    {
+      "actionable": false,
+      "affected_posts": [
+        {
+          "article_label": "Southall Broadway ward forum on the council's own record",
+          "path": "posts/2026/05/06/the-meeting-that-ended-local.md",
+          "title": "The Meeting that Ended Local Democracy in Southall",
+          "url": "https://southallstories.uk/2026/05/06/the-meeting-that-ended-local/"
+        }
+      ],
+      "checked_at": 1788185068,
+      "destination_title": null,
+      "domain": "ealing.moderngov.co.uk",
+      "failure_streak": 1,
+      "health": "blocked",
+      "http_status": 403,
+      "new_problem": false,
+      "recommendation": "No edit recommended; the destination appears to block automated checks. Verify manually only if needed.",
+      "repeat_failure": false,
+      "resolved_url": "https://ealing.moderngov.co.uk/ieListMeetings.aspx?CId=231&Year=0",
+      "url": "https://ealing.moderngov.co.uk/ieListMeetings.aspx?CId=231&Year=0"
     },
     {
       "actionable": false,
@@ -2224,7 +2153,7 @@
       "failure_streak": 0,
       "health": "gone",
       "http_status": 404,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Use Micro.blog’s archived version or replace the source URL.",
       "repeat_failure": false,
       "resolved_url": "https://ealingperformance.inphase.com/Detail/865_17759?s=09",
@@ -2312,7 +2241,7 @@
       "failure_streak": 0,
       "health": "gone",
       "http_status": 404,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Use Micro.blog’s archived version or replace the source URL.",
       "repeat_failure": false,
       "resolved_url": "https://en.wikipedia.org/wiki/Communist_Party_of_Great_Britain_(Marxist%E2%80%93Leninist",
@@ -2428,7 +2357,7 @@
       "failure_streak": 0,
       "health": "gone",
       "http_status": 404,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Use Micro.blog’s archived version or replace the source URL.",
       "repeat_failure": false,
       "resolved_url": "https://en.wikipedia.org/wiki/Peter_Mason_(politician",
@@ -6242,6 +6171,50 @@
       "actionable": false,
       "affected_posts": [
         {
+          "article_label": "assets.publishing.service.gov.uk/government/upl…",
+          "path": "posts/2018/08/03/health-risks-of-exposure-to.md",
+          "title": "Health Risks of Exposure to Benzene",
+          "url": "https://southallstories.uk/2018/08/03/health-risks-of-exposure-to/"
+        }
+      ],
+      "checked_at": 1788185072,
+      "destination_title": "Microsoft Word - BENZENE Toxicological overview v2.doc",
+      "domain": "web.archive.org",
+      "failure_streak": 0,
+      "health": "healthy",
+      "http_status": 200,
+      "new_problem": false,
+      "recommendation": "No action needed.",
+      "repeat_failure": false,
+      "resolved_url": "https://web.archive.org/web/20190728165227if_/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf",
+      "url": "https://web.archive.org/web/20190728165227if_/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf"
+    },
+    {
+      "actionable": false,
+      "affected_posts": [
+        {
+          "article_label": "assets.publishing.service.gov.uk/government/upl…",
+          "path": "posts/2018/08/03/health-risks-of-exposure-to.md",
+          "title": "Health Risks of Exposure to Benzene",
+          "url": "https://southallstories.uk/2018/08/03/health-risks-of-exposure-to/"
+        }
+      ],
+      "checked_at": 1788185072,
+      "destination_title": "Compendium of Chemical Hazards",
+      "domain": "web.archive.org",
+      "failure_streak": 0,
+      "health": "healthy",
+      "http_status": 200,
+      "new_problem": false,
+      "recommendation": "No action needed.",
+      "repeat_failure": false,
+      "resolved_url": "https://web.archive.org/web/20190728165228if_/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/522459/Benzene_IM_PHE_050516.pdf",
+      "url": "https://web.archive.org/web/20190728165228if_/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/522459/Benzene_IM_PHE_050516.pdf"
+    },
+    {
+      "actionable": false,
+      "affected_posts": [
+        {
           "article_label": "723",
           "path": "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
           "title": "Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises",
@@ -6264,6 +6237,28 @@
       "actionable": false,
       "affected_posts": [
         {
+          "article_label": "ealingperformance.inphase.com/Plan/853#865",
+          "path": "posts/2021/05/03/look-at-these-bricks.md",
+          "title": "Look at these Bricks!",
+          "url": "https://southallstories.uk/2021/05/03/look-at-these-bricks/"
+        }
+      ],
+      "checked_at": 1788185071,
+      "destination_title": "Affordable housing",
+      "domain": "web.archive.org",
+      "failure_streak": 0,
+      "health": "healthy",
+      "http_status": 200,
+      "new_problem": false,
+      "recommendation": "No action needed.",
+      "repeat_failure": false,
+      "resolved_url": "https://web.archive.org/web/20210505132417/https://ealingperformance.inphase.com/Plan/853#865",
+      "url": "https://web.archive.org/web/20210505132417/https://ealingperformance.inphase.com/Plan/853#865"
+    },
+    {
+      "actionable": false,
+      "affected_posts": [
+        {
           "article_label": "898",
           "path": "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
           "title": "Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises",
@@ -6281,6 +6276,28 @@
       "repeat_failure": false,
       "resolved_url": "https://web.archive.org/web/20210505225051/http://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018",
       "url": "https://web.archive.org/web/20210505225051/http://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018"
+    },
+    {
+      "actionable": false,
+      "affected_posts": [
+        {
+          "article_label": "ealing.gov.uk/news/article/1…",
+          "path": "posts/2021/05/03/look-at-these-bricks.md",
+          "title": "Look at these Bricks!",
+          "url": "https://southallstories.uk/2021/05/03/look-at-these-bricks/"
+        }
+      ],
+      "checked_at": 1788185071,
+      "destination_title": "Nearly 900 new genuinely affordable homes in Ealing since April 2018 | Ealing Council",
+      "domain": "web.archive.org",
+      "failure_streak": 0,
+      "health": "healthy",
+      "http_status": 200,
+      "new_problem": false,
+      "recommendation": "No action needed.",
+      "repeat_failure": false,
+      "resolved_url": "https://web.archive.org/web/20210505225051/https://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018",
+      "url": "https://web.archive.org/web/20210505225051/https://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018"
     },
     {
       "actionable": false,
@@ -6336,8 +6353,8 @@
           "url": "https://southallstories.uk/2022/03/25/ealing-monopoly/"
         }
       ],
-      "checked_at": 1788176201,
-      "destination_title": "Wayback Machine",
+      "checked_at": 1788185077,
+      "destination_title": null,
       "domain": "web.archive.org",
       "failure_streak": 0,
       "health": "healthy",
@@ -6345,8 +6362,8 @@
       "new_problem": false,
       "recommendation": "No action needed.",
       "repeat_failure": false,
-      "resolved_url": "https://web.archive.org/web/20220328221833/https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf",
-      "url": "https://web.archive.org/web/20220328221833/https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf"
+      "resolved_url": "https://web.archive.org/web/20220328221833if_/https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf",
+      "url": "https://web.archive.org/web/20220328221833if_/https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf"
     },
     {
       "actionable": false,
@@ -6391,6 +6408,56 @@
       "repeat_failure": false,
       "resolved_url": "https://web.archive.org/web/20260120183700/https://www.ealinglabour.co.uk/profile/gareth-shaw-2/",
       "url": "https://web.archive.org/web/20260120183700/https://www.ealinglabour.co.uk/profile/gareth-shaw-2/"
+    },
+    {
+      "actionable": false,
+      "affected_posts": [
+        {
+          "article_label": "The nuisance is the person",
+          "path": "posts/2026/01/22/its-never-enough-until-its.md",
+          "title": "How to Report Nuisance and Pollution in Ealing",
+          "url": "https://southallstories.uk/2026/01/22/its-never-enough-until-its/"
+        }
+      ],
+      "checked_at": 1788185070,
+      "destination_title": "Complaints policy | Complaints | Ealing Council",
+      "domain": "web.archive.org",
+      "failure_streak": 0,
+      "health": "healthy",
+      "http_status": 200,
+      "new_problem": false,
+      "recommendation": "No action needed.",
+      "repeat_failure": false,
+      "resolved_url": "https://web.archive.org/web/20260209113825/https://www.ealing.gov.uk/info/201033/council_and_local_decisions/516/complaints/6",
+      "url": "https://web.archive.org/web/20260209113825/https://www.ealing.gov.uk/info/201033/council_and_local_decisions/516/complaints/6"
+    },
+    {
+      "actionable": false,
+      "affected_posts": [
+        {
+          "article_label": "Campaign of the Year",
+          "path": "posts/2026/03/01/boomerang-ten-years-sorting-out.md",
+          "title": "Boomerang! Ten Years Sorting Out Fly-tipping",
+          "url": "https://southallstories.uk/2026/03/01/boomerang-ten-years-sorting-out/"
+        },
+        {
+          "article_label": "LGC award",
+          "path": "posts/2026/04/30/this-is-our-home-its.md",
+          "title": "This Is Our Home. It's a Tip.",
+          "url": "https://southallstories.uk/2026/04/30/this-is-our-home-its/"
+        }
+      ],
+      "checked_at": 1788185071,
+      "destination_title": "LGC Awards 2026",
+      "domain": "web.archive.org",
+      "failure_streak": 0,
+      "health": "healthy",
+      "http_status": 200,
+      "new_problem": false,
+      "recommendation": "No action needed.",
+      "repeat_failure": false,
+      "resolved_url": "https://web.archive.org/web/20260420032016/https://www.awards.lgcplus.com/lgca2026/en/page/2026-shortlist",
+      "url": "https://web.archive.org/web/20260420032016/https://www.awards.lgcplus.com/lgca2026/en/page/2026-shortlist"
     },
     {
       "actionable": false,
@@ -8009,28 +8076,6 @@
       "url": "https://www.ealing.gov.uk/download/downloads/id/21252/2025_progress_report_and_better_living_refresh.pdf"
     },
     {
-      "actionable": true,
-      "affected_posts": [
-        {
-          "article_label": "[web.archive.org/web/20220...](https://web.archive.org/web/20220328221833/https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf)",
-          "path": "posts/2022/03/25/ealing-monopoly.md",
-          "title": "Ealing Monopoly",
-          "url": "https://southallstories.uk/2022/03/25/ealing-monopoly/"
-        }
-      ],
-      "checked_at": 1788176198,
-      "destination_title": null,
-      "domain": "ealing.gov.uk",
-      "failure_streak": 0,
-      "health": "gone",
-      "http_status": 404,
-      "new_problem": true,
-      "recommendation": "Use Micro.blog’s archived version or replace the source URL.",
-      "repeat_failure": false,
-      "resolved_url": "https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf",
-      "url": "https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf"
-    },
-    {
       "actionable": false,
       "affected_posts": [
         {
@@ -8122,7 +8167,7 @@
       "actionable": true,
       "affected_posts": [
         {
-          "article_label": "The nuisance is the person",
+          "article_label": "the nuisance",
           "path": "posts/2026/01/22/its-never-enough-until-its.md",
           "title": "How to Report Nuisance and Pollution in Ealing",
           "url": "https://southallstories.uk/2026/01/22/its-never-enough-until-its/"
@@ -8134,7 +8179,7 @@
       "failure_streak": 0,
       "health": "gone",
       "http_status": 404,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Use Micro.blog’s archived version or replace the source URL.",
       "repeat_failure": false,
       "resolved_url": "https://www.ealing.gov.uk/info/201033/council_and_local_decisions/516/complaints/6",
@@ -8206,7 +8251,7 @@
       "failure_streak": 0,
       "health": "gone",
       "http_status": 404,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Use Micro.blog’s archived version or replace the source URL.",
       "repeat_failure": false,
       "resolved_url": "https://www.ealing.gov.uk/info/201065/elections/3270/find_your_polling_station",
@@ -8382,7 +8427,7 @@
       "failure_streak": 0,
       "health": "suspicious-redirect",
       "http_status": 200,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Check the Micro.blog archived version; the live URL now appears to point at unrelated content.",
       "repeat_failure": false,
       "resolved_url": "https://www.ealing.gov.uk/info/201307/past_consultations_2022/2916/lamp_column_electric_vehicle_charge_points_evcp_consultation",
@@ -8602,7 +8647,7 @@
       "failure_streak": 0,
       "health": "gone",
       "http_status": 404,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Use Micro.blog’s archived version or replace the source URL.",
       "repeat_failure": false,
       "resolved_url": "https://www.ealing.gov.uk/info/201281/council_priorities/2866/tackling_the_climate_crisis",
@@ -8679,28 +8724,6 @@
       "repeat_failure": false,
       "resolved_url": "https://www.ealing.gov.uk/info/201343/housing_performance/3497/housing_asset_management_compliance/2",
       "url": "https://www.ealing.gov.uk/info/201343/housing_performance/3497/housing_asset_management_compliance/2"
-    },
-    {
-      "actionable": true,
-      "affected_posts": [
-        {
-          "article_label": "ealing.gov.uk/news/article/1…",
-          "path": "posts/2021/05/03/look-at-these-bricks.md",
-          "title": "Look at these Bricks!",
-          "url": "https://southallstories.uk/2021/05/03/look-at-these-bricks/"
-        }
-      ],
-      "checked_at": 1788176199,
-      "destination_title": null,
-      "domain": "ealing.gov.uk",
-      "failure_streak": 0,
-      "health": "gone",
-      "http_status": 404,
-      "new_problem": true,
-      "recommendation": "Use Micro.blog’s archived version or replace the source URL.",
-      "repeat_failure": false,
-      "resolved_url": "https://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018",
-      "url": "https://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018"
     },
     {
       "actionable": false,
@@ -10646,7 +10669,7 @@
       "failure_streak": 0,
       "health": "gone",
       "http_status": 404,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Use Micro.blog’s archived version or replace the source URL.",
       "repeat_failure": false,
       "resolved_url": "https://www.mylondon.news/news/west-london-news/ealing-school-catering-staff-paid-20380035",
@@ -10954,7 +10977,7 @@
       "failure_streak": 0,
       "health": "gone",
       "http_status": 404,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Use Micro.blog’s archived version or replace the source URL.",
       "repeat_failure": false,
       "resolved_url": "https://www.plands.org/en/articles-speeches/articles/2023/anatomy-of-a-massacre-ed-dawayima,-hebron-district",
@@ -11334,7 +11357,7 @@
       "failure_streak": 0,
       "health": "gone",
       "http_status": 404,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Use Micro.blog’s archived version or replace the source URL.",
       "repeat_failure": false,
       "resolved_url": "https://www.telegraph.co.uk/gift/9249993120211e2f",
@@ -11957,1086 +11980,105 @@
       "url": "https://youngealingfoundation.org.uk/images/downloads/ealing/TACKLING-YOUTH-VIOLENCE-IN-SNG-22-1.pdf"
     }
   ],
-  "new_problem_count": 18,
-  "problem_count": 18,
+  "new_problem_count": 0,
+  "problem_count": 12,
   "resolved_since_last_check": [
     {
       "affected_posts": [
         {
-          "article_label": "Southall Market Car Park",
-          "path": "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
-          "title": "Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises",
-          "url": "https://southallstories.uk/2026/01/18/demolition-man-peter-masons-legacy/"
+          "article_label": "assets.publishing.service.gov.uk/government/upl…",
+          "path": "posts/2018/08/03/health-risks-of-exposure-to.md",
+          "title": "Health Risks of Exposure to Benzene",
+          "url": "https://southallstories.uk/2018/08/03/health-risks-of-exposure-to/"
         }
       ],
-      "current_health": "unreachable",
+      "current_health": "removed-or-replaced",
       "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://Ealing.moderngov.co.uk/ieDecisionDetails.aspx?Id=958&LLL=0"
+      "previous_health": "gone",
+      "resolution": "removed-or-replaced-in-corpus",
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf"
     },
     {
       "affected_posts": [
         {
-          "article_label": "Pidgley 'breaks the rules' every day",
-          "path": "posts/2019/06/01/pull-the-other-one-julian.md",
-          "title": "Pull the Other One, Julian",
-          "url": "https://southallstories.uk/2019/06/01/pull-the-other-one-julian/"
+          "article_label": "assets.publishing.service.gov.uk/government/upl…",
+          "path": "posts/2018/08/03/health-risks-of-exposure-to.md",
+          "title": "Health Risks of Exposure to Benzene",
+          "url": "https://southallstories.uk/2018/08/03/health-risks-of-exposure-to/"
         }
       ],
-      "current_health": "unreachable",
+      "current_health": "removed-or-replaced",
       "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://archive.ph/JZAll"
+      "previous_health": "gone",
+      "resolution": "removed-or-replaced-in-corpus",
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/522459/Benzene_IM_PHE_050516.pdf"
     },
     {
       "affected_posts": [
         {
-          "article_label": "massive expansion of the Southall Gasworks site from 3,750 new homes to 8,100",
-          "path": "posts/2026/02/18/the-broken-manifesto-promises-that.md",
-          "title": "The Broken Manifesto Promises that show how Labour is Failing Ealing",
-          "url": "https://southallstories.uk/2026/02/18/the-broken-manifesto-promises-that/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://archive.ph/kfpaA"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "corporate capture",
-          "path": "posts/2026/05/07/the-man-in-the-middle.md",
-          "title": "The Man in the Middle",
-          "url": "https://southallstories.uk/2026/05/07/the-man-in-the-middle/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ccrjustice.org/Corporate-Capture"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "ealing.cmis.uk.com/ealing/Documen…",
-          "path": "posts/2021/05/03/look-at-these-bricks.md",
-          "title": "Look at these Bricks!",
-          "url": "https://southallstories.uk/2021/05/03/look-at-these-bricks/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.cmis.uk.com/ealing/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=WQhOaubzPPxk1yVzZleRxFZb7u/GmxWvbCWE1o9prqXCN7mbG5lCZg%3D%3D&rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ/LUQzgA2uL5jNRG4jdQ%3D%3D&mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&kCx1AnS9/pWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D&FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "ealing.cmis.uk.com/ealing/Meeting…",
-          "path": "posts/2021/05/03/look-at-these-bricks.md",
-          "title": "Look at these Bricks!",
-          "url": "https://southallstories.uk/2021/05/03/look-at-these-bricks/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.cmis.uk.com/ealing/Meetings/tabid/70/ctl/ViewMeetingPublic/mid/397/Meeting/6876/Committee/3/Default.aspx"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Southall Broadway ward forum on the council's own record",
-          "path": "posts/2026/05/06/the-meeting-that-ended-local.md",
-          "title": "The Meeting that Ended Local Democracy in Southall",
-          "url": "https://southallstories.uk/2026/05/06/the-meeting-that-ended-local/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "chair of the pensions fund panel",
-          "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
-          "title": "Lift-Off! Ealing Elections Special ",
-          "url": "https://southallstories.uk/2026/05/09/liftoff-ealing-elections-special/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/Data/Pension%20Fund%20Panel/202111251900/Agenda/Appendix%202%20-%20The%20Pension%20Fund%20Newsletter%202020-21.pdf"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Southall Broadway Ward Forum (12 July 2016)",
-          "path": "posts/2026/03/01/boomerang-ten-years-sorting-out.md",
-          "title": "Boomerang! Ten Years Sorting Out Fly-tipping",
-          "url": "https://southallstories.uk/2026/03/01/boomerang-ten-years-sorting-out/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/Data/Southall%20Broadway%20Ward%20Forum/201607121900/Agenda/Southall%20Broadway%20ward%20forum%20notes%2012%20July%2016.pdf"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "papers",
-          "path": "posts/2025/07/11/perceval-house-w-where-local.md",
-          "title": "Perceval House W5: Where Local Democracy in Ealing Goes to Die",
-          "url": "https://southallstories.uk/2025/07/11/perceval-house-w-where-local/"
-        },
-        {
-          "article_label": "July 2025 petition rule changes",
-          "path": "posts/2025/09/26/ealing-for-sale.md",
-          "title": "Ealing For Sale",
-          "url": "https://southallstories.uk/2025/09/26/ealing-for-sale/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/documents/g6611/Public%20reports%20pack%20Tuesday%2015-Jul-2025%2019.00%20Council.pdf?T=10"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "68 The Broadway, Southall",
-          "path": "posts/2026/05/06/the-drugs-dont-work.md",
-          "title": "The Drugs Don't Work",
-          "url": "https://southallstories.uk/2026/05/06/the-drugs-dont-work/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/documents/s11538/Drug%20alcohol%20services%20by%20entering%20into%20two%20new%20leases%20and%20refurbishments.pdf"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "2576",
-          "path": "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
-          "title": "Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises",
-          "url": "https://southallstories.uk/2026/01/18/demolition-man-peter-masons-legacy/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/documents/s1725/Council%20Performance%20Year%20End%202021-22.pdf"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Southall Reset",
-          "path": "posts/2025/07/11/perceval-house-w-where-local.md",
-          "title": "Perceval House W5: Where Local Democracy in Ealing Goes to Die",
-          "url": "https://southallstories.uk/2025/07/11/perceval-house-w-where-local/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/documents/s1726/Southall%20Reset.pdf"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "planning baseline",
-          "path": "posts/2026/05/02/the-smell-of-success.md",
-          "title": "The Smell of Success",
-          "url": "https://southallstories.uk/2026/05/02/the-smell-of-success/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/documents/s1728/Appendix%202%20Southall%20Planning%20Baseline%20Report.pdf"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "the council’s own report",
-          "path": "posts/2026/02/14/section-money-where-did-southalls.md",
-          "title": "Section 106 money: where did Southall’s “developer tax” go?",
-          "url": "https://southallstories.uk/2026/02/14/section-money-where-did-southalls/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/documents/s1730/Appendix%204%20South%20Road%20Bridge%20Widening%20June%202022.pdf"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "2025 scrutiny report",
-          "path": "posts/2026/02/18/the-broken-manifesto-promises-that.md",
-          "title": "The Broken Manifesto Promises that show how Labour is Failing Ealing",
-          "url": "https://southallstories.uk/2026/02/18/the-broken-manifesto-promises-that/"
-        },
-        {
-          "article_label": "removed all Band D applicants from the register",
-          "path": "posts/2026/05/07/who-does-peter-mason-really.md",
-          "title": "Who Does Peter Mason Really Represent?",
-          "url": "https://southallstories.uk/2026/05/07/who-does-peter-mason-really/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/documents/s18496/Housing%20Development%20and%20Regeneration%20Report%20to%20Scrutiny.pdf"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Benefits are largely contingent on changing resident behaviour",
-          "path": "posts/2026/03/01/boomerang-ten-years-sorting-out.md",
-          "title": "Boomerang! Ten Years Sorting Out Fly-tipping",
-          "url": "https://southallstories.uk/2026/03/01/boomerang-ten-years-sorting-out/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/documents/s18754/Waste%20and%20Recycling%20Update.pdf"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "second in 2023-24 at 48.7%",
-          "path": "posts/2026/04/05/on-the-bins-again.md",
-          "title": "On the Bins Again",
-          "url": "https://southallstories.uk/2026/04/05/on-the-bins-again/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/documents/s18754/Waste+and+Recycling+Update.pdf"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Substance Misuse Service report",
-          "path": "posts/2026/05/06/the-drugs-dont-work.md",
-          "title": "The Drugs Don't Work",
-          "url": "https://southallstories.uk/2026/05/06/the-drugs-dont-work/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/documents/s19482/Substance%20Misuse%20Service.pdf"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Early Help Strategy report",
-          "path": "posts/2026/05/06/it-takes-two-to-tango.md",
-          "title": "It Takes Two to Tango",
-          "url": "https://southallstories.uk/2026/05/06/it-takes-two-to-tango/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/documents/s22212/FINAL%20Ealings%20Early%20Help%20Strategy%20Childrens%20Scrutiny%20Report_v1%2014.11.25.pdf"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "The Council Plan Performance Report Q2 2025/26",
+          "article_label": "Campaign of the Year",
           "path": "posts/2026/03/01/boomerang-ten-years-sorting-out.md",
           "title": "Boomerang! Ten Years Sorting Out Fly-tipping",
           "url": "https://southallstories.uk/2026/03/01/boomerang-ten-years-sorting-out/"
         },
         {
-          "article_label": "Q2 2025/26 Performance Report",
+          "article_label": "LGC award",
           "path": "posts/2026/04/30/this-is-our-home-its.md",
           "title": "This Is Our Home. It's a Tip.",
           "url": "https://southallstories.uk/2026/04/30/this-is-our-home-its/"
         }
       ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/documents/s23017/Council%20Plan%20Performance%20Report%20Q2%20202526.pdf"
+      "current_health": "removed-or-replaced",
+      "destination_title": "LGC Awards 2027",
+      "previous_health": "suspicious-redirect",
+      "resolution": "removed-or-replaced-in-corpus",
+      "url": "https://awards.lgcplus.com/lgca2026/en/page/2026-shortlist"
     },
     {
       "affected_posts": [
         {
-          "article_label": "formally identified",
-          "path": "posts/2026/04/21/you-never-forget-the-smell.md",
-          "title": "\"You Never Forget the Smell of Damp\": Peter Mason's Housing Record in His Own Words",
-          "url": "https://southallstories.uk/2026/04/21/you-never-forget-the-smell/"
+          "article_label": "docs.google.com/document/...",
+          "path": "posts/2018/11/02/lies-damned-lies-and-statistics.md",
+          "title": "Lies, Damned Lies, and Statistics?",
+          "url": "https://southallstories.uk/2018/11/02/lies-damned-lies-and-statistics/"
         }
       ],
-      "current_health": "unreachable",
+      "current_health": "removed-or-replaced",
       "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/documents/s23226/4.2.%20Appendix%202%20-%20LBE%20Forvis%20Mazars%20ACR%202024-25.pdf"
+      "previous_health": "gone",
+      "resolution": "removed-or-replaced-in-corpus",
+      "url": "https://docs.google.com/document/d/e/2PACX1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zEoDwo205cAiMcRsCxoy2x8DogF/pub"
     },
     {
       "affected_posts": [
         {
-          "article_label": "Children’s Scrutiny Panel meeting of 25 November 2025",
-          "path": "posts/2026/05/06/it-takes-two-to-tango.md",
-          "title": "It Takes Two to Tango",
-          "url": "https://southallstories.uk/2026/05/06/it-takes-two-to-tango/"
+          "article_label": "[web.archive.org/web/20220...](https://web.archive.org/web/20220328221833/https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf)",
+          "path": "posts/2022/03/25/ealing-monopoly.md",
+          "title": "Ealing Monopoly",
+          "url": "https://southallstories.uk/2022/03/25/ealing-monopoly/"
         }
       ],
-      "current_health": "unreachable",
+      "current_health": "removed-or-replaced",
       "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/ieListDocuments.aspx?MId=6661"
+      "previous_health": "gone",
+      "resolution": "removed-or-replaced-in-corpus",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf"
     },
     {
       "affected_posts": [
         {
-          "article_label": "Ten years later it is 49%",
-          "path": "posts/2026/04/05/on-the-bins-again.md",
-          "title": "On the Bins Again",
-          "url": "https://southallstories.uk/2026/04/05/on-the-bins-again/"
+          "article_label": "ealing.gov.uk/news/article/1…",
+          "path": "posts/2021/05/03/look-at-these-bricks.md",
+          "title": "Look at these Bricks!",
+          "url": "https://southallstories.uk/2021/05/03/look-at-these-bricks/"
         }
       ],
-      "current_health": "unreachable",
+      "current_health": "removed-or-replaced",
       "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/mgAi.aspx?ID=6020"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Ealing Safer Neighborhood Board",
-          "path": "posts/2026/05/07/the-man-in-the-middle.md",
-          "title": "The Man in the Middle",
-          "url": "https://southallstories.uk/2026/05/07/the-man-in-the-middle/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/mgCommitteeDetails.aspx?ID=188"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Individual Cabinet Member Decision",
-          "path": "posts/2026/05/06/the-drugs-dont-work.md",
-          "title": "The Drugs Don't Work",
-          "url": "https://southallstories.uk/2026/05/06/the-drugs-dont-work/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/mgIssueHistoryHome.aspx?IId=9740&Opt=0"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "crime and anti-social behaviour",
-          "path": "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
-          "title": "Canvassing with Minni Dogra: A Councillor in All But Name",
-          "url": "https://southallstories.uk/2026/04/23/canvassing-with-minni-dogra-a/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=116"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Steve Donnelly",
-          "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
-          "title": "Lift-Off! Ealing Elections Special ",
-          "url": "https://southallstories.uk/2026/05/09/liftoff-ealing-elections-special/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=149"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Swaran Singh Padda",
-          "path": "posts/2026/04/24/first-they-came-for-the.md",
-          "title": "First They Came for the Socialists",
-          "url": "https://southallstories.uk/2026/04/24/first-they-came-for-the/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=164"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "ECI Party leader and candidate in Northfield",
-          "path": "posts/2026/04/28/this-place-has-turned-into.md",
-          "title": "\"This Place Has Turned Into a Bloody Slum\": Southall Wards Meeting with ECI candidates",
-          "url": "https://southallstories.uk/2026/04/28/this-place-has-turned-into/"
-        },
-        {
-          "article_label": "Ealing Community Independents",
-          "path": "posts/2026/05/03/cactuses-never-die.md",
-          "title": "Cactuses Never Die",
-          "url": "https://southallstories.uk/2026/05/03/cactuses-never-die/"
-        },
-        {
-          "article_label": "Ealing Community Independents",
-          "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
-          "title": "Lift-Off! Ealing Elections Special ",
-          "url": "https://southallstories.uk/2026/05/09/liftoff-ealing-elections-special/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealingindependents.org/"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "policies",
-          "path": "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
-          "title": "Canvassing with Minni Dogra: A Councillor in All But Name",
-          "url": "https://southallstories.uk/2026/04/23/canvassing-with-minni-dogra-a/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://ealingindependents.org/what-we-stand-for/"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Mason led the campaign",
-          "path": "posts/2026/05/07/who-does-peter-mason-really.md",
-          "title": "Who Does Peter Mason Really Represent?",
-          "url": "https://southallstories.uk/2026/05/07/who-does-peter-mason-really/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://news.sky.com/story/jeremy-corbyn-to-face-confidence-vote-from-jewish-labour-movement-11686632"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "onlinelibrary.wiley.com/doi/epdf/10.11…",
-          "path": "posts/2019/07/12/naphthalene-poisoning-risk-in-people.md",
-          "title": "Naphthalene Poisoning Risk in People of African and Asian Heritage",
-          "url": "https://southallstories.uk/2019/07/12/naphthalene-poisoning-risk-in-people/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1553-2712.2000.tb01889.x"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "whose interests they really serve",
-          "path": "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
-          "title": "Canvassing with Minni Dogra: A Councillor in All But Name",
-          "url": "https://southallstories.uk/2026/04/23/canvassing-with-minni-dogra-a/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://open.substack.com/pub/southall/p/a-town-ignored-southall-after-16"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "listened to the residents",
-          "path": "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
-          "title": "Bangarang! Pirate Pete and the Lost Bin Collections of Southall",
-          "url": "https://southallstories.uk/2026/02/13/bangarang-pirate-pete-and-the/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://open.substack.com/pub/southall/p/real-change-not-empty-consultations"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "deserve better",
-          "path": "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
-          "title": "Bangarang! Pirate Pete and the Lost Bin Collections of Southall",
-          "url": "https://southallstories.uk/2026/02/13/bangarang-pirate-pete-and-the/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://open.substack.com/pub/southall/p/southall-deserves-better"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "form",
-          "path": "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
-          "title": "Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises",
-          "url": "https://southallstories.uk/2026/01/18/demolition-man-peter-masons-legacy/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://open.substack.com/pub/theviewfromw5/p/demolition-of-ealing-homes-part-of-trail-chaos"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Henry Construction",
-          "path": "posts/2026/04/30/when-is-a-hustings-not.md",
-          "title": "When is a Hustings not a Hustings?",
-          "url": "https://southallstories.uk/2026/04/30/when-is-a-hustings-not/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://open.substack.com/pub/theviewfromw5/p/ealing-council-hopes-to-recoup-money-from-collapse-of-henry-construction"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Ealing delivers 16 percent of its affordable homes target",
-          "path": "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
-          "title": "Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises",
-          "url": "https://southallstories.uk/2026/01/18/demolition-man-peter-masons-legacy/"
-        },
-        {
-          "article_label": "about 16% of the target",
-          "path": "posts/2026/02/18/the-broken-manifesto-promises-that.md",
-          "title": "The Broken Manifesto Promises that show how Labour is Failing Ealing",
-          "url": "https://southallstories.uk/2026/02/18/the-broken-manifesto-promises-that/"
-        },
-        {
-          "article_label": "Conal Urquhart's investigation",
-          "path": "posts/2026/04/30/when-is-a-hustings-not.md",
-          "title": "When is a Hustings not a Hustings?",
-          "url": "https://southallstories.uk/2026/04/30/when-is-a-hustings-not/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://open.substack.com/pub/theviewfromw5/p/ealing-delivers-16-percent-of-its-affordable-homes-target"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "stunt",
-          "path": "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
-          "title": "Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises",
-          "url": "https://southallstories.uk/2026/01/18/demolition-man-peter-masons-legacy/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://open.substack.com/pub/theviewfromw5/p/history-of-insolvency-and-10-million-dividend"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Charity Commission register",
-          "path": "posts/2026/05/07/the-man-in-the-middle.md",
-          "title": "The Man in the Middle",
-          "url": "https://southallstories.uk/2026/05/07/the-man-in-the-middle/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://register.charitycommission.gov.uk/en/charity-details/?regId=1104671"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "read",
-          "path": "posts/2025/07/12/so-it-goes-ai-on.md",
-          "title": "So it Goes: AI on the Absurd Logic of Ealing Council",
-          "url": "https://southallstories.uk/2025/07/12/so-it-goes-ai-on/"
-        },
-        {
-          "article_label": "Perceval House W5",
-          "path": "posts/2025/07/16/the-pied-piper-of-ealing.md",
-          "title": "The Pied Piper of Ealing",
-          "url": "https://southallstories.uk/2025/07/16/the-pied-piper-of-ealing/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://southall.davidmarsden.info/2025/07/11/perceval-house-w-where-local/"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "audio summary",
-          "path": "posts/2025/07/24/david-marsden-save-ealing-childrens.md",
-          "title": "Save Ealing Children’s Centres Campaign Update",
-          "url": "https://southallstories.uk/2025/07/24/david-marsden-save-ealing-childrens/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://southall.davidmarsden.info/2025/07/12/so-it-goes-ai-on/"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "t2m.io/z6shGyFn",
-          "path": "posts/2018/09/11/berkeleys-school-governors-board-member.md",
-          "title": "Berkeley's School Governors Board Member",
-          "url": "https://southallstories.uk/2018/09/11/berkeleys-school-governors-board-member/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://t2m.io/z6shGyFn"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "just 180 had been completed",
-          "path": "posts/2026/05/07/who-does-peter-mason-really.md",
-          "title": "Who Does Peter Mason Really Represent?",
-          "url": "https://southallstories.uk/2026/05/07/who-does-peter-mason-really/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://theviewfromw5.substack.com/p/ealing-delivers-16-percent-of-its-affordable-homes-target"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Average rents rose by 12.4% in a single year",
-          "path": "posts/2026/04/24/when-deport-six-million-becomes.md",
-          "title": "When \"deport six million\" becomes mainstream: what Ealing Labour won't tell you",
-          "url": "https://southallstories.uk/2026/04/24/when-deport-six-million-becomes/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://theviewfromw5.substack.com/p/ealing-major-increase-homelessness"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "resident",
-          "path": "posts/2024/05/19/the-cuckoos-nest.md",
-          "title": "The Cuckoo's Nest",
-          "url": "https://southallstories.uk/2024/05/19/the-cuckoos-nest/"
-        },
-        {
-          "article_label": "complained about rubbish and litter",
-          "path": "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
-          "title": "Bangarang! Pirate Pete and the Lost Bin Collections of Southall",
-          "url": "https://southallstories.uk/2026/02/13/bangarang-pirate-pete-and-the/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "own iTree data",
-          "path": "posts/2026/05/25/feeling-the-heat.md",
-          "title": "Feeling the Heat",
-          "url": "https://southallstories.uk/2026/05/25/feeling-the-heat/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.ealingitree.online/stories/canopy-cover/0"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "The Economist described both plans as \"dangerously unrealistic.\"",
-          "path": "posts/2026/04/24/when-deport-six-million-becomes.md",
-          "title": "When \"deport six million\" becomes mainstream: what Ealing Labour won't tell you",
-          "url": "https://southallstories.uk/2026/04/24/when-deport-six-million-becomes/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.economist.com/britain/2026/03/30/right-wingers-want-ice-style-mass-deportations-in-britain"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "ITV reports",
-          "path": "posts/2026/03/01/boomerang-ten-years-sorting-out.md",
-          "title": "Boomerang! Ten Years Sorting Out Fly-tipping",
-          "url": "https://southallstories.uk/2026/03/01/boomerang-ten-years-sorting-out/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.itv.com/news/london/2026-02-25/croydon-named-englands-fly-tipping-hotspot-with-seven-boroughs-in-top-ten"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Yair Zivan",
-          "path": "posts/2026/05/07/who-does-peter-mason-really.md",
-          "title": "Who Does Peter Mason Really Represent?",
-          "url": "https://southallstories.uk/2026/05/07/who-does-peter-mason-really/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.jewishnews.co.uk/best-of-british-three-uk-jews-now-working-in-the-heart-of-israels-government/"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Jags Sanghera",
-          "path": "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
-          "title": "Bangarang! Pirate Pete and the Lost Bin Collections of Southall",
-          "url": "https://southallstories.uk/2026/02/13/bangarang-pirate-pete-and-the/"
-        },
-        {
-          "article_label": "Jags Sanghera",
-          "path": "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
-          "title": "Canvassing with Minni Dogra: A Councillor in All But Name",
-          "url": "https://southallstories.uk/2026/04/23/canvassing-with-minni-dogra-a/"
-        },
-        {
-          "article_label": "Berkeley Group as Community Liaison Officer",
-          "path": "posts/2026/05/07/the-man-in-the-middle.md",
-          "title": "The Man in the Middle",
-          "url": "https://southallstories.uk/2026/05/07/the-man-in-the-middle/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.linkedin.com/in/jags-sanghera-04722153"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Campaigns Officer",
-          "path": "posts/2026/05/07/who-does-peter-mason-really.md",
-          "title": "Who Does Peter Mason Really Represent?",
-          "url": "https://southallstories.uk/2026/05/07/who-does-peter-mason-really/"
-        },
-        {
-          "article_label": "Onkar Sahota AM",
-          "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
-          "title": "Lift-Off! Ealing Elections Special ",
-          "url": "https://southallstories.uk/2026/05/09/liftoff-ealing-elections-special/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.linkedin.com/in/peter-mason-5a377941"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "UJS Campaign Director",
-          "path": "posts/2026/05/07/who-does-peter-mason-really.md",
-          "title": "Who Does Peter Mason Really Represent?",
-          "url": "https://southallstories.uk/2026/05/07/who-does-peter-mason-really/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.linkedin.com/in/yairzivan"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "a written answer",
-          "path": "posts/2026/05/25/feeling-the-heat.md",
-          "title": "Feeling the Heat",
-          "url": "https://southallstories.uk/2026/05/25/feeling-the-heat/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.london.gov.uk/who-we-are/what-london-assembly-does/questions-mayor/find-an-answer/retrofitting-homes-ealing"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Hanwell Broadway",
-          "path": "posts/2026/05/06/the-drugs-dont-work.md",
-          "title": "The Drugs Don't Work",
-          "url": "https://southallstories.uk/2026/05/06/the-drugs-dont-work/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.police.uk/pu/your-area/metropolitan-police-service/hanwell-broadway/"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Metropolitan Police data for Southall Broadway",
-          "path": "posts/2026/05/06/the-drugs-dont-work.md",
-          "title": "The Drugs Don't Work",
-          "url": "https://southallstories.uk/2026/05/06/the-drugs-dont-work/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.police.uk/pu/your-area/metropolitan-police-service/southall-broadway/"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Southall Green",
-          "path": "posts/2026/05/06/the-drugs-dont-work.md",
-          "title": "The Drugs Don't Work",
-          "url": "https://southallstories.uk/2026/05/06/the-drugs-dont-work/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.police.uk/pu/your-area/metropolitan-police-service/southall-green/"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Walpole",
-          "path": "posts/2026/05/06/the-drugs-dont-work.md",
-          "title": "The Drugs Don't Work",
-          "url": "https://southallstories.uk/2026/05/06/the-drugs-dont-work/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.police.uk/pu/your-area/metropolitan-police-service/walpole/"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "unfortunate individuals",
-          "path": "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
-          "title": "Bangarang! Pirate Pete and the Lost Bin Collections of Southall",
-          "url": "https://southallstories.uk/2026/02/13/bangarang-pirate-pete-and-the/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.reddit.com/r/Ealing/s/JD2n25UHIk"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Primacy effects",
-          "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
-          "title": "Lift-Off! Ealing Elections Special ",
-          "url": "https://southallstories.uk/2026/05/09/liftoff-ealing-elections-special/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.researchgate.net/publication/308019398_The_first_one_wins_Distilling_the_primacy_effect"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Ealing Together: Harmony in Diversity",
-          "path": "posts/2025/07/16/the-pied-piper-of-ealing.md",
-          "title": "The Pied Piper of Ealing",
-          "url": "https://southallstories.uk/2025/07/16/the-pied-piper-of-ealing/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.royalalberthall.com/tickets/events/2025/ealing-together-harmony-in-diversity"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "temperature",
-          "path": "posts/2026/05/25/feeling-the-heat.md",
-          "title": "Feeling the Heat",
-          "url": "https://southallstories.uk/2026/05/25/feeling-the-heat/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.timeanddate.com/weather/@2637490/historic?month=7&year=2018"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "more than 28,000 women and girls",
-          "path": "posts/2025/07/11/perceval-house-w-where-local.md",
-          "title": "Perceval House W5: Where Local Democracy in Ealing Goes to Die",
-          "url": "https://southallstories.uk/2025/07/11/perceval-house-w-where-local/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.unwomen.org/en/news-stories/news/2025/05/un-women-estimates-over-28000-women-and-girls-killed-in-gaza-since-october-2023"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "confirmed in an FOI response",
-          "path": "posts/2026/05/25/feeling-the-heat.md",
-          "title": "Feeling the Heat",
-          "url": "https://southallstories.uk/2026/05/25/feeling-the-heat/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.whatdotheyknow.com/request/845384/response/2020637/attach/html/5/FOI%20Response%2022%200363%20FINAL.pdf.html"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "Freedom of Information response",
-          "path": "posts/2026/02/18/the-broken-manifesto-promises-that.md",
-          "title": "The Broken Manifesto Promises that show how Labour is Failing Ealing",
-          "url": "https://southallstories.uk/2026/02/18/the-broken-manifesto-promises-that/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.whatdotheyknow.com/request/how_many_homes_have_been_complet/response/2002978/attach/5/FOI%20Internal%20Review%2022%200065%20FINAL.pdf"
-    },
-    {
-      "affected_posts": [
-        {
-          "article_label": "council’s own FOI response",
-          "path": "posts/2026/02/14/section-money-where-did-southalls.md",
-          "title": "Section 106 money: where did Southall’s “developer tax” go?",
-          "url": "https://southallstories.uk/2026/02/14/section-money-where-did-southalls/"
-        }
-      ],
-      "current_health": "unreachable",
-      "destination_title": null,
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.whatdotheyknow.com/request/how_much_section_106_money_has_e/response/2061857/attach/5/EIR%20Internal%20Review%2022%200404%20FINAL.pdf?cookie_passthrough=1"
+      "previous_health": "gone",
+      "resolution": "removed-or-replaced-in-corpus",
+      "url": "https://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018"
     }
   ],
-  "resolved_since_last_check_count": 67
+  "resolved_since_last_check_count": 6
 }

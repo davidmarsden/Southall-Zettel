@@ -46,7 +46,7 @@ They are also, now, the most direct measure of his record as leader of Ealing Co
 ## What he said
 
 
-<img src="uploads/2026/screenshot-20260421-122211.png" width="600" height="503" alt="A Twitter conversation with then Ealing Labour housing lead Peter Mason discussing the affordability issues in the London housing market and personal experiences living in temporary accommodation.">  </br>
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260421-122211.png" width="600" height="503" alt="A Twitter conversation with then Ealing Labour housing lead Peter Mason discussing the affordability issues in the London housing market and personal experiences living in temporary accommodation.">  </br>
 </br>
 
 
@@ -58,7 +58,7 @@ In June 2018, Mason - cabinet lead for housing - [wrote](https://x.com/i/status/
 </br>
 
 
-<img src="uploads/2026/screenshot-20260421-122834.png" width="600" height="237" alt="A tweet from Peter Mason mentions traveling to Birmingham to meet with Ealing Council residents who relocated from London and planning to write about the experience.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260421-122834.png" width="600" height="237" alt="A tweet from Peter Mason mentions traveling to Birmingham to meet with Ealing Council residents who relocated from London and planning to write about the experience.">
 </br>
 </br>
 
@@ -69,7 +69,7 @@ Later that summer, he [travelled to Birmingham](https://x.com/i/status/103547656
 > "Today I'm on my way to Birmingham to meet with @EalingCouncil residents who've made the decision to move out of London, and see for myself the properties and neighbourhoods where relocations are happening. Will write up my reflections on my return."
 </br>
 
-<img src="uploads/2026/screenshot-20260421-121939.png" width="600" height="621" alt="In a Twitter conversation, Ealing Labour council housing lead Peter Mason compares homeless families living in shipping containers with his own experience of living in temporary accommodation as a child.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260421-121939.png" width="600" height="621" alt="In a Twitter conversation, Ealing Labour council housing lead Peter Mason compares homeless families living in shipping containers with his own experience of living in temporary accommodation as a child.">
 </br>
 </br>
 
@@ -80,7 +80,7 @@ When challenged in 2019 over the council's use of modular homes and the relocati
 > "Memories of my homeless family living in temporary accommodation are the most formative experiences of my life."
 </br>
 
-<img src="uploads/2026/screenshot-20260421-121400.png" width="600" height="537" alt="Ealing Labour housing lead Peter Mason compares relocation to living in shipping containers (aka modular homes).">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260421-121400.png" width="600" height="537" alt="Ealing Labour housing lead Peter Mason compares relocation to living in shipping containers (aka modular homes).">
 </br>
 </br>
 
@@ -91,7 +91,7 @@ In the same exchange, he [defended](https://x.com/i/status/1169587502241464320) 
 > "if the choice is between modular, or being placed into a hostel, with shared washing and cooking facilities, or being forcibly relocated outside of London, you can at least see why this is one of a range of temporary measures we're using, which are alway [sic] under review."
 </br>
 
-<img src="uploads/2026/screenshot-20260421-121101.png" width="600" height="427" alt="A tweet by Peter Mason reflects on growing up in damp, mouldy council housing in the 1950s, noting recent support for Ealing's plans to revitalise the area.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260421-121101.png" width="600" height="427" alt="A tweet by Peter Mason reflects on growing up in damp, mouldy council housing in the 1950s, noting recent support for Ealing's plans to revitalise the area.">
 </br>
 </br>
 
@@ -103,7 +103,7 @@ In August 2021, soon after he became council leader, Mason [wrote](https://x.com
 </br>
 
 
-<img src="uploads/2026/screenshot-20260421-121747.png" width="600" height="735" alt="Ealing Council leader Peter Mason and housing lead Shital Manro are looking out of a window at a cityscape, as described in a tweet about housing solutions for families facing homelessness, and Mason's earliest memories of moving into temporary accommodation.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260421-121747.png" width="600" height="735" alt="Ealing Council leader Peter Mason and housing lead Shital Manro are looking out of a window at a cityscape, as described in a tweet about housing solutions for families facing homelessness, and Mason's earliest memories of moving into temporary accommodation.">
 </br>
 </br>
 
@@ -114,7 +114,7 @@ In February 2023, two years into his leadership, he [returned to the theme](http
 > "My earliest memories involve moving into temporary accommodation. Soon, 31 families, facing the overwhelming trauma of homelessness, will move into brand new homes that we've purchased... Changing worlds for people is truly possible."
 </br>
 
-<img src="uploads/2026/screenshot-20260421-122311.png" width="600" height="756" alt="Peter Mason discusses the consistent fulfillment of a housing association's plans and the impact of building a dedicated new block, sharing personal stories about facing homelessness and the significance of stability and community."></br>
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260421-122311.png" width="600" height="756" alt="Peter Mason discusses the consistent fulfillment of a housing association's plans and the impact of building a dedicated new block, sharing personal stories about facing homelessness and the significance of stability and community."></br>
 </br>
 
 

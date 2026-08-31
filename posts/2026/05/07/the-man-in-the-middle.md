@@ -37,7 +37,7 @@ videos:
 - https://cdn.uploads.micro.mov/251858/2026/proud-to-be-partnering-with-berkeley-group-tgqwestlondon-with-elevating-sou/playlist.m3u8
 url: "/2026/05/07/the-man-in-the-middle/"
 ---
-<img src="uploads/2025/news-insights-tgq-community-chest-programme-supports-western-road-urban-gar.webp" width="600" height="440" alt="A group of people is holding a large ceremonial check for £2,500 from Berkeley for the Western Road Urban Garden Project in Southall. Jags Sanghera is on the right.">
+<img src="https://southallstories.uk/uploads/2025/news-insights-tgq-community-chest-programme-supports-western-road-urban-gar.webp" width="600" height="440" alt="A group of people is holding a large ceremonial check for £2,500 from Berkeley for the Western Road Urban Garden Project in Southall. Jags Sanghera is on the right.">
 
 
 
@@ -135,7 +135,7 @@ In November 2015, he moved to [Berkeley Group as Community Liaison Officer](http
 
 
 
-<img src="uploads/2026/screenshot-20260507-092421.png" width="600" height="375" alt="Auto-generated description: Four people are shown in a webpage section titled Meet Our Trustees and Staff from the Berkeley Foundation.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260507-092421.png" width="600" height="375" alt="Auto-generated description: Four people are shown in a webpage section titled Meet Our Trustees and Staff from the Berkeley Foundation.">
 
 
 
@@ -165,7 +165,7 @@ Berkeley's own *[SouthAll Community News](https://drive.google.com/file/d/1O9Ssf
 
 
 
-<img src="uploads/2026/screenshot-20250928-154744.png" width="600" height="180" alt="Auto-generated description: A staff spotlight features Jags Sanghera, a Community Liaison Officer involved in various community activities in Southall.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20250928-154744.png" width="600" height="180" alt="Auto-generated description: A staff spotlight features Jags Sanghera, a Community Liaison Officer involved in various community activities in Southall.">
 
 
 
@@ -229,7 +229,7 @@ On 27 October 2022, the [Charity Commission register](https://register.charityco
 
 
 
-<img src="uploads/2026/screenshot-20260507-093621.png" width="600" height="847" alt="Auto-generated description: Four trustees of the Southall Community Alliance, each with a title and name, are displayed under the organization's name and logo.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260507-093621.png" width="600" height="847" alt="Auto-generated description: Four trustees of the Southall Community Alliance, each with a title and name, are displayed under the organization's name and logo.">
 
 
 
@@ -368,7 +368,7 @@ In 2010, he stood as a Conservative Party candidate against Julian Bell — who 
 
 
 
-<img src="uploads/2026/screenshot-20260501-100019.png" width="600" height="388" alt="Auto-generated description: A table shows the results of the Greenford Broadway Ward local election from May 6, 2010, with Julian Bell, Timothy Murtagh, and Harbhajan Kaur gaining seats for the Labour party.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260501-100019.png" width="600" height="388" alt="Auto-generated description: A table shows the results of the Greenford Broadway Ward local election from May 6, 2010, with Julian Bell, Timothy Murtagh, and Harbhajan Kaur gaining seats for the Labour party.">
 
 
 
@@ -469,7 +469,7 @@ Southall Community Alliance's reach extends beyond grant-receiving.
 
 
 
-<img src="uploads/2026/screenshot-20260507-093756.png" width="600" height="524" alt="Auto-generated description: A web page features a message about improving a community, stressing the need to address issues like littering and involving local organizations, with attribution to Jags Sanghera.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260507-093756.png" width="600" height="524" alt="Auto-generated description: A web page features a message about improving a community, stressing the need to address issues like littering and involving local organizations, with attribution to Jags Sanghera.">
 
 
 

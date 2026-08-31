@@ -36,7 +36,7 @@ audio_with_metadata:
   duration_seconds: 209
 url: "/2026/05/29/individuality/"
 ---
-<img src="uploads/2026/individuality-cover-2.png" width="600" height="600" alt="Auto-generated description: A petri dish contains a stylized green pattern resembling a tree, accompanied by the word Individuality below.">
+<img src="https://southallstories.uk/uploads/2026/individuality-cover-2.png" width="600" height="600" alt="Auto-generated description: A petri dish contains a stylized green pattern resembling a tree, accompanied by the word Individuality below.">
 
 
 ---
@@ -54,7 +54,7 @@ The kind of brand asset most local authorities would pay handsomely to acquire â
 
 <br>
 
-<img src="uploads/2026/lb-ealing-logo.svg-696x381.png" width="600" height="328" alt="Auto-generated description: A green tree graphic is next to the text Ealing with a web address www.ealing.gov.uk below.">
+<img src="https://southallstories.uk/uploads/2026/lb-ealing-logo.svg-696x381.png" width="600" height="328" alt="Auto-generated description: A green tree graphic is next to the text Ealing with a web address www.ealing.gov.uk below.">
 
 <br>
 <br>
@@ -73,7 +73,7 @@ Stripped of almost everything that might make it recognisable, or function, as a
 <br>
 
 
-<img src="uploads/2026/screenshot-20260528-222735.png" width="482" height="205" alt="Auto-generated description: A green emblem with a stylized tree design is accompanied by the text London Borough of Ealing.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260528-222735.png" width="482" height="205" alt="Auto-generated description: A green emblem with a stylized tree design is accompanied by the text London Borough of Ealing.">
 
 
 <br>

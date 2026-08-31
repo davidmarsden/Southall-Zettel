@@ -51,7 +51,7 @@ Every four years he manages to regenerate, reinvent and transform himself and Ea
 
 He has a creative imagination. His ambition is unbridled. He is resilient and resourceful. Nothing, it seems, can stop him recycling ever more of the same old rubbish manifesto promises while simultaneously presenting them to the public as successful achievements we should want more of.  <br>
 
-<img src="uploads/2026/file-000000001050720ab18df3b9be7d42a8.png" width="600" height="900" alt="A poster criticises Ealing Labour's record with indicative claims about fewer homes, higher taxes, and fewer children's centers over eight years from 2018 to 2026."> <br>
+<img src="https://southallstories.uk/uploads/2026/file-000000001050720ab18df3b9be7d42a8.png" width="600" height="900" alt="A poster criticises Ealing Labour's record with indicative claims about fewer homes, higher taxes, and fewer children's centers over eight years from 2018 to 2026."> <br>
 
 
 Of course, it would be unfair to pretend Mason is alone among politicians in this kind of performance. We’ve seen it all before. And that’s really the crux of the problem.
@@ -67,7 +67,7 @@ By his own admission just two weeks ago, Ealing has had [sixteen years of cuts t
 
 Julian Bell was leader until 2021, but it was [Mason who coordinated the 2018 manifesto](https://www.ealinglabour.co.uk/profile/peter-mason-2/), and it's clear he was heavily involved throughout all sixteen years. <br> 
 
-<img src="uploads/2026/img-20210703-101422.jpg" width="600" height="600" alt="Auto-generated description: A Facebook post by Peter Mason reflects on ten years of Labour victory, discussing campaign strategies, voter contact targets, and personal anecdotes about driving."><br>
+<img src="https://southallstories.uk/uploads/2026/img-20210703-101422.jpg" width="600" height="600" alt="Auto-generated description: A Facebook post by Peter Mason reflects on ten years of Labour victory, discussing campaign strategies, voter contact targets, and personal anecdotes about driving."><br>
 
 It is hard to believe the 2022 manifesto, under his fledgling leadership, was written by anyone else. His fingerprints are all over it.
 
@@ -202,7 +202,7 @@ The number displayed:
 
 1,277 homes completed or on site<br>
 
-<img src="uploads/2026/fjja-x-xwaqbng6.jpg" width="600" height="993" alt="Auto-generated description: An infographic displays the number of genuinely affordable homes completed and onsite, with 1,277 homes achieved against a target of 1,742 by September 2021."><br>
+<img src="https://southallstories.uk/uploads/2026/fjja-x-xwaqbng6.jpg" width="600" height="993" alt="Auto-generated description: An infographic displays the number of genuinely affordable homes completed and onsite, with 1,277 homes achieved against a target of 1,742 by September 2021."><br>
 
 
 A [Freedom of Information response](https://www.whatdotheyknow.com/request/how_many_homes_have_been_complet/response/2002978/attach/5/FOI%20Internal%20Review%2022%200065%20FINAL.pdf) to Ealing Independents gave a clearer breakdown:
@@ -212,7 +212,7 @@ A [Freedom of Information response](https://www.whatdotheyknow.com/request/how_m
 * The rest still under construction
 * Some not due until 2024 or 2025
 
-<br><img src="uploads/2026/screenshot-20221218-131242.png" width="600" height="1300" alt="Auto-generated description: A Twitter thread discusses housing promises made by Peter Mason, citing figures from FOI requests regarding the number of homes built by specific years."> <br>
+<br><img src="https://southallstories.uk/uploads/2026/screenshot-20221218-131242.png" width="600" height="1300" alt="Auto-generated description: A Twitter thread discusses housing promises made by Peter Mason, citing figures from FOI requests regarding the number of homes built by specific years."> <br>
 
 So by the actual 2022 deadline:
 
@@ -246,7 +246,7 @@ In some cases, a “new home” meant:
 
 > A hole in the ground with foundations poured.
 
-<img src="uploads/2026/screenshot-20260116-220103.png" width="600" height="472" alt="Auto-generated description: A Twitter conversation discusses housing numbers, with one user humorously questioning the affordability of theoretical holes in the ground."><br>
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260116-220103.png" width="600" height="472" alt="Auto-generated description: A Twitter conversation discusses housing numbers, with one user humorously questioning the affordability of theoretical holes in the ground."><br>
 
 
 ---
@@ -364,7 +364,7 @@ Across public statements, the housing waiting list figures moved steadily upward
 
 Around 9,000 families. Then 10,000. Then 11,000. 
 
-<img src="uploads/2026/20260218-204959-collage.jpg" width="600" height="1066" alt="Peter Mason's tweets from May 2020, October 2022 and February 2023 show the numbers of families waiting for suitable housing in Ealing rising from 9,000 to 10,000 to 11,000."><br>
+<img src="https://southallstories.uk/uploads/2026/20260218-204959-collage.jpg" width="600" height="1066" alt="Peter Mason's tweets from May 2020, October 2022 and February 2023 show the numbers of families waiting for suitable housing in Ealing rising from 9,000 to 10,000 to 11,000."><br>
 
 Then the official number suddenly dropped.
 
@@ -425,7 +425,7 @@ Ealing.
 The study found almost 5,000 social homes demolished in the borough. Many were cleared as part of regeneration schemes, where older social-rent homes were demolished, replacement homes were built later, and often at higher “affordable rent” levels rather than at "social rent" levels.
 
 
-<img src="uploads/2026/screenshot-20260215-085240.png" width="600" height="321" alt="A story in the Architects' Journal reports on a study claiming that almost 5,000 social housing units in Ealing have been demolished in the last decade, exacerbating homelessness and overcrowding."><br>
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260215-085240.png" width="600" height="321" alt="A story in the Architects' Journal reports on a study claiming that almost 5,000 social housing units in Ealing have been demolished in the last decade, exacerbating homelessness and overcrowding."><br>
 
 
 
@@ -437,7 +437,7 @@ The study found almost 5,000 social homes demolished in the borough. Many were c
 
 The waiting list has been high for decades. A local newspaper report from 1996 recorded 9,000 families on the waiting list.
 
-<img src="uploads/2026/20260215-094902.jpg" width="600" height="551" alt="A newspaper article from 1996 discusses 9,000 people waiting for council housing. Ealing Labour politician Virendra Sharma announces ambitious plans to make 1,500 new homes available every year, while blaming central government controls on local authority spending powers."><br>
+<img src="https://southallstories.uk/uploads/2026/20260215-094902.jpg" width="600" height="551" alt="A newspaper article from 1996 discusses 9,000 people waiting for council housing. Ealing Labour politician Virendra Sharma announces ambitious plans to make 1,500 new homes available every year, while blaming central government controls on local authority spending powers."><br>
 
 
 Nearly thirty years later, the number had risen above 12,000. The later drop to 7,500 came only after thousands were removed from the register.
@@ -453,7 +453,7 @@ So by the early 2020s, the waiting list was higher than it had been in the mid-1
 
 ## The same argument, thirty years apart
 
-<img src="uploads/2026/screenshot-20260215-094855.png" width="600" height="442" alt="Auto-generated description: A Twitter post by Peter Mason discusses efforts to address homelessness and rising temporary accommodation needs, mentioning 31 homes in Acton."><br>
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260215-094855.png" width="600" height="442" alt="Auto-generated description: A Twitter post by Peter Mason discusses efforts to address homelessness and rising temporary accommodation needs, mentioning 31 homes in Acton."><br>
 
 
 When challenged about the waiting list, council leaders point to funding cuts.
@@ -461,7 +461,7 @@ When challenged about the waiting list, council leaders point to funding cuts.
 
 In 2021, London Councils said boroughs had seen a 25% real-terms fall in core spending power since 2010. At the same time, Ealing claimed its direct government grant had been cut by 64%. Both figures can be technically correct. They measure different things. But the deeper pattern is harder to ignore.
 
-<img src="uploads/2026/screenshot-20260216-105231.png" width="600" height="375" alt="Auto-generated description: A bar chart illustrates the percentage changes in public spending from 2010/11 to 2021/22, showing a decrease in local government core spending power, especially in London."><br>
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260216-105231.png" width="600" height="375" alt="Auto-generated description: A bar chart illustrates the percentage changes in public spending from 2010/11 to 2021/22, showing a decrease in local government core spending power, especially in London."><br>
 
 Back in 1996, councillors were already saying:
 
@@ -562,7 +562,7 @@ Another three or four months, and that would have been necessitated Berkeley Gro
 Across both manifestos, Labour presented itself as shielding residents from austerity. But since 2018, council tax has risen repeatedly. Several increases were close to or at the legal maximum. The 2023/24 rise was nearly 5%. The council attributes this to social care pressures and reduced government funding.
 
 
-<img src="uploads/2026/screenshot-20260218-214204.png" width="600" height="362" alt="Auto-generated description: A line graph shows the projected increase in average council tax in Ealing from 2021/22 to 2025/26, reaching £2,041.02 in 2025/26."><br>
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260218-214204.png" width="600" height="362" alt="Auto-generated description: A line graph shows the projected increase in average council tax in Ealing from 2021/22 to 2025/26, reaching £2,041.02 in 2025/26."><br>
 
 
 
@@ -653,5 +653,4 @@ Under Blair and Brown's New Labour, under the Tory/LibDem austerity coalition th
 
 Change will be hard. And it won't happen overnight. But the mainstream parties are all gatekeepers for the status quo, developers and the ruling classes. 
 
-We need [people in local and national government who will actually stand up for the needs of ordinary people](https://southallstories.uk/2022/12/17/the-property-lobby-the-hidden/). 
-
+We need [people in local and national government who will actually stand up for the needs of ordinary people](https://southallstories.uk/2022/12/17/the-property-lobby-the-hidden/).

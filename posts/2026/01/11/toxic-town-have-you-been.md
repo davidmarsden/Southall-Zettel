@@ -43,7 +43,7 @@ Over time, those families gathered enough evidence to prove that Corby Council h
 There are many obvious - and unsettling - parallels with [Southall Gasworks](https://southallstories.uk/categories/gasworks/).
 
 
-<img src="uploads/2026/img-20180813-102918507-pano.jpg" width="600" height="159" alt="Southall Gasworks site during remediation works, August 2018">  
+<img src="https://southallstories.uk/uploads/2026/img-20180813-102918507-pano.jpg" width="600" height="159" alt="Southall Gasworks site during remediation works, August 2018">  
 --- 
   
   
@@ -66,7 +66,7 @@ Despite resistance from [Berkeley Group](https://southallstories.uk/categories/b
 
 The problem was that it arrived as thousands of pages of scanned PDFs, making meaningful analysis almost impossible.
 
-<img src="uploads/2026/screenshot-20251121-195851.png" width="600" height="443" alt="Auto-generated description: A table details gas analysis results with various chemical components listed along with their measured values across multiple sample locations.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20251121-195851.png" width="600" height="443" alt="Auto-generated description: A table details gas analysis results with various chemical components listed along with their measured values across multiple sample locations.">
 
 ---
 
@@ -79,7 +79,7 @@ What’s emerging is striking: high levels of benzene and naphthalene closely ma
 
 I’m now working through around 1,300 pages of data, alongside every report of odours or illness I can trace, to match them up fully. In truth, many of us always suspected or knew in our hearts - and lungs - this connection - but for years we were told by authorities that:
 - it was [all in our heads](https://southallstories.uk/2019/07/09/phe-coverup/) 
-- the air was [safe and the odours harmless to health](https://southallstories.uk/2019/07/21/phe-coverup-continued/) despite levels being over legal limits.<img src="uploads/2025/img-20211030-184939.jpg" width="600" height="224" alt="Auto-generated description: A bar chart compares the levels of various toxic hydrocarbons emitted from Southall Old Gasworks Soil Hospital across different time periods, indicating whether they exceed legal limits.">
+- the air was [safe and the odours harmless to health](https://southallstories.uk/2019/07/21/phe-coverup-continued/) despite levels being over legal limits.<img src="https://southallstories.uk/uploads/2025/img-20211030-184939.jpg" width="600" height="224" alt="Auto-generated description: A bar chart compares the levels of various toxic hydrocarbons emitted from Southall Old Gasworks Soil Hospital across different time periods, indicating whether they exceed legal limits.">
 
 --- 
 

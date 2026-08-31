@@ -35,7 +35,7 @@ url: "/2025/07/16/the-pied-piper-of-ealing/"
 ---
 A couple of weeks ago, big kid sang at the Royal Albert Hall in "[Ealing Together: Harmony in Diversity](https://www.royalalberthall.com/tickets/events/2025/ealing-together-harmony-in-diversity)," performing lyrics by Jewish socialist and renowned children's author Michael Rosen in a new song "Ada in Ealing", a celebration of a former Ealing resident, and the world's first computer programmer and a pioneer of mathematical logic, Ada Lovelace.
 
-<img src="uploads/2025/e2b7eb83a7.jpg" width="600" height="800" alt="Auto-generated description: A grand orchestral performance is taking place in a large, ornate concert hall filled with an audience and illuminated by colorful lights.">
+<img src="https://southallstories.uk/uploads/2025/e2b7eb83a7.jpg" width="600" height="800" alt="Auto-generated description: A grand orchestral performance is taking place in a large, ornate concert hall filled with an audience and illuminated by colorful lights.">
 
 Tonight he performed in his school's musical version of The Pied Piper of Hamelin, a story about broken promises and failed leadership. The stage lights went out halfway through, but the show went on - the children kept singing, the story kept unfolding, and somehow the adults pulling the strings behind the scenes got the lights back on.
 
@@ -43,7 +43,7 @@ The biggest laugh from the grown ups watching came when the council leader overc
 
 Sitting in that school hall, watching children perform a story about adults who make promises they don't keep, I realised I'd been writing about the same tale in "[Perceval House W5](https://southall.davidmarsden.info/2025/07/11/perceval-house-w-where-local/)." The Pied Piper isn't just a fairy story - it's a documentary about local politics.
 
-<img src="uploads/2025/6734cc005e.jpg" width="600" height="451" alt="Auto-generated description: A stage features a large screen displaying a picturesque alleyway with the text Welcome to Hamelin.">
+<img src="https://southallstories.uk/uploads/2025/6734cc005e.jpg" width="600" height="451" alt="Auto-generated description: A stage features a large screen displaying a picturesque alleyway with the text Welcome to Hamelin.">
 
 The council leader in Hamelin promises to solve the rat problem but refuses to pay when the Piper delivers. Sound familiar? Promise to "put people before buildings," then close the buildings. Promise "transparent engagement," then rewrite petition rules to stop residents asking questions. Promise to protect services by cutting them.
 
@@ -55,7 +55,7 @@ But she'd also have recognised the pattern in the Pied Piper story. He who pays 
 
 Unelected developers and council officers concocted a plan to sell off community assets. Berkeley Group paid for MIPIM trips. The council issued compulsory purchase orders to demolish people's homes to make way for a new road and Berkeley's marketing suite opposite the new Elizabeth Line station. The council is "powerless" to prevent Berkeley Group poisoning the Southall community, like the rats in the nursery playground. The algorithm executes perfectly.
 
-<img src="uploads/2025/546c4043a8.jpg" width="600" height="489" alt="Auto-generated description: People in colorful costumes hold protest signs with messages opposing rats, while one person wears a rat mask.">
+<img src="https://southallstories.uk/uploads/2025/546c4043a8.jpg" width="600" height="489" alt="Auto-generated description: People in colorful costumes hold protest signs with messages opposing rats, while one person wears a rat mask.">
 
 In the original tale, the children disappear forever when the adults break their promises. But big kid's generation might rewrite that ending. They've already shown they understand the contradictions better than the politicians creating them. 
 

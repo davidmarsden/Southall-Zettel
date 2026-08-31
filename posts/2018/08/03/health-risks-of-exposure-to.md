@@ -89,7 +89,7 @@ url: "/2018/08/03/health-risks-of-exposure-to/"
 <br>
 There's nothing to say what are the effects of being exposed to lower levels over 14 months, day and night.<br>
 <br>
- <a class="entity-url" data-preview="true" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/522459/Benzene_IM_PHE_050516.pdf">assets.publishing.service.gov.uk/government/upl…</a><span class="row justify-content-center entity-multiple-undefined"><span class="col-md-6"><span class="entity-image"><a href="https://pbs.twimg.com/media/DjtSS9UW4AEyprG.jpg" target="_blank"><img src="https://pbs.twimg.com/media/DjtSS9UW4AEyprG.jpg"></a></span></span><br>
+ <a class="entity-url" data-preview="true" href="https://web.archive.org/web/20190728165228if_/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/522459/Benzene_IM_PHE_050516.pdf">assets.publishing.service.gov.uk/government/upl…</a><span class="row justify-content-center entity-multiple-undefined"><span class="col-md-6"><span class="entity-image"><a href="https://pbs.twimg.com/media/DjtSS9UW4AEyprG.jpg" target="_blank"><img src="https://pbs.twimg.com/media/DjtSS9UW4AEyprG.jpg"></a></span></span><br>
 <span class="col-md-6"><span class="entity-image"><a href="https://pbs.twimg.com/media/DjtShhNX0AAl0VL.jpg" target="_blank"><img src="https://pbs.twimg.com/media/DjtShhNX0AAl0VL.jpg"></a></span></span></span></p>
     <p>Oops! Sorry. <br>
 <br>
@@ -102,7 +102,7 @@ exposure results in some increase in risk, albeit this may be very small.'<br>
 <br>
 Don't take my word for it:<br>
 <br>
-<a class="entity-url" data-preview="true" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf">assets.publishing.service.gov.uk/government/upl…</a></p>
+<a class="entity-url" data-preview="true" href="https://web.archive.org/web/20190728165227if_/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf">assets.publishing.service.gov.uk/government/upl…</a></p>
     <p>Benzene also causes miscarriages.</p>
     <p><span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/EalingCouncil/status/1072457795621060611">[x.com/EalingCou...](https://x.com/EalingCouncil/status/1072457795621060611?s=20)</a></blockquote></span></span></p>
     <p>Unroll @threadreaderapp</p>

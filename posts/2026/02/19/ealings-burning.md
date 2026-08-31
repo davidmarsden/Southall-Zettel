@@ -31,7 +31,7 @@ audio_with_metadata:
   duration_seconds: 194
 url: "/2026/02/19/ealings-burning/"
 ---
-<img src="uploads/2026/file-00000000bf7872439114c01e3f40063b.png" width="600" height="600" alt="Auto-generated description: A chaotic collage-style album cover depicts burning buildings, protest imagery, and text referencing tracks titled Ealing's Burning and Bangarang Remix under the label Southall Stories Records.">
+<img src="https://southallstories.uk/uploads/2026/file-00000000bf7872439114c01e3f40063b.png" width="600" height="600" alt="Auto-generated description: A chaotic collage-style album cover depicts burning buildings, protest imagery, and text referencing tracks titled Ealing's Burning and Bangarang Remix under the label Southall Stories Records.">
 
 --- 
 
@@ -174,7 +174,7 @@ Have a listen and share if you like it.
 But the setlist never does.
 
 
-<img src="uploads/2026/file-000000002d20720aafaa0d6078a77149.png" width="600" height="600" alt="Auto-generated description: A stylized album cover titled Ealing’s Burning depicts chaotic urban scenes with text highlighting issues like a housing crisis and council failures.">
+<img src="https://southallstories.uk/uploads/2026/file-000000002d20720aafaa0d6078a77149.png" width="600" height="600" alt="Auto-generated description: A stylized album cover titled Ealing’s Burning depicts chaotic urban scenes with text highlighting issues like a housing crisis and council failures.">
 
 
 ---
@@ -315,4 +315,4 @@ GET!
 MASON!  
 OUT!
 
-<img src="uploads/2026/file-00000000a92c724395c31463bf614061.png" alt="Auto-generated description: Lyrics are displayed in a punk-style design, featuring verses, a chorus, a bridge, and an outro chant related to themes of inequality and societal issues.">
+<img src="https://southallstories.uk/uploads/2026/file-00000000a92c724395c31463bf614061.png" alt="Auto-generated description: Lyrics are displayed in a punk-style design, featuring verses, a chorus, a bridge, and an outro chant related to themes of inequality and societal issues.">

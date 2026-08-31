@@ -99,26 +99,6 @@
     "status": "resolved",
     "title_source": "pdf-title"
   },
-  "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf": {
-    "checked_at": 1788176201,
-    "content_type": null,
-    "destination_title": null,
-    "health": "gone",
-    "http_status": 410,
-    "resolved_url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf",
-    "status": "http-410",
-    "title_source": null
-  },
-  "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/522459/Benzene_IM_PHE_050516.pdf": {
-    "checked_at": 1788176201,
-    "content_type": null,
-    "destination_title": null,
-    "health": "gone",
-    "http_status": 410,
-    "resolved_url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/825197/Benzene_incident_management_PHE_2019.pdf",
-    "status": "http-410",
-    "title_source": null
-  },
   "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/561046/benzene_general_information.pdf": {
     "checked_at": 1788176201,
     "content_type": null,
@@ -128,16 +108,6 @@
     "resolved_url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/791325/Benzene_general_information_2019.pdf",
     "status": "http-410",
     "title_source": null
-  },
-  "https://awards.lgcplus.com/lgca2026/en/page/2026-shortlist": {
-    "checked_at": 1788176181,
-    "content_type": "text/html",
-    "destination_title": "LGC Awards 2027",
-    "health": "redirected",
-    "http_status": 200,
-    "resolved_url": "https://awards.lgcplus.com/lgca2027/en/page/home",
-    "status": "resolved",
-    "title_source": "og:title"
   },
   "https://bassammahfouz.wordpress.com/2017/02/27/astonishing-numbers-fined-for-fly-tipping-in-ealing/": {
     "checked_at": 1788176186,
@@ -459,15 +429,17 @@
     "status": "resolved",
     "title_source": "html-title"
   },
-  "https://docs.google.com/document/d/e/2PACX1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zEoDwo205cAiMcRsCxoy2x8DogF/pub": {
-    "checked_at": 1788176200,
-    "content_type": null,
-    "destination_title": null,
-    "health": "gone",
-    "http_status": 404,
-    "resolved_url": "https://docs.google.com/document/d/e/2PACX1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zEoDwo205cAiMcRsCxoy2x8DogF/pub",
-    "status": "http-404",
-    "title_source": null
+  "https://docs.google.com/document/d/e/2PACX-1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zE0Dwo2-05cAiMcRsCx0y2x8D0gF/pub?fbclid=IwY2xjawT-45wBHVvMQp8wFOoZliZ8wKMJQ3w_DXbDzKkL4v14y2sQlJw2wT_rpijebOZP0A": {
+    "checked_at": 1788185069,
+    "content_type": "text/html",
+    "destination_title": "Technical Note for Residents",
+    "failure_streak": 0,
+    "health": "healthy",
+    "http_status": 200,
+    "repeat_failure": false,
+    "resolved_url": "https://docs.google.com/document/d/e/2PACX-1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zE0Dwo2-05cAiMcRsCx0y2x8D0gF/pub?fbclid=IwY2xjawT-45wBHVvMQp8wFOoZliZ8wKMJQ3w_DXbDzKkL4v14y2sQlJw2wT_rpijebOZP0A",
+    "status": "resolved",
+    "title_source": "html-title"
   },
   "https://docs.google.com/forms/d/e/1FAIpQLSdF322O7WcchbiC6brfrpAD0cJJ7Y-XAIYAvz2GRB_ONOMNMg/viewform": {
     "checked_at": 1788176177,
@@ -629,16 +601,6 @@
     "status": "fetch-failed",
     "title_source": null
   },
-  "https://ealing.moderngov.co.uk": {
-    "checked_at": 1788176173,
-    "content_type": null,
-    "destination_title": null,
-    "health": "unreachable",
-    "http_status": 403,
-    "resolved_url": "https://ealing.moderngov.co.uk",
-    "status": "http-403",
-    "title_source": null
-  },
   "https://ealing.moderngov.co.uk/Data/Pension%20Fund%20Panel/202111251900/Agenda/Appendix%202%20-%20The%20Pension%20Fund%20Newsletter%202020-21.pdf": {
     "checked_at": 1788176169,
     "content_type": null,
@@ -796,6 +758,18 @@
     "health": "unreachable",
     "http_status": 403,
     "resolved_url": "https://ealing.moderngov.co.uk/ieListDocuments.aspx?MId=6661",
+    "status": "http-403",
+    "title_source": null
+  },
+  "https://ealing.moderngov.co.uk/ieListMeetings.aspx?CId=231&Year=0": {
+    "checked_at": 1788185068,
+    "content_type": null,
+    "destination_title": null,
+    "failure_streak": 1,
+    "health": "blocked",
+    "http_status": 403,
+    "repeat_failure": false,
+    "resolved_url": "https://ealing.moderngov.co.uk/ieListMeetings.aspx?CId=231&Year=0",
     "status": "http-403",
     "title_source": null
   },
@@ -2779,6 +2753,30 @@
     "status": "resolved",
     "title_source": "og:title"
   },
+  "https://web.archive.org/web/20190728165227if_/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf": {
+    "checked_at": 1788185072,
+    "content_type": "application/pdf",
+    "destination_title": "Microsoft Word - BENZENE Toxicological overview v2.doc",
+    "failure_streak": 0,
+    "health": "healthy",
+    "http_status": 200,
+    "repeat_failure": false,
+    "resolved_url": "https://web.archive.org/web/20190728165227if_/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf",
+    "status": "resolved",
+    "title_source": "pdf-title"
+  },
+  "https://web.archive.org/web/20190728165228if_/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/522459/Benzene_IM_PHE_050516.pdf": {
+    "checked_at": 1788185072,
+    "content_type": "application/pdf",
+    "destination_title": "Compendium of Chemical Hazards",
+    "failure_streak": 0,
+    "health": "healthy",
+    "http_status": 200,
+    "repeat_failure": false,
+    "resolved_url": "https://web.archive.org/web/20190728165228if_/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/522459/Benzene_IM_PHE_050516.pdf",
+    "status": "resolved",
+    "title_source": "pdf-title"
+  },
   "https://web.archive.org/web/20210505132417/https://ealingperformance.inphase.com/Plan/853": {
     "checked_at": 1788176193,
     "content_type": "text/html",
@@ -2789,6 +2787,18 @@
     "status": "resolved",
     "title_source": "html-title"
   },
+  "https://web.archive.org/web/20210505132417/https://ealingperformance.inphase.com/Plan/853#865": {
+    "checked_at": 1788185071,
+    "content_type": "text/html",
+    "destination_title": "Affordable housing",
+    "failure_streak": 0,
+    "health": "healthy",
+    "http_status": 200,
+    "repeat_failure": false,
+    "resolved_url": "https://web.archive.org/web/20210505132417/https://ealingperformance.inphase.com/Plan/853#865",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
   "https://web.archive.org/web/20210505225051/http://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018": {
     "checked_at": 1788176198,
     "content_type": "text/html",
@@ -2796,6 +2806,18 @@
     "health": "healthy",
     "http_status": 200,
     "resolved_url": "https://web.archive.org/web/20210505225051/http://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
+  "https://web.archive.org/web/20210505225051/https://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018": {
+    "checked_at": 1788185071,
+    "content_type": "text/html",
+    "destination_title": "Nearly 900 new genuinely affordable homes in Ealing since April 2018 | Ealing Council",
+    "failure_streak": 0,
+    "health": "healthy",
+    "http_status": 200,
+    "repeat_failure": false,
+    "resolved_url": "https://web.archive.org/web/20210505225051/https://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018",
     "status": "resolved",
     "title_source": "html-title"
   },
@@ -2819,15 +2841,17 @@
     "status": "resolved",
     "title_source": "html-title"
   },
-  "https://web.archive.org/web/20220328221833/https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf": {
-    "checked_at": 1788176201,
-    "content_type": "text/html",
-    "destination_title": "Wayback Machine",
+  "https://web.archive.org/web/20220328221833if_/https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf": {
+    "checked_at": 1788185077,
+    "content_type": "application/pdf",
+    "destination_title": null,
+    "failure_streak": 0,
     "health": "healthy",
     "http_status": 200,
-    "resolved_url": "https://web.archive.org/web/20220328221833/https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf",
-    "status": "resolved",
-    "title_source": "html-title"
+    "repeat_failure": false,
+    "resolved_url": "https://web.archive.org/web/20220328221833if_/https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf",
+    "status": "fetched",
+    "title_source": null
   },
   "https://web.archive.org/web/20241201000000*/https://www.ealing.gov.uk/download/downloads/id/488/welcome_guide_for_new_residents": {
     "checked_at": 1788176179,
@@ -2846,6 +2870,30 @@
     "health": "healthy",
     "http_status": 200,
     "resolved_url": "https://web.archive.org/web/20260120183700/https://www.ealinglabour.co.uk/profile/gareth-shaw-2/",
+    "status": "resolved",
+    "title_source": "og:title"
+  },
+  "https://web.archive.org/web/20260209113825/https://www.ealing.gov.uk/info/201033/council_and_local_decisions/516/complaints/6": {
+    "checked_at": 1788185070,
+    "content_type": "text/html",
+    "destination_title": "Complaints policy | Complaints | Ealing Council",
+    "failure_streak": 0,
+    "health": "healthy",
+    "http_status": 200,
+    "repeat_failure": false,
+    "resolved_url": "https://web.archive.org/web/20260209113825/https://www.ealing.gov.uk/info/201033/council_and_local_decisions/516/complaints/6",
+    "status": "resolved",
+    "title_source": "html-title"
+  },
+  "https://web.archive.org/web/20260420032016/https://www.awards.lgcplus.com/lgca2026/en/page/2026-shortlist": {
+    "checked_at": 1788185071,
+    "content_type": "text/html",
+    "destination_title": "LGC Awards 2026",
+    "failure_streak": 0,
+    "health": "healthy",
+    "http_status": 200,
+    "repeat_failure": false,
+    "resolved_url": "https://web.archive.org/web/20260420032016/https://www.awards.lgcplus.com/lgca2026/en/page/2026-shortlist",
     "status": "resolved",
     "title_source": "og:title"
   },
@@ -3559,16 +3607,6 @@
     "status": "fetched",
     "title_source": null
   },
-  "https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf": {
-    "checked_at": 1788176198,
-    "content_type": null,
-    "destination_title": null,
-    "health": "gone",
-    "http_status": 404,
-    "resolved_url": "https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf",
-    "status": "http-404",
-    "title_source": null
-  },
   "https://www.ealing.gov.uk/download/downloads/id/488/welcome_guide_for_new_residents": {
     "checked_at": 1788176178,
     "content_type": "application/pdf",
@@ -3858,16 +3896,6 @@
     "resolved_url": "https://www.ealing.gov.uk/info/201343/housing_performance/3497/housing_asset_management_compliance/2",
     "status": "resolved",
     "title_source": "html-title"
-  },
-  "https://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018": {
-    "checked_at": 1788176199,
-    "content_type": null,
-    "destination_title": null,
-    "health": "gone",
-    "http_status": 404,
-    "resolved_url": "https://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018",
-    "status": "http-404",
-    "title_source": null
   },
   "https://www.ealing.news/business/ealing-reaches-milestone-of-100-london-living-wage-employers/": {
     "checked_at": 1788176180,

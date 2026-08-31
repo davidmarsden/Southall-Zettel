@@ -38,7 +38,7 @@ url: "/2026/01/22/its-never-enough-until-its/"
 Please complete [this form](http://nuisance.southallstories.uk/).
 
 
-<img src="uploads/2026/screenshot-20260120-231400.png" width="600" height="719" alt="Ealing Council's website interface offers options to report noise nuisances, including noise, odor, or a combination of issues, with links for further information and guidance. [SATIRE]">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260120-231400.png" width="600" height="719" alt="Ealing Council's website interface offers options to report noise nuisances, including noise, odor, or a combination of issues, with links for further information and guidance. [SATIRE]">
 
 --- 
 
@@ -323,7 +323,7 @@ Please complete [this form](http://nuisance.southallstories.uk/).
 
 
 
-<img src="uploads/2026/screenshot-20260120-231400.png" width="600" height="719" alt="Ealing Council's website interface offers options to report noise nuisances, including noise, odor, or a combination of issues, with links for further information and guidance. [SATIRE]">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260120-231400.png" width="600" height="719" alt="Ealing Council's website interface offers options to report noise nuisances, including noise, odor, or a combination of issues, with links for further information and guidance. [SATIRE]">
 
 
 --- 
@@ -542,7 +542,7 @@ The offers of help.
 It was [never enough](https://southallstories.uk/2026/01/20/the-council-investigation-that-found/), and it was all too much.
 
 
-[The nuisance is the person](https://www.ealing.gov.uk/info/201033/council_and_local_decisions/516/complaints/6)  
+[The nuisance is the person](https://web.archive.org/web/20260209113825/https://www.ealing.gov.uk/info/201033/council_and_local_decisions/516/complaints/6)  
 who notices, records, reports, follows up —  
 and unreasonably refuses to disappear.
 
@@ -556,7 +556,7 @@ to silence itself.
 
 Please complete [this form](http://nuisance.southallstories.uk/).
 
-<img src="uploads/2026/screenshot-20260120-231400.png" width="600" height="719" alt="Ealing Council's website interface offers options to report noise nuisances, including noise, odor, or a combination of issues, with links for further information and guidance. [SATIRE]">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260120-231400.png" width="600" height="719" alt="Ealing Council's website interface offers options to report noise nuisances, including noise, odor, or a combination of issues, with links for further information and guidance. [SATIRE]">
 
 --- 
 

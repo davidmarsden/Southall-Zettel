@@ -28,7 +28,7 @@ videos:
 - https://cdn.uploads.micro.mov/251858/2026/vid-20180711-1153430342/playlist.m3u8
 url: "/2026/05/25/feeling-the-heat/"
 ---
-<img src="uploads/2026/screenshot-20260525-003258.png" width="600" height="385" alt="Auto-generated description: A climate risk map of Ealing highlights areas in red with the highest risk to climate impacts, showing different regions such as Northolt, Greenford, and Acton.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260525-003258.png" width="600" height="385" alt="Auto-generated description: A climate risk map of Ealing highlights areas in red with the highest risk to climate impacts, showing different regions such as Northolt, Greenford, and Acton.">
 
 
 
@@ -276,7 +276,7 @@ But by then, the council had already:
 
 <br>
 
-<img src="uploads/2026/e12688bde8.png" width="600" height="427" alt="Auto-generated description: A map of Ealing displays tree canopy cover percentages across different wards, varying from 10% to 26%.">
+<img src="https://southallstories.uk/uploads/2026/e12688bde8.png" width="600" height="427" alt="Auto-generated description: A map of Ealing displays tree canopy cover percentages across different wards, varying from 10% to 26%.">
 
 <br>
 <br>
@@ -415,7 +415,7 @@ In June 2020, in the aftermath of George Floyd's murder, the man who would becom
 
 <br>
 
-<img src="uploads/2026/screenshot-2020-06-02-at-23.17.30.png" width="600" height="268" alt="A Twitter post by user Peter Mason from June 2, 2020, discusses structural racism and the importance of the Black Lives Matter movement.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-2020-06-02-at-23.17.30.png" width="600" height="268" alt="A Twitter post by user Peter Mason from June 2, 2020, discusses structural racism and the importance of the Black Lives Matter movement.">
 
 <br>
 <br>
@@ -969,5 +969,3 @@ If you can't stand the heat, don't declare a climate emergency.
 
 
 And don't live in Southall.
-
-

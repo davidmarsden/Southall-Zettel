@@ -95,7 +95,7 @@ There isn't one filter between a complaint and accountability in Ealing. There a
 
 
 
-<img src="uploads/2026/screenshot-20260427-0907244.jpg" width="600" height="634" alt="Auto-generated description: A formal email explains that some emails have been blocked due to factors like length or content, but a new rule is being implemented to prevent unnecessary blocking while maintaining security scanning.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260427-0907244.jpg" width="600" height="634" alt="Auto-generated description: A formal email explains that some emails have been blocked due to factors like length or content, but a new rule is being implemented to prevent unnecessary blocking while maintaining security scanning.">
 
 
 

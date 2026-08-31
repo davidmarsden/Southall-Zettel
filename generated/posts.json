@@ -91,7 +91,7 @@
   },
   {
     "path": "posts/2018/08/03/health-risks-of-exposure-to.md",
-    "sha256": "5af5c9f0fa9a7da61cf7ae6a052ec94dfcb5b653fab7d7a387eceb09dc57b562",
+    "sha256": "e8bab60257ce3a620be0fac87bcd2d644af1bb61c4701737191b2f848a012935",
     "post_id": 5550942,
     "title": "Health Risks of Exposure to Benzene",
     "summary": "Benzene exposure, even at low levels, poses significant health risks including cancer, neurological effects, and other serious symptoms.",
@@ -111,8 +111,6 @@
     "outbound_links": [
       "http://www.aresok.org/npg/nioshdbs/calc.htm",
       "http://www.hse.gov.uk/pubns/indg329.pdf",
-      "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf",
-      "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/522459/Benzene_IM_PHE_050516.pdf",
       "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/561046/benzene_general_information.pdf",
       "https://pbs.twimg.com/media/DjtHmzeU4AA0PP4.jpg",
       "https://pbs.twimg.com/media/DjtKfapXoAIHKJs.jpg",
@@ -121,6 +119,8 @@
       "https://pbs.twimg.com/media/DjtSS9UW4AEyprG.jpg",
       "https://pbs.twimg.com/media/DjtShhNX0AAl0VL.jpg",
       "https://twitter.com/EalingCouncil/status/1072457795621060611",
+      "https://web.archive.org/web/20190728165227if_/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf",
+      "https://web.archive.org/web/20190728165228if_/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/522459/Benzene_IM_PHE_050516.pdf",
       "https://www.convertunits.com/molarmass/Benzene",
       "https://www.nhs.uk/conditions/poisoning/symptoms/",
       "https://x.com/EalingCouncil/status/1072457795621060611?s=20"
@@ -133,6 +133,7 @@
       "nhs.uk",
       "pbs.twimg.com",
       "twitter.com",
+      "web.archive.org",
       "x.com"
     ],
     "images": [
@@ -211,7 +212,7 @@
   },
   {
     "path": "posts/2018/11/02/lies-damned-lies-and-statistics.md",
-    "sha256": "1d807521824aae0b5c2ef9b7f91ae5c9f79cda8ed00bdc4adf039fb237ba88b5",
+    "sha256": "6b2cfc0c5d8c4eee84f55341c5a45bd6ac0994abc59643cbc6d1b33e76613af2",
     "post_id": 5581154,
     "title": "Lies, Damned Lies, and Statistics?",
     "summary": "Searched project for “Berkeley Group statistical manipulation benzene levels unit conversion mg/m3 ppm legal limits Atkins”\nBerkeley Group and Atkins used statistical sleight-of-hand to disguise illegal benzene exposure levels by converting units from ppm to mg/m³ and claiming 1.57 ppm (57% above the legal limit) was \"within acceptable limits.\"",
@@ -231,7 +232,7 @@
     "outbound_links": [
       "https://docs.google.com/document/d/e/2PACX-1vT8P3m1TzNCp3g8QQfoeKJJO9EFGSIHwEo1EI7kwwWcuEc0g6Y8jTR4Wfve6G5DMuHQ-f9b8Ge2Mz_y/pub?fbclid=IwAR0QE2ua-iY5RcoyZOmaJNuUV0VMduiJhIY98b8rQ1P1TVMiZp6lrmsDnyg",
       "https://docs.google.com/document/d/e/2PACX-1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zE0Dwo2-05cAiMcRsCx0y2x8D0gF/pub?fbclid=IwY2xjawNCe_UBHVvMQp8wFOoZliZ8wKMJQ3w_DXbDzKkL4v14y2sQlJw2wT_rpijebOZP0A",
-      "https://docs.google.com/document/d/e/2PACX1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zEoDwo205cAiMcRsCxoy2x8DogF/pub",
+      "https://docs.google.com/document/d/e/2PACX-1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zE0Dwo2-05cAiMcRsCx0y2x8D0gF/pub?fbclid=IwY2xjawT-45wBHVvMQp8wFOoZliZ8wKMJQ3w_DXbDzKkL4v14y2sQlJw2wT_rpijebOZP0A",
       "https://drive.google.com/file/d/1T9YMBcz6MbwQ2aX0tVhZLT2ZMi9KDotM/view?usp=drivesdk"
     ],
     "outbound_domains": [
@@ -308,7 +309,7 @@
   },
   {
     "path": "posts/2019/07/09/phe-coverup.md",
-    "sha256": "98376d5fc8c5e05a17e15453799e0b2c2efe10a7b2cb7cdcad4256c7d02f06ee",
+    "sha256": "422a85089456490d8aeadddc2202adeadd0e681319b9e7ca265c995f2da4ec58",
     "post_id": 5575568,
     "title": "PHE cover-up?",
     "summary": "Benzene levels significantly exceeded safety standards in early 2019, contradicting reassurances by public health officials.",
@@ -379,7 +380,7 @@
   },
   {
     "path": "posts/2019/07/21/phe-coverup-continued.md",
-    "sha256": "ce97426463af8bb71912795f7924eda764454fef1414e5dd3105e0c0eb16d870",
+    "sha256": "e8c4cf55ba274022fb6d08caa4dcba625f11426ece9900291dba77d4570a6e79",
     "post_id": 5575575,
     "title": "PHE cover-up, continued",
     "summary": "This forensic analysis exposes a sophisticated data manipulation operation where Public Health England and Atkins systematically concealed escalating toxic contamination through mathematical sleight-of-hand—adding distant monitors to dilute readings, including post-closure data to lower averages, and potentially removing peak contamination data while \"forgetting\" to adjust the calculated averages.",
@@ -514,7 +515,7 @@
   },
   {
     "path": "posts/2020/10/05/high-traffic-neighbourhood.md",
-    "sha256": "eebe6c2084e6da65845b867df04f5f4d2fbb78def9e37a02e5f0b522c0fd3a3b",
+    "sha256": "d0fa6ba479998da2b0fc9012c4cc1a7c68087e95e59212ca4caf59e0d3cf38f9",
     "post_id": 5543312,
     "title": "High Traffic Neighbourhood ",
     "summary": "An hour-long school run through Southall's traffic gridlock reveals how 'improving access for HGVs' creates chaos for residents, while a father's choice of the furthest school from toxic gasworks air exposes the impossible decisions parents face in polluted communities.",
@@ -544,7 +545,7 @@
   },
   {
     "path": "posts/2021/04/14/strawberries-for-pigs.md",
-    "sha256": "80b1062c2e0d24c603b0f84bdf62904a60845772c137282faeba6440fb758768",
+    "sha256": "6bb9865e30d6d0c4a09cd0ed17b6ee374548d793bcab0539d1d6bc4b13e9cc11",
     "post_id": 5543515,
     "title": "Strawberries for Pigs?",
     "summary": "A father's discovery that his child's garden strawberries were poisoned by toxic air from nearby gasworks becomes a meditation on how Labour councillors who once campaigned against contaminated development later accepted £30,000 from developers while residents were 'gassed in their own homes.",
@@ -574,7 +575,7 @@
   },
   {
     "path": "posts/2021/05/03/look-at-these-bricks.md",
-    "sha256": "020b4f3bfb60fb243fd3f3d798fb0ae8f75f22c8a10aa5a3d871dfee5afe4b4c",
+    "sha256": "c9581d20ce41f018086a7b78d682e6d075992fb1a7ad6ada204ecf4ec09da556",
     "post_id": 5551023,
     "title": "Look at these Bricks!",
     "summary": "The text discusses the progress and promises regarding the construction of genuinely affordable homes in Ealing, highlighting various statistics and dates.",
@@ -608,17 +609,18 @@
       "https://pbs.twimg.com/media/FR3jmgwX0AEupfx.jpg",
       "https://pbs.twimg.com/media/FR3jpb3XoAAiBbv.jpg",
       "https://threadreaderapp.com/thread/1389215486244708353.html",
+      "https://web.archive.org/web/20210505132417/https://ealingperformance.inphase.com/Plan/853#865",
+      "https://web.archive.org/web/20210505225051/https://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018",
       "https://www.aroundealing.com/homes/ealing-council-set-to-hit-genuinely-affordable-homes-building-target/",
-      "https://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018",
       "https://x.com/_petermason/status/1262814422185189376"
     ],
     "outbound_domains": [
       "aroundealing.com",
       "ealing.cmis.uk.com",
-      "ealing.gov.uk",
       "ealingperformance.inphase.com",
       "pbs.twimg.com",
       "threadreaderapp.com",
+      "web.archive.org",
       "x.com"
     ],
     "images": [
@@ -804,7 +806,7 @@
   },
   {
     "path": "posts/2022/03/25/ealing-monopoly.md",
-    "sha256": "ef97aff6e42358c933a1555d6288990b04699cf7067279a2c00fc9b0935b946c",
+    "sha256": "5ab25a66e5d601ce53214a54a7a8420bf69fde0400b597de846bd6911a2c4f39",
     "post_id": 5550924,
     "title": "Ealing Monopoly",
     "summary": "An exclusive group of wealthy, mostly white men conspired to profit from Ealing's public assets during a financial crisis while not being elected for such decisions.",
@@ -857,12 +859,10 @@
       "https://pbs.twimg.com/media/FOw_R1-XEAEs4lV.jpg",
       "https://pbs.twimg.com/media/FOw_RtgWYAAJp1j.jpg",
       "https://pbs.twimg.com/media/FOw_SGlXMAQgm6V.jpg",
-      "https://web.archive.org/web/20220328221833/https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf",
-      "https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf"
+      "https://web.archive.org/web/20220328221833if_/https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf"
     ],
     "outbound_domains": [
       "davidmarsden.info",
-      "ealing.gov.uk",
       "pbs.twimg.com",
       "web.archive.org"
     ],
@@ -941,7 +941,7 @@
   },
   {
     "path": "posts/2022/12/17/the-property-lobby-the-hidden.md",
-    "sha256": "954d9dce1d85d3e6c4d8a108b10cbd1fc65e6bfb6c91cdd969730c0d2c3a0a50",
+    "sha256": "2e031e0263a442f056485c0ced9525cb45784ee3273197b67ebb9b680a990b70",
     "post_id": 5543519,
     "title": "The Property Lobby: the Hidden Reality behind the Housing Crisis in Ealing ",
     "summary": "How property developers paid Ealing councillors to holiday in Cannes while planning 14,800 new homes in Southall that local people can't afford and don't want.",
@@ -1104,7 +1104,7 @@
   },
   {
     "path": "posts/2023/11/20/toryboy.md",
-    "sha256": "f36e3169a5c1728391885c1db47795b72f78a445c041799e4eb3c0c7d1000cec",
+    "sha256": "3da36b7587717da8199e1782168c8bcb8b7de9024b480f24c98af37cd220ca99",
     "post_id": 5543522,
     "title": "ToryBoy",
     "summary": "Inspired by a filmmaker's failed attempt to unseat an invisible Labour MP, David Marsden's own 2022 campaign as an independent candidate in Ealing's safest Labour ward ended in fourth place, but helped reduce the vote share of councillors who've held power for 24 years while local problems got worse.",
@@ -1156,7 +1156,7 @@
   },
   {
     "path": "posts/2024/05/19/the-cuckoos-nest.md",
-    "sha256": "deca300d94783aa79cbfa2c222eddc4fae23d01a033cd7f33f0e64018b0f5c16",
+    "sha256": "b42d86e5d035e29cc955348aaa3b3941ab8057b09cf8cb46f79809e2f6a1a6c0",
     "post_id": 5543696,
     "title": "The Cuckoo's Nest",
     "summary": "Despite twenty years of resident surveys and failed plans, Ealing Council's latest Southall 'consultation' delivers the same problems, the same non-solutions, and the same performative democratic theatre that changes nothing.",
@@ -1263,7 +1263,7 @@
   },
   {
     "path": "posts/2025/07/11/perceval-house-w-where-local.md",
-    "sha256": "719234f443c7c25864160d738eced35dae7c35e86115f1d1c0993f1c331b4852",
+    "sha256": "41d8dc65c2d2fa2b9d7a942de23f757cf2d8d230662937e5d4f2be27956eb12f",
     "post_id": 5543316,
     "title": "Perceval House W5: Where Local Democracy in Ealing Goes to Die",
     "summary": "An exposé of how Ealing Council's circular bureaucracy makes democratic accountability impossible, told through one mother's struggle to save her local children's centres while councillors vote themselves pay rises.",
@@ -1375,7 +1375,7 @@
   },
   {
     "path": "posts/2025/07/12/so-it-goes-ai-on.md",
-    "sha256": "654ae63967a2af1ea7ef7128cb4ad60e20f921f803ca55baaf4cfaa2aedf1af0",
+    "sha256": "7d7568e1461c1f6075600f29257c2e95a5e1c518e2982a0293301f3f0c0b6c34",
     "post_id": 5543511,
     "title": "So it Goes: AI on the Absurd Logic of Ealing Council",
     "summary": "Two AI hosts discover the perfect mathematical logic of closing children's centres while voting yourself a 70% pay rise, and marvel at Ealing's democratic innovation of rewriting petition rules to prevent residents asking questions.",
@@ -1393,7 +1393,6 @@
     ],
     "outbound_links": [
       "https://southall.davidmarsden.info/2025/07/11/perceval-house-w-where-local/",
-      "https://southallstories.uk/transcripts/2025/09/05/2365.html",
       "https://southallstories.uk/uploads/2025/perceval-house-w5where-local-democracy-in-ealing-goes-to-die-1.mp3",
       "https://southallstories.uk/uploads/2025/perceval-house-w5where-local-democracy-in-ealing-goes-to-die.mp3",
       "https://www.crowdjustice.com/case/save-ealings-childrens-centres/"
@@ -1408,7 +1407,7 @@
   },
   {
     "path": "posts/2025/07/16/the-pied-piper-of-ealing.md",
-    "sha256": "446ce4df494e0d344a3746c11d13566b3f3d6ceb4970e5f5d4eb3064d109f9b9",
+    "sha256": "c8dd797b071d8d73614dea85aa783c50f7e6f17f91510a160caf896e37f04d7b",
     "post_id": 5543518,
     "title": "The Pied Piper of Ealing",
     "summary": "A school performance of The Pied Piper becomes a perfect metaphor for local politics, where broken promises about children's services mirror the fairy tale's warnings about leaders who don't keep their word.",
@@ -1444,7 +1443,7 @@
   },
   {
     "path": "posts/2025/07/24/david-marsden-save-ealing-childrens.md",
-    "sha256": "584466119fde81331bca192bb9e25ac0ac21a06e07b1f1587c51f29f2e0bfedd",
+    "sha256": "05f165fd227430306ca9b6dcab685f79f37fa520ce2a376b2e9abb38199241fa",
     "post_id": 5543509,
     "title": "Save Ealing Children’s Centres Campaign Update",
     "summary": "The Save Ealing Children's Centres campaign raised over £5,000 in just eight days to fund legal action against Ealing Council's plan to close ten of the borough's twenty-five children's centres.",
@@ -1461,20 +1460,18 @@
     ],
     "outbound_links": [
       "https://southall.davidmarsden.info/2025/07/12/so-it-goes-ai-on/",
-      "https://southallstories.uk/transcripts/2025/09/05/2365.html",
       "https://www.crowdjustice.com/case/save-ealings-childrens-centres/"
     ],
     "outbound_domains": [
       "crowdjustice.com",
-      "southall.davidmarsden.info",
-      "southallstories.uk"
+      "southall.davidmarsden.info"
     ],
     "images": [],
     "videos": []
   },
   {
     "path": "posts/2025/09/26/ealing-for-sale.md",
-    "sha256": "947d2cdaf9c9352c28a8d78c903fb02e5cd5d42896fa213ccbbb0873168ed012",
+    "sha256": "66606fd6a89042074b065e822e161f7302c4db94868c9c10771c948614dfce0d",
     "post_id": 5581562,
     "title": "Ealing For Sale",
     "summary": "Ealing Council's 2023 strategy document officially confirms what began in 2007 with the Dominion Centre template: a systematic 18-year asset disposal programme that rebrands the sale of 760+ community facilities as \"empowerment\" while council leaders enrich themselves through developer relationships worth £33,000+ in gifts.",
@@ -1530,7 +1527,7 @@
   },
   {
     "path": "posts/2026/01/11/toxic-town-have-you-been.md",
-    "sha256": "714cf701aec5790d4123a9d76539d3ca7abd2cf0f6f520835cdbb9f8cda19b17",
+    "sha256": "7abec26e830052fbbc7abf353c3eb26638e36288cfda8537d23b2569d9647f66",
     "post_id": 5705705,
     "title": "Toxic Town - Have You Been Affected?",
     "summary": "After years unable to analyse the contamination data, AI has finally revealed what authorities denied - now I'm reaching out to reconnect with those who were exposed.",
@@ -1625,7 +1622,7 @@
   },
   {
     "path": "posts/2026/01/18/demolition-man-peter-masons-legacy.md",
-    "sha256": "a9446e363d3c3ada4cbe1996fd29ac4223d7a311a1458686c5c72667952aa5b9",
+    "sha256": "21e4f4b2d0adf41aa0fd8b5571d3e6003f1036a9fccfa9d2325d3e0ce14ad134",
     "post_id": 5722627,
     "title": "Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises",
     "summary": "Peter Mason's wrecking ball housing legacy: shifting statistics, botched contracts, half-built homes rotting in Southall Green, and zero accountability.",
@@ -1691,7 +1688,7 @@
   },
   {
     "path": "posts/2026/01/20/the-council-investigation-that-found.md",
-    "sha256": "a391f1d6672bd185e19fe219a72273e5e68685e4fe4e59c5710d51a693726d80",
+    "sha256": "e0823d72ede80a5b5ff5d4e154a1b1a658792be13cfb73371cd5c0b2e1072594",
     "post_id": 5724547,
     "title": "The Council Investigation That Found Nothing ",
     "summary": "A year-long investigation by the council into complaints about harmful practices at the Johnson Street recycling site that burned last week ultimately failed to identify any issues, revealing a systemic problem in regulatory oversight that prioritises paperwork over effective harm mitigation.",
@@ -1743,7 +1740,7 @@
   },
   {
     "path": "posts/2026/01/22/its-never-enough-until-its.md",
-    "sha256": "3766db1faeda1ca698abbbe0a4782edd9585a7843b047c8c5f0cb1b8f1a8946f",
+    "sha256": "cc7858ea79250409af6df8d2728ce9b6986023628c7fa16d8cb8fb744ba58115",
     "post_id": 5724865,
     "title": "How to Report Nuisance and Pollution in Ealing",
     "summary": "How the convoluted, exclusionary and ineffective reporting system seems designed to fail residents who need it most.",
@@ -1762,6 +1759,7 @@
     "outbound_links": [
       "http://nuisance.southallstories.uk/",
       "https://southallstories.uk/2026/01/20/the-council-investigation-that-found/",
+      "https://web.archive.org/web/20260209113825/https://www.ealing.gov.uk/info/201033/council_and_local_decisions/516/complaints/6",
       "https://www.ealing.gov.uk/info/201033/council_and_local_decisions/516/complaints/6",
       "https://www.ealing.gov.uk/info/201146/neighbourhood_and_streets/2053/noise_nuisances/2",
       "https://www.ealing.gov.uk/info/201146/neighbourhood_and_streets/2053/noise_nuisances/3",
@@ -1774,7 +1772,8 @@
     "outbound_domains": [
       "ealing.gov.uk",
       "nuisance.southallstories.uk",
-      "southallstories.uk"
+      "southallstories.uk",
+      "web.archive.org"
     ],
     "images": [
       "https://eu.uploads.micro.blog/251858/2026/screenshot-20260120-231400.png",
@@ -1785,7 +1784,7 @@
   },
   {
     "path": "posts/2026/01/25/the-ea-files-what-regulators.md",
-    "sha256": "4178d4418a337abf1eeaa6da412b20f39e5dfc23427d7858ae85235a7612da51",
+    "sha256": "0fce78122389a0a8adb4e52495060e5517c4cf89708c1f2385869f17da190a25",
     "post_id": 5725373,
     "title": "The EA Files: What Regulators Knew About Fire Risks at Southall Recycling Site",
     "summary": "An incendiary paper trail of inspections, warnings and half-measures that makes the “unfortunate accident” claim about Southall’s recycling fire implausible.",
@@ -1826,7 +1825,7 @@
   },
   {
     "path": "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
-    "sha256": "00755b9817181ba5d83821f50b98eb0a075679cd9d2e310246ed460f989e1672",
+    "sha256": "a2694187bb6e4c8658e1f2fe74ed2c3d1a8fb218cdb0be3dea5b2a25e7b2ec92",
     "post_id": 5754191,
     "title": "Bangarang! Pirate Pete and the Lost Bin Collections of Southall",
     "summary": "The Lost Boys were right all along. They saw what Peter Pan couldn't: that refusing to grow up and admit you were wrong costs everyone except those who profit from the fantasy.",
@@ -1934,7 +1933,7 @@
   },
   {
     "path": "posts/2026/02/14/section-money-where-did-southalls.md",
-    "sha256": "2f775b4da116d06937ceca689bd5855caf52bed3c4ac3a176e4c4cad61609408",
+    "sha256": "59e059e6d39b47553e19f7570c266d22f32b48a4e50c9abb7be8167f20c11c4e",
     "post_id": 5755632,
     "title": "Section 106 money: where did Southall’s “developer tax” go?",
     "summary": "Over five years, Southall generated more than £13m in developer contributions but received less than £5m in local S106 spending.",
@@ -1983,7 +1982,7 @@
   },
   {
     "path": "posts/2026/02/18/the-broken-manifesto-promises-that.md",
-    "sha256": "38efb90123455f2898a8eb50162d5f3698f3c1e1dcc13886e968212d2269244f",
+    "sha256": "d4a233cd7e9aa9a9b55a37862df0a01af724ee12e29c99ebfd88d4ef2105ad58",
     "post_id": 5756463,
     "title": "The Broken Manifesto Promises that show how Labour is Failing Ealing",
     "summary": "Peter Mason adeptly maintains Ealing Labour's façade of progress while consistently failing to deliver on housing promises and other key issues.",
@@ -2060,7 +2059,7 @@
   },
   {
     "path": "posts/2026/02/19/ealings-burning.md",
-    "sha256": "f085262ff8658277a12aae012b86a787f6af9dc49744631b82c1502972111151",
+    "sha256": "4a690ba1de6c03592cbf9f8a7b43e82598c49d188f42181e65f9653af06aaaf5",
     "post_id": 5759990,
     "title": "Ealing's Burning",
     "summary": "I recycled Mason's trash talk and made a protest song out of it.",
@@ -2090,7 +2089,7 @@
   },
   {
     "path": "posts/2026/03/01/boomerang-ten-years-sorting-out.md",
-    "sha256": "a8dfbc10b79fc1848f3362c893afa502798fb9745e79b8f68a7af671877dc27d",
+    "sha256": "1c9016a026a0b21eaa1a3b2ceecdfa36ee1de7482919813273aff0d96586db50",
     "post_id": 5772909,
     "title": "Boomerang! Ten Years Sorting Out Fly-tipping",
     "summary": "Fly-tipping in Ealing has doubled since the council changed waste collection to biweekly in 2016, leading to increased cleanup costs and ongoing community concerns.",
@@ -2107,13 +2106,13 @@
       "Research"
     ],
     "outbound_links": [
-      "https://awards.lgcplus.com/lgca2026/en/page/2026-shortlist",
       "https://bassammahfouz.wordpress.com/2017/02/27/astonishing-numbers-fined-for-fly-tipping-in-ealing/",
       "https://ealing.moderngov.co.uk/Data/Southall%20Broadway%20Ward%20Forum/201607121900/Agenda/Southall%20Broadway%20ward%20forum%20notes%2012%20July%2016.pdf",
       "https://ealing.moderngov.co.uk/documents/s18754/Waste%20and%20Recycling%20Update.pdf",
       "https://ealing.moderngov.co.uk/documents/s23017/Council%20Plan%20Performance%20Report%20Q2%20202526.pdf",
       "https://ealing.u3asite.uk/wp-content/uploads/2024/09/ealingwastemngtandrecyclingpresjune2022.pdf",
       "https://southallstories.uk/2026/02/13/bangarang-pirate-pete-and-the/",
+      "https://web.archive.org/web/20260420032016/https://www.awards.lgcplus.com/lgca2026/en/page/2026-shortlist",
       "https://www.aroundealing.com/leaders-notes/cracking-down-on-fly-tipping/",
       "https://www.aroundealing.com/news/finding-and-fining-the-fly-tippers/",
       "https://www.bbc.co.uk/news/articles/c4gqxddg0xyo",
@@ -2123,14 +2122,14 @@
     ],
     "outbound_domains": [
       "aroundealing.com",
-      "awards.lgcplus.com",
       "bassammahfouz.wordpress.com",
       "bbc.co.uk",
       "ealing.moderngov.co.uk",
       "ealing.u3asite.uk",
       "itv.com",
       "mylondon.news",
-      "southallstories.uk"
+      "southallstories.uk",
+      "web.archive.org"
     ],
     "images": [
       "https://eu.uploads.micro.blog/251858/2026/file-00000000e630720abf62da140a635247.jpg",
@@ -2142,7 +2141,7 @@
   },
   {
     "path": "posts/2026/03/27/what-happened-to-southall.md",
-    "sha256": "cd96fc6cce0c4aede48fae0ed94fb7c0f8c88cc93f4bdd16640c7d1474e99195",
+    "sha256": "0067c6e4ae3e4340c326fdb162ca16f8c537ba0084d8c8e2be549735fca94f98",
     "post_id": 5810127,
     "title": "What Happened to Southall?",
     "summary": "A new report by Community Powered Reporting critically examines Ealing Council's shortcomings in addressing issues in Southall, highlighting various community concerns ahead of local elections.",
@@ -2174,7 +2173,7 @@
   },
   {
     "path": "posts/2026/04/05/on-the-bins-again.md",
-    "sha256": "760380010349ab1a29460e1a425e18c14c26adedb25ae650240060bbc0dd6b4b",
+    "sha256": "19d8f686c0d205188f33a0b5b702d5581a78626bf9c300779fd41df9d06e210a",
     "post_id": 5820251,
     "title": "On the Bins Again",
     "summary": "After two articles on Ealing’s fly-tipping crisis — “Bangarang” and “Boomerang” — a commenter challenged the central argument: if fortnightly bin collections were really the cause, every borough that made the switch would look the same.\nHere’s what four boroughs, and ten years of Defra data, actually show.",
@@ -2252,7 +2251,7 @@
   },
   {
     "path": "posts/2026/04/21/you-never-forget-the-smell.md",
-    "sha256": "7a06eeaebc569a151e4429110b60318a28c8dc02debb76fa9e22c5573585457a",
+    "sha256": "73426977c29831812b57668eb996d8f60c55c388131ce0ae01569da17310b5b4",
     "post_id": 5837446,
     "title": "\"You Never Forget the Smell of Damp\": Peter Mason's Housing Record in His Own Words",
     "summary": "Peter Mason frequently discusses his challenging childhood housing experiences while facing scrutiny over Ealing Council's ongoing housing failures under his leadership.",
@@ -2301,7 +2300,7 @@
   },
   {
     "path": "posts/2026/04/23/canvassing-with-minni-dogra-a.md",
-    "sha256": "bff7dede83a0e8151db63e30dc51e7d5b93566e526a5fb4228790931fa982c05",
+    "sha256": "58332147ec6fd06466d55a58146c7d6e2cdc1c9971d36b7a27f64c467ec21dbc",
     "post_id": 5839992,
     "title": "Canvassing with Minni Dogra: A Councillor in All But Name",
     "summary": "Southall Stories joins Ealing Community Independents candidate Minni Dogra on the campaign trail in Southall Green — and passes the house where a sitting Labour cabinet member ran an illegal food business for the better part of a decade.",
@@ -2370,7 +2369,7 @@
   },
   {
     "path": "posts/2026/04/24/first-they-came-for-the.md",
-    "sha256": "a662dab708654232debf77c0a7ee948ebdf0cb139b3541f01cb3f59dc3cd21f1",
+    "sha256": "de0dc3c8de394f70cadddf1d79c4a9fe5d79c2caeb3913aa39462e0c5cdddc39",
     "post_id": 5840563,
     "title": "First They Came for the Socialists",
     "summary": "Then They Came for the Loyalists",
@@ -2405,7 +2404,7 @@
   },
   {
     "path": "posts/2026/04/24/when-deport-six-million-becomes.md",
-    "sha256": "9486dc8bd8f2d8b250a5ff4b508ff7ac8ba4de9dd8821b8d1f447d9353059ab0",
+    "sha256": "b15d15d46a675e28e0bcba50bc7fabdbff18e433aa2f7791234766f41e193959",
     "post_id": 5841154,
     "title": "When \"deport six million\" becomes mainstream: what Ealing Labour won't tell you",
     "summary": "Ealing Labour condemns local Tory fascism, but Labour enabled the National Front in the town where Blair Peach was murdered for joining community resistance ",
@@ -2460,7 +2459,7 @@
   },
   {
     "path": "posts/2026/04/28/this-place-has-turned-into.md",
-    "sha256": "094b09bd448cdb8908e3e03d6ec9f162a9de3d1b53bde49c901a7accb931dde2",
+    "sha256": "5a69c07b47758d5704f3c4448362e05d8177abb754d92f5963ba963e9d88d542",
     "post_id": 5846055,
     "title": "\"This Place Has Turned Into a Bloody Slum\": Southall Wards Meeting with ECI candidates",
     "summary": "Ealing Community Independents' Southall Wards Engagement Evening highlighted local grievances and called for community empowerment in response to ineffective governance by the Labour Council.",
@@ -2508,7 +2507,7 @@
   },
   {
     "path": "posts/2026/04/30/this-is-our-home-its.md",
-    "sha256": "26ff65e63595fc88b737f3716793a5946a1835eea80fc86c6903a43131339d3b",
+    "sha256": "4e39d57c5672fc5119d7e9ee93aa1622e8f173775ceaa3a000a2caa5f3de457b",
     "post_id": 5850105,
     "title": "This Is Our Home. It's a Tip.",
     "summary": "Ealing's fly-tipping crisis is out of control and Labour's numbers don't add up.",
@@ -2525,21 +2524,21 @@
       "Updates"
     ],
     "outbound_links": [
-      "https://awards.lgcplus.com/lgca2026/en/page/2026-shortlist",
       "https://ealing.moderngov.co.uk/documents/s23017/Council%20Plan%20Performance%20Report%20Q2%20202526.pdf",
       "https://southallstories.uk/2026/02/13/bangarang-pirate-pete-and-the/",
       "https://southallstories.uk/2026/03/01/boomerang-ten-years-sorting-out/",
       "https://southallstories.uk/2026/04/05/on-the-bins-again/",
+      "https://web.archive.org/web/20260420032016/https://www.awards.lgcplus.com/lgca2026/en/page/2026-shortlist",
       "https://www.ealing.news/news/fly-tipping-in-ealing-up-50-in-a-year-to-over-25000-incidents/",
       "https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england",
       "https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england/fly-tipping-statistics-for-england-2024-to-2025"
     ],
     "outbound_domains": [
-      "awards.lgcplus.com",
       "ealing.moderngov.co.uk",
       "ealing.news",
       "gov.uk",
-      "southallstories.uk"
+      "southallstories.uk",
+      "web.archive.org"
     ],
     "images": [
       "https://eu.uploads.micro.blog/251858/2026/flytipping-indexed-chart-v7.png",
@@ -2549,7 +2548,7 @@
   },
   {
     "path": "posts/2026/04/30/when-is-a-hustings-not.md",
-    "sha256": "aa7de2b57ea9118d8864030d0b5b2aa837430e2b3cfb7af8046c24748dfb0131",
+    "sha256": "f75febbbf1450b2ffa5bdbbbe1f525b9b8d0cefce3328a5a3a1385b84daddb32",
     "post_id": 5849581,
     "title": "When is a Hustings not a Hustings?",
     "summary": "When West London Citizens says so.",
@@ -2629,7 +2628,7 @@
   },
   {
     "path": "posts/2026/05/01/back-to-the-future.md",
-    "sha256": "265bbc6f8e6cd93650c89ef3b6256e3d287fc241278d8f92f93d8aff698ba160",
+    "sha256": "a7d38f1e487f862e8c0aad0852669047b664d70cbea682724fe4ad761cd5b80f",
     "post_id": 5851892,
     "title": "Back to the Future",
     "summary": "Welcome to Ealing in 2010. 16 years of Labour management later, what's changed? Complete the interactive audit tool to find out!",
@@ -2667,7 +2666,7 @@
   },
   {
     "path": "posts/2026/05/02/the-smell-of-success.md",
-    "sha256": "3ce1a238294259be81b302dda259f1fdee86fbe1f4ec6b5b79c4956f9b2c6524",
+    "sha256": "da424eb1289b367dad32bd81424d3945b9d3186fdcc7705f8e38d08643a8d3b6",
     "post_id": 5852218,
     "title": "The Smell of Success",
     "summary": "Peter Mason has been shortlisted for Labour Councillor of the Year. Southall Stories investigates his credentials.",
@@ -2732,7 +2731,7 @@
   },
   {
     "path": "posts/2026/05/03/cactuses-never-die.md",
-    "sha256": "3cc9af38d8b30c1b667316a6084aad5f62a1ce0b8214d231315920ff0d9a7556",
+    "sha256": "4e00736d3be3291237b6d647e56f04a834c450afd25a1cb520050f19ffe1a346",
     "post_id": 5855020,
     "title": "Cactuses Never Die",
     "summary": "Yousef Qandeel holds the keys to his home in a village that no longer exists. He is standing for election in Greenford Broadway on 7 May. This is his story — and Ealing's.",
@@ -2802,7 +2801,7 @@
   },
   {
     "path": "posts/2026/05/06/it-takes-two-to-tango.md",
-    "sha256": "3fd33ff0b843aeef65f98c31b9d57c06dfc067a26e3766221fef8d6238ed8ce3",
+    "sha256": "b210b3113d15f86a4162b988a1e5d7520307966c8cc2b4c7408802a2f08bdf98",
     "post_id": 5858871,
     "title": "It Takes Two to Tango",
     "summary": "Dancing by numbers and closing children's centres to improve them.",
@@ -2845,7 +2844,7 @@
   },
   {
     "path": "posts/2026/05/06/sixtyfour-years-on-your-side.md",
-    "sha256": "7e3b2429d01e8bac8c36612d0f1f8043ce4adc2c4f742ac480156a731811641b",
+    "sha256": "6215da78cccbac5199fd941cd7003d9dffeeda30b9514c27b906035464e4f93d",
     "post_id": 5859443,
     "title": "Sixty-Four Years On Your Side",
     "summary": "Three incumbents. Sixty-four years in office. Well over £1.5 million in councillor allowances. Here's what they delivered.",
@@ -2886,7 +2885,7 @@
   },
   {
     "path": "posts/2026/05/06/the-drugs-dont-work.md",
-    "sha256": "455d1ae401e9afaf2e2da12d38861674e19a63665b026909bf289103f5154526",
+    "sha256": "e4ece8798b69fc1c1079bbcedd62d66286adb58abd635e57d9a81ebad32365f3",
     "post_id": 5858389,
     "title": "The Drugs Don't Work",
     "summary": "Not when the answer to inequality is simply to move it somewhere safer politically.",
@@ -2947,7 +2946,7 @@
   },
   {
     "path": "posts/2026/05/06/the-meeting-that-ended-local.md",
-    "sha256": "a6b9c83f725de78463dc88720525a87334c55fba01d8afb33ad5ac1f77592e44",
+    "sha256": "ac9be081f972bcbcd0f73ef4d561af9611c2d8cf7616422b3416e3afb4e0ac3c",
     "post_id": 5859227,
     "title": "The Meeting that Ended Local Democracy in Southall",
     "summary": "How the panic of July 2019 prompted the cancellation of ward forums, councillor surgeries, and election hustings.",
@@ -2966,7 +2965,7 @@
     "outbound_links": [
       "https://dosomethinggood.ealing.gov.uk/your-voice-your-town/southall-town-team/",
       "https://dosomethinggood.ealing.gov.uk/your-voice-your-town/southall/",
-      "https://ealing.moderngov.co.uk",
+      "https://ealing.moderngov.co.uk/ieListMeetings.aspx?CId=231&Year=0",
       "https://one-nation.org.uk",
       "https://socialistworker.co.uk/news/help-respect-do-well-in-southall/",
       "https://southallstories.uk/2019/10/01/trigger-vote-for-sharma/",
@@ -3008,7 +3007,7 @@
   },
   {
     "path": "posts/2026/05/07/computer-says-no.md",
-    "sha256": "d2624122eeec3c3b62c0548282a13d2bfa30c80d257b950cd1b0997bfeaaf75c",
+    "sha256": "3dc888cd41aaa84d3901a4abf8d36738fa71fc1a849d14aca48a9fae0d7ada8a",
     "post_id": 5859521,
     "title": "Computer Says No",
     "summary": "Why does the council never reply to my emails?!",
@@ -3043,7 +3042,7 @@
   },
   {
     "path": "posts/2026/05/07/the-man-in-the-middle.md",
-    "sha256": "97f843792b361b85b315fb215f64ff751a83a43297bfcf51a0aa0ae71971a1c8",
+    "sha256": "f0c42e7103b9233a60be4855b177267ba16eaaa1b34402212dda10fcaa07720e",
     "post_id": 5859956,
     "title": "The Man in the Middle",
     "summary": "Berkeley, Southall Community Alliance, and the Labour Candidate Who Links Them",
@@ -3130,7 +3129,7 @@
   },
   {
     "path": "posts/2026/05/07/who-does-peter-mason-really.md",
-    "sha256": "21e158b3fda2b1b5e23ce52ea67bb4dee984244ca6762d7791729e9c9e8ec187",
+    "sha256": "ace608c90f0dd0bdbd5b876a736356103640614745e06361859f282c18768e9a",
     "post_id": 5855337,
     "title": "Who Does Peter Mason Really Represent?",
     "summary": "Peter Mason has spent this campaign accusing others of hidden allegiances. He has some of his own.",
@@ -3246,7 +3245,7 @@
   },
   {
     "path": "posts/2026/05/09/liftoff-ealing-elections-special.md",
-    "sha256": "f5821b5d3dab3a2134742db39b4634f10d2af38ecef42741ec012751334a5c43",
+    "sha256": "bcb69be18d064093c34885d4060e0e7401289efce9344b8923e2fd26425d74e9",
     "post_id": 5863048,
     "title": "Lift-Off! Ealing Elections Special ",
     "summary": "Massive vote loss for Mason's Labour as Greens and ECI make historic breakthroughs.",
@@ -3363,7 +3362,7 @@
   },
   {
     "path": "posts/2026/05/25/feeling-the-heat.md",
-    "sha256": "e8e18db8c2867c10196df1ce6bdd492c259a3e650529f8cba8d89e1a7757e94c",
+    "sha256": "52c35a093b411f4656fad935c2ae9828b647a3eb8bc4b2450ef8041eb4cccd7e",
     "post_id": 5884473,
     "title": "Feeling the Heat",
     "summary": "Ealing Council has repeatedly failed to address climate-related inequalities and air pollution in Southall.",
@@ -3454,7 +3453,7 @@
   },
   {
     "path": "posts/2026/05/29/individuality.md",
-    "sha256": "52d9d6000c41dc81670331e8df9bfbeb6e6b5b36836b42ef9a1fbe4b04ccf231",
+    "sha256": "08beaff7cfd0e1aa36fb8508a4522f0501a4d3ee4a0d9f124c4046a2b7656cc7",
     "post_id": 5893155,
     "title": "Individuality",
     "summary": "\"It's still a tree!\"\nOr is it?\nEaling Council's new logo and what it means to be a tree, or not be a tree.",

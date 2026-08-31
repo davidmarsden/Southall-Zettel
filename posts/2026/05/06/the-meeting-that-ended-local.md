@@ -78,7 +78,7 @@ This was the meeting that scared the living daylights out of the Labour council.
 It was not silence. It was systematic.
 
 
-Within months, the ward forum system across Ealing was wound down. The last meeting of the [Southall Broadway ward forum on the council's own record](https://ealing.moderngov.co.uk) took place on 12 February 2020. Then nothing.
+Within months, the ward forum system across Ealing was wound down. The last meeting of the [Southall Broadway ward forum on the council's own record](https://ealing.moderngov.co.uk/ieListMeetings.aspx?CId=231&Year=0) took place on 12 February 2020. Then nothing.
 
 
 When the council was eventually pressed on why, [its stated justification](https://www.ealingtoday.co.uk/default.asp?section=community&spage=common/eacouncil269.htm) was that ward forums had become spaces where:
@@ -239,7 +239,7 @@ His personal vote in Southall Green declined by 20.7% between [2018](https://www
 
 <br>
 
-<img src="uploads/2026/pxl-20260504-152915213.mp2.jpg" width="600" height="451" alt="People are gathered in a street with signs and flags, participating in a protest against Ealing Labour's neglect of Southall.">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260504-152915213.mp2.jpg" width="600" height="451" alt="People are gathered in a street with signs and flags, participating in a protest against Ealing Labour's neglect of Southall.">
 
 <br>
 <br>

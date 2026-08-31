@@ -53,7 +53,7 @@ This is a follow-up post to my previous [PHE cover-up](https://southallstories.u
 Here is a graphical representation of what my earlier post found - increases in toxic emissions, over and above the legal limits:
 
 
-<img src="uploads/2025/img-20211030-184939.jpg" width="600" height="224" alt="Auto-generated description: A bar chart compares the levels of various toxic hydrocarbons emitted from Southall Old Gasworks Soil Hospital across different time periods, indicating whether they exceed legal limits.">
+<img src="https://southallstories.uk/uploads/2025/img-20211030-184939.jpg" width="600" height="224" alt="Auto-generated description: A bar chart compares the levels of various toxic hydrocarbons emitted from Southall Old Gasworks Soil Hospital across different time periods, indicating whether they exceed legal limits.">
 
 All data taken from Public Health England's three reports
 
@@ -80,7 +80,7 @@ So, I thought I would look again, more closely, at the data provided in [the ori
 What I found is truly shocking.
 
 
-<img src="uploads/2025/aspose.words.c69b4207-65d8-4102-b57d-6f5f36d36b17.006.jpg" width="508" height="203" alt="Auto-generated description: The image contains a summary discussing benzene exposure levels, focusing on the difference between shorter summer and annual exposure periods, and mentions specific companies.">  
+<img src="https://southallstories.uk/uploads/2025/aspose.words.c69b4207-65d8-4102-b57d-6f5f36d36b17.006.jpg" width="508" height="203" alt="Auto-generated description: The image contains a summary discussing benzene exposure levels, focusing on the difference between shorter summer and annual exposure periods, and mentions specific companies.">  
 
 
 
@@ -90,7 +90,7 @@ Atkins led us to believe that the summer months would be the highest levels of e
 Location of air quality monitors:
 
 
-<img src="uploads/2025/aspose.words.c69b4207-65d8-4102-b57d-6f5f36d36b17.009.jpg" width="503" height="74" alt="Auto-generated description: Text describes residents living south of a site being closer to a soil hospital, with average chemical concentrations calculated from nearby monitoring stations for a precautionary assessment.">  
+<img src="https://southallstories.uk/uploads/2025/aspose.words.c69b4207-65d8-4102-b57d-6f5f36d36b17.009.jpg" width="503" height="74" alt="Auto-generated description: Text describes residents living south of a site being closer to a soil hospital, with average chemical concentrations calculated from nearby monitoring stations for a precautionary assessment.">  
 
 
 
@@ -100,7 +100,7 @@ Air quality monitors 'ES014' and 'AIR 1' directly to the north and north-east of
 The data in some of the tables provided by Atkins simply doesn’t add up:
 
 
-<img src="uploads/2025/screenshot-20250924-103411.png" width="600" height="416" alt="Auto-generated description: A table displays air quality measurements in micrograms per cubic meter (µg/m³) for various compounds over several weeks, with the overall average circled in red.">
+<img src="https://southallstories.uk/uploads/2025/screenshot-20250924-103411.png" width="600" height="416" alt="Auto-generated description: A table displays air quality measurements in micrograms per cubic meter (µg/m³) for various compounds over several weeks, with the overall average circled in red.">
 
 
 If you add the weekly figures in the highlighted row together and divide by 15 (the number of weeks with data), you get 4.5 average not 7.5
@@ -128,7 +128,7 @@ What I did look at is the data from the two air quality monitors closest to my h
 These are also the two monitors which PHE used the combined data from to show the levels ‘at the soil hospital’ in their [first report](https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B50PvnX3tFxlcFFxNHV1eS0tTThuTmVEUmhOS3I5ZnZuSENB%2Fview%3Fusp%3Dsharing%26fbclid%3DIwZXh0bgNhZW0CMTEAYnJpZBEwUmlIVk1ndU5iSEhKVmZOTwEeKSjRMNsf6TvXzNpb8mzdKSfKtHmbmZSjmyQUD1NALYXWGNWlTrOSNQrDmEk_aem_TFLkIiwxllzrqMW-2rg1XA&h=AT2lJUGfuKI2qAtquZSQw3EmZ81PA4Xt4SHIUH8s4j_fBgrCeIFBEAUY_v7otlHMpV7ahLvCcFXtgj5pWasefxGF2OO6D-CDRSQWZVS6JyPyI2jfAn_njDHExhA) (p. 5).
 
 
-<img src="uploads/2025/aspose.words.c69b4207-65d8-4102-b57d-6f5f36d36b17.009.jpg" width="503" height="74" alt="Auto-generated description: Text describes residents living south of a site being closer to a soil hospital, with average chemical concentrations calculated from nearby monitoring stations for a precautionary assessment.">
+<img src="https://southallstories.uk/uploads/2025/aspose.words.c69b4207-65d8-4102-b57d-6f5f36d36b17.009.jpg" width="503" height="74" alt="Auto-generated description: Text describes residents living south of a site being closer to a soil hospital, with average chemical concentrations calculated from nearby monitoring stations for a precautionary assessment.">
 
 
 PHE refer to monitors AIR 1 and ES14 [sic] (ES014)
@@ -158,7 +158,7 @@ Even more concerning about the data PHE have published, is that they are not com
 1. The above is all highly unscientific, and again I wonder what was their motivation for doing this?
 
 
-<img src="uploads/2025/aspose.words.c69b4207-65d8-4102-b57d-6f5f36d36b17.011.jpg" width="508" height="301" alt="Auto-generated description: A detailed map shows fixed-site monitoring locations with directional arrows and additional notes for soil testing.">
+<img src="https://southallstories.uk/uploads/2025/aspose.words.c69b4207-65d8-4102-b57d-6f5f36d36b17.011.jpg" width="508" height="301" alt="Auto-generated description: A detailed map shows fixed-site monitoring locations with directional arrows and additional notes for soil testing.">
 
 
 Locations of additional on and off site air monitors
@@ -173,7 +173,7 @@ One aspect of the Atkins weekly average data I noticed, that struck me as being 
 
 
 
-<img src="uploads/2025/screenshot-20250924-193536.png" width="600" height="300" alt="Auto-generated description: A spreadsheet displays air quality data with various chemical compounds' concentrations highlighted in different colors.">
+<img src="https://southallstories.uk/uploads/2025/screenshot-20250924-193536.png" width="600" height="300" alt="Auto-generated description: A spreadsheet displays air quality data with various chemical compounds' concentrations highlighted in different colors.">
 
 
 

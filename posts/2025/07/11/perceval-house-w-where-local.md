@@ -107,7 +107,7 @@ url: "/2025/07/11/perceval-house-w-where-local/"
 *The Children's Centres Crusade*
 
 
-<img src="uploads/2025/8ba613aed9.jpg" width="600" height="693" alt="Auto-generated description: A person is smiling while holding a sign that says NO TO ALL CHILDREN'S CENTRES amidst a crowd.">
+<img src="https://southallstories.uk/uploads/2025/8ba613aed9.jpg" width="600" height="693" alt="Auto-generated description: A person is smiling while holding a sign that says NO TO ALL CHILDREN'S CENTRES amidst a crowd.">
 
 
 ## Chapter 1: The Art of Political Contradiction
@@ -119,7 +119,7 @@ In the London Borough of Ealing, our elected representatives have perfected some
 Take our Council Leader. On January 15, 2015, he tweeted: *"Think its really important that we put people before buildings. Important we keep activities going & that can be done in a different way."*
 
 
-<img src="uploads/2025/fc83f238fa.jpg" width="600" height="388" alt="Auto-generated description: A tweet by Peter Mason emphasizes prioritizing people over buildings and discusses Ealing Council's community centers at a committee meeting.">
+<img src="https://southallstories.uk/uploads/2025/fc83f238fa.jpg" width="600" height="388" alt="Auto-generated description: A tweet by Peter Mason emphasizes prioritizing people over buildings and discusses Ealing Council's community centers at a committee meeting.">
 
 
 Ten years later, he's [closing children's centres](https://www.bbc.co.uk/news/articles/c8xv1ylplzzo), buildings where people access those activities.
@@ -137,7 +137,7 @@ Mrs. Patel, a parent trying to save her local children's centre, discovered this
 "Who decides about children's centre closures?" Mrs. Patel asked at a council meeting.
 
 
-<img src="uploads/2025/98e8dd79de.jpg" width="600" height="900" alt="Auto-generated description: Two men are discussing next to an illuminated architectural model, with a display board about Ealing's short-term vision in the background.">
+<img src="https://southallstories.uk/uploads/2025/98e8dd79de.jpg" width="600" height="900" alt="Auto-generated description: Two men are discussing next to an illuminated architectural model, with a display board about Ealing's short-term vision in the background.">
 
 
 "The Cabinet," she was told.
@@ -167,7 +167,7 @@ The Cabinet explained they were implementing officer recommendations based on bu
 Mrs. Patel found herself trapped in a perfectly circular system. To influence the decision, she needed to identify who made it. But everyone who appeared to make decisions claimed to be implementing someone else's decisions. The decision seemed to exist independently of anyone actually deciding anything.
 
 
-<img src="uploads/2025/0be5b8f75d.jpg" width="600" height="600" alt="Auto-generated description: A Möbius strip, shown with a twist and a small person observing, illustrates its unique one-sided property.">
+<img src="https://southallstories.uk/uploads/2025/0be5b8f75d.jpg" width="600" height="600" alt="Auto-generated description: A Möbius strip, shown with a twist and a small person observing, illustrates its unique one-sided property.">
 Image: Jono Hey, [Sketchplanations](https://sketchplanations.com/mobius-strip)
 
 
@@ -186,7 +186,7 @@ The numbers, at least, were clear:
 - **Number of children's centres being closed in Southall:** 3 out of 6
 
 
-<img src="uploads/2025/7bb908e3f4.jpg" width="600" height="778" alt="Auto-generated description: A group of people are holding signs in a protest, with one reading KIDS OUT! Someone has to pay for my 70% pay rise and another reading NO MORE PLAY SCHOOL!.">
+<img src="https://southallstories.uk/uploads/2025/7bb908e3f4.jpg" width="600" height="778" alt="Auto-generated description: A group of people are holding signs in a protest, with one reading KIDS OUT! Someone has to pay for my 70% pay rise and another reading NO MORE PLAY SCHOOL!.">
 
 
 The Council Leader had discovered something revolutionary: you could simultaneously claim budget constraints while voting yourself substantial pay rises. The secret was treating these as completely unrelated mathematical operations.
@@ -222,7 +222,7 @@ The Council Leader's environmental consciousness follows a precise hierarchy, do
 **Tier 2 Public Complaint:** Someone's "bag and/or small child" taking up a tube seat merits a public tweet about "Some people."
 
 
-<img src="uploads/2025/c0020bb277.jpg" width="600" height="253" alt="Auto-generated description: Peter Mason tweets about taking the tube instead of cycling and needing someone to move their bag or child for him to sit.">
+<img src="https://southallstories.uk/uploads/2025/c0020bb277.jpg" width="600" height="253" alt="Auto-generated description: Peter Mason tweets about taking the tube instead of cycling and needing someone to move their bag or child for him to sit.">
 
 
 **Tier 3 Busy Schedule:** [Children gasping from toxic air](https://youtu.be/xA4mI_OAzxs) [YouTube] in bedrooms get told " [I'm very busy.](https://youtube.com/clip/UgkxCUBKF53mk-J0KrZ4bxXaoAxc9iVEQhN-)" [YouTube)]
@@ -237,13 +237,13 @@ This established a clear principle: if environmental concerns can't be explained
 ## Chapter 5: The Southall Paradox
 
 
-<img src="uploads/2025/74597bfcfb.jpg" width="600" height="224" alt="Auto-generated description: A bar graph compares the concentrations of various toxic hydrocarbons from Southall Old Gasworks Soil Hospital across different monitoring periods in 2018 and 2019, highlighting levels of Benzene, Naphthalene, Toluene, Xylene, Trimethylbenzenes, and 4-Iso-propyltoluene with legal limits indicated for Benzene and Naphthalene.">
+<img src="https://southallstories.uk/uploads/2025/74597bfcfb.jpg" width="600" height="224" alt="Auto-generated description: A bar graph compares the concentrations of various toxic hydrocarbons from Southall Old Gasworks Soil Hospital across different monitoring periods in 2018 and 2019, highlighting levels of Benzene, Naphthalene, Toluene, Xylene, Trimethylbenzenes, and 4-Iso-propyltoluene with legal limits indicated for Benzene and Naphthalene.">
 
 
 Only in Southall can carcinogenic benzene, and naphthalene - which is known to be potentially [fatal to some people with African and Asian heritage](https://pmc.ncbi.nlm.nih.gov/articles/PMC3850774/) - be released into the air from the Gasworks development at levels way [above legal limits](https://youtu.be/CGGyCDAHRt4?si=OtAGYXGA2CQ1y3q5&utm_source=MTQxZ) and be simultaneously "not hazardous" according to Ealing Council. 
 
 
-<img src="uploads/2025/6624f74972.jpg" width="600" height="254" alt="Auto-generated description: Ealing Council tweets that they are monitoring reports of strong odours at a Berkeley Group construction site in Southall Gasworks, assuring the odours aren't hazardous and should clear in a few days.">
+<img src="https://southallstories.uk/uploads/2025/6624f74972.jpg" width="600" height="254" alt="Auto-generated description: Ealing Council tweets that they are monitoring reports of strong odours at a Berkeley Group construction site in Southall Gasworks, assuring the odours aren't hazardous and should clear in a few days.">
 
 
 One moment the Headteacher at Blair Peach Primary School is [reporting asthma and headaches](https://drive.google.com/file/d/1hB66yX40-q-YYi6EKOTvE20DTx422_g3/view?usp=drivesdk) [p. 10] caused by very strong smells from the Gasworks site; in another moment, the developer's head of construction is appointed to the school's board of governors [pp. 7-8] and arranges to remove dead rats from the nursery playground [p. 11]. These events are clearly unconnected.
@@ -258,7 +258,7 @@ Here's where things get even more interesting. The Council's own "[Southall Rese
 The Race Equality Commission Report "highlighted the need for an investment in adequate primary care in Southall" and "deeper meaningful engagement, and better conversations with residents."
 
 
-<img src="uploads/2025/6d6e997a4e.jpg" width="600" height="143" alt="Auto-generated description: Challenges in Southall include deprivation, low pay, and the need for improved primary care and community engagement.">
+<img src="https://southallstories.uk/uploads/2025/6d6e997a4e.jpg" width="600" height="143" alt="Auto-generated description: Challenges in Southall include deprivation, low pay, and the need for improved primary care and community engagement.">
 
 
 The Council's response to this need for MORE investment? Close children's centres.
@@ -312,7 +312,7 @@ Every year, the Council Leader attends MIPIM in Cannes - what Private Eye calls 
 He goes to "negotiate hard" with developers.
 
 
-<img src="uploads/2025/cac51e7bb8.jpg" width="600" height="650" alt="Auto-generated description: A tweet by Peter Mason discusses negotiating for genuinely affordable homes at MIPIM, contrasting it with the idea of it being a holiday.">
+<img src="https://southallstories.uk/uploads/2025/cac51e7bb8.jpg" width="600" height="650" alt="Auto-generated description: A tweet by Peter Mason discusses negotiating for genuinely affordable homes at MIPIM, contrasting it with the idea of it being a holiday.">
 
 
 The documented results of these negotiations:
@@ -334,7 +334,7 @@ The Council Leader represents Southall Green - 69% BAME, one of the most ethnica
 His attitude? "People who commit themselves to being opposed to Jewish national self determination / liberation aren't my cup of tea. They can exist, sure, just outside of the Labour movement."
 
 
-<img src="uploads/2025/160bd2a958.jpg" width="600" height="382" alt="Auto-generated description: A person shares their perspective on anti-Zionism and Jewish national self-determination in a social media post.">
+<img src="https://southallstories.uk/uploads/2025/160bd2a958.jpg" width="600" height="382" alt="Auto-generated description: A person shares their perspective on anti-Zionism and Jewish national self-determination in a social media post.">
 
 
 So he simultaneously represents a diverse community while working to exclude people from that community based on their views about Middle Eastern politics.
@@ -349,7 +349,7 @@ It's a masterclass in representation: represent everyone, except the people whos
 The Council Leader has pioneered a new approach to public service: protecting things by eliminating them.
 
 
-<img src="uploads/2025/c19f8ce2da.jpg" width="600" height="356" alt="Auto-generated description: A tweet by Peter Mason responds to Tom Gann, defending a decision to protect frontline services instead of cutting them.">
+<img src="https://southallstories.uk/uploads/2025/c19f8ce2da.jpg" width="600" height="356" alt="Auto-generated description: A tweet by Peter Mason responds to Tom Gann, defending a decision to protect frontline services instead of cutting them.">
 
 
 "We've made the decision to protect the front line by working with what we have, rather than allowing Govt Commissioners to slash and burn services," he explains, while slashing and burning services.
@@ -361,7 +361,7 @@ It was like watching someone slash the low-hanging fruit on the trees and then s
 But that wasn't even the worst part. Mrs. Patel had discovered something even more troubling. Back in 2012, a group of unelected businessmen had met to play [Monopoly](https://drive.google.com/file/d/1W2HRPD00OiidxP9iAlLPDFHPVwZcEfeM/view?usp=drivesdk) [pdf] with public assets. Not the board game - though the principle was identical. They wanted to "sell off our public assets for £20m profit."
 
 
-<img src="uploads/2025/deb63dd611.jpg" width="600" height="703" alt="Auto-generated description: A Monopoly game board is shown with green houses scattered on the board and the surrounding table.">
+<img src="https://southallstories.uk/uploads/2025/deb63dd611.jpg" width="600" height="703" alt="Auto-generated description: A Monopoly game board is shown with green houses scattered on the board and the surrounding table.">
 
 
 Their target included "buildings used for services for vulnerable adults, children and families."
@@ -394,7 +394,7 @@ Their target included "buildings used for services for vulnerable adults, childr
 "Who?"
 
 
-<img src="uploads/2025/f5fcab7334.jpg" width="600" height="365" alt="Auto-generated description: A tweet by Peter Mason discusses the importance of members shaping manifestos and taking responsibility for decisions, emphasizing the role of residents.">
+<img src="https://southallstories.uk/uploads/2025/f5fcab7334.jpg" width="600" height="365" alt="Auto-generated description: A tweet by Peter Mason discusses the importance of members shaping manifestos and taking responsibility for decisions, emphasizing the role of residents.">
 
 
 "The Government Commissioners."
@@ -434,7 +434,7 @@ On page 294 of their July 15, 2025 council [papers](https://ealing.moderngov.co.
 - Meaningful participation in debates about their own petitions
 
 
-<img src="uploads/2025/8439aacef6.jpg" width="600" height="347" alt="Auto-generated description: The document contains redlined text showing revisions related to the procedures for responding to petitions and presenting debates before the Council.">
+<img src="https://southallstories.uk/uploads/2025/8439aacef6.jpg" width="600" height="347" alt="Auto-generated description: The document contains redlined text showing revisions related to the procedures for responding to petitions and presenting debates before the Council.">
 
 
 They've solved the democracy problem by removing the democratic bits from democracy. 
@@ -527,32 +527,32 @@ Mrs. Patel was beginning to understand perfectly. Even this right wing authorita
 
 The Council Leader had perfected the art of simultaneous engagement.  
 
-<img src="uploads/2025/b26d191a08.jpg" width="496" height="499" alt="Auto-generated description: A group of people holding protest signs gathers at night, with a tweet from Peter Mason about planning rules and community engagement.">  
+<img src="https://southallstories.uk/uploads/2025/b26d191a08.jpg" width="496" height="499" alt="Auto-generated description: A group of people holding protest signs gathers at night, with a tweet from Peter Mason about planning rules and community engagement.">  
 
 He could tweet about "absolutely committed to engaging, listening and compromising" while sharing photos of residents protesting his refusal to engage, listen, or compromise.  
 
-<img src="uploads/2025/117ce072a1.jpg" width="600" height="1020" alt="Auto-generated description: Two social media posts promote a webinar and report launch about public engagement and planning for the future, by inviting people to join discussions on connected platforms.">  
+<img src="https://southallstories.uk/uploads/2025/117ce072a1.jpg" width="600" height="1020" alt="Auto-generated description: Two social media posts promote a webinar and report launch about public engagement and planning for the future, by inviting people to join discussions on connected platforms.">  
 
 He spoke frequently about "transparent engagement" and "finding the compromises everyone needs to make" - usually while explaining why the compromises residents needed to make were accepting whatever he'd already decided.  
 
-<img src="uploads/2025/10069a5050.jpg" width="496" height="386" alt="Auto-generated description: A tweet mentions a public meeting about Ealing's Local Plan, focusing on growth, priorities, challenges, and future planning.">  
+<img src="https://southallstories.uk/uploads/2025/10069a5050.jpg" width="496" height="386" alt="Auto-generated description: A tweet mentions a public meeting about Ealing's Local Plan, focusing on growth, priorities, challenges, and future planning.">  
 
-<img src="uploads/2025/7e95b424b9.jpg" width="600" height="474" alt="Auto-generated description: A tweet by Peter Mason discusses the goal of campaigning and highlights that Twitter is often a zero-sum game.">
+<img src="https://southallstories.uk/uploads/2025/7e95b424b9.jpg" width="600" height="474" alt="Auto-generated description: A tweet by Peter Mason discusses the goal of campaigning and highlights that Twitter is often a zero-sum game.">
 
 Even councillors who were "most responsive" resigned rather than "effectively endorse his toxic brand of politics."  
 
-<img src="uploads/2025/76b65af2ac.jpg" width="600" height="565" alt="Auto-generated description: A tweet expresses disappointment over a local councillor's resignation due to opposition to a colleague's political approach.">  
+<img src="https://southallstories.uk/uploads/2025/76b65af2ac.jpg" width="600" height="565" alt="Auto-generated description: A tweet expresses disappointment over a local councillor's resignation due to opposition to a colleague's political approach.">  
 
 But the real innovation was tweeting "Welcome to Dystopia" while creating it.  
 
-<img src="uploads/2025/4264ddab3e.jpg" width="496" height="624" alt="Auto-generated description: A tweet by Peter Mason discusses the limits of conservative populism and the exploitation of rhetoric, with a highlighted quote on the consequences for demagogues.">  
+<img src="https://southallstories.uk/uploads/2025/4264ddab3e.jpg" width="496" height="624" alt="Auto-generated description: A tweet by Peter Mason discusses the limits of conservative populism and the exploitation of rhetoric, with a highlighted quote on the consequences for demagogues.">  
 
 ## Chapter 14: The Investment Paradox 
 
 
 The Council Leader had achieved something remarkable: he could simultaneously remember genocide while investing in it. "Remember Yesterday, Act Today," his council posted about the genocide of 8,732 Muslim men and boys in Srebrenica thirty years ago, while [investing £112 million](https://lgpsdivest.org/lgps-investments/) in companies enabling genocide of [more than 28,000 women and girls](https://www.unwomen.org/en/news-stories/news/2025/05/un-women-estimates-over-28000-women-and-girls-killed-in-gaza-since-october-2023) in Gaza today. [More than 50,000 children killed or injured](https://www.unicef.org/press-releases/unimaginable-horrors-more-50000-children-reportedly-killed-or-injured-gaza-strip) in Gaza to pay for his pension. 
 
-<img src="uploads/2025/d7a8763427.jpg" width="600" height="822" alt="Auto-generated description: White tombstones in a cemetery are shown in a tweet about Srebrenica Memorial Day, which marks the genocide's 30th anniversary.">
+<img src="https://southallstories.uk/uploads/2025/d7a8763427.jpg" width="600" height="822" alt="Auto-generated description: White tombstones in a cemetery are shown in a tweet about Srebrenica Memorial Day, which marks the genocide's 30th anniversary.">
 
 It was beautifully efficient. Why limit yourself to one genocide when you could remember one while funding another? The children understood perfectly.
 
@@ -575,7 +575,7 @@ He'd found the perfect balance: cut services locally to save money, earn money r
 ## Chapter and Verse: The Evolution of Enlightenment
 
 
-<img src="uploads/2025/401141c2e5.jpg" width="579" height="697" alt="Auto-generated description: A social media post humorously discusses attending a meeting where Punjabi is spoken, with a suggestion to nod and interject occasionally.">
+<img src="https://southallstories.uk/uploads/2025/401141c2e5.jpg" width="579" height="697" alt="Auto-generated description: A social media post humorously discusses attending a meeting where Punjabi is spoken, with a suggestion to nod and interject occasionally.">
 
 
 In 2010, our future Council Leader shared his frustration about "sitting around not understanding all this punjabi" at community meetings in the area he would later represent. 
@@ -584,7 +584,7 @@ In 2010, our future Council Leader shared his frustration about "sitting around 
 By 2020, he had evolved. "Words have consequences," he tweeted. "Impact is as important as intent. Culture is defined by leadership."
 
 
-<img src="uploads/2025/7db676b2d0.jpg" width="600" height="682" alt="Auto-generated description: A Twitter post emphasizes the importance of learning lessons about the consequences of words, the significance of impact, leadership in culture, and the possibility of redemption, encouraging reflection or change.">
+<img src="https://southallstories.uk/uploads/2025/7db676b2d0.jpg" width="600" height="682" alt="Auto-generated description: A Twitter post emphasizes the importance of learning lessons about the consequences of words, the significance of impact, leadership in culture, and the possibility of redemption, encouraging reflection or change.">
 
 
 Ten years of personal growth had taught him that words matter. Which made it remarkable that he could simultaneously lecture about cultural sensitivity while closing community centres in the same diverse communities he'd once struggled to understand. It was a masterclass in progressive evolution: you could acknowledge that words have consequences while ensuring your own words from the past had none.
@@ -602,7 +602,7 @@ The most revealing evidence of how the system works came from inside the machine
 Mason's own Labour colleagues called the Council Leader "callous, ruthless, sectarian." 
 
 
-<img src="uploads/2025/c0b6a01f21.jpg" width="600" height="1066" alt="Auto-generated description: A group chat conversation appears on a phone screen, discussing leadership support and political opinions, with messages from multiple participants.">
+<img src="https://southallstories.uk/uploads/2025/c0b6a01f21.jpg" width="600" height="1066" alt="Auto-generated description: A group chat conversation appears on a phone screen, discussing leadership support and political opinions, with messages from multiple participants.">
 
 
 They discussed votes of no confidence, referenced "corruption and even theft" regarding the previous leader, and debated "bribes" and "rewards" for loyalty. Meanwhile, publicly, they maintained perfect unity and collective responsibility. It was the perfect illustration of how the system works: private recognition of the problems, public performance of harmony. 

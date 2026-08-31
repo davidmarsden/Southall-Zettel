@@ -66,7 +66,7 @@ Swaran Singh Padda, Kate Crawford and John Martin are not leftists. None of them
 <br>
 
 
-<img src="uploads/2026/pxl-20260420-104401913.jpg" width="600" height="796" alt="Auto-generated description: A campaign flyer for Swaran Singh Padda, an independent council candidate for Southall Green, featuring his photo and platform summary.">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260420-104401913.jpg" width="600" height="796" alt="Auto-generated description: A campaign flyer for Swaran Singh Padda, an independent council candidate for Southall Green, featuring his photo and platform summary.">
 
 
 <br>
@@ -161,7 +161,7 @@ That is not discipline. That is not scrutiny. That is a council leader who canno
 <br>
 
 
-<img src="uploads/2026/image-20260418170658.jpg" width="600" height="800" alt="Auto-generated description: A campaign poster features John Martin as an independent candidate for Norwood Green, highlighting his advocacy and communication commitments with contact information included.">
+<img src="https://southallstories.uk/uploads/2026/image-20260418170658.jpg" width="600" height="800" alt="Auto-generated description: A campaign poster features John Martin as an independent candidate for Norwood Green, highlighting his advocacy and communication commitments with contact information included.">
 
 
 <br>
@@ -191,4 +191,3 @@ Martin is very well liked as an active and responsive councillor who gets things
 
 
 Watch these ward on election night!
-

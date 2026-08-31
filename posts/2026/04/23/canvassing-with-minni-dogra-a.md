@@ -50,7 +50,7 @@ Last week I spent a lunch hour with my friend and former Ealing Independent Netw
 <br>
 
 
-<img src="uploads/2026/pxl-20260414-131453445.jpg" width="600" height="450" alt="Ealing Community Independents councillor candidate, Minni Dogra, and supporter and Southall Stories writer David Marsden are smiling at the camera, holding a flyer related to Southall Green.">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260414-131453445.jpg" width="600" height="450" alt="Ealing Community Independents councillor candidate, Minni Dogra, and supporter and Southall Stories writer David Marsden are smiling at the camera, holding a flyer related to Southall Green.">
 
 
 <br>
@@ -62,7 +62,7 @@ Last week I spent a lunch hour with my friend and former Ealing Independent Netw
 <br>
 
 
-<img src="uploads/2026/pxl-20260316-152212694.portrait.original.jpg" width="600" height="796" alt="Auto-generated description: A campaign poster for Ealing Community Independents features three candidates, Minni Dogra, Joe Bhangu, and Jatinder Rajput, with the message SOUTHALL DESERVES BETTER and a call to vote on 7th May.">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260316-152212694.portrait.original.jpg" width="600" height="796" alt="Auto-generated description: A campaign poster for Ealing Community Independents features three candidates, Minni Dogra, Joe Bhangu, and Jatinder Rajput, with the message SOUTHALL DESERVES BETTER and a call to vote on 7th May.">
 
 
 <br>
@@ -80,13 +80,13 @@ As we set off — Minni doing all the work of knocking and talking, while I chec
 <br>
 
 
-<img src="uploads/2026/screenshot-20230207-223136.png" width="594" height="362" alt="Ealing Gazette: Neighbours complain about councillor's samosa business">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20230207-223136.png" width="594" height="362" alt="Ealing Gazette: Neighbours complain about councillor's samosa business">
 
 
 <br>
 
 
-<img src="uploads/2026/screenshot-20230207-223256.png" width="600" height="484" alt="Ealing Gazette: It's business as usual in illegal samosa factory">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20230207-223256.png" width="600" height="484" alt="Ealing Gazette: It's business as usual in illegal samosa factory">
 
 
 <br>

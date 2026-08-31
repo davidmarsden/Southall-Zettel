@@ -45,7 +45,7 @@ We see people struggling with addiction every day — thin, exhausted, unwell, s
 And we — the ordinary residents who live here — need help to feel safe and welcome in our own towns.This is how we got here.
 
 
-<br><img src="uploads/2026/the-relocation-map-1.png" width="600" height="707" alt="Auto-generated description: A map illustrates a route from West Ealing to Southall Town Hall, detailing safe and marginal Labour seats along a 5.1 km journey, with additional context about political implications and local representatives."><br><br>
+<br><img src="https://southallstories.uk/uploads/2026/the-relocation-map-1.png" width="600" height="707" alt="Auto-generated description: A map illustrates a route from West Ealing to Southall Town Hall, detailing safe and marginal Labour seats along a 5.1 km journey, with additional context about political implications and local representatives."><br><br>
 
 
 In [Walpole ward](https://www.andrewteale.me.uk/leap/results/2022/5/#ward21444) — the West Ealing ward where residents have spent two years complaining about [open drug use, shoplifting and feeling unsafe](https://www.policeoracle.com/article-library/londons-wild-west-of-drugs-shoplifting-and-low-public-confidence/) — Labour's third-placed winning candidate took the seat by a margin of **609 votes** in 2022. In neighbouring [Hanwell Broadway](https://www.andrewteale.me.uk/leap/results/2022/5/#ward21428), the equivalent margin was just **389 votes** — with the Greens in second place, less than 400 votes off taking a seat. 
@@ -155,7 +155,7 @@ Move the service to Southall, and you move the visible behaviour with it. The us
 <br>
 
 
-<img src="uploads/2026/crime-and-majorities-1.png" width="600" height="676" alt="Auto-generated description: Quarterly crime comparison in West Ealing and Southall shows rising crime where Labour is safe and falling crime where Labour is at risk, alongside bar charts and political context.">
+<img src="https://southallstories.uk/uploads/2026/crime-and-majorities-1.png" width="600" height="676" alt="Auto-generated description: Quarterly crime comparison in West Ealing and Southall shows rising crime where Labour is safe and falling crime where Labour is at risk, alongside bar charts and political context.">
 
 
 <br>
@@ -294,4 +294,3 @@ On the doorstep, voters across these four wards keep saying the same thing: voti
 
 
 Time to kick the habit.
-

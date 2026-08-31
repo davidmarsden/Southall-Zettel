@@ -87,9 +87,9 @@ GAH! [![](https://pbs.twimg.com/media/E0jlS4TWYAY-DP0.png)](https://pbs.twimg.co
 
 
 
-898: October 2019: ([ealing.gov.uk/news/article/1…](https://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018))  
+898: October 2019: ([ealing.gov.uk/news/article/1…](https://web.archive.org/web/20210505225051/https://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018))  
 1355: May 2020: ([x.com/\_petermason/st…](https://x.com/_petermason/status/1262814422185189376))  
-723: September 2020 ([ealingperformance.inphase.com/Plan/853#865](https://ealingperformance.inphase.com/Plan/853#865))
+723: September 2020 ([ealingperformance.inphase.com/Plan/853#865](https://web.archive.org/web/20210505132417/https://ealingperformance.inphase.com/Plan/853#865))
 
 
 Not much of the promised new openness and transparency in answer to your perfectly reasonable question tonight @GregoryStafford!  

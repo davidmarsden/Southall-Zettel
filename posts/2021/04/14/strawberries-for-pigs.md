@@ -31,7 +31,7 @@ url: "/2021/04/14/strawberries-for-pigs/"
 ---
 <p>Little did we know at the time, but these little strawberries were usually engulfed in a toxic plume of benzene, naphthalene, and god only knows what else.</p>
 
-<p><img src="uploads/2025/d15c3ef82c.jpg" alt="image"></p>
+<p><img src="https://southallstories.uk/uploads/2025/d15c3ef82c.jpg" alt="image"></p>
 
 <p>Sensibly, the wife refused to eat them.</p>
 

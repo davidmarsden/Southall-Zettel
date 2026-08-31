@@ -136,7 +136,7 @@ As National Secretary of the [Jewish Labour Movement](https://d3n8a8pro7vhmx.clo
 
 <br>
 
-<img src="uploads/2026/screenshot-2021-05-18-16.49.42.png" width="268" height="318" alt="Peter Mason on Sky News in 2019, during his campaign to prevent a Corbyn-led Labour government.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-2021-05-18-16.49.42.png" width="268" height="318" alt="Peter Mason on Sky News in 2019, during his campaign to prevent a Corbyn-led Labour government.">
 
 <br>
 <br>
@@ -179,7 +179,7 @@ This was the venue — granted free and in solidarity — for the launch of the 
 
 
 
-<img src="uploads/2026/screenshot-20260425-090914.png" width="600" height="960" alt="A tweet by Peter Mason features a discussion of municipal socialists of the past and present.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260425-090914.png" width="600" height="960" alt="A tweet by Peter Mason features a discussion of municipal socialists of the past and present.">
 
 
 
@@ -429,7 +429,7 @@ Both men [grew up](https://archives.battleofideas.org.uk/2024/speaker/yair-zivan
 
 
 
-<img src="uploads/2026/img-20220703-wa0001.jpg" width="600" height="1226" alt="Twitter profile of Yair Zivan, diplomatic advisor to the Israeli Prime Minister, showing Ealing Labour followers Cllrs Peter Mason and Josh Blacker and a recent retweet about Israel and the United States.">
+<img src="https://southallstories.uk/uploads/2026/img-20220703-wa0001.jpg" width="600" height="1226" alt="Twitter profile of Yair Zivan, diplomatic advisor to the Israeli Prime Minister, showing Ealing Labour followers Cllrs Peter Mason and Josh Blacker and a recent retweet about Israel and the United States.">
 
 
 
@@ -501,7 +501,7 @@ In a [public statement](https://x.com/i/status/1211648369178923008) made in 2019
 
 
 
-<img src="uploads/2025/160bd2a958.jpg" width="600" height="382" alt="Auto-generated description: A Twitter conversation shows a user named Peter Mason expressing opposition to anti-Zionism while distinguishing it from non-Zionism.">
+<img src="https://southallstories.uk/uploads/2025/160bd2a958.jpg" width="600" height="382" alt="Auto-generated description: A Twitter conversation shows a user named Peter Mason expressing opposition to anti-Zionism while distinguishing it from non-Zionism.">
 
 
 
@@ -967,4 +967,3 @@ Read both before you vote.
 
 
 Today, on 7 May, voters in Southall Green get to decide who Peter Mason really represents.
-

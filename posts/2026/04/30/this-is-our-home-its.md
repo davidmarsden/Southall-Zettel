@@ -43,14 +43,14 @@ The correction strengthens rather than weakens that conclusion.
 ---
 
 
-Ealing Council was shortlisted for an [LGC award](https://awards.lgcplus.com/lgca2026/en/page/2026-shortlist) for their fly-tipping awareness campaign. It was called "This Is Our Home, Not a Tip."
+Ealing Council was shortlisted for an [LGC award](https://web.archive.org/web/20260420032016/https://www.awards.lgcplus.com/lgca2026/en/page/2026-shortlist) for their fly-tipping awareness campaign. It was called "This Is Our Home, Not a Tip."
 
 
 [Defra figures published today](https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england/fly-tipping-statistics-for-england-2024-to-2025) show fly-tipping in Ealing rose by 50.9% in 2024-25 to 25,394 incidents — the highest ever recorded in the borough, sixth worst in London, and seventh out of 294 local authorities in England. At 65.8 incidents per 1,000 residents, Ealing is now worse per head than Brent was at any point before its own enforcement crackdown began.
 
 ---
 
-<img src="uploads/2026/flytipping-indexed-chart-v7.png" width="600" height="322" alt="Auto-generated description: A line chart compares the employment rates of five West London boroughs against the national trend from 2012-2013 to 2022-2023, with Ealing notably increasing after 2016-2017.">
+<img src="https://southallstories.uk/uploads/2026/flytipping-indexed-chart-v7.png" width="600" height="322" alt="Auto-generated description: A line chart compares the employment rates of five West London boroughs against the national trend from 2012-2013 to 2022-2023, with Ealing notably increasing after 2016-2017.">
 
 ---
 
@@ -76,7 +76,7 @@ There is one further question the 2024-25 figures raise. In a BBC London Politic
 
 ---
 
-<img src="uploads/2026/screenshot-20260228-141627.png" width="600" height="1346" alt="Ealing Labour highlights its record of achievement in Southall, notably a 54% reduction in fly-tipping, contrary to all published data.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260228-141627.png" width="600" height="1346" alt="Ealing Labour highlights its record of achievement in Southall, notably a 54% reduction in fly-tipping, contrary to all published data.">
 
 ---
 
@@ -99,4 +99,3 @@ Still no answer, a week before local elections.
 
 
 *Fly-tipping incident data: [Defra Fly-Tipping Statistics for England, 2024-25](https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england). Per-capita figures calculated using ONS mid-year population estimates as published in the Defra dataset.*
-

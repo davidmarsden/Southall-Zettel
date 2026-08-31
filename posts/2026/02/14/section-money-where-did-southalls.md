@@ -39,7 +39,7 @@ photos_with_metadata:
     xl: https://southallstories.uk/uploads/2026/pxl-20260117-1412447742-xl.jpg
 url: "/2026/02/14/section-money-where-did-southalls/"
 ---
-<img src="uploads/2026/file-0000000084b07246990847770c642960.png" width="600" height="900" alt="Auto-generated description: A list highlights the top five undelivered S106 promises in Southall, including infrastructure and housing projects that were either abandoned or failed to deliver as planned.">
+<img src="https://southallstories.uk/uploads/2026/file-0000000084b07246990847770c642960.png" width="600" height="900" alt="Auto-generated description: A list highlights the top five undelivered S106 promises in Southall, including infrastructure and housing projects that were either abandoned or failed to deliver as planned.">
 
 
 ---
@@ -57,7 +57,7 @@ Yesterday I looked at [fly-tipping data](https://southallstories.uk/2026/02/13/b
 A week later the council trumpeted its "success" in securing [£27m from developers](https://www.aroundealing.com/news/developer-tax-investment-in-towns/) to create much-needed infrastructure to cope with the circa 100,000 new residents expected to live in the more than 120 new tower blocks approved for development across the borough.  
 
 
-<img src="uploads/2025/2a0f9854c1.jpg" width="600" height="502" alt="Auto-generated description: A map highlights Ealing's 124 new tower developments, detailing locations, number of developments, units, and their respective heights, with additional statistics on housing and population impact.">  
+<img src="https://southallstories.uk/uploads/2025/2a0f9854c1.jpg" width="600" height="502" alt="Auto-generated description: A map highlights Ealing's 124 new tower developments, detailing locations, number of developments, units, and their respective heights, with additional statistics on housing and population impact.">  
 
 _Graphic from [Stop The Towers](https://stopthetowers.info/other-campaigns) campaign_
 
@@ -106,7 +106,7 @@ Using Ealing Council’s own [Infrastructure Funding Statements](https://www.eal
 
 
 ## Five-year totals
-<img src="uploads/2026/file-00000000cf20724380bfa06f5ce47ff9.png" width="600" height="600" alt="Auto-generated description: Southall generated £13.1m in developer contributions over five years, spending £4.9m locally, resulting in an £8.2m net outflow.">
+<img src="https://southallstories.uk/uploads/2026/file-00000000cf20724380bfa06f5ce47ff9.png" width="600" height="600" alt="Auto-generated description: Southall generated £13.1m in developer contributions over five years, spending £4.9m locally, resulting in an £8.2m net outflow.">
 
 --- 
 
@@ -164,7 +164,7 @@ This scheme:
 - Stalled in 2023
 - Is [now at risk of demolition](https://southallstories.uk/2026/01/18/demolition-man-peter-masons-legacy/)
 
-<img src="uploads/2026/pxl-20260117-1412447742.jpg" width="600" height="451" alt="The Southall Market Car Park construction site features several high-rise buildings covered in scaffolding, with a street sign reading Market Place in the foreground.">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260117-1412447742.jpg" width="600" height="451" alt="The Southall Market Car Park construction site features several high-rise buildings covered in scaffolding, with a street sign reading Market Place in the foreground.">
 
 --- 
 

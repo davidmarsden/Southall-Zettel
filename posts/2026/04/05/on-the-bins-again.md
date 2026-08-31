@@ -195,7 +195,7 @@ That said, the longer-term picture is messier, and worth being honest about.
 When Brent, Ealing, Harrow and Hounslow (plus Newham) are indexed against the national trend, Ealing actually turns out to be the clearest case — precisely because it is the simplest. 
 
 
-<img src="uploads/2026/flytipping-indexed-chart-v6.png" width="600" height="345" alt="A line graph compares the number of fly-tipping reports per 1,000 residents from 2012-13 to 2023-24 across five west London boroughs and the national trend in England.">
+<img src="https://southallstories.uk/uploads/2026/flytipping-indexed-chart-v6.png" width="600" height="345" alt="A line graph compares the number of fly-tipping reports per 1,000 residents from 2012-13 to 2023-24 across five west London boroughs and the national trend in England.">
 
 
 --- 
@@ -441,4 +441,4 @@ The last ten years have not disproved that warning — they have confirmed it.
 Provisional 2024-25 Brent figures from [Kilburn Times / North London News reporting](https://northlondonnews.co.uk/local/brent/brent-council/brent-fly-tipping-fines-surge-500-amid-crackdown-2026/), pending official Defra publication. 
 
 
-A note on cross-borough comparisons: recording methodology varies significantly between boroughs and changes over time. Newham is a particular case — its figures from 2013-14 onwards reflect a proactive daily digital reporting system that produces higher counts than paper-based systems used previously and by other boroughs. 
+A note on cross-borough comparisons: recording methodology varies significantly between boroughs and changes over time. Newham is a particular case — its figures from 2013-14 onwards reflect a proactive daily digital reporting system that produces higher counts than paper-based systems used previously and by other boroughs.

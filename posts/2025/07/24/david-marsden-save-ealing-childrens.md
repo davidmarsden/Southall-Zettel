@@ -40,5 +40,3 @@ In English:
 In Punjabi:
 
 <audio src="https://southallstories.uk/uploads/2025/perceval-house-w5where-local-democracy-in-ealing-goes-to-die-1.mp3" controls="controls" preload="metadata"></audio>
-
-<a href="https://southallstories.uk/transcripts/2025/09/05/2365.html" class="transcript_link">Transcript</a>

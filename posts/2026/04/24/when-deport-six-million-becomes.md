@@ -201,7 +201,7 @@ Only the Liberal Democrats, the Greens and Jeremy Corbyn's and Zarah Sultana's [
 
 <br>
 
-<img src="uploads/2026/pxl-20260423-182512650.portrait.jpg" width="600" height="451" alt="Your Party leader and former Labour Party leader Jeremy Corbyn in Southall Green yesterday evening to support Ealing Community Independents' local election campaign. Candidates and supporters are holding placards saying Southall Deserves Better, and two people are holding a Palestine flag in solidarity.">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260423-182512650.portrait.jpg" width="600" height="451" alt="Your Party leader and former Labour Party leader Jeremy Corbyn in Southall Green yesterday evening to support Ealing Community Independents' local election campaign. Candidates and supporters are holding placards saying Southall Deserves Better, and two people are holding a Palestine flag in solidarity.">
 
 <br>
 

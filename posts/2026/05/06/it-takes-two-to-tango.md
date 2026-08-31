@@ -268,7 +268,7 @@ In January 2016, Peter Mason tweeted about a London council that had spent £90,
 
 <br>
 
-<img src="uploads/2026/screenshot-20260505-213226.png" width="600" height="960" alt="Auto-generated description: A news article highlights a London council's purchase of a £90,000 Rolls-Royce for officials while cutting childcare, featuring an image of the car in front of a building.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260505-213226.png" width="600" height="960" alt="Auto-generated description: A news article highlights a London council's purchase of a £90,000 Rolls-Royce for officials while cutting childcare, featuring an image of the car in front of a building.">
 
 <br>
 <br>
@@ -276,7 +276,7 @@ In January 2016, Peter Mason tweeted about a London council that had spent £90,
 
 
 > "Every London Cllr on social media today saying to themselves 'please god let this not be us'. #phew."<br>
-<img src="uploads/2026/screenshot-20260505-213236.png" width="600" height="205" alt="Auto-generated description: A tweet by Peter Mason expresses concern from London councilors about a news article linked with a sense of relief."><br><br>
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260505-213236.png" width="600" height="205" alt="Auto-generated description: A tweet by Peter Mason expresses concern from London councilors about a news article linked with a sense of relief."><br><br>
 
 Ten years on, the leader of Ealing Council has just won a High Court case defending the closure of ten children’s centres. Half of Southall’s centres go. 
 
@@ -291,4 +291,3 @@ The council’s own data was wrong. The savings target is £751,000. The leader�
 
 
 Polls open at 7am on Thursday 7 May.
-

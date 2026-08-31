@@ -58,6 +58,3 @@ Also available in Punjabi:
 
 ---
 URGENT support to fund a [legal challenge](https://www.crowdjustice.com/case/save-ealings-childrens-centres/) to Ealing Council's decision to close 10 children's centres.
-
-
-<a href="https://southallstories.uk/transcripts/2025/09/05/2365.html" class="transcript_link">Transcript</a>

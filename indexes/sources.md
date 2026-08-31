@@ -1,17 +1,17 @@
 # Outbound source domains
 
-- **southallstories.uk** — 33 posts
-- **ealing.gov.uk** — 19 posts
+- **southallstories.uk** — 32 posts
 - **ealing.moderngov.co.uk** — 18 posts
 - **ealing.news** — 18 posts
+- **ealing.gov.uk** — 17 posts
 - **x.com** — 14 posts
+- **web.archive.org** — 12 posts
 - **pbs.twimg.com** — 10 posts
 - **aroundealing.com** — 10 posts
 - **youtu.be** — 10 posts
 - **communitypoweredreporting.co.uk** — 10 posts
 - **mylondon.news** — 8 posts
 - **drive.google.com** — 7 posts
-- **web.archive.org** — 7 posts
 - **gov.uk** — 7 posts
 - **ealingtoday.co.uk** — 6 posts
 - **twitter.com** — 5 posts
@@ -51,7 +51,6 @@
 - **architectsjournal.co.uk** — 2 posts
 - **ealinglibdems.org.uk** — 2 posts
 - **labour.org.uk** — 2 posts
-- **awards.lgcplus.com** — 2 posts
 - **instagram.com** — 2 posts
 - **southallcommunityalliance.com** — 2 posts
 - **theviewfromw5.substack.com** — 2 posts

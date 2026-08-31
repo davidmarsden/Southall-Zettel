@@ -35,7 +35,7 @@ Six days before local elections polling day, Southall Green councillor and Ealin
 
 ---
 
-<img src="uploads/2026/20260501-144816.jpg" width="600" height="800" alt="Auto-generated description: A list of semi-finalists for the Labour Councillor of the Year is presented against a red background, featuring names of various councillors.">
+<img src="https://southallstories.uk/uploads/2026/20260501-144816.jpg" width="600" height="800" alt="Auto-generated description: A list of semi-finalists for the Labour Councillor of the Year is presented against a red background, featuring names of various councillors.">
 
 ---
 
@@ -46,7 +46,7 @@ The nomination form had a strict set of criteria to narrow down the list of poss
 
 ---
 
-<img src="uploads/2026/screenshot-20260501-1904252.png" width="600" height="769" alt="Auto-generated description: A Google Form titled Nomination of the 9th SME4Labour Excellence Awards asks for submissions for the Councillor of the Year category.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260501-1904252.png" width="600" height="769" alt="Auto-generated description: A Google Form titled Nomination of the 9th SME4Labour Excellence Awards asks for submissions for the Councillor of the Year category.">
 
 ---
 
@@ -58,7 +58,7 @@ Peter has [spoken often](https://southallstories.uk/2026/04/30/when-is-a-husting
 
 ---
 
-<img src="uploads/2026/screenshot-20260421-121101.png" width="600" height="427" alt="Auto-generated description: A tweet by Peter Mason reflects on growing up in damp, moldy council housing in the 1950s, noting recent support for Ealing's plans to revitalize the area.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260421-121101.png" width="600" height="427" alt="Auto-generated description: A tweet by Peter Mason reflects on growing up in damp, moldy council housing in the 1950s, noting recent support for Ealing's plans to revitalize the area.">
 
 ---
 
@@ -104,7 +104,7 @@ In Southall, [in his own words](https://x.com/_petermason/status/154729763568980
 
 ---
 
-<img src="uploads/2026/screenshot-20260502-123636.png" width="600" height="769" alt="Auto-generated description: A tweet discusses Southall's future, highlighting its strengths, along with images of charts and town visuals.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260502-123636.png" width="600" height="769" alt="Auto-generated description: A tweet discusses Southall's future, highlighting its strengths, along with images of charts and town visuals.">
 
 ---
 
@@ -131,11 +131,11 @@ Others may know better than me, but all I can recall is Mason's distaste for car
 
 ---
 
-<img src="uploads/2026/20220125-180120.jpg" width="600" height="777" alt="Auto-generated description: A Twitter exchange discusses hopes for roads prioritizing walking, cycling, and zero-carbon transport.">
+<img src="https://southallstories.uk/uploads/2026/20220125-180120.jpg" width="600" height="777" alt="Auto-generated description: A Twitter exchange discusses hopes for roads prioritizing walking, cycling, and zero-carbon transport.">
 
 ---
 
-<img src="uploads/2026/screenshot-2021-08-31-15.37.51.png" width="600" height="296" alt="Auto-generated description: Two tweets express dissatisfaction with community pharmacies, describing them as limited to dispensary roles and ineffective in providing alternative medical advice services.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-2021-08-31-15.37.51.png" width="600" height="296" alt="Auto-generated description: Two tweets express dissatisfaction with community pharmacies, describing them as limited to dispensary roles and ineffective in providing alternative medical advice services.">
 
 ---
 

@@ -132,7 +132,7 @@ url: "/2026/01/20/the-council-investigation-that-found/"
 Following publication of my article on the [Johnson Street fire](https://southallstories.uk/2026/01/12/a-fire-we-were-warned/), a reader asked: "Why did no one from the council check it out?"
 
 
-<img src="uploads/2026/pxl-20221018-080204539.mp.jpg" width="600" height="800" alt="A trailer filled with plastic bags is parked in Sam's Recycling yard in Southall with a worker nearby and smoke rising from the incinerator chimney.">
+<img src="https://southallstories.uk/uploads/2026/pxl-20221018-080204539.mp.jpg" width="600" height="800" alt="A trailer filled with plastic bags is parked in Sam's Recycling yard in Southall with a worker nearby and smoke rising from the incinerator chimney.">
 
 
 --- 
@@ -159,7 +159,7 @@ This isn't a story about authorities failing to investigate. It's about what hap
 # What Actually Happened: A Timeline
 
 
-<img src="uploads/2026/20260115-234325-collage.jpg" width="600" height="1066" alt="Auto-generated description: Two documents with redacted text are overlaid on a white background.">
+<img src="https://southallstories.uk/uploads/2026/20260115-234325-collage.jpg" width="600" height="1066" alt="Auto-generated description: Two documents with redacted text are overlaid on a white background.">
 
 
 --- 
@@ -177,7 +177,7 @@ He added reassurance: the council had appointed a dedicated Environmental Health
 In other words: **We're investigating. We've found nothing.**
 
 
-<img src="uploads/2026/311305860-1537535190044968-2516886804612267600-n.jpg" width="600" height="800" alt="Auto-generated description: A large outdoor incinerator is actively burning scraps of wood and other materials, with visible flames and smoke.">
+<img src="https://southallstories.uk/uploads/2026/311305860-1537535190044968-2516886804612267600-n.jpg" width="600" height="800" alt="Auto-generated description: A large outdoor incinerator is actively burning scraps of wood and other materials, with visible flames and smoke.">
 
 
 --- 
@@ -217,7 +217,7 @@ The council would, however, write to businesses requesting they explore "additio
 **March 2023**: Council responded with links to Environment Agency permit registrations for the sites. However, as I noted, these permits didn't mention waste incineration or incinerator use.
 
 
-<img src="uploads/2026/20260115-234203-collage.jpg" width="600" height="1066" alt="Auto-generated description: Text on a tilted paper mentions a complaint about Sam's Recycling and an incinerator, with references to the EA and a code WEX300101.">
+<img src="https://southallstories.uk/uploads/2026/20260115-234203-collage.jpg" width="600" height="1066" alt="Auto-generated description: Text on a tilted paper mentions a complaint about Sam's Recycling and an incinerator, with references to the EA and a code WEX300101.">
 
 
 --- 
@@ -329,7 +329,7 @@ The result is a system that generates impressive paperwork - year-long investiga
 This isn't unique to Johnson Street. It's the same pattern documented across multiple pollution cases in Southall:
 
 
-<img src="uploads/2026/20260115-234838-collage.jpg" width="600" height="1066" alt="Auto-generated description: Text snippets highlight concerns about air quality reports and legal limits for pollutants.">
+<img src="https://southallstories.uk/uploads/2026/20260115-234838-collage.jpg" width="600" height="1066" alt="Auto-generated description: Text snippets highlight concerns about air quality reports and legal limits for pollutants.">
 
 
 --- 
@@ -341,7 +341,7 @@ This isn't unique to Johnson Street. It's the same pattern documented across mul
 **Southall Gasworks**: Between 2017-2020, residents reported severe respiratory symptoms, hospitalisations, and toxic odours. Public Health England eventually acknowledged naphthalene levels required "urgent reduction" - but only after I pointed out at a public meeting that localised readings were consistently above legal limits, contrary to the "site averages" PHE had presented suggesting no harm.
 
 
-<img src="uploads/2026/screenshot-20260120-133809.png" width="600" height="282" alt="Auto-generated description: Public Health England's report states that current naphthalene levels aren't immediately risky but should be reduced to prevent long-term exposure.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260120-133809.png" width="600" height="282" alt="Auto-generated description: Public Health England's report states that current naphthalene levels aren't immediately risky but should be reduced to prevent long-term exposure.">
 
 
 --- My son was hospitalised three times with asthma in 2016-2017 when gasworks remediation began. The headteacher at Blair Peach Primary School reported to governors that "[very strong smells from the gasworks site caused asthma and headaches](https://southallstories.uk/2018/09/11/berkeleys-school-governors-board-member/)."
@@ -362,7 +362,7 @@ In my formal complaint, I drew comparison with Council Leader Peter Mason's resp
 > "My reason for sharing Peter Mason's breathless twittering about the poisoning of the Brent River was not for you [...] to do anything about it, but simply to highlight the disparity between how people in Southall are treated when we complain about poison air from Mason's MIPIM party sponsors, and how eels are treated by our new council leader and Southall Green ward councillor."
 
 
-<img src="uploads/2026/20260120-134846.jpg" width="600" height="532" alt="Auto-generated description: A Twitter exchange criticizes Thames Water for dumping sewage into the River Brent, calling for enforcement action from the Environment Agency.">
+<img src="https://southallstories.uk/uploads/2026/20260120-134846.jpg" width="600" height="532" alt="Auto-generated description: A Twitter exchange criticizes Thames Water for dumping sewage into the River Brent, calling for enforcement action from the Environment Agency.">
 
 
 --- 
@@ -374,7 +374,7 @@ When eels in the River Brent faced toxic exposure, Mason tweeted demanding immed
 When predominantly Black and Asian residents of Southall reported toxic air exposure, hospitalised children, and explicit fire risks, the same council leader consistently stated [no enforcement action can be taken](https://www.ealing.gov.uk/download/downloads/id/18503/open_letter_to_cash_from_cllr_peter_mason_leader_of_ealing_council_november_2022.pdf).
 
 
-<img src="uploads/2026/20260120-134910.jpg" width="600" height="955" alt="Auto-generated description: A tweet thread by Peter Mason discusses a meeting about air quality and pollution, highlighting the importance of accountability and the ongoing need for change.">
+<img src="https://southallstories.uk/uploads/2026/20260120-134910.jpg" width="600" height="955" alt="Auto-generated description: A tweet thread by Peter Mason discusses a meeting about air quality and pollution, highlighting the importance of accountability and the ongoing need for change.">
 
 
 --- 
@@ -398,7 +398,7 @@ The gap between Ealing’s commitments and its actions is not abstract. It is me
 [Southall has nearly a quarter (23%) of the top 30 GP practices in London where asthma treatment is most prevalent](https://www.standard.co.uk/news/health/asthma-london-air-pollution-research-ulez-expansion-b1086318.html). The community is characterised by high asthma rates, prolonged exposure to cumulative industrial and transport pollution, poverty, and predominantly Black and Asian residents.
 
 
-<img src="uploads/2026/20260115-235004-collage.jpg" width="600" height="1066" alt="Auto-generated description: Scattered documents with text addressing council proposals and data requests are overlain on a textured background.">
+<img src="https://southallstories.uk/uploads/2026/20260115-235004-collage.jpg" width="600" height="1066" alt="Auto-generated description: Scattered documents with text addressing council proposals and data requests are overlain on a textured background.">
 
 
 --- 
@@ -443,7 +443,7 @@ The letter, if it existed, had no enforcement mechanism. It was administrative t
 # What Investigation Should Look Like
 
 
-<img src="uploads/2026/20260115-234559-collage.jpg" width="600" height="1066" alt="Auto-generated description: The image displays several paragraphs of typed text, with paragraph numbers 10, 11, 12, and 13 visible, discussing environmental and agency-related topics.">
+<img src="https://southallstories.uk/uploads/2026/20260115-234559-collage.jpg" width="600" height="1066" alt="Auto-generated description: The image displays several paragraphs of typed text, with paragraph numbers 10, 11, 12, and 13 visible, discussing environmental and agency-related topics.">
 
 
 --- 
@@ -504,7 +504,7 @@ It exposes jurisdictional confusion that functions as liability shield, with eac
 
 The fire occurred exactly as residents predicted in explicit written warnings submitted 30 months prior, accompanied by photographic evidence, video documentation, and formal complaints.The council conducted a year-long investigation and found no evidence requiring enforcement action.
 
-<img src="uploads/2026/20260115-235211-collage.jpg" width="600" height="1066" alt="Auto-generated description: A collage of document snippets features partial text about failed complaints and a poisoning investigation.">
+<img src="https://southallstories.uk/uploads/2026/20260115-235211-collage.jpg" width="600" height="1066" alt="Auto-generated description: A collage of document snippets features partial text about failed complaints and a poisoning investigation.">
 
 --- 
 
@@ -531,7 +531,7 @@ Any investigation that treats this fire as unforeseeable - when residents litera
 
 **This fire happened not despite investigation, but because of how investigation operates when applied to communities whose warnings are systematically discounted.**
 
-<img src="uploads/2026/20260115-234021-collage.jpg" width="600" height="1066" alt="Auto-generated description: A partially visible email discusses waste incinerators and regulators, involving the Environment Agency.">
+<img src="https://southallstories.uk/uploads/2026/20260115-234021-collage.jpg" width="600" height="1066" alt="Auto-generated description: A partially visible email discusses waste incinerators and regulators, involving the Environment Agency.">
 
 --- 
 

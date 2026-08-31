@@ -88,7 +88,7 @@ The photograph shows Mason at a podium against the Ealing Council branded green 
 
 <br>
 
-<img src="uploads/2026/screenshot-20260508-101218.png" width="600" height="1034" alt="Peter Mason speaking at a podium with a backdrop featuring the words Elections and Ealing, and a banner congratulating the Ealing Labour party on a historic fifth term, as shared on Twitter.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260508-101218.png" width="600" height="1034" alt="Peter Mason speaking at a podium with a backdrop featuring the words Elections and Ealing, and a banner congratulating the Ealing Labour party on a historic fifth term, as shared on Twitter.">
 
 
 
@@ -146,7 +146,7 @@ Mason's own personal vote fell 44%. In 2018, he parachuted into Southall Green, 
 <br>
 
 
-<img src="uploads/2026/mason-wrecking-ball-3.png" width="600" height="623" alt="Auto-generated description: A graphic depicts the decline in Peter Mason's vote share from 2018 to 2030, illustrating a transformation with a wrecking ball metaphor.">
+<img src="https://southallstories.uk/uploads/2026/mason-wrecking-ball-3.png" width="600" height="623" alt="Auto-generated description: A graphic depicts the decline in Peter Mason's vote share from 2018 to 2030, illustrating a transformation with a wrecking ball metaphor.">
 
 
 <br>
@@ -186,7 +186,7 @@ The Green paper candidate at the top of the ballot beat the Labour chief whip at
 <br>
 
 
-<img src="uploads/2026/screenshot-20260508-172745.png" width="600" height="520" alt="Reporter Gary Gibbon is speaking in front of the Houses of Parliament with a subtitle about a briefing for Labour activists telling them not to cry on camera if the election results are bad.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260508-172745.png" width="600" height="520" alt="Reporter Gary Gibbon is speaking in front of the Houses of Parliament with a subtitle about a briefing for Labour activists telling them not to cry on camera if the election results are bad.">
 
 
 <br>
@@ -205,7 +205,7 @@ Channel 4 News political editor Gary Gibbon, on the eve of polling day, reported
 <br>
 
 
-<img src="uploads/2026/screenshot-20260508-115605.png" width="600" height="947" alt="A group of people are gathered in a hall, with Peter Mason consoling Gareth Shaw appearing emotional, as seen from a tweet discussing council election results.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260508-115605.png" width="600" height="947" alt="A group of people are gathered in a hall, with Peter Mason consoling Gareth Shaw appearing emotional, as seen from a tweet discussing council election results.">
 
 
 <br>
@@ -323,7 +323,7 @@ And the man who [self-identifies as left-wing](https://southallstories.uk/2026/0
 <br>
 
 
-<img src="uploads/2026/fb-img-1633873589685.jpg" width="600" height="800" alt="Peter Mason with a blue-painted face and dyed-green hair wears a Vote Blue Peter Mason shirt while holding sheets of stickers and offering them to voters.">
+<img src="https://southallstories.uk/uploads/2026/fb-img-1633873589685.jpg" width="600" height="800" alt="Peter Mason with a blue-painted face and dyed-green hair wears a Vote Blue Peter Mason shirt while holding sheets of stickers and offering them to voters.">
 
 
 <br><br>
@@ -350,7 +350,7 @@ He posted (and since deleted) on Twitter:
 <br>
 
 
-<img src="uploads/2026/img-20220206-wa0000.jpg" width="600" height="337" alt="Peter Mason expresses anticipation for a session titled The Jewish roots of Blue Labour by Maurice Glasman at a Limmud event in South London on Sunday.">
+<img src="https://southallstories.uk/uploads/2026/img-20220206-wa0000.jpg" width="600" height="337" alt="Peter Mason expresses anticipation for a session titled The Jewish roots of Blue Labour by Maurice Glasman at a Limmud event in South London on Sunday.">
 
 
 <br>
@@ -378,7 +378,7 @@ PJ Lynch posted a photograph of Mason posing with his Southall Green running mat
 <br>
 
 
-<img src="uploads/2026/screenshot-20260508-113319.png" width="600" height="703" alt="Southall Green councillors Peter Mason, Jasbir Anand and Kamaljit Dhindsa stand together at the election count following a 44% drop in Mason's personal vote. A green sign points to the right and says Fire Exit.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260508-113319.png" width="600" height="703" alt="Southall Green councillors Peter Mason, Jasbir Anand and Kamaljit Dhindsa stand together at the election count following a 44% drop in Mason's personal vote. A green sign points to the right and says Fire Exit.">
 
 
 <br>
@@ -406,7 +406,7 @@ The national picture.
 <br>
 
 
-<img src="uploads/2026/img-20260508-wa0025.jpg" width="600" height="309" alt="Keir Starmer is speaking to an audience at a Labour Party event with a banner in the background. Peter Mason looks on adoringly.">
+<img src="https://southallstories.uk/uploads/2026/img-20260508-wa0025.jpg" width="600" height="309" alt="Keir Starmer is speaking to an audience at a Labour Party event with a banner in the background. Peter Mason looks on adoringly.">
 
 
 <br>
@@ -482,7 +482,7 @@ ECI has multiplied the local independent vote by a factor of 4.6 in a single cyc
 <br>
 
 
-<img src="uploads/2026/southall-gap-chart.png" width="600" height="680" alt="Auto-generated description: A chart illustrates the election results and projections for Southall Green from 2002 to 2030, showing the narrowing gap between Labour and opposition parties, alongside key numerical data and analysis.">
+<img src="https://southallstories.uk/uploads/2026/southall-gap-chart.png" width="600" height="680" alt="Auto-generated description: A chart illustrates the election results and projections for Southall Green from 2002 to 2030, showing the narrowing gap between Labour and opposition parties, alongside key numerical data and analysis.">
 
 
 <br>
@@ -548,7 +548,7 @@ The signal from Southall Green left Mason 467 votes ahead of the local party whi
 <br>
 
 
-<img src="uploads/2026/image.jpg" width="600" height="800" alt="The Southall Gasworks construction site is enveloped in gray clouds and snow, with a large excavator visible in the foreground. Circa February 2019.">
+<img src="https://southallstories.uk/uploads/2026/image.jpg" width="600" height="800" alt="The Southall Gasworks construction site is enveloped in gray clouds and snow, with a large excavator visible in the foreground. Circa February 2019.">
 
 
 <br>
@@ -625,7 +625,7 @@ It is hard to come back from winning the council on 27.7% of the vote and then b
 <br>
 
 
-<img src="uploads/2026/ealing-2022-vs-2026-1.png" width="600" height="550" alt="Auto-generated description: A graphical analysis shows Labour's performance in Ealing elections, emphasizing their vote share and seat distribution in 2022 and projected outcomes for 2026.">
+<img src="https://southallstories.uk/uploads/2026/ealing-2022-vs-2026-1.png" width="600" height="550" alt="Auto-generated description: A graphical analysis shows Labour's performance in Ealing elections, emphasizing their vote share and seat distribution in 2022 and projected outcomes for 2026.">
 
 
 <br>

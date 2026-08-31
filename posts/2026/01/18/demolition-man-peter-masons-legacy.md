@@ -79,7 +79,7 @@ This is the story about how a council leader failed to deliver the new homes he 
 
 
 
-<img src="uploads/2026/20260116-220433.jpg" width="600" height="357" alt="Councillor Peter Mason and then Council Leader Julian Bell stand behind large numbers 2500 designed to look like brick walls, in front of Ealing Town Hall.">    
+<img src="https://southallstories.uk/uploads/2026/20260116-220433.jpg" width="600" height="357" alt="Councillor Peter Mason and then Council Leader Julian Bell stand behind large numbers 2500 designed to look like brick walls, in front of Ealing Town Hall.">    
 
 
 
@@ -98,7 +98,7 @@ Was it [898](https://web.archive.org/web/20210505225051/http://www.ealing.gov.uk
 
 
 
-<img src="uploads/2026/e0jltkrxsaaivyn.png" width="600" height="126" alt="A tweet from May 19, 2020, by Peter Mason reports Ealing Labour's progress in delivering genuinely affordable homes, reaching 54% of their goal with 1,355 new homes available in just two years.">
+<img src="https://southallstories.uk/uploads/2026/e0jltkrxsaaivyn.png" width="600" height="126" alt="A tweet from May 19, 2020, by Peter Mason reports Ealing Labour's progress in delivering genuinely affordable homes, reaching 54% of their goal with 1,355 new homes available in just two years.">
 
 
 
@@ -119,7 +119,7 @@ Perhaps it was [723](https://web.archive.org/web/20210505132417/https://ealingpe
 
 
 
-<img src="uploads/2026/screenshot-20260117-211517.png" width="600" height="354" alt="Auto-generated description: A line graph shows the number of genuinely affordable homes completed and onsite over time, with a target noted for March 2022.">
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260117-211517.png" width="600" height="354" alt="Auto-generated description: A line graph shows the number of genuinely affordable homes completed and onsite over time, with a target noted for March 2022.">
 
 
 
@@ -207,7 +207,7 @@ You would be wrong.
 
 
 
-<img src="uploads/2026/screenshot-20260116-220103.png" width="600" height="472" alt="Auto-generated description: A Twitter conversation shows a discussion about housing numbers involving users David Marsden and Gregory Stafford MP.">  
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260116-220103.png" width="600" height="472" alt="Auto-generated description: A Twitter conversation shows a discussion about housing numbers involving users David Marsden and Gregory Stafford MP.">  
 
 
 
@@ -262,7 +262,7 @@ This accounting trick allows failure to be repackaged and sold to the electorate
 
 
 
-<img src="uploads/2026/screenshot-20260116-202438.png" width="600" height="960" alt="A Twitter post by Peter Mason showcases a modern housing development at Norwood Road in Southall Green aimed at providing genuinely affordable homes, with an image of the homes and a retweet of Ealing Council's announcement about their construction.">  
+<img src="https://southallstories.uk/uploads/2026/screenshot-20260116-202438.png" width="600" height="960" alt="A Twitter post by Peter Mason showcases a modern housing development at Norwood Road in Southall Green aimed at providing genuinely affordable homes, with an image of the homes and a retweet of Ealing Council's announcement about their construction.">  
 
 
 
@@ -286,7 +286,7 @@ Giddy with power, perhaps, and desperate to retain it just before the upcoming l
 
 
 
-<img src="uploads/2026/pxl-20260117-1351162372.jpg" width="600" height="451" alt="A construction site billboard is overgrown with weeds and displays information about an affordable family housing project in Norwood Road, Southall, set for completion in 2023.">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260117-1351162372.jpg" width="600" height="451" alt="A construction site billboard is overgrown with weeds and displays information about an affordable family housing project in Norwood Road, Southall, set for completion in 2023.">
 
 
 
@@ -295,7 +295,7 @@ Giddy with power, perhaps, and desperate to retain it just before the upcoming l
   
 Unfortunately for Peter, and for the families desperate for a proper home of their own, the builders Peter hired went bust before completion. For three years we've been left with this half-built eyesore rotting in the rain.   
   
-<img src="uploads/2026/pxl-20260117-135153885.mp2.jpg" width="600" height="451" alt="Inside the Norwood Road construction site, Southall, with partially built purple brick structures, surrounded by scattered debris and construction materials.">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260117-135153885.mp2.jpg" width="600" height="451" alt="Inside the Norwood Road construction site, Southall, with partially built purple brick structures, surrounded by scattered debris and construction materials.">
 
 
 
@@ -315,7 +315,7 @@ What makes this so much worse, is that Henry Construction's owners had [form](ht
 
 
 
-<img src="uploads/2026/pxl-20260117-1412447742.jpg" width="600" height="451" alt="The Southall Market Car Park construction site features several high-rise buildings covered in scaffolding, with a street sign reading Market Place in the foreground.">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260117-1412447742.jpg" width="600" height="451" alt="The Southall Market Car Park construction site features several high-rise buildings covered in scaffolding, with a street sign reading Market Place in the foreground.">
 
 
 
@@ -327,7 +327,7 @@ What makes this so much worse, is that Henry Construction's owners had [form](ht
 
 Like Norwood Road, we now find that the much larger development site [Southall Market Car Park](https://Ealing.moderngov.co.uk/ieDecisionDetails.aspx?Id=958&LLL=0), may have to be demolished, too, and built all over again at great extra cost.  
   
-<img src="uploads/2026/pxl-20260117-1414010862.jpg" width="600" height="451" alt="The Southall Market Car Park stalled construction site, surrounded by extensive scaffolding with visible exposed walls and wooden platforms, left open to the elements since May 2023.">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260117-1414010862.jpg" width="600" height="451" alt="The Southall Market Car Park stalled construction site, surrounded by extensive scaffolding with visible exposed walls and wooden platforms, left open to the elements since May 2023.">
 
 
 

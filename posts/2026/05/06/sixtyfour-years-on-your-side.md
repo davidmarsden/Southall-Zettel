@@ -91,4 +91,4 @@ The 2026 leaflet headlines a claim that fly-tipping is "down 54% across Southall
 
 <br>
 
-<img src="uploads/2026/pxl-20260316-152212694.portrait.original.jpg" width="600" height="796" alt="Auto-generated description: A campaign poster for Ealing Community Independents features three candidates, Minni Dogra, Joe Bhangu, and Jatinder Rajput, with the message SOUTHALL DESERVES BETTER and a call to vote on 7th May.">
+<img src="https://southallstories.uk/uploads/2026/pxl-20260316-152212694.portrait.original.jpg" width="600" height="796" alt="Auto-generated description: A campaign poster for Ealing Community Independents features three candidates, Minni Dogra, Joe Bhangu, and Jatinder Rajput, with the message SOUTHALL DESERVES BETTER and a call to vote on 7th May.">

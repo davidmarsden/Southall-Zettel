@@ -2,11 +2,12 @@
 
 Outbound source domains ranked by the number of Southall Stories posts citing them.
 
-- **ealing.gov.uk** — 20 posts
+- **southallstories.uk** — 48 posts
 - **ealing.moderngov.co.uk** — 19 posts
 - **ealing.news** — 19 posts
-- **southallstories.uk** — 17 posts
+- **ealing.gov.uk** — 18 posts
 - **x.com** — 14 posts
+- **web.archive.org** — 13 posts
 - **aroundealing.com** — 10 posts
 - **communitypoweredreporting.co.uk** — 10 posts
 - **pbs.twimg.com** — 10 posts
@@ -14,7 +15,6 @@ Outbound source domains ranked by the number of Southall Stories posts citing th
 - **cdn.uploads.micro.mov** — 8 posts
 - **eu.uploads.micro.blog** — 8 posts
 - **mylondon.news** — 8 posts
-- **web.archive.org** — 8 posts
 - **drive.google.com** — 7 posts
 - **gov.uk** — 7 posts
 - **youtube.com** — 7 posts
@@ -48,7 +48,6 @@ Outbound source domains ranked by the number of Southall Stories posts citing th
 - **architectsjournal.co.uk** — 2 posts
 - **archive.ph** — 2 posts
 - **assets.publishing.service.gov.uk** — 2 posts
-- **awards.lgcplus.com** — 2 posts
 - **change.org** — 2 posts
 - **ealing.netlify.app** — 2 posts
 - **ealingitree.online** — 2 posts
