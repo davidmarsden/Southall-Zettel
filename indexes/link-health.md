@@ -3,34 +3,164 @@
 Automated health checks for external links cited by the Southall Stories research corpus.
 
 - Checked/cached links: **530**
-- Actionable problems: **85**
-- Newly degraded since the previous report: **45**
-- Resolved since the previous report: **8**
+- Actionable problems: **18**
+- Inconclusive automated checks: **67**
+- Newly degraded since the previous report: **18**
+- Resolved/de-escalated since the previous report: **67**
 - Ordinary redirects: **27**
 
-`gone` means HTTP 404/410. `unreachable` can include temporary failures or automation blocking. `suspicious-redirect` means a URL resolves successfully but appears to have been repointed to unrelated content.
+`gone` means HTTP 404/410. `blocked` means the destination rejected the automated checker (for example 403/429). A single `unreachable` result is treated as inconclusive; it becomes actionable only after repeated scheduled failures. `suspicious-redirect` means a URL resolves successfully but appears to have been repointed to unrelated content.
 
 For genuine link rot, Southall Stories can use Micro.blog’s archived-link feature to recover or replace the destination while preserving the original reporting context.
 
-## Resolved since last check
+## Resolved or de-escalated since last check
 
-- [Agenda Reports Pack (Public) 30/11/2010, 19.30](https://democracy.brent.gov.uk/documents/g1468/Public%20reports%20pack%20Tuesday%2030-Nov-2010%2019.30%20Call%20In%20Overview%20and%20Scrutiny%20Committee.pdf?T=10) — was `unreachable`; now `healthy`.
-  - [On the Bins Again](https://southallstories.uk/2026/04/05/on-the-bins-again/)
-- [Microsoft Word - $5lbs424f.docx](https://democracy.brent.gov.uk/documents/s25547/ens-garden-waste.pdf) — was `unreachable`; now `healthy`.
-  - [On the Bins Again](https://southallstories.uk/2026/04/05/on-the-bins-again/)
-- [Microsoft Word - ecwastestrategyv51final0](https://democracy.brent.gov.uk/documents/s2948/ec_waste_strategy_v%205%201%20final.pdf) — was `unreachable`; now `healthy`.
-  - [On the Bins Again](https://southallstories.uk/2026/04/05/on-the-bins-again/)
-- [https://democracy.brent.gov.uk/documents/s2949/ec_waste_strategy_AppA_v2.pdf](https://democracy.brent.gov.uk/documents/s2949/ec_waste_strategy_AppA_v2.pdf) — was `unreachable`; now `healthy`.
-  - [On the Bins Again](https://southallstories.uk/2026/04/05/on-the-bins-again/)
-- ['They're trying to shut us up' - West London council doubles signatures needed for petition debate - Harrow Online](https://harrowonline.org/2025/07/16/theyre-trying-to-shut-us-up-west-london-council-doubles-signatures-needed-for-petition-debate/) — was `unreachable`; now `healthy`.
-  - [Who Does Peter Mason Really Represent?](https://southallstories.uk/2026/05/07/who-does-peter-mason-really/)
-- [Ealing Labour](https://web.archive.org/web/20181219221205/https://www.ealinglabour.com/) — was `unreachable`; now `healthy`.
-  - [Who Does Peter Mason Really Represent?](https://southallstories.uk/2026/05/07/who-does-peter-mason-really/)
-- [BIGHOKI !! Akses Alternatif Terbaru Game Online Buat Mata Melolok Liat Jepe!](https://www.ealinglabour.com/manifesto2022/) — was `unreachable`; now `redirected`.
+- [https://Ealing.moderngov.co.uk/ieDecisionDetails.aspx?Id=958&LLL=0](https://Ealing.moderngov.co.uk/ieDecisionDetails.aspx?Id=958&LLL=0) — was `unreachable`; now `unreachable` and no longer actionable.
   - [Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises](https://southallstories.uk/2026/01/18/demolition-man-peter-masons-legacy/)
-  - [Bangarang! Pirate Pete and the Lost Bin Collections of Southall](https://southallstories.uk/2026/02/13/bangarang-pirate-pete-and-the/)
-- [‘Unimaginable horrors’: more than 50,000 children reportedly killed or injured in the Gaza Strip](https://www.unicef.org/press-releases/unimaginable-horrors-more-50000-children-reportedly-killed-or-injured-gaza-strip) — was `unreachable`; now `healthy`.
+- [https://archive.ph/JZAll](https://archive.ph/JZAll) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Pull the Other One, Julian](https://southallstories.uk/2019/06/01/pull-the-other-one-julian/)
+- [https://archive.ph/kfpaA](https://archive.ph/kfpaA) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [The Broken Manifesto Promises that show how Labour is Failing Ealing](https://southallstories.uk/2026/02/18/the-broken-manifesto-promises-that/)
+- [https://ccrjustice.org/Corporate-Capture](https://ccrjustice.org/Corporate-Capture) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [The Man in the Middle](https://southallstories.uk/2026/05/07/the-man-in-the-middle/)
+- [https://ealing.cmis.uk.com/ealing/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=WQhOaubzPPxk1yVzZleRxFZb7u/GmxWvbCWE1o9prqXCN7mbG5lCZg%3D%3D&rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ/LUQzgA2uL5jNRG4jdQ%3D%3D&mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&kCx1AnS9/pWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D&FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D](https://ealing.cmis.uk.com/ealing/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=WQhOaubzPPxk1yVzZleRxFZb7u/GmxWvbCWE1o9prqXCN7mbG5lCZg%3D%3D&rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ/LUQzgA2uL5jNRG4jdQ%3D%3D&mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&kCx1AnS9/pWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D&FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Look at these Bricks!](https://southallstories.uk/2021/05/03/look-at-these-bricks/)
+- [https://ealing.cmis.uk.com/ealing/Meetings/tabid/70/ctl/ViewMeetingPublic/mid/397/Meeting/6876/Committee/3/Default.aspx](https://ealing.cmis.uk.com/ealing/Meetings/tabid/70/ctl/ViewMeetingPublic/mid/397/Meeting/6876/Committee/3/Default.aspx) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Look at these Bricks!](https://southallstories.uk/2021/05/03/look-at-these-bricks/)
+- [https://ealing.moderngov.co.uk](https://ealing.moderngov.co.uk) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [The Meeting that Ended Local Democracy in Southall](https://southallstories.uk/2026/05/06/the-meeting-that-ended-local/)
+- [https://ealing.moderngov.co.uk/Data/Pension%20Fund%20Panel/202111251900/Agenda/Appendix%202%20-%20The%20Pension%20Fund%20Newsletter%202020-21.pdf](https://ealing.moderngov.co.uk/Data/Pension%20Fund%20Panel/202111251900/Agenda/Appendix%202%20-%20The%20Pension%20Fund%20Newsletter%202020-21.pdf) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Lift-Off! Ealing Elections Special ](https://southallstories.uk/2026/05/09/liftoff-ealing-elections-special/)
+- [https://ealing.moderngov.co.uk/Data/Southall%20Broadway%20Ward%20Forum/201607121900/Agenda/Southall%20Broadway%20ward%20forum%20notes%2012%20July%2016.pdf](https://ealing.moderngov.co.uk/Data/Southall%20Broadway%20Ward%20Forum/201607121900/Agenda/Southall%20Broadway%20ward%20forum%20notes%2012%20July%2016.pdf) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Boomerang! Ten Years Sorting Out Fly-tipping](https://southallstories.uk/2026/03/01/boomerang-ten-years-sorting-out/)
+- [https://ealing.moderngov.co.uk/documents/g6611/Public%20reports%20pack%20Tuesday%2015-Jul-2025%2019.00%20Council.pdf?T=10](https://ealing.moderngov.co.uk/documents/g6611/Public%20reports%20pack%20Tuesday%2015-Jul-2025%2019.00%20Council.pdf?T=10) — was `unreachable`; now `unreachable` and no longer actionable.
   - [Perceval House W5: Where Local Democracy in Ealing Goes to Die](https://southallstories.uk/2025/07/11/perceval-house-w-where-local/)
+  - [Ealing For Sale](https://southallstories.uk/2025/09/26/ealing-for-sale/)
+- [https://ealing.moderngov.co.uk/documents/s11538/Drug%20alcohol%20services%20by%20entering%20into%20two%20new%20leases%20and%20refurbishments.pdf](https://ealing.moderngov.co.uk/documents/s11538/Drug%20alcohol%20services%20by%20entering%20into%20two%20new%20leases%20and%20refurbishments.pdf) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [The Drugs Don't Work](https://southallstories.uk/2026/05/06/the-drugs-dont-work/)
+- [https://ealing.moderngov.co.uk/documents/s1725/Council%20Performance%20Year%20End%202021-22.pdf](https://ealing.moderngov.co.uk/documents/s1725/Council%20Performance%20Year%20End%202021-22.pdf) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises](https://southallstories.uk/2026/01/18/demolition-man-peter-masons-legacy/)
+- [https://ealing.moderngov.co.uk/documents/s1726/Southall%20Reset.pdf](https://ealing.moderngov.co.uk/documents/s1726/Southall%20Reset.pdf) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Perceval House W5: Where Local Democracy in Ealing Goes to Die](https://southallstories.uk/2025/07/11/perceval-house-w-where-local/)
+- [https://ealing.moderngov.co.uk/documents/s1728/Appendix%202%20Southall%20Planning%20Baseline%20Report.pdf](https://ealing.moderngov.co.uk/documents/s1728/Appendix%202%20Southall%20Planning%20Baseline%20Report.pdf) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [The Smell of Success](https://southallstories.uk/2026/05/02/the-smell-of-success/)
+- [https://ealing.moderngov.co.uk/documents/s1730/Appendix%204%20South%20Road%20Bridge%20Widening%20June%202022.pdf](https://ealing.moderngov.co.uk/documents/s1730/Appendix%204%20South%20Road%20Bridge%20Widening%20June%202022.pdf) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Section 106 money: where did Southall’s “developer tax” go?](https://southallstories.uk/2026/02/14/section-money-where-did-southalls/)
+- [https://ealing.moderngov.co.uk/documents/s18496/Housing%20Development%20and%20Regeneration%20Report%20to%20Scrutiny.pdf](https://ealing.moderngov.co.uk/documents/s18496/Housing%20Development%20and%20Regeneration%20Report%20to%20Scrutiny.pdf) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [The Broken Manifesto Promises that show how Labour is Failing Ealing](https://southallstories.uk/2026/02/18/the-broken-manifesto-promises-that/)
+  - [Who Does Peter Mason Really Represent?](https://southallstories.uk/2026/05/07/who-does-peter-mason-really/)
+- [https://ealing.moderngov.co.uk/documents/s18754/Waste%20and%20Recycling%20Update.pdf](https://ealing.moderngov.co.uk/documents/s18754/Waste%20and%20Recycling%20Update.pdf) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Boomerang! Ten Years Sorting Out Fly-tipping](https://southallstories.uk/2026/03/01/boomerang-ten-years-sorting-out/)
+- [https://ealing.moderngov.co.uk/documents/s18754/Waste+and+Recycling+Update.pdf](https://ealing.moderngov.co.uk/documents/s18754/Waste+and+Recycling+Update.pdf) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [On the Bins Again](https://southallstories.uk/2026/04/05/on-the-bins-again/)
+- [https://ealing.moderngov.co.uk/documents/s19482/Substance%20Misuse%20Service.pdf](https://ealing.moderngov.co.uk/documents/s19482/Substance%20Misuse%20Service.pdf) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [The Drugs Don't Work](https://southallstories.uk/2026/05/06/the-drugs-dont-work/)
+- [https://ealing.moderngov.co.uk/documents/s22212/FINAL%20Ealings%20Early%20Help%20Strategy%20Childrens%20Scrutiny%20Report_v1%2014.11.25.pdf](https://ealing.moderngov.co.uk/documents/s22212/FINAL%20Ealings%20Early%20Help%20Strategy%20Childrens%20Scrutiny%20Report_v1%2014.11.25.pdf) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [It Takes Two to Tango](https://southallstories.uk/2026/05/06/it-takes-two-to-tango/)
+- [https://ealing.moderngov.co.uk/documents/s23017/Council%20Plan%20Performance%20Report%20Q2%20202526.pdf](https://ealing.moderngov.co.uk/documents/s23017/Council%20Plan%20Performance%20Report%20Q2%20202526.pdf) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Boomerang! Ten Years Sorting Out Fly-tipping](https://southallstories.uk/2026/03/01/boomerang-ten-years-sorting-out/)
+  - [This Is Our Home. It's a Tip.](https://southallstories.uk/2026/04/30/this-is-our-home-its/)
+- [https://ealing.moderngov.co.uk/documents/s23226/4.2.%20Appendix%202%20-%20LBE%20Forvis%20Mazars%20ACR%202024-25.pdf](https://ealing.moderngov.co.uk/documents/s23226/4.2.%20Appendix%202%20-%20LBE%20Forvis%20Mazars%20ACR%202024-25.pdf) — was `unreachable`; now `unreachable` and no longer actionable.
+  - ["You Never Forget the Smell of Damp": Peter Mason's Housing Record in His Own Words](https://southallstories.uk/2026/04/21/you-never-forget-the-smell/)
+- [https://ealing.moderngov.co.uk/ieListDocuments.aspx?MId=6661](https://ealing.moderngov.co.uk/ieListDocuments.aspx?MId=6661) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [It Takes Two to Tango](https://southallstories.uk/2026/05/06/it-takes-two-to-tango/)
+- [https://ealing.moderngov.co.uk/mgAi.aspx?ID=6020](https://ealing.moderngov.co.uk/mgAi.aspx?ID=6020) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [On the Bins Again](https://southallstories.uk/2026/04/05/on-the-bins-again/)
+- [https://ealing.moderngov.co.uk/mgCommitteeDetails.aspx?ID=188](https://ealing.moderngov.co.uk/mgCommitteeDetails.aspx?ID=188) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [The Man in the Middle](https://southallstories.uk/2026/05/07/the-man-in-the-middle/)
+- [https://ealing.moderngov.co.uk/mgIssueHistoryHome.aspx?IId=9740&Opt=0](https://ealing.moderngov.co.uk/mgIssueHistoryHome.aspx?IId=9740&Opt=0) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [The Drugs Don't Work](https://southallstories.uk/2026/05/06/the-drugs-dont-work/)
+- [https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=116](https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=116) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Canvassing with Minni Dogra: A Councillor in All But Name](https://southallstories.uk/2026/04/23/canvassing-with-minni-dogra-a/)
+- [https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=149](https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=149) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Lift-Off! Ealing Elections Special ](https://southallstories.uk/2026/05/09/liftoff-ealing-elections-special/)
+- [https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=164](https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=164) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [First They Came for the Socialists](https://southallstories.uk/2026/04/24/first-they-came-for-the/)
+- [https://ealingindependents.org/](https://ealingindependents.org/) — was `unreachable`; now `unreachable` and no longer actionable.
+  - ["This Place Has Turned Into a Bloody Slum": Southall Wards Meeting with ECI candidates](https://southallstories.uk/2026/04/28/this-place-has-turned-into/)
+  - [Cactuses Never Die](https://southallstories.uk/2026/05/03/cactuses-never-die/)
+  - [Lift-Off! Ealing Elections Special ](https://southallstories.uk/2026/05/09/liftoff-ealing-elections-special/)
+- [https://ealingindependents.org/what-we-stand-for/](https://ealingindependents.org/what-we-stand-for/) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Canvassing with Minni Dogra: A Councillor in All But Name](https://southallstories.uk/2026/04/23/canvassing-with-minni-dogra-a/)
+- [https://news.sky.com/story/jeremy-corbyn-to-face-confidence-vote-from-jewish-labour-movement-11686632](https://news.sky.com/story/jeremy-corbyn-to-face-confidence-vote-from-jewish-labour-movement-11686632) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Who Does Peter Mason Really Represent?](https://southallstories.uk/2026/05/07/who-does-peter-mason-really/)
+- [https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1553-2712.2000.tb01889.x](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1553-2712.2000.tb01889.x) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Naphthalene Poisoning Risk in People of African and Asian Heritage](https://southallstories.uk/2019/07/12/naphthalene-poisoning-risk-in-people/)
+- [https://open.substack.com/pub/southall/p/a-town-ignored-southall-after-16](https://open.substack.com/pub/southall/p/a-town-ignored-southall-after-16) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Canvassing with Minni Dogra: A Councillor in All But Name](https://southallstories.uk/2026/04/23/canvassing-with-minni-dogra-a/)
+- [https://open.substack.com/pub/southall/p/real-change-not-empty-consultations](https://open.substack.com/pub/southall/p/real-change-not-empty-consultations) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Bangarang! Pirate Pete and the Lost Bin Collections of Southall](https://southallstories.uk/2026/02/13/bangarang-pirate-pete-and-the/)
+- [https://open.substack.com/pub/southall/p/southall-deserves-better](https://open.substack.com/pub/southall/p/southall-deserves-better) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Bangarang! Pirate Pete and the Lost Bin Collections of Southall](https://southallstories.uk/2026/02/13/bangarang-pirate-pete-and-the/)
+- [https://open.substack.com/pub/theviewfromw5/p/demolition-of-ealing-homes-part-of-trail-chaos](https://open.substack.com/pub/theviewfromw5/p/demolition-of-ealing-homes-part-of-trail-chaos) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises](https://southallstories.uk/2026/01/18/demolition-man-peter-masons-legacy/)
+- [https://open.substack.com/pub/theviewfromw5/p/ealing-council-hopes-to-recoup-money-from-collapse-of-henry-construction](https://open.substack.com/pub/theviewfromw5/p/ealing-council-hopes-to-recoup-money-from-collapse-of-henry-construction) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [When is a Hustings not a Hustings?](https://southallstories.uk/2026/04/30/when-is-a-hustings-not/)
+- [https://open.substack.com/pub/theviewfromw5/p/ealing-delivers-16-percent-of-its-affordable-homes-target](https://open.substack.com/pub/theviewfromw5/p/ealing-delivers-16-percent-of-its-affordable-homes-target) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises](https://southallstories.uk/2026/01/18/demolition-man-peter-masons-legacy/)
+  - [The Broken Manifesto Promises that show how Labour is Failing Ealing](https://southallstories.uk/2026/02/18/the-broken-manifesto-promises-that/)
+  - [When is a Hustings not a Hustings?](https://southallstories.uk/2026/04/30/when-is-a-hustings-not/)
+- [https://open.substack.com/pub/theviewfromw5/p/history-of-insolvency-and-10-million-dividend](https://open.substack.com/pub/theviewfromw5/p/history-of-insolvency-and-10-million-dividend) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises](https://southallstories.uk/2026/01/18/demolition-man-peter-masons-legacy/)
+- [https://register.charitycommission.gov.uk/en/charity-details/?regId=1104671](https://register.charitycommission.gov.uk/en/charity-details/?regId=1104671) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [The Man in the Middle](https://southallstories.uk/2026/05/07/the-man-in-the-middle/)
+- [https://southall.davidmarsden.info/2025/07/11/perceval-house-w-where-local/](https://southall.davidmarsden.info/2025/07/11/perceval-house-w-where-local/) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [So it Goes: AI on the Absurd Logic of Ealing Council](https://southallstories.uk/2025/07/12/so-it-goes-ai-on/)
+  - [The Pied Piper of Ealing](https://southallstories.uk/2025/07/16/the-pied-piper-of-ealing/)
+- [https://southall.davidmarsden.info/2025/07/12/so-it-goes-ai-on/](https://southall.davidmarsden.info/2025/07/12/so-it-goes-ai-on/) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Save Ealing Children’s Centres Campaign Update](https://southallstories.uk/2025/07/24/david-marsden-save-ealing-childrens/)
+- [https://t2m.io/z6shGyFn](https://t2m.io/z6shGyFn) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Berkeley's School Governors Board Member](https://southallstories.uk/2018/09/11/berkeleys-school-governors-board-member/)
+- [https://theviewfromw5.substack.com/p/ealing-delivers-16-percent-of-its-affordable-homes-target](https://theviewfromw5.substack.com/p/ealing-delivers-16-percent-of-its-affordable-homes-target) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Who Does Peter Mason Really Represent?](https://southallstories.uk/2026/05/07/who-does-peter-mason-really/)
+- [https://theviewfromw5.substack.com/p/ealing-major-increase-homelessness](https://theviewfromw5.substack.com/p/ealing-major-increase-homelessness) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [When "deport six million" becomes mainstream: what Ealing Labour won't tell you](https://southallstories.uk/2026/04/24/when-deport-six-million-becomes/)
+- [https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf](https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [The Cuckoo's Nest](https://southallstories.uk/2024/05/19/the-cuckoos-nest/)
+  - [Bangarang! Pirate Pete and the Lost Bin Collections of Southall](https://southallstories.uk/2026/02/13/bangarang-pirate-pete-and-the/)
+- [https://www.ealingitree.online/stories/canopy-cover/0](https://www.ealingitree.online/stories/canopy-cover/0) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Feeling the Heat](https://southallstories.uk/2026/05/25/feeling-the-heat/)
+- [https://www.economist.com/britain/2026/03/30/right-wingers-want-ice-style-mass-deportations-in-britain](https://www.economist.com/britain/2026/03/30/right-wingers-want-ice-style-mass-deportations-in-britain) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [When "deport six million" becomes mainstream: what Ealing Labour won't tell you](https://southallstories.uk/2026/04/24/when-deport-six-million-becomes/)
+- [https://www.itv.com/news/london/2026-02-25/croydon-named-englands-fly-tipping-hotspot-with-seven-boroughs-in-top-ten](https://www.itv.com/news/london/2026-02-25/croydon-named-englands-fly-tipping-hotspot-with-seven-boroughs-in-top-ten) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Boomerang! Ten Years Sorting Out Fly-tipping](https://southallstories.uk/2026/03/01/boomerang-ten-years-sorting-out/)
+- [https://www.jewishnews.co.uk/best-of-british-three-uk-jews-now-working-in-the-heart-of-israels-government/](https://www.jewishnews.co.uk/best-of-british-three-uk-jews-now-working-in-the-heart-of-israels-government/) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Who Does Peter Mason Really Represent?](https://southallstories.uk/2026/05/07/who-does-peter-mason-really/)
+- [https://www.linkedin.com/in/jags-sanghera-04722153](https://www.linkedin.com/in/jags-sanghera-04722153) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Bangarang! Pirate Pete and the Lost Bin Collections of Southall](https://southallstories.uk/2026/02/13/bangarang-pirate-pete-and-the/)
+  - [Canvassing with Minni Dogra: A Councillor in All But Name](https://southallstories.uk/2026/04/23/canvassing-with-minni-dogra-a/)
+  - [The Man in the Middle](https://southallstories.uk/2026/05/07/the-man-in-the-middle/)
+- [https://www.linkedin.com/in/peter-mason-5a377941](https://www.linkedin.com/in/peter-mason-5a377941) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Who Does Peter Mason Really Represent?](https://southallstories.uk/2026/05/07/who-does-peter-mason-really/)
+  - [Lift-Off! Ealing Elections Special ](https://southallstories.uk/2026/05/09/liftoff-ealing-elections-special/)
+- [https://www.linkedin.com/in/yairzivan](https://www.linkedin.com/in/yairzivan) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Who Does Peter Mason Really Represent?](https://southallstories.uk/2026/05/07/who-does-peter-mason-really/)
+- [https://www.london.gov.uk/who-we-are/what-london-assembly-does/questions-mayor/find-an-answer/retrofitting-homes-ealing](https://www.london.gov.uk/who-we-are/what-london-assembly-does/questions-mayor/find-an-answer/retrofitting-homes-ealing) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Feeling the Heat](https://southallstories.uk/2026/05/25/feeling-the-heat/)
+- [https://www.police.uk/pu/your-area/metropolitan-police-service/hanwell-broadway/](https://www.police.uk/pu/your-area/metropolitan-police-service/hanwell-broadway/) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [The Drugs Don't Work](https://southallstories.uk/2026/05/06/the-drugs-dont-work/)
+- [https://www.police.uk/pu/your-area/metropolitan-police-service/southall-broadway/](https://www.police.uk/pu/your-area/metropolitan-police-service/southall-broadway/) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [The Drugs Don't Work](https://southallstories.uk/2026/05/06/the-drugs-dont-work/)
+- [https://www.police.uk/pu/your-area/metropolitan-police-service/southall-green/](https://www.police.uk/pu/your-area/metropolitan-police-service/southall-green/) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [The Drugs Don't Work](https://southallstories.uk/2026/05/06/the-drugs-dont-work/)
+- [https://www.police.uk/pu/your-area/metropolitan-police-service/walpole/](https://www.police.uk/pu/your-area/metropolitan-police-service/walpole/) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [The Drugs Don't Work](https://southallstories.uk/2026/05/06/the-drugs-dont-work/)
+- [https://www.reddit.com/r/Ealing/s/JD2n25UHIk](https://www.reddit.com/r/Ealing/s/JD2n25UHIk) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Bangarang! Pirate Pete and the Lost Bin Collections of Southall](https://southallstories.uk/2026/02/13/bangarang-pirate-pete-and-the/)
+- [https://www.researchgate.net/publication/308019398_The_first_one_wins_Distilling_the_primacy_effect](https://www.researchgate.net/publication/308019398_The_first_one_wins_Distilling_the_primacy_effect) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Lift-Off! Ealing Elections Special ](https://southallstories.uk/2026/05/09/liftoff-ealing-elections-special/)
+- [https://www.royalalberthall.com/tickets/events/2025/ealing-together-harmony-in-diversity](https://www.royalalberthall.com/tickets/events/2025/ealing-together-harmony-in-diversity) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [The Pied Piper of Ealing](https://southallstories.uk/2025/07/16/the-pied-piper-of-ealing/)
+- [https://www.timeanddate.com/weather/@2637490/historic?month=7&year=2018](https://www.timeanddate.com/weather/@2637490/historic?month=7&year=2018) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Feeling the Heat](https://southallstories.uk/2026/05/25/feeling-the-heat/)
+- [https://www.unwomen.org/en/news-stories/news/2025/05/un-women-estimates-over-28000-women-and-girls-killed-in-gaza-since-october-2023](https://www.unwomen.org/en/news-stories/news/2025/05/un-women-estimates-over-28000-women-and-girls-killed-in-gaza-since-october-2023) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Perceval House W5: Where Local Democracy in Ealing Goes to Die](https://southallstories.uk/2025/07/11/perceval-house-w-where-local/)
+- [https://www.whatdotheyknow.com/request/845384/response/2020637/attach/html/5/FOI%20Response%2022%200363%20FINAL.pdf.html](https://www.whatdotheyknow.com/request/845384/response/2020637/attach/html/5/FOI%20Response%2022%200363%20FINAL.pdf.html) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Feeling the Heat](https://southallstories.uk/2026/05/25/feeling-the-heat/)
+- [https://www.whatdotheyknow.com/request/how_many_homes_have_been_complet/response/2002978/attach/5/FOI%20Internal%20Review%2022%200065%20FINAL.pdf](https://www.whatdotheyknow.com/request/how_many_homes_have_been_complet/response/2002978/attach/5/FOI%20Internal%20Review%2022%200065%20FINAL.pdf) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [The Broken Manifesto Promises that show how Labour is Failing Ealing](https://southallstories.uk/2026/02/18/the-broken-manifesto-promises-that/)
+- [https://www.whatdotheyknow.com/request/how_much_section_106_money_has_e/response/2061857/attach/5/EIR%20Internal%20Review%2022%200404%20FINAL.pdf?cookie_passthrough=1](https://www.whatdotheyknow.com/request/how_much_section_106_money_has_e/response/2061857/attach/5/EIR%20Internal%20Review%2022%200404%20FINAL.pdf?cookie_passthrough=1) — was `unreachable`; now `unreachable` and no longer actionable.
+  - [Section 106 money: where did Southall’s “developer tax” go?](https://southallstories.uk/2026/02/14/section-money-where-did-southalls/)
 
 ## Needs attention
 
@@ -184,544 +314,77 @@ For genuine link rot, Southall Stories can use Micro.blog’s archived-link feat
 - Appears in:
   - [Feeling the Heat](https://southallstories.uk/2026/05/25/feeling-the-heat/) — anchor text: `Ealing Race Equality Commission`
 
-### unreachable: https://archive.ph/JZAll
-
-- Original: [https://archive.ph/JZAll](https://archive.ph/JZAll)
-- HTTP: `429`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Pull the Other One, Julian](https://southallstories.uk/2019/06/01/pull-the-other-one-julian/) — anchor text: `Pidgley 'breaks the rules' every day`
-
-### unreachable: https://archive.ph/kfpaA
-
-- Original: [https://archive.ph/kfpaA](https://archive.ph/kfpaA)
-- HTTP: `429`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [The Broken Manifesto Promises that show how Labour is Failing Ealing](https://southallstories.uk/2026/02/18/the-broken-manifesto-promises-that/) — anchor text: `massive expansion of the Southall Gasworks site from 3,750 new homes to 8,100`
-
-### unreachable: https://ccrjustice.org/Corporate-Capture
-
-- Original: [https://ccrjustice.org/Corporate-Capture](https://ccrjustice.org/Corporate-Capture)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [The Man in the Middle](https://southallstories.uk/2026/05/07/the-man-in-the-middle/) — anchor text: `corporate capture`
-
-### unreachable: https://ealing.cmis.uk.com/ealing/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=WQhOaubzPPxk1yVzZleRxFZb7u/GmxWvbCWE1o9prqXCN7mbG5lCZg%3D%3D&rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ/LUQzgA2uL5jNRG4jdQ%3D%3D&mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&kCx1AnS9/pWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D&FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D
-
-- Original: [https://ealing.cmis.uk.com/ealing/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=WQhOaubzPPxk1yVzZleRxFZb7u/GmxWvbCWE1o9prqXCN7mbG5lCZg%3D%3D&rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ/LUQzgA2uL5jNRG4jdQ%3D%3D&mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&kCx1AnS9/pWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D&FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D](https://ealing.cmis.uk.com/ealing/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=WQhOaubzPPxk1yVzZleRxFZb7u/GmxWvbCWE1o9prqXCN7mbG5lCZg%3D%3D&rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ/LUQzgA2uL5jNRG4jdQ%3D%3D&mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&kCx1AnS9/pWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D&FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D)
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Look at these Bricks!](https://southallstories.uk/2021/05/03/look-at-these-bricks/) — anchor text: `ealing.cmis.uk.com/ealing/Documen…`
-
-### unreachable: https://ealing.cmis.uk.com/ealing/Meetings/tabid/70/ctl/ViewMeetingPublic/mid/397/Meeting/6876/Committee/3/Default.aspx
-
-- Original: [https://ealing.cmis.uk.com/ealing/Meetings/tabid/70/ctl/ViewMeetingPublic/mid/397/Meeting/6876/Committee/3/Default.aspx](https://ealing.cmis.uk.com/ealing/Meetings/tabid/70/ctl/ViewMeetingPublic/mid/397/Meeting/6876/Committee/3/Default.aspx)
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Look at these Bricks!](https://southallstories.uk/2021/05/03/look-at-these-bricks/) — anchor text: `ealing.cmis.uk.com/ealing/Meeting…`
-
-### unreachable: https://Ealing.moderngov.co.uk/ieDecisionDetails.aspx?Id=958&LLL=0
-
-- Original: [https://Ealing.moderngov.co.uk/ieDecisionDetails.aspx?Id=958&LLL=0](https://Ealing.moderngov.co.uk/ieDecisionDetails.aspx?Id=958&LLL=0)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises](https://southallstories.uk/2026/01/18/demolition-man-peter-masons-legacy/) — anchor text: `Southall Market Car Park`
-
-### unreachable: https://ealing.moderngov.co.uk
-
-- Original: [https://ealing.moderngov.co.uk](https://ealing.moderngov.co.uk)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [The Meeting that Ended Local Democracy in Southall](https://southallstories.uk/2026/05/06/the-meeting-that-ended-local/) — anchor text: `Southall Broadway ward forum on the council's own record`
-
-### unreachable: https://ealing.moderngov.co.uk/Data/Pension%20Fund%20Panel/202111251900/Agenda/Appendix%202%20-%20The%20Pension%20Fund%20Newsletter%202020-21.pdf
-
-- Original: [https://ealing.moderngov.co.uk/Data/Pension%20Fund%20Panel/202111251900/Agenda/Appendix%202%20-%20The%20Pension%20Fund%20Newsletter%202020-21.pdf](https://ealing.moderngov.co.uk/Data/Pension%20Fund%20Panel/202111251900/Agenda/Appendix%202%20-%20The%20Pension%20Fund%20Newsletter%202020-21.pdf)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Lift-Off! Ealing Elections Special ](https://southallstories.uk/2026/05/09/liftoff-ealing-elections-special/) — anchor text: `chair of the pensions fund panel`
-
-### unreachable: https://ealing.moderngov.co.uk/Data/Southall%20Broadway%20Ward%20Forum/201607121900/Agenda/Southall%20Broadway%20ward%20forum%20notes%2012%20July%2016.pdf
-
-- Original: [https://ealing.moderngov.co.uk/Data/Southall%20Broadway%20Ward%20Forum/201607121900/Agenda/Southall%20Broadway%20ward%20forum%20notes%2012%20July%2016.pdf](https://ealing.moderngov.co.uk/Data/Southall%20Broadway%20Ward%20Forum/201607121900/Agenda/Southall%20Broadway%20ward%20forum%20notes%2012%20July%2016.pdf)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Boomerang! Ten Years Sorting Out Fly-tipping](https://southallstories.uk/2026/03/01/boomerang-ten-years-sorting-out/) — anchor text: `Southall Broadway Ward Forum (12 July 2016)`
-
-### unreachable: https://ealing.moderngov.co.uk/documents/g6611/Public%20reports%20pack%20Tuesday%2015-Jul-2025%2019.00%20Council.pdf?T=10
-
-- Original: [https://ealing.moderngov.co.uk/documents/g6611/Public%20reports%20pack%20Tuesday%2015-Jul-2025%2019.00%20Council.pdf?T=10](https://ealing.moderngov.co.uk/documents/g6611/Public%20reports%20pack%20Tuesday%2015-Jul-2025%2019.00%20Council.pdf?T=10)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Perceval House W5: Where Local Democracy in Ealing Goes to Die](https://southallstories.uk/2025/07/11/perceval-house-w-where-local/) — anchor text: `papers`
-  - [Ealing For Sale](https://southallstories.uk/2025/09/26/ealing-for-sale/) — anchor text: `July 2025 petition rule changes`
-
-### unreachable: https://ealing.moderngov.co.uk/documents/s11538/Drug%20alcohol%20services%20by%20entering%20into%20two%20new%20leases%20and%20refurbishments.pdf
-
-- Original: [https://ealing.moderngov.co.uk/documents/s11538/Drug%20alcohol%20services%20by%20entering%20into%20two%20new%20leases%20and%20refurbishments.pdf](https://ealing.moderngov.co.uk/documents/s11538/Drug%20alcohol%20services%20by%20entering%20into%20two%20new%20leases%20and%20refurbishments.pdf)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [The Drugs Don't Work](https://southallstories.uk/2026/05/06/the-drugs-dont-work/) — anchor text: `68 The Broadway, Southall`
-
-### unreachable: https://ealing.moderngov.co.uk/documents/s1725/Council%20Performance%20Year%20End%202021-22.pdf
-
-- Original: [https://ealing.moderngov.co.uk/documents/s1725/Council%20Performance%20Year%20End%202021-22.pdf](https://ealing.moderngov.co.uk/documents/s1725/Council%20Performance%20Year%20End%202021-22.pdf)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises](https://southallstories.uk/2026/01/18/demolition-man-peter-masons-legacy/) — anchor text: `2576`
-
-### unreachable: https://ealing.moderngov.co.uk/documents/s1726/Southall%20Reset.pdf
-
-- Original: [https://ealing.moderngov.co.uk/documents/s1726/Southall%20Reset.pdf](https://ealing.moderngov.co.uk/documents/s1726/Southall%20Reset.pdf)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Perceval House W5: Where Local Democracy in Ealing Goes to Die](https://southallstories.uk/2025/07/11/perceval-house-w-where-local/) — anchor text: `Southall Reset`
-
-### unreachable: https://ealing.moderngov.co.uk/documents/s1728/Appendix%202%20Southall%20Planning%20Baseline%20Report.pdf
-
-- Original: [https://ealing.moderngov.co.uk/documents/s1728/Appendix%202%20Southall%20Planning%20Baseline%20Report.pdf](https://ealing.moderngov.co.uk/documents/s1728/Appendix%202%20Southall%20Planning%20Baseline%20Report.pdf)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [The Smell of Success](https://southallstories.uk/2026/05/02/the-smell-of-success/) — anchor text: `planning baseline`
-
-### unreachable: https://ealing.moderngov.co.uk/documents/s1730/Appendix%204%20South%20Road%20Bridge%20Widening%20June%202022.pdf
-
-- Original: [https://ealing.moderngov.co.uk/documents/s1730/Appendix%204%20South%20Road%20Bridge%20Widening%20June%202022.pdf](https://ealing.moderngov.co.uk/documents/s1730/Appendix%204%20South%20Road%20Bridge%20Widening%20June%202022.pdf)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Section 106 money: where did Southall’s “developer tax” go?](https://southallstories.uk/2026/02/14/section-money-where-did-southalls/) — anchor text: `the council’s own report`
-
-### unreachable: https://ealing.moderngov.co.uk/documents/s18496/Housing%20Development%20and%20Regeneration%20Report%20to%20Scrutiny.pdf
-
-- Original: [https://ealing.moderngov.co.uk/documents/s18496/Housing%20Development%20and%20Regeneration%20Report%20to%20Scrutiny.pdf](https://ealing.moderngov.co.uk/documents/s18496/Housing%20Development%20and%20Regeneration%20Report%20to%20Scrutiny.pdf)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [The Broken Manifesto Promises that show how Labour is Failing Ealing](https://southallstories.uk/2026/02/18/the-broken-manifesto-promises-that/) — anchor text: `2025 scrutiny report`
-  - [Who Does Peter Mason Really Represent?](https://southallstories.uk/2026/05/07/who-does-peter-mason-really/) — anchor text: `removed all Band D applicants from the register`
-
-### unreachable: https://ealing.moderngov.co.uk/documents/s18754/Waste%20and%20Recycling%20Update.pdf
-
-- Original: [https://ealing.moderngov.co.uk/documents/s18754/Waste%20and%20Recycling%20Update.pdf](https://ealing.moderngov.co.uk/documents/s18754/Waste%20and%20Recycling%20Update.pdf)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Boomerang! Ten Years Sorting Out Fly-tipping](https://southallstories.uk/2026/03/01/boomerang-ten-years-sorting-out/) — anchor text: `Benefits are largely contingent on changing resident behaviour`
-
-### unreachable: https://ealing.moderngov.co.uk/documents/s18754/Waste+and+Recycling+Update.pdf
-
-- Original: [https://ealing.moderngov.co.uk/documents/s18754/Waste+and+Recycling+Update.pdf](https://ealing.moderngov.co.uk/documents/s18754/Waste+and+Recycling+Update.pdf)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [On the Bins Again](https://southallstories.uk/2026/04/05/on-the-bins-again/) — anchor text: `second in 2023-24 at 48.7%`
-
-### unreachable: https://ealing.moderngov.co.uk/documents/s19482/Substance%20Misuse%20Service.pdf
-
-- Original: [https://ealing.moderngov.co.uk/documents/s19482/Substance%20Misuse%20Service.pdf](https://ealing.moderngov.co.uk/documents/s19482/Substance%20Misuse%20Service.pdf)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [The Drugs Don't Work](https://southallstories.uk/2026/05/06/the-drugs-dont-work/) — anchor text: `Substance Misuse Service report`
-
-### unreachable: https://ealing.moderngov.co.uk/documents/s22212/FINAL%20Ealings%20Early%20Help%20Strategy%20Childrens%20Scrutiny%20Report_v1%2014.11.25.pdf
-
-- Original: [https://ealing.moderngov.co.uk/documents/s22212/FINAL%20Ealings%20Early%20Help%20Strategy%20Childrens%20Scrutiny%20Report_v1%2014.11.25.pdf](https://ealing.moderngov.co.uk/documents/s22212/FINAL%20Ealings%20Early%20Help%20Strategy%20Childrens%20Scrutiny%20Report_v1%2014.11.25.pdf)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [It Takes Two to Tango](https://southallstories.uk/2026/05/06/it-takes-two-to-tango/) — anchor text: `Early Help Strategy report`
-
-### unreachable: https://ealing.moderngov.co.uk/documents/s23017/Council%20Plan%20Performance%20Report%20Q2%20202526.pdf
-
-- Original: [https://ealing.moderngov.co.uk/documents/s23017/Council%20Plan%20Performance%20Report%20Q2%20202526.pdf](https://ealing.moderngov.co.uk/documents/s23017/Council%20Plan%20Performance%20Report%20Q2%20202526.pdf)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Boomerang! Ten Years Sorting Out Fly-tipping](https://southallstories.uk/2026/03/01/boomerang-ten-years-sorting-out/) — anchor text: `The Council Plan Performance Report Q2 2025/26`
-  - [This Is Our Home. It's a Tip.](https://southallstories.uk/2026/04/30/this-is-our-home-its/) — anchor text: `Q2 2025/26 Performance Report`
-
-### unreachable: https://ealing.moderngov.co.uk/documents/s23226/4.2.%20Appendix%202%20-%20LBE%20Forvis%20Mazars%20ACR%202024-25.pdf
-
-- Original: [https://ealing.moderngov.co.uk/documents/s23226/4.2.%20Appendix%202%20-%20LBE%20Forvis%20Mazars%20ACR%202024-25.pdf](https://ealing.moderngov.co.uk/documents/s23226/4.2.%20Appendix%202%20-%20LBE%20Forvis%20Mazars%20ACR%202024-25.pdf)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - ["You Never Forget the Smell of Damp": Peter Mason's Housing Record in His Own Words](https://southallstories.uk/2026/04/21/you-never-forget-the-smell/) — anchor text: `formally identified`
-
-### unreachable: https://ealing.moderngov.co.uk/ieListDocuments.aspx?MId=6661
-
-- Original: [https://ealing.moderngov.co.uk/ieListDocuments.aspx?MId=6661](https://ealing.moderngov.co.uk/ieListDocuments.aspx?MId=6661)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [It Takes Two to Tango](https://southallstories.uk/2026/05/06/it-takes-two-to-tango/) — anchor text: `Children’s Scrutiny Panel meeting of 25 November 2025`
-
-### unreachable: https://ealing.moderngov.co.uk/mgAi.aspx?ID=6020
-
-- Original: [https://ealing.moderngov.co.uk/mgAi.aspx?ID=6020](https://ealing.moderngov.co.uk/mgAi.aspx?ID=6020)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [On the Bins Again](https://southallstories.uk/2026/04/05/on-the-bins-again/) — anchor text: `Ten years later it is 49%`
-
-### unreachable: https://ealing.moderngov.co.uk/mgCommitteeDetails.aspx?ID=188
-
-- Original: [https://ealing.moderngov.co.uk/mgCommitteeDetails.aspx?ID=188](https://ealing.moderngov.co.uk/mgCommitteeDetails.aspx?ID=188)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [The Man in the Middle](https://southallstories.uk/2026/05/07/the-man-in-the-middle/) — anchor text: `Ealing Safer Neighborhood Board`
-
-### unreachable: https://ealing.moderngov.co.uk/mgIssueHistoryHome.aspx?IId=9740&Opt=0
-
-- Original: [https://ealing.moderngov.co.uk/mgIssueHistoryHome.aspx?IId=9740&Opt=0](https://ealing.moderngov.co.uk/mgIssueHistoryHome.aspx?IId=9740&Opt=0)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [The Drugs Don't Work](https://southallstories.uk/2026/05/06/the-drugs-dont-work/) — anchor text: `Individual Cabinet Member Decision`
-
-### unreachable: https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=116
-
-- Original: [https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=116](https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=116)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Canvassing with Minni Dogra: A Councillor in All But Name](https://southallstories.uk/2026/04/23/canvassing-with-minni-dogra-a/) — anchor text: `crime and anti-social behaviour`
-
-### unreachable: https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=149
-
-- Original: [https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=149](https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=149)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Lift-Off! Ealing Elections Special ](https://southallstories.uk/2026/05/09/liftoff-ealing-elections-special/) — anchor text: `Steve Donnelly`
-
-### unreachable: https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=164
-
-- Original: [https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=164](https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=164)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [First They Came for the Socialists](https://southallstories.uk/2026/04/24/first-they-came-for-the/) — anchor text: `Swaran Singh Padda`
-
-### unreachable: https://ealingindependents.org/
-
-- Original: [https://ealingindependents.org/](https://ealingindependents.org/)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - ["This Place Has Turned Into a Bloody Slum": Southall Wards Meeting with ECI candidates](https://southallstories.uk/2026/04/28/this-place-has-turned-into/) — anchor text: `ECI Party leader and candidate in Northfield`
-  - [Cactuses Never Die](https://southallstories.uk/2026/05/03/cactuses-never-die/) — anchor text: `Ealing Community Independents`
-  - [Lift-Off! Ealing Elections Special ](https://southallstories.uk/2026/05/09/liftoff-ealing-elections-special/) — anchor text: `Ealing Community Independents`
-
-### unreachable: https://ealingindependents.org/what-we-stand-for/
-
-- Original: [https://ealingindependents.org/what-we-stand-for/](https://ealingindependents.org/what-we-stand-for/)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Canvassing with Minni Dogra: A Councillor in All But Name](https://southallstories.uk/2026/04/23/canvassing-with-minni-dogra-a/) — anchor text: `policies`
-
-### unreachable: https://www.ealingitree.online/stories/canopy-cover/0
-
-- Original: [https://www.ealingitree.online/stories/canopy-cover/0](https://www.ealingitree.online/stories/canopy-cover/0)
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Feeling the Heat](https://southallstories.uk/2026/05/25/feeling-the-heat/) — anchor text: `own iTree data`
-
-### unreachable: https://www.economist.com/britain/2026/03/30/right-wingers-want-ice-style-mass-deportations-in-britain
-
-- Original: [https://www.economist.com/britain/2026/03/30/right-wingers-want-ice-style-mass-deportations-in-britain](https://www.economist.com/britain/2026/03/30/right-wingers-want-ice-style-mass-deportations-in-britain)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [When "deport six million" becomes mainstream: what Ealing Labour won't tell you](https://southallstories.uk/2026/04/24/when-deport-six-million-becomes/) — anchor text: `The Economist described both plans as "dangerously unrealistic."`
-
-### unreachable: https://www.itv.com/news/london/2026-02-25/croydon-named-englands-fly-tipping-hotspot-with-seven-boroughs-in-top-ten
-
-- Original: [https://www.itv.com/news/london/2026-02-25/croydon-named-englands-fly-tipping-hotspot-with-seven-boroughs-in-top-ten](https://www.itv.com/news/london/2026-02-25/croydon-named-englands-fly-tipping-hotspot-with-seven-boroughs-in-top-ten)
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Boomerang! Ten Years Sorting Out Fly-tipping](https://southallstories.uk/2026/03/01/boomerang-ten-years-sorting-out/) — anchor text: `ITV reports`
-
-### unreachable: https://www.jewishnews.co.uk/best-of-british-three-uk-jews-now-working-in-the-heart-of-israels-government/
-
-- Original: [https://www.jewishnews.co.uk/best-of-british-three-uk-jews-now-working-in-the-heart-of-israels-government/](https://www.jewishnews.co.uk/best-of-british-three-uk-jews-now-working-in-the-heart-of-israels-government/)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Who Does Peter Mason Really Represent?](https://southallstories.uk/2026/05/07/who-does-peter-mason-really/) — anchor text: `Yair Zivan`
-
-### unreachable: https://www.linkedin.com/in/jags-sanghera-04722153
-
-- Original: [https://www.linkedin.com/in/jags-sanghera-04722153](https://www.linkedin.com/in/jags-sanghera-04722153)
-- HTTP: `999`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Bangarang! Pirate Pete and the Lost Bin Collections of Southall](https://southallstories.uk/2026/02/13/bangarang-pirate-pete-and-the/) — anchor text: `Jags Sanghera`
-  - [Canvassing with Minni Dogra: A Councillor in All But Name](https://southallstories.uk/2026/04/23/canvassing-with-minni-dogra-a/) — anchor text: `Jags Sanghera`
-  - [The Man in the Middle](https://southallstories.uk/2026/05/07/the-man-in-the-middle/) — anchor text: `Berkeley Group as Community Liaison Officer`
-
-### unreachable: https://www.linkedin.com/in/peter-mason-5a377941
-
-- Original: [https://www.linkedin.com/in/peter-mason-5a377941](https://www.linkedin.com/in/peter-mason-5a377941)
-- HTTP: `999`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Who Does Peter Mason Really Represent?](https://southallstories.uk/2026/05/07/who-does-peter-mason-really/) — anchor text: `Campaigns Officer`
-  - [Lift-Off! Ealing Elections Special ](https://southallstories.uk/2026/05/09/liftoff-ealing-elections-special/) — anchor text: `Onkar Sahota AM`
-
-### unreachable: https://www.linkedin.com/in/yairzivan
-
-- Original: [https://www.linkedin.com/in/yairzivan](https://www.linkedin.com/in/yairzivan)
-- HTTP: `999`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Who Does Peter Mason Really Represent?](https://southallstories.uk/2026/05/07/who-does-peter-mason-really/) — anchor text: `UJS Campaign Director`
-
-### unreachable: https://www.london.gov.uk/who-we-are/what-london-assembly-does/questions-mayor/find-an-answer/retrofitting-homes-ealing
-
-- Original: [https://www.london.gov.uk/who-we-are/what-london-assembly-does/questions-mayor/find-an-answer/retrofitting-homes-ealing](https://www.london.gov.uk/who-we-are/what-london-assembly-does/questions-mayor/find-an-answer/retrofitting-homes-ealing)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Feeling the Heat](https://southallstories.uk/2026/05/25/feeling-the-heat/) — anchor text: `a written answer`
-
-### unreachable: https://news.sky.com/story/jeremy-corbyn-to-face-confidence-vote-from-jewish-labour-movement-11686632
-
-- Original: [https://news.sky.com/story/jeremy-corbyn-to-face-confidence-vote-from-jewish-labour-movement-11686632](https://news.sky.com/story/jeremy-corbyn-to-face-confidence-vote-from-jewish-labour-movement-11686632)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Who Does Peter Mason Really Represent?](https://southallstories.uk/2026/05/07/who-does-peter-mason-really/) — anchor text: `Mason led the campaign`
-
-### unreachable: https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1553-2712.2000.tb01889.x
-
-- Original: [https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1553-2712.2000.tb01889.x](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1553-2712.2000.tb01889.x)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Naphthalene Poisoning Risk in People of African and Asian Heritage](https://southallstories.uk/2019/07/12/naphthalene-poisoning-risk-in-people/) — anchor text: `onlinelibrary.wiley.com/doi/epdf/10.11…`
-
-### unreachable: https://open.substack.com/pub/southall/p/a-town-ignored-southall-after-16
-
-- Original: [https://open.substack.com/pub/southall/p/a-town-ignored-southall-after-16](https://open.substack.com/pub/southall/p/a-town-ignored-southall-after-16)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Canvassing with Minni Dogra: A Councillor in All But Name](https://southallstories.uk/2026/04/23/canvassing-with-minni-dogra-a/) — anchor text: `whose interests they really serve`
-
-### unreachable: https://open.substack.com/pub/southall/p/real-change-not-empty-consultations
-
-- Original: [https://open.substack.com/pub/southall/p/real-change-not-empty-consultations](https://open.substack.com/pub/southall/p/real-change-not-empty-consultations)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Bangarang! Pirate Pete and the Lost Bin Collections of Southall](https://southallstories.uk/2026/02/13/bangarang-pirate-pete-and-the/) — anchor text: `listened to the residents`
-
-### unreachable: https://open.substack.com/pub/southall/p/southall-deserves-better
-
-- Original: [https://open.substack.com/pub/southall/p/southall-deserves-better](https://open.substack.com/pub/southall/p/southall-deserves-better)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Bangarang! Pirate Pete and the Lost Bin Collections of Southall](https://southallstories.uk/2026/02/13/bangarang-pirate-pete-and-the/) — anchor text: `deserve better`
-
-### unreachable: https://open.substack.com/pub/theviewfromw5/p/demolition-of-ealing-homes-part-of-trail-chaos
-
-- Original: [https://open.substack.com/pub/theviewfromw5/p/demolition-of-ealing-homes-part-of-trail-chaos](https://open.substack.com/pub/theviewfromw5/p/demolition-of-ealing-homes-part-of-trail-chaos)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises](https://southallstories.uk/2026/01/18/demolition-man-peter-masons-legacy/) — anchor text: `form`
-
-### unreachable: https://open.substack.com/pub/theviewfromw5/p/ealing-council-hopes-to-recoup-money-from-collapse-of-henry-construction
-
-- Original: [https://open.substack.com/pub/theviewfromw5/p/ealing-council-hopes-to-recoup-money-from-collapse-of-henry-construction](https://open.substack.com/pub/theviewfromw5/p/ealing-council-hopes-to-recoup-money-from-collapse-of-henry-construction)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [When is a Hustings not a Hustings?](https://southallstories.uk/2026/04/30/when-is-a-hustings-not/) — anchor text: `Henry Construction`
-
-### unreachable: https://open.substack.com/pub/theviewfromw5/p/ealing-delivers-16-percent-of-its-affordable-homes-target
-
-- Original: [https://open.substack.com/pub/theviewfromw5/p/ealing-delivers-16-percent-of-its-affordable-homes-target](https://open.substack.com/pub/theviewfromw5/p/ealing-delivers-16-percent-of-its-affordable-homes-target)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises](https://southallstories.uk/2026/01/18/demolition-man-peter-masons-legacy/) — anchor text: `Ealing delivers 16 percent of its affordable homes target`
-  - [The Broken Manifesto Promises that show how Labour is Failing Ealing](https://southallstories.uk/2026/02/18/the-broken-manifesto-promises-that/) — anchor text: `about 16% of the target`
-  - [When is a Hustings not a Hustings?](https://southallstories.uk/2026/04/30/when-is-a-hustings-not/) — anchor text: `Conal Urquhart's investigation`
-
-### unreachable: https://open.substack.com/pub/theviewfromw5/p/history-of-insolvency-and-10-million-dividend
-
-- Original: [https://open.substack.com/pub/theviewfromw5/p/history-of-insolvency-and-10-million-dividend](https://open.substack.com/pub/theviewfromw5/p/history-of-insolvency-and-10-million-dividend)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Demolition Man: Peter Mason's Legacy of Half-Built Homes and Hollow Promises](https://southallstories.uk/2026/01/18/demolition-man-peter-masons-legacy/) — anchor text: `stunt`
-
-### unreachable: https://www.police.uk/pu/your-area/metropolitan-police-service/hanwell-broadway/
-
-- Original: [https://www.police.uk/pu/your-area/metropolitan-police-service/hanwell-broadway/](https://www.police.uk/pu/your-area/metropolitan-police-service/hanwell-broadway/)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [The Drugs Don't Work](https://southallstories.uk/2026/05/06/the-drugs-dont-work/) — anchor text: `Hanwell Broadway`
-
-### unreachable: https://www.police.uk/pu/your-area/metropolitan-police-service/southall-broadway/
-
-- Original: [https://www.police.uk/pu/your-area/metropolitan-police-service/southall-broadway/](https://www.police.uk/pu/your-area/metropolitan-police-service/southall-broadway/)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [The Drugs Don't Work](https://southallstories.uk/2026/05/06/the-drugs-dont-work/) — anchor text: `Metropolitan Police data for Southall Broadway`
-
-### unreachable: https://www.police.uk/pu/your-area/metropolitan-police-service/southall-green/
-
-- Original: [https://www.police.uk/pu/your-area/metropolitan-police-service/southall-green/](https://www.police.uk/pu/your-area/metropolitan-police-service/southall-green/)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [The Drugs Don't Work](https://southallstories.uk/2026/05/06/the-drugs-dont-work/) — anchor text: `Southall Green`
-
-### unreachable: https://www.police.uk/pu/your-area/metropolitan-police-service/walpole/
-
-- Original: [https://www.police.uk/pu/your-area/metropolitan-police-service/walpole/](https://www.police.uk/pu/your-area/metropolitan-police-service/walpole/)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [The Drugs Don't Work](https://southallstories.uk/2026/05/06/the-drugs-dont-work/) — anchor text: `Walpole`
-
-### unreachable: https://www.reddit.com/r/Ealing/s/JD2n25UHIk
-
-- Original: [https://www.reddit.com/r/Ealing/s/JD2n25UHIk](https://www.reddit.com/r/Ealing/s/JD2n25UHIk)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Bangarang! Pirate Pete and the Lost Bin Collections of Southall](https://southallstories.uk/2026/02/13/bangarang-pirate-pete-and-the/) — anchor text: `unfortunate individuals`
-
-### unreachable: https://register.charitycommission.gov.uk/en/charity-details/?regId=1104671
-
-- Original: [https://register.charitycommission.gov.uk/en/charity-details/?regId=1104671](https://register.charitycommission.gov.uk/en/charity-details/?regId=1104671)
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [The Man in the Middle](https://southallstories.uk/2026/05/07/the-man-in-the-middle/) — anchor text: `Charity Commission register`
-
-### unreachable: https://www.researchgate.net/publication/308019398_The_first_one_wins_Distilling_the_primacy_effect
-
-- Original: [https://www.researchgate.net/publication/308019398_The_first_one_wins_Distilling_the_primacy_effect](https://www.researchgate.net/publication/308019398_The_first_one_wins_Distilling_the_primacy_effect)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Lift-Off! Ealing Elections Special ](https://southallstories.uk/2026/05/09/liftoff-ealing-elections-special/) — anchor text: `Primacy effects`
-
-### unreachable: https://www.royalalberthall.com/tickets/events/2025/ealing-together-harmony-in-diversity
-
-- Original: [https://www.royalalberthall.com/tickets/events/2025/ealing-together-harmony-in-diversity](https://www.royalalberthall.com/tickets/events/2025/ealing-together-harmony-in-diversity)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [The Pied Piper of Ealing](https://southallstories.uk/2025/07/16/the-pied-piper-of-ealing/) — anchor text: `Ealing Together: Harmony in Diversity`
-
-### unreachable: https://southall.davidmarsden.info/2025/07/11/perceval-house-w-where-local/
-
-- Original: [https://southall.davidmarsden.info/2025/07/11/perceval-house-w-where-local/](https://southall.davidmarsden.info/2025/07/11/perceval-house-w-where-local/)
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [So it Goes: AI on the Absurd Logic of Ealing Council](https://southallstories.uk/2025/07/12/so-it-goes-ai-on/) — anchor text: `read`
-  - [The Pied Piper of Ealing](https://southallstories.uk/2025/07/16/the-pied-piper-of-ealing/) — anchor text: `Perceval House W5`
-
-### unreachable: https://southall.davidmarsden.info/2025/07/12/so-it-goes-ai-on/
-
-- Original: [https://southall.davidmarsden.info/2025/07/12/so-it-goes-ai-on/](https://southall.davidmarsden.info/2025/07/12/so-it-goes-ai-on/)
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Save Ealing Children’s Centres Campaign Update](https://southallstories.uk/2025/07/24/david-marsden-save-ealing-childrens/) — anchor text: `audio summary`
-
-### unreachable: https://t2m.io/z6shGyFn
-
-- Original: [https://t2m.io/z6shGyFn](https://t2m.io/z6shGyFn)
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Berkeley's School Governors Board Member](https://southallstories.uk/2018/09/11/berkeleys-school-governors-board-member/) — anchor text: `t2m.io/z6shGyFn`
-
-### unreachable: https://theviewfromw5.substack.com/p/ealing-delivers-16-percent-of-its-affordable-homes-target
-
-- Original: [https://theviewfromw5.substack.com/p/ealing-delivers-16-percent-of-its-affordable-homes-target](https://theviewfromw5.substack.com/p/ealing-delivers-16-percent-of-its-affordable-homes-target)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Who Does Peter Mason Really Represent?](https://southallstories.uk/2026/05/07/who-does-peter-mason-really/) — anchor text: `just 180 had been completed`
-
-### unreachable: https://theviewfromw5.substack.com/p/ealing-major-increase-homelessness
-
-- Original: [https://theviewfromw5.substack.com/p/ealing-major-increase-homelessness](https://theviewfromw5.substack.com/p/ealing-major-increase-homelessness)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [When "deport six million" becomes mainstream: what Ealing Labour won't tell you](https://southallstories.uk/2026/04/24/when-deport-six-million-becomes/) — anchor text: `Average rents rose by 12.4% in a single year`
-
-### unreachable: https://www.timeanddate.com/weather/@2637490/historic?month=7&year=2018
-
-- Original: [https://www.timeanddate.com/weather/@2637490/historic?month=7&year=2018](https://www.timeanddate.com/weather/@2637490/historic?month=7&year=2018)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Feeling the Heat](https://southallstories.uk/2026/05/25/feeling-the-heat/) — anchor text: `temperature`
-
-### unreachable: https://www.unwomen.org/en/news-stories/news/2025/05/un-women-estimates-over-28000-women-and-girls-killed-in-gaza-since-october-2023
-
-- Original: [https://www.unwomen.org/en/news-stories/news/2025/05/un-women-estimates-over-28000-women-and-girls-killed-in-gaza-since-october-2023](https://www.unwomen.org/en/news-stories/news/2025/05/un-women-estimates-over-28000-women-and-girls-killed-in-gaza-since-october-2023)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Perceval House W5: Where Local Democracy in Ealing Goes to Die](https://southallstories.uk/2025/07/11/perceval-house-w-where-local/) — anchor text: `more than 28,000 women and girls`
-
-### unreachable: https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf
-
-- Original: [https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf](https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf)
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [The Cuckoo's Nest](https://southallstories.uk/2024/05/19/the-cuckoos-nest/) — anchor text: `resident`
-  - [Bangarang! Pirate Pete and the Lost Bin Collections of Southall](https://southallstories.uk/2026/02/13/bangarang-pirate-pete-and-the/) — anchor text: `complained about rubbish and litter`
-
-### unreachable: https://www.whatdotheyknow.com/request/845384/response/2020637/attach/html/5/FOI%20Response%2022%200363%20FINAL.pdf.html
-
-- Original: [https://www.whatdotheyknow.com/request/845384/response/2020637/attach/html/5/FOI%20Response%2022%200363%20FINAL.pdf.html](https://www.whatdotheyknow.com/request/845384/response/2020637/attach/html/5/FOI%20Response%2022%200363%20FINAL.pdf.html)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Feeling the Heat](https://southallstories.uk/2026/05/25/feeling-the-heat/) — anchor text: `confirmed in an FOI response`
-
-### unreachable: https://www.whatdotheyknow.com/request/how_many_homes_have_been_complet/response/2002978/attach/5/FOI%20Internal%20Review%2022%200065%20FINAL.pdf
-
-- Original: [https://www.whatdotheyknow.com/request/how_many_homes_have_been_complet/response/2002978/attach/5/FOI%20Internal%20Review%2022%200065%20FINAL.pdf](https://www.whatdotheyknow.com/request/how_many_homes_have_been_complet/response/2002978/attach/5/FOI%20Internal%20Review%2022%200065%20FINAL.pdf)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [The Broken Manifesto Promises that show how Labour is Failing Ealing](https://southallstories.uk/2026/02/18/the-broken-manifesto-promises-that/) — anchor text: `Freedom of Information response`
-
-### unreachable: https://www.whatdotheyknow.com/request/how_much_section_106_money_has_e/response/2061857/attach/5/EIR%20Internal%20Review%2022%200404%20FINAL.pdf?cookie_passthrough=1
-
-- Original: [https://www.whatdotheyknow.com/request/how_much_section_106_money_has_e/response/2061857/attach/5/EIR%20Internal%20Review%2022%200404%20FINAL.pdf?cookie_passthrough=1](https://www.whatdotheyknow.com/request/how_much_section_106_money_has_e/response/2061857/attach/5/EIR%20Internal%20Review%2022%200404%20FINAL.pdf?cookie_passthrough=1)
-- HTTP: `403`
-- Action: Retry before editing; the site may be blocking automated checks or temporarily unavailable.
-- Appears in:
-  - [Section 106 money: where did Southall’s “developer tax” go?](https://southallstories.uk/2026/02/14/section-money-where-did-southalls/) — anchor text: `council’s own FOI response`
+## Inconclusive automated checks
+
+These links are retained for retry and do not trigger an alert or imply that the citation should be edited.
+
+- **unreachable** — [https://archive.ph/JZAll](https://archive.ph/JZAll) — HTTP 429; streak 0
+- **unreachable** — [https://archive.ph/kfpaA](https://archive.ph/kfpaA) — HTTP 429; streak 0
+- **unreachable** — [https://ccrjustice.org/Corporate-Capture](https://ccrjustice.org/Corporate-Capture) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.cmis.uk.com/ealing/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=WQhOaubzPPxk1yVzZleRxFZb7u/GmxWvbCWE1o9prqXCN7mbG5lCZg%3D%3D&rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ/LUQzgA2uL5jNRG4jdQ%3D%3D&mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&kCx1AnS9/pWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D&FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D](https://ealing.cmis.uk.com/ealing/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=WQhOaubzPPxk1yVzZleRxFZb7u/GmxWvbCWE1o9prqXCN7mbG5lCZg%3D%3D&rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ/LUQzgA2uL5jNRG4jdQ%3D%3D&mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&kCx1AnS9/pWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D&FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D) — no HTTP response; streak 0
+- **unreachable** — [https://ealing.cmis.uk.com/ealing/Meetings/tabid/70/ctl/ViewMeetingPublic/mid/397/Meeting/6876/Committee/3/Default.aspx](https://ealing.cmis.uk.com/ealing/Meetings/tabid/70/ctl/ViewMeetingPublic/mid/397/Meeting/6876/Committee/3/Default.aspx) — no HTTP response; streak 0
+- **unreachable** — [https://Ealing.moderngov.co.uk/ieDecisionDetails.aspx?Id=958&LLL=0](https://Ealing.moderngov.co.uk/ieDecisionDetails.aspx?Id=958&LLL=0) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk](https://ealing.moderngov.co.uk) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/Data/Pension%20Fund%20Panel/202111251900/Agenda/Appendix%202%20-%20The%20Pension%20Fund%20Newsletter%202020-21.pdf](https://ealing.moderngov.co.uk/Data/Pension%20Fund%20Panel/202111251900/Agenda/Appendix%202%20-%20The%20Pension%20Fund%20Newsletter%202020-21.pdf) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/Data/Southall%20Broadway%20Ward%20Forum/201607121900/Agenda/Southall%20Broadway%20ward%20forum%20notes%2012%20July%2016.pdf](https://ealing.moderngov.co.uk/Data/Southall%20Broadway%20Ward%20Forum/201607121900/Agenda/Southall%20Broadway%20ward%20forum%20notes%2012%20July%2016.pdf) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/documents/g6611/Public%20reports%20pack%20Tuesday%2015-Jul-2025%2019.00%20Council.pdf?T=10](https://ealing.moderngov.co.uk/documents/g6611/Public%20reports%20pack%20Tuesday%2015-Jul-2025%2019.00%20Council.pdf?T=10) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/documents/s11538/Drug%20alcohol%20services%20by%20entering%20into%20two%20new%20leases%20and%20refurbishments.pdf](https://ealing.moderngov.co.uk/documents/s11538/Drug%20alcohol%20services%20by%20entering%20into%20two%20new%20leases%20and%20refurbishments.pdf) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/documents/s1725/Council%20Performance%20Year%20End%202021-22.pdf](https://ealing.moderngov.co.uk/documents/s1725/Council%20Performance%20Year%20End%202021-22.pdf) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/documents/s1726/Southall%20Reset.pdf](https://ealing.moderngov.co.uk/documents/s1726/Southall%20Reset.pdf) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/documents/s1728/Appendix%202%20Southall%20Planning%20Baseline%20Report.pdf](https://ealing.moderngov.co.uk/documents/s1728/Appendix%202%20Southall%20Planning%20Baseline%20Report.pdf) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/documents/s1730/Appendix%204%20South%20Road%20Bridge%20Widening%20June%202022.pdf](https://ealing.moderngov.co.uk/documents/s1730/Appendix%204%20South%20Road%20Bridge%20Widening%20June%202022.pdf) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/documents/s18496/Housing%20Development%20and%20Regeneration%20Report%20to%20Scrutiny.pdf](https://ealing.moderngov.co.uk/documents/s18496/Housing%20Development%20and%20Regeneration%20Report%20to%20Scrutiny.pdf) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/documents/s18754/Waste%20and%20Recycling%20Update.pdf](https://ealing.moderngov.co.uk/documents/s18754/Waste%20and%20Recycling%20Update.pdf) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/documents/s18754/Waste+and+Recycling+Update.pdf](https://ealing.moderngov.co.uk/documents/s18754/Waste+and+Recycling+Update.pdf) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/documents/s19482/Substance%20Misuse%20Service.pdf](https://ealing.moderngov.co.uk/documents/s19482/Substance%20Misuse%20Service.pdf) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/documents/s22212/FINAL%20Ealings%20Early%20Help%20Strategy%20Childrens%20Scrutiny%20Report_v1%2014.11.25.pdf](https://ealing.moderngov.co.uk/documents/s22212/FINAL%20Ealings%20Early%20Help%20Strategy%20Childrens%20Scrutiny%20Report_v1%2014.11.25.pdf) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/documents/s23017/Council%20Plan%20Performance%20Report%20Q2%20202526.pdf](https://ealing.moderngov.co.uk/documents/s23017/Council%20Plan%20Performance%20Report%20Q2%20202526.pdf) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/documents/s23226/4.2.%20Appendix%202%20-%20LBE%20Forvis%20Mazars%20ACR%202024-25.pdf](https://ealing.moderngov.co.uk/documents/s23226/4.2.%20Appendix%202%20-%20LBE%20Forvis%20Mazars%20ACR%202024-25.pdf) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/ieListDocuments.aspx?MId=6661](https://ealing.moderngov.co.uk/ieListDocuments.aspx?MId=6661) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/mgAi.aspx?ID=6020](https://ealing.moderngov.co.uk/mgAi.aspx?ID=6020) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/mgCommitteeDetails.aspx?ID=188](https://ealing.moderngov.co.uk/mgCommitteeDetails.aspx?ID=188) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/mgIssueHistoryHome.aspx?IId=9740&Opt=0](https://ealing.moderngov.co.uk/mgIssueHistoryHome.aspx?IId=9740&Opt=0) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=116](https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=116) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=149](https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=149) — HTTP 403; streak 0
+- **unreachable** — [https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=164](https://ealing.moderngov.co.uk/mgUserInfo.aspx?UID=164) — HTTP 403; streak 0
+- **unreachable** — [https://ealingindependents.org/](https://ealingindependents.org/) — HTTP 403; streak 0
+- **unreachable** — [https://ealingindependents.org/what-we-stand-for/](https://ealingindependents.org/what-we-stand-for/) — HTTP 403; streak 0
+- **unreachable** — [https://www.ealingitree.online/stories/canopy-cover/0](https://www.ealingitree.online/stories/canopy-cover/0) — no HTTP response; streak 0
+- **unreachable** — [https://www.economist.com/britain/2026/03/30/right-wingers-want-ice-style-mass-deportations-in-britain](https://www.economist.com/britain/2026/03/30/right-wingers-want-ice-style-mass-deportations-in-britain) — HTTP 403; streak 0
+- **unreachable** — [https://www.itv.com/news/london/2026-02-25/croydon-named-englands-fly-tipping-hotspot-with-seven-boroughs-in-top-ten](https://www.itv.com/news/london/2026-02-25/croydon-named-englands-fly-tipping-hotspot-with-seven-boroughs-in-top-ten) — no HTTP response; streak 0
+- **unreachable** — [https://www.jewishnews.co.uk/best-of-british-three-uk-jews-now-working-in-the-heart-of-israels-government/](https://www.jewishnews.co.uk/best-of-british-three-uk-jews-now-working-in-the-heart-of-israels-government/) — HTTP 403; streak 0
+- **unreachable** — [https://www.linkedin.com/in/jags-sanghera-04722153](https://www.linkedin.com/in/jags-sanghera-04722153) — HTTP 999; streak 0
+- **unreachable** — [https://www.linkedin.com/in/peter-mason-5a377941](https://www.linkedin.com/in/peter-mason-5a377941) — HTTP 999; streak 0
+- **unreachable** — [https://www.linkedin.com/in/yairzivan](https://www.linkedin.com/in/yairzivan) — HTTP 999; streak 0
+- **unreachable** — [https://www.london.gov.uk/who-we-are/what-london-assembly-does/questions-mayor/find-an-answer/retrofitting-homes-ealing](https://www.london.gov.uk/who-we-are/what-london-assembly-does/questions-mayor/find-an-answer/retrofitting-homes-ealing) — HTTP 403; streak 0
+- **unreachable** — [https://news.sky.com/story/jeremy-corbyn-to-face-confidence-vote-from-jewish-labour-movement-11686632](https://news.sky.com/story/jeremy-corbyn-to-face-confidence-vote-from-jewish-labour-movement-11686632) — HTTP 403; streak 0
+- **unreachable** — [https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1553-2712.2000.tb01889.x](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1553-2712.2000.tb01889.x) — HTTP 403; streak 0
+- **unreachable** — [https://open.substack.com/pub/southall/p/a-town-ignored-southall-after-16](https://open.substack.com/pub/southall/p/a-town-ignored-southall-after-16) — HTTP 403; streak 0
+- **unreachable** — [https://open.substack.com/pub/southall/p/real-change-not-empty-consultations](https://open.substack.com/pub/southall/p/real-change-not-empty-consultations) — HTTP 403; streak 0
+- **unreachable** — [https://open.substack.com/pub/southall/p/southall-deserves-better](https://open.substack.com/pub/southall/p/southall-deserves-better) — HTTP 403; streak 0
+- **unreachable** — [https://open.substack.com/pub/theviewfromw5/p/demolition-of-ealing-homes-part-of-trail-chaos](https://open.substack.com/pub/theviewfromw5/p/demolition-of-ealing-homes-part-of-trail-chaos) — HTTP 403; streak 0
+- **unreachable** — [https://open.substack.com/pub/theviewfromw5/p/ealing-council-hopes-to-recoup-money-from-collapse-of-henry-construction](https://open.substack.com/pub/theviewfromw5/p/ealing-council-hopes-to-recoup-money-from-collapse-of-henry-construction) — HTTP 403; streak 0
+- **unreachable** — [https://open.substack.com/pub/theviewfromw5/p/ealing-delivers-16-percent-of-its-affordable-homes-target](https://open.substack.com/pub/theviewfromw5/p/ealing-delivers-16-percent-of-its-affordable-homes-target) — HTTP 403; streak 0
+- **unreachable** — [https://open.substack.com/pub/theviewfromw5/p/history-of-insolvency-and-10-million-dividend](https://open.substack.com/pub/theviewfromw5/p/history-of-insolvency-and-10-million-dividend) — HTTP 403; streak 0
+- **unreachable** — [https://www.police.uk/pu/your-area/metropolitan-police-service/hanwell-broadway/](https://www.police.uk/pu/your-area/metropolitan-police-service/hanwell-broadway/) — HTTP 403; streak 0
+- **unreachable** — [https://www.police.uk/pu/your-area/metropolitan-police-service/southall-broadway/](https://www.police.uk/pu/your-area/metropolitan-police-service/southall-broadway/) — HTTP 403; streak 0
+- **unreachable** — [https://www.police.uk/pu/your-area/metropolitan-police-service/southall-green/](https://www.police.uk/pu/your-area/metropolitan-police-service/southall-green/) — HTTP 403; streak 0
+- **unreachable** — [https://www.police.uk/pu/your-area/metropolitan-police-service/walpole/](https://www.police.uk/pu/your-area/metropolitan-police-service/walpole/) — HTTP 403; streak 0
+- **unreachable** — [https://www.reddit.com/r/Ealing/s/JD2n25UHIk](https://www.reddit.com/r/Ealing/s/JD2n25UHIk) — HTTP 403; streak 0
+- **unreachable** — [https://register.charitycommission.gov.uk/en/charity-details/?regId=1104671](https://register.charitycommission.gov.uk/en/charity-details/?regId=1104671) — no HTTP response; streak 0
+- **unreachable** — [https://www.researchgate.net/publication/308019398_The_first_one_wins_Distilling_the_primacy_effect](https://www.researchgate.net/publication/308019398_The_first_one_wins_Distilling_the_primacy_effect) — HTTP 403; streak 0
+- **unreachable** — [https://www.royalalberthall.com/tickets/events/2025/ealing-together-harmony-in-diversity](https://www.royalalberthall.com/tickets/events/2025/ealing-together-harmony-in-diversity) — HTTP 403; streak 0
+- **unreachable** — [https://southall.davidmarsden.info/2025/07/11/perceval-house-w-where-local/](https://southall.davidmarsden.info/2025/07/11/perceval-house-w-where-local/) — no HTTP response; streak 0
+- **unreachable** — [https://southall.davidmarsden.info/2025/07/12/so-it-goes-ai-on/](https://southall.davidmarsden.info/2025/07/12/so-it-goes-ai-on/) — no HTTP response; streak 0
+- **unreachable** — [https://t2m.io/z6shGyFn](https://t2m.io/z6shGyFn) — no HTTP response; streak 0
+- **unreachable** — [https://theviewfromw5.substack.com/p/ealing-delivers-16-percent-of-its-affordable-homes-target](https://theviewfromw5.substack.com/p/ealing-delivers-16-percent-of-its-affordable-homes-target) — HTTP 403; streak 0
+- **unreachable** — [https://theviewfromw5.substack.com/p/ealing-major-increase-homelessness](https://theviewfromw5.substack.com/p/ealing-major-increase-homelessness) — HTTP 403; streak 0
+- **unreachable** — [https://www.timeanddate.com/weather/@2637490/historic?month=7&year=2018](https://www.timeanddate.com/weather/@2637490/historic?month=7&year=2018) — HTTP 403; streak 0
+- **unreachable** — [https://www.unwomen.org/en/news-stories/news/2025/05/un-women-estimates-over-28000-women-and-girls-killed-in-gaza-since-october-2023](https://www.unwomen.org/en/news-stories/news/2025/05/un-women-estimates-over-28000-women-and-girls-killed-in-gaza-since-october-2023) — HTTP 403; streak 0
+- **unreachable** — [https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf](https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf) — no HTTP response; streak 0
+- **unreachable** — [https://www.whatdotheyknow.com/request/845384/response/2020637/attach/html/5/FOI%20Response%2022%200363%20FINAL.pdf.html](https://www.whatdotheyknow.com/request/845384/response/2020637/attach/html/5/FOI%20Response%2022%200363%20FINAL.pdf.html) — HTTP 403; streak 0
+- **unreachable** — [https://www.whatdotheyknow.com/request/how_many_homes_have_been_complet/response/2002978/attach/5/FOI%20Internal%20Review%2022%200065%20FINAL.pdf](https://www.whatdotheyknow.com/request/how_many_homes_have_been_complet/response/2002978/attach/5/FOI%20Internal%20Review%2022%200065%20FINAL.pdf) — HTTP 403; streak 0
+- **unreachable** — [https://www.whatdotheyknow.com/request/how_much_section_106_money_has_e/response/2061857/attach/5/EIR%20Internal%20Review%2022%200404%20FINAL.pdf?cookie_passthrough=1](https://www.whatdotheyknow.com/request/how_much_section_106_money_has_e/response/2061857/attach/5/EIR%20Internal%20Review%2022%200404%20FINAL.pdf?cookie_passthrough=1) — HTTP 403; streak 0
 
 ## Ordinary redirects
 
