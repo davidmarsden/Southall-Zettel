@@ -83,16 +83,16 @@ jobs:
           jsonschema.Draft202012Validator(schema).validate(data)
           print('Commons export validates against schema v1')
           PY
-      - name: Notify newly degraded links
+      - name: Notify newly actionable links
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           if [[ "$GITHUB_EVENT_NAME" == "schedule" && -f generated/link-health-alert.md ]]; then
-            gh issue create --title "Link health: newly degraded Southall Stories sources" --body-file generated/link-health-alert.md
+            gh issue create --title "Link health: newly actionable Southall Stories sources" --body-file generated/link-health-alert.md
           else
             echo "No scheduled link-health notification needed."
           fi
-      - name: Email newly degraded links
+      - name: Email newly actionable links
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
         run: |

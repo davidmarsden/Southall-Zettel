@@ -15,7 +15,7 @@ REPORT_PATH = Path("generated/link-health.json")
 INDEX_PATH = Path("indexes/link-health.md")
 ALERT_PATH = Path("generated/link-health-alert.md")
 BASE_URL = "https://southallstories.uk"
-PROBLEM_STATES = {"gone", "unreachable", "suspicious-redirect"}
+ALERT_STATES = {"gone", "suspicious-redirect"}
 STOPWORDS = {
     "www", "http", "https", "html", "htm", "pdf", "download", "downloads", "info",
     "page", "pages", "document", "documents", "default", "index", "public", "report",
@@ -24,10 +24,7 @@ STOPWORDS = {
 
 
 def words(value: str) -> set[str]:
-    return {
-        token for token in re.findall(r"[a-z0-9]+", unquote(value or "").lower())
-        if len(token) >= 4 and token not in STOPWORDS and not token.isdigit()
-    }
+    return {token for token in re.findall(r"[a-z0-9]+", unquote(value or "").lower()) if len(token) >= 4 and token not in STOPWORDS and not token.isdigit()}
 
 
 def suspicious_redirect(original_url: str, resolved_url: str | None, title: str | None) -> bool:
@@ -40,7 +37,6 @@ def suspicious_redirect(original_url: str, resolved_url: str | None, title: str 
         return False
     if original.hostname != resolved.hostname:
         return False
-    # A simple http→https upgrade (or equivalent scheme-only canonicalisation) is benign.
     if original.path.rstrip("/") == resolved.path.rstrip("/") and original.query == resolved.query:
         return False
     original_terms = words(original.path)
@@ -75,22 +71,21 @@ def source_posts(repo: Path) -> tuple[dict[str, list[dict]], dict[str, dict]]:
             if url in seen:
                 continue
             seen.add(url)
-            refs[url].append({
-                "path": rel,
-                "title": post.get("title") or rel,
-                "url": absolute_post_url(post.get("url") or ""),
-                "article_label": re.sub(r"<[^>]+>", "", label).strip(),
-            })
+            refs[url].append({"path": rel, "title": post.get("title") or rel, "url": absolute_post_url(post.get("url") or ""), "article_label": re.sub(r"<[^>]+>", "", label).strip()})
     return refs, post_by_path
 
 
-def recommendation(health: str) -> str:
+def recommendation(health: str, repeat_failure: bool = False) -> str:
     if health == "gone":
         return "Use Micro.blog’s archived version or replace the source URL."
     if health == "suspicious-redirect":
         return "Check the Micro.blog archived version; the live URL now appears to point at unrelated content."
+    if health == "blocked":
+        return "No edit recommended; the destination appears to block automated checks. Verify manually only if needed."
+    if health == "unreachable" and repeat_failure:
+        return "Repeated automated checks failed. Verify manually before editing; this may still be temporary or bot-related."
     if health == "unreachable":
-        return "Retry before editing; the site may be blocking automated checks or temporarily unavailable."
+        return "No edit recommended after a single failure; retry on the next scheduled check."
     if health == "redirected":
         return "No urgent action unless the redirect becomes unstable; consider updating to the canonical destination."
     return "No action needed."
@@ -103,11 +98,15 @@ def md_link(label: str, url: str) -> str:
     return f"[{safe_label}]({url})"
 
 
+def is_actionable(entry: dict) -> bool:
+    return entry["health"] in ALERT_STATES or (entry["health"] == "unreachable" and entry.get("repeat_failure"))
+
+
 def main() -> None:
     repo = Path.cwd()
     cache = json.loads(CACHE_PATH.read_text(encoding="utf-8")) if CACHE_PATH.exists() else {}
     old_report = json.loads(REPORT_PATH.read_text(encoding="utf-8")) if REPORT_PATH.exists() else {"links": []}
-    old_health = {item["url"]: item.get("health") for item in old_report.get("links", [])}
+    old_actionable = {item["url"]: bool(item.get("actionable")) for item in old_report.get("links", [])}
     refs, _ = source_posts(repo)
 
     entries = []
@@ -124,55 +123,45 @@ def main() -> None:
             "resolved_url": metadata.get("resolved_url"),
             "destination_title": metadata.get("destination_title"),
             "checked_at": metadata.get("checked_at"),
+            "failure_streak": int(metadata.get("failure_streak") or 0),
+            "repeat_failure": bool(metadata.get("repeat_failure")),
             "affected_posts": affected,
-            "recommendation": recommendation(health),
         }
-        entry["new_problem"] = health in PROBLEM_STATES and old_health.get(url) not in PROBLEM_STATES
+        entry["recommendation"] = recommendation(health, entry["repeat_failure"])
+        entry["actionable"] = is_actionable(entry)
+        entry["new_problem"] = entry["actionable"] and not old_actionable.get(url, False)
         entries.append(entry)
 
     counts: dict[str, int] = defaultdict(int)
     for entry in entries:
         counts[entry["health"]] += 1
-    problems = [entry for entry in entries if entry["health"] in PROBLEM_STATES]
+    problems = [entry for entry in entries if entry["actionable"]]
+    inconclusive = [entry for entry in entries if entry["health"] in {"blocked", "unreachable"} and not entry["actionable"]]
     redirects = [entry for entry in entries if entry["health"] == "redirected"]
     new_problems = [entry for entry in problems if entry["new_problem"]]
 
-    report = {
-        "counts": dict(sorted(counts.items())),
-        "problem_count": len(problems),
-        "new_problem_count": len(new_problems),
-        "links": entries,
-    }
+    report = {"counts": dict(sorted(counts.items())), "problem_count": len(problems), "inconclusive_count": len(inconclusive), "new_problem_count": len(new_problems), "links": entries}
     REPORT_PATH.write_text(json.dumps(report, indent=2, ensure_ascii=False, sort_keys=True) + "\n", encoding="utf-8")
 
     lines = [
-        "# Link health",
-        "",
-        "Automated health checks for external links cited by the Southall Stories research corpus.",
-        "",
-        f"- Checked/cached links: **{len(entries)}**",
-        f"- Actionable problems: **{len(problems)}**",
-        f"- Newly degraded since the previous report: **{len(new_problems)}**",
-        f"- Ordinary redirects: **{len(redirects)}**",
-        "",
-        "`gone` means HTTP 404/410. `unreachable` can include temporary failures or automation blocking. `suspicious-redirect` means a URL resolves successfully but appears to have been repointed to unrelated content.",
-        "",
-        "For genuine link rot, Southall Stories can use Micro.blog’s archived-link feature to recover or replace the destination while preserving the original reporting context.",
-        "",
+        "# Link health", "", "Automated health checks for external links cited by the Southall Stories research corpus.", "",
+        f"- Checked/cached links: **{len(entries)}**", f"- Actionable problems: **{len(problems)}**", f"- Inconclusive automated checks: **{len(inconclusive)}**", f"- Newly degraded since the previous report: **{len(new_problems)}**", f"- Ordinary redirects: **{len(redirects)}**", "",
+        "`gone` means HTTP 404/410. `blocked` means the destination rejected the automated checker (for example 403/429). A single `unreachable` result is treated as inconclusive; it becomes actionable only after repeated scheduled failures. `suspicious-redirect` means a URL resolves successfully but appears to have been repointed to unrelated content.", "",
+        "For genuine link rot, Southall Stories can use Micro.blog’s archived-link feature to recover or replace the destination while preserving the original reporting context.", "",
+        "## Needs attention", ""
     ]
 
     if problems:
-        lines += ["## Needs attention", ""]
         order = {"gone": 0, "suspicious-redirect": 1, "unreachable": 2}
         for entry in sorted(problems, key=lambda x: (order.get(x["health"], 9), x["domain"], x["url"])):
             title = entry.get("destination_title") or entry["url"]
-            lines.append(f"### {entry['health']}: {title}")
-            lines.append("")
-            lines.append(f"- Original: {md_link(entry['url'], entry['url'])}")
+            lines += [f"### {entry['health']}: {title}", "", f"- Original: {md_link(entry['url'], entry['url'])}"]
             if entry.get("resolved_url") and entry["resolved_url"] != entry["url"]:
                 lines.append(f"- Current destination: {md_link(entry['resolved_url'], entry['resolved_url'])}")
             if entry.get("http_status"):
                 lines.append(f"- HTTP: `{entry['http_status']}`")
+            if entry["health"] == "unreachable":
+                lines.append(f"- Consecutive failed checks: **{entry['failure_streak']}**")
             lines.append(f"- Action: {entry['recommendation']}")
             if entry["affected_posts"]:
                 lines.append("- Appears in:")
@@ -180,7 +169,15 @@ def main() -> None:
                     lines.append(f"  - {md_link(post['title'], post['url'])} — anchor text: `{post['article_label']}`")
             lines.append("")
     else:
-        lines += ["## Needs attention", "", "No actionable link-health problems currently recorded.", ""]
+        lines += ["No actionable link-health problems currently recorded.", ""]
+
+    if inconclusive:
+        lines += ["## Inconclusive automated checks", "", "These links are retained for retry and do not trigger an alert or imply that the citation should be edited.", ""]
+        for entry in sorted(inconclusive, key=lambda x: (x["health"], x["domain"], x["url"])):
+            label = entry.get("destination_title") or entry["url"]
+            detail = f"HTTP {entry['http_status']}" if entry.get("http_status") else "no HTTP response"
+            lines.append(f"- **{entry['health']}** — {md_link(label, entry['url'])} — {detail}; streak {entry['failure_streak']}")
+        lines.append("")
 
     if redirects:
         lines += ["## Ordinary redirects", ""]
@@ -192,12 +189,7 @@ def main() -> None:
     INDEX_PATH.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
 
     if new_problems:
-        alert = [
-            "## New Southall Stories link-health problems",
-            "",
-            f"The weekly link-health check found **{len(new_problems)}** newly degraded external link(s).",
-            "",
-        ]
+        alert = ["## New Southall Stories link-health problems", "", f"The weekly link-health check found **{len(new_problems)}** newly actionable external link(s).", ""]
         for entry in new_problems:
             affected = ", ".join(post["title"] for post in entry["affected_posts"]) or "affected post unknown"
             alert.append(f"- **{entry['health']}** — {entry['url']} — {affected}")
@@ -206,7 +198,7 @@ def main() -> None:
     elif ALERT_PATH.exists():
         ALERT_PATH.unlink()
 
-    print(f"Link health: {len(entries)} cached/checkable links; {len(problems)} problems; {len(new_problems)} new")
+    print(f"Link health: {len(entries)} cached/checkable links; {len(problems)} actionable; {len(inconclusive)} inconclusive; {len(new_problems)} new")
 
 
 if __name__ == "__main__":

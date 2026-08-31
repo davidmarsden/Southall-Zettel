@@ -5,7 +5,6 @@ import json
 import sys
 from pathlib import Path
 
-PROBLEM_STATES = {"gone", "unreachable", "suspicious-redirect"}
 REPORT_PATH = Path("generated/link-health.json")
 INDEX_PATH = Path("indexes/link-health.md")
 
@@ -28,27 +27,14 @@ def main() -> None:
 
     resolved = []
     for url, old_item in old.items():
-        if old_item.get("health") not in PROBLEM_STATES:
+        old_was_actionable = bool(old_item.get("actionable", old_item.get("health") in {"gone", "unreachable", "suspicious-redirect"}))
+        if not old_was_actionable:
             continue
         new_item = now.get(url)
         if new_item is None:
-            resolved.append({
-                "url": url,
-                "previous_health": old_item.get("health"),
-                "current_health": "removed-or-replaced",
-                "resolution": "removed-or-replaced-in-corpus",
-                "destination_title": old_item.get("destination_title"),
-                "affected_posts": old_item.get("affected_posts", []),
-            })
-        elif new_item.get("health") not in PROBLEM_STATES:
-            resolved.append({
-                "url": url,
-                "previous_health": old_item.get("health"),
-                "current_health": new_item.get("health"),
-                "resolution": "link-recovered",
-                "destination_title": new_item.get("destination_title") or old_item.get("destination_title"),
-                "affected_posts": new_item.get("affected_posts", []) or old_item.get("affected_posts", []),
-            })
+            resolved.append({"url": url, "previous_health": old_item.get("health"), "current_health": "removed-or-replaced", "resolution": "removed-or-replaced-in-corpus", "destination_title": old_item.get("destination_title"), "affected_posts": old_item.get("affected_posts", [])})
+        elif not bool(new_item.get("actionable")):
+            resolved.append({"url": url, "previous_health": old_item.get("health"), "current_health": new_item.get("health"), "resolution": "link-recovered-or-deescalated", "destination_title": new_item.get("destination_title") or old_item.get("destination_title"), "affected_posts": new_item.get("affected_posts", []) or old_item.get("affected_posts", [])})
 
     current["resolved_since_last_check_count"] = len(resolved)
     current["resolved_since_last_check"] = resolved
@@ -56,29 +42,27 @@ def main() -> None:
 
     text = INDEX_PATH.read_text(encoding="utf-8")
     marker = "- Ordinary redirects:"
-    summary = f"- Resolved since the previous report: **{len(resolved)}**\n"
+    summary = f"- Resolved/de-escalated since the previous report: **{len(resolved)}**\n"
     if marker in text:
         text = text.replace(marker, summary + marker, 1)
 
     if resolved:
-        section = ["## Resolved since last check", ""]
+        section = ["## Resolved or de-escalated since last check", ""]
         for item in sorted(resolved, key=lambda x: x["url"]):
             label = item.get("destination_title") or item["url"]
             if item["resolution"] == "removed-or-replaced-in-corpus":
-                status = "removed or replaced in the Southall Stories article"
+                status = "removed or replaced in the Southall Stories corpus"
             else:
-                status = f"now `{item['current_health']}`"
+                status = f"now `{item['current_health']}` and no longer actionable"
             section.append(f"- {md_link(label, item['url'])} — was `{item['previous_health']}`; {status}.")
             for post in item.get("affected_posts", []):
                 if post.get("url"):
                     section.append(f"  - {md_link(post.get('title') or post['url'], post['url'])}")
         section.append("")
-        insertion = "\n".join(section)
-        anchor = "## Needs attention"
-        text = text.replace(anchor, insertion + "\n" + anchor, 1)
+        text = text.replace("## Needs attention", "\n".join(section) + "\n## Needs attention", 1)
 
     INDEX_PATH.write_text(text, encoding="utf-8")
-    print(f"Resolved link-health problems since previous report: {len(resolved)}")
+    print(f"Resolved/de-escalated link-health problems since previous report: {len(resolved)}")
 
 
 if __name__ == "__main__":

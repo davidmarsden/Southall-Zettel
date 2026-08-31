@@ -23,9 +23,10 @@ HTML_TAG_RE = re.compile(r"<[^>]+>")
 CACHE_PATH = Path("generated/citation-metadata.json")
 MAX_FETCH_BYTES = 5 * 1024 * 1024
 MAX_NEW_FETCHES = 120
-FETCH_WORKERS = 12
-FETCH_TIMEOUT = 7
+FETCH_WORKERS = 6
+FETCH_TIMEOUT = 12
 FULL_LINK_CHECK = os.environ.get("LINK_HEALTH_FULL", "").lower() in {"1", "true", "yes"}
+REPEAT_UNREACHABLE_THRESHOLD = 2
 
 EXCLUDED_DOMAINS = {
     "x.com", "twitter.com", "facebook.com", "instagram.com", "youtube.com", "youtu.be",
@@ -143,6 +144,8 @@ def classify_health(url: str, result: dict) -> str:
     state = result.get("status")
     if status in {404, 410}:
         return "gone"
+    if status in {401, 403, 405, 406, 418, 429}:
+        return "blocked"
     if status and status >= 400:
         return "unreachable"
     if state in {"fetch-failed", "parse-failed"}:
@@ -169,7 +172,7 @@ def fetch_metadata(url: str) -> tuple[str, dict]:
         request = Request(
             url,
             headers={
-                "User-Agent": "Southall-Zettel/1.0 (+https://southallstories.uk)",
+                "User-Agent": "Mozilla/5.0 (compatible; Southall-Zettel/1.1; +https://southallstories.uk)",
                 "Accept": "text/html,application/xhtml+xml,application/pdf;q=0.9,*/*;q=0.5",
             },
         )
@@ -205,6 +208,21 @@ def fetch_metadata(url: str) -> tuple[str, dict]:
     return url, result
 
 
+def apply_failure_history(previous: dict | None, current: dict) -> dict:
+    previous = previous or {}
+    health = current.get("health")
+    if health in {"unreachable", "blocked"}:
+        previous_streak = int(previous.get("failure_streak") or 0)
+        previous_health = previous.get("health")
+        streak = previous_streak + 1 if previous_health in {"unreachable", "blocked"} else 1
+        current["failure_streak"] = streak
+        current["repeat_failure"] = health == "unreachable" and streak >= REPEAT_UNREACHABLE_THRESHOLD
+    else:
+        current["failure_streak"] = 0
+        current["repeat_failure"] = False
+    return current
+
+
 def main() -> None:
     repo = Path.cwd()
     CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
@@ -227,6 +245,7 @@ def main() -> None:
             futures = {pool.submit(fetch_metadata, url): url for url in pending}
             for future in as_completed(futures):
                 url, metadata = future.result()
+                metadata = apply_failure_history(cache.get(url), metadata)
                 metadata["checked_at"] = int(time.time())
                 cache[url] = metadata
                 if metadata.get("destination_title") and not FULL_LINK_CHECK:
