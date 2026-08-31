@@ -316,10 +316,14 @@
       "url": "https://www.mylondon.news/news/west-london-news/fresh-pictures-reveal-what-london-22320564"
     },
     {
+      "article_label": "More than 50,000 children killed or injured",
+      "destination_title": "‘Unimaginable horrors’: more than 50,000 children reportedly killed or injured in the Gaza Strip",
       "domain": "unicef.org",
-      "label": "More than 50,000 children killed or injured",
+      "label": "‘Unimaginable horrors’: more than 50,000 children reportedly killed or injured in the Gaza Strip",
       "post": "post:5543316",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.unicef.org/press-releases/unimaginable-horrors-more-50000-children-reportedly-killed-or-injured-gaza-strip",
+      "title_source": "og:title",
       "url": "https://www.unicef.org/press-releases/unimaginable-horrors-more-50000-children-reportedly-killed-or-injured-gaza-strip"
     },
     {
@@ -550,14 +554,10 @@
       "url": "https://twitter.com/DvdMrsdn/status/1587711673942646785?t=U0luZmPHCxRb9wGAC5Ffkw&s=19"
     },
     {
-      "article_label": "resident",
-      "destination_title": "Wayback Machine",
       "domain": "web.archive.org",
-      "label": "Wayback Machine",
+      "label": "resident",
       "post": "post:5543696",
       "provenance": "source-post-link",
-      "resolved_url": "https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf",
-      "title_source": "html-title",
       "url": "https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf"
     },
     {
@@ -2039,10 +2039,14 @@
       "url": "https://www.ealing.news/news/family-left-in-limbo-after-delays-to-adapted-home-for-disabled-son/"
     },
     {
+      "article_label": "On Your Side!",
+      "destination_title": "BIGHOKI !! Akses Alternatif Terbaru Game Online Buat Mata Melolok Liat Jepe!",
       "domain": "ealinglabour.com",
-      "label": "On Your Side!",
+      "label": "BIGHOKI !! Akses Alternatif Terbaru Game Online Buat Mata Melolok Liat Jepe!",
       "post": "post:5722627",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.bighokiajaib.com/",
+      "title_source": "og:title",
       "url": "https://www.ealinglabour.com/manifesto2022/"
     },
     {
@@ -2275,21 +2279,21 @@
       "url": "https://resource.co/article/ealing-council-switch-co-mingled-collections-10222"
     },
     {
+      "article_label": "serious public health harms",
+      "destination_title": "TikTok - Make Your Day",
       "domain": "vm.tiktok.com",
-      "label": "serious public health harms",
+      "label": "TikTok - Make Your Day",
       "post": "post:5754191",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.tiktok.com/?_r=1",
+      "title_source": "html-title",
       "url": "https://vm.tiktok.com/ZNRfJ3fLA/"
     },
     {
-      "article_label": "complained about rubbish and litter",
-      "destination_title": "Wayback Machine",
       "domain": "web.archive.org",
-      "label": "Wayback Machine",
+      "label": "complained about rubbish and litter",
       "post": "post:5754191",
       "provenance": "source-post-link",
-      "resolved_url": "https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf",
-      "title_source": "html-title",
       "url": "https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf"
     },
     {
@@ -2348,10 +2352,14 @@
       "url": "https://www.ealing.news/news/ealing-council-unveils-2026-27-budget-plans/"
     },
     {
+      "article_label": "on your side",
+      "destination_title": "BIGHOKI !! Akses Alternatif Terbaru Game Online Buat Mata Melolok Liat Jepe!",
       "domain": "ealinglabour.com",
-      "label": "on your side",
+      "label": "BIGHOKI !! Akses Alternatif Terbaru Game Online Buat Mata Melolok Liat Jepe!",
       "post": "post:5754191",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.bighokiajaib.com/",
+      "title_source": "og:title",
       "url": "https://www.ealinglabour.com/manifesto2022/"
     },
     {
@@ -3037,24 +3045,36 @@
       "url": "https://democracy.brent.gov.uk/Data/Executive/20050912/Agenda/ENV%20Brent%20Municipal%20Waste%20Strategy%20App%201.pdf"
     },
     {
+      "article_label": "call-in papers from November 2010",
+      "destination_title": "Agenda Reports Pack (Public) 30/11/2010, 19.30",
       "domain": "democracy.brent.gov.uk",
-      "label": "call-in papers from November 2010",
+      "label": "Agenda Reports Pack (Public) 30/11/2010, 19.30",
       "post": "post:5820251",
       "provenance": "source-post-link",
+      "resolved_url": "https://democracy.brent.gov.uk/documents/g1468/Public%20reports%20pack%20Tuesday%2030-Nov-2010%2019.30%20Call%20In%20Overview%20and%20Scrutiny%20Committee.pdf?T=10",
+      "title_source": "pdf-title",
       "url": "https://democracy.brent.gov.uk/documents/g1468/Public%20reports%20pack%20Tuesday%2030-Nov-2010%2019.30%20Call%20In%20Overview%20and%20Scrutiny%20Committee.pdf?T=10"
     },
     {
+      "article_label": "report recommending an increase in dry recycling collection frequency to weekly",
+      "destination_title": "Microsoft Word - $5lbs424f.docx",
       "domain": "democracy.brent.gov.uk",
-      "label": "report recommending an increase in dry recycling collection frequency to weekly",
+      "label": "Microsoft Word - $5lbs424f.docx",
       "post": "post:5820251",
       "provenance": "source-post-link",
+      "resolved_url": "https://democracy.brent.gov.uk/documents/s25547/ens-garden-waste.pdf",
+      "title_source": "pdf-title",
       "url": "https://democracy.brent.gov.uk/documents/s25547/ens-garden-waste.pdf"
     },
     {
+      "article_label": "August 2010 Executive report",
+      "destination_title": "Microsoft Word - ecwastestrategyv51final0",
       "domain": "democracy.brent.gov.uk",
-      "label": "August 2010 Executive report",
+      "label": "Microsoft Word - ecwastestrategyv51final0",
       "post": "post:5820251",
       "provenance": "source-post-link",
+      "resolved_url": "https://democracy.brent.gov.uk/documents/s2948/ec_waste_strategy_v%205%201%20final.pdf",
+      "title_source": "pdf-title",
       "url": "https://democracy.brent.gov.uk/documents/s2948/ec_waste_strategy_v%205%201%20final.pdf"
     },
     {
@@ -4431,10 +4451,14 @@
       "url": "https://en.wikipedia.org/wiki/Peter_Mason_(politician"
     },
     {
+      "article_label": "Mason's administration voted to more than double the threshold",
+      "destination_title": "'They're trying to shut us up' - West London council doubles signatures needed for petition debate - Harrow Online",
       "domain": "harrowonline.org",
-      "label": "Mason's administration voted to more than double the threshold",
+      "label": "'They're trying to shut us up' - West London council doubles signatures needed for petition debate - Harrow Online",
       "post": "post:5855337",
       "provenance": "source-post-link",
+      "resolved_url": "https://harrowonline.org/2025/07/16/theyre-trying-to-shut-us-up-west-london-council-doubles-signatures-needed-for-petition-debate/",
+      "title_source": "og:title",
       "url": "https://harrowonline.org/2025/07/16/theyre-trying-to-shut-us-up-west-london-council-doubles-signatures-needed-for-petition-debate/"
     },
     {
@@ -4507,10 +4531,14 @@
       "url": "https://threadreaderapp.com/scrolly/2052069108624089239"
     },
     {
+      "article_label": "Internet Archive",
+      "destination_title": "Ealing Labour",
       "domain": "web.archive.org",
-      "label": "Internet Archive",
+      "label": "Ealing Labour",
       "post": "post:5855337",
       "provenance": "source-post-link",
+      "resolved_url": "https://web.archive.org/web/20181219221205/https://www.ealinglabour.com/",
+      "title_source": "og:title",
       "url": "https://web.archive.org/web/20181219221205/https://www.ealinglabour.com/"
     },
     {
@@ -4922,10 +4950,14 @@
       "url": "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2026/886"
     },
     {
+      "article_label": "as the Chiswick Calendar reported",
+      "destination_title": "Parents take Ealing Council to court over decision to close children's centres - Chiswick Calendar News",
       "domain": "chiswickcalendar.co.uk",
-      "label": "as the Chiswick Calendar reported",
+      "label": "Parents take Ealing Council to court over decision to close children's centres - Chiswick Calendar News",
       "post": "post:5858871",
       "provenance": "source-post-link",
+      "resolved_url": "https://chiswickcalendar.co.uk/parents-take-ealing-council-to-court-over-decision-to-close-childrens-centres/",
+      "title_source": "og:title",
       "url": "https://chiswickcalendar.co.uk/parents-take-ealing-council-to-court-over-decision-to-close-childrens-centres/"
     },
     {
@@ -5005,10 +5037,14 @@
       "url": "https://one-nation.org.uk"
     },
     {
+      "article_label": "Salvinder Dhillon",
+      "destination_title": "Help Respect do well in Southall - Socialist Worker",
       "domain": "socialistworker.co.uk",
-      "label": "Salvinder Dhillon",
+      "label": "Help Respect do well in Southall - Socialist Worker",
       "post": "post:5859227",
       "provenance": "source-post-link",
+      "resolved_url": "https://socialistworker.co.uk/news/help-respect-do-well-in-southall/",
+      "title_source": "og:title",
       "url": "https://socialistworker.co.uk/news/help-respect-do-well-in-southall/"
     },
     {
@@ -5509,10 +5545,14 @@
       "url": "https://www.andrewteale.me.uk/leap/results/2014/5/#ward84"
     },
     {
+      "article_label": "Salvinder Dhillon",
+      "destination_title": "Local Elections Archive Project — Southall Green Ward",
       "domain": "andrewteale.me.uk",
-      "label": "Salvinder Dhillon",
+      "label": "Local Elections Archive Project — Southall Green Ward",
       "post": "post:5863048",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.andrewteale.me.uk/leap/ward/98/",
+      "title_source": "html-title",
       "url": "https://www.andrewteale.me.uk/leap/ward/98/"
     },
     {
@@ -6061,7 +6101,7 @@
   "counts": {
     "citation_titles_rejected_as_stale_redirects": 4,
     "citations": 668,
-    "citations_with_destination_titles": 345,
+    "citations_with_destination_titles": 355,
     "entities": 121,
     "links": 1189,
     "posts": 69,
