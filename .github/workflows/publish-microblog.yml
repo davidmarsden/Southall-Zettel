@@ -1,0 +1,49 @@
+name: Publish Zettel post to Southall Stories
+
+on:
+  workflow_dispatch:
+    inputs:
+      post_path:
+        description: 'Optional posts/...md path. The post must also contain publish_to_microblog: true.'
+        required: false
+        type: string
+
+concurrency:
+  group: southall-zettel-microblog-publish
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - name: Validate reverse-publish script
+        run: python -m py_compile scripts/publish_microblog.py
+      - name: Publish explicitly flagged post
+        env:
+          MICROBLOG_TOKEN: ${{ secrets.MICROBLOG_TOKEN }}
+          POST_PATH: ${{ inputs.post_path }}
+        run: |
+          if [[ -n "$POST_PATH" ]]; then
+            python scripts/publish_microblog.py --post "$POST_PATH"
+          else
+            python scripts/publish_microblog.py
+          fi
+      - name: Commit cleared publish flag
+        run: |
+          git add posts
+          if git diff --cached --quiet; then
+            echo 'No repository housekeeping changes to commit.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Confirm Southall Stories publish'
+          git push
