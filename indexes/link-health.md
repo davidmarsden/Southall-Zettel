@@ -6,28 +6,12 @@ Automated health checks for external links cited by the Southall Stories researc
 - Actionable problems: **12**
 - Inconclusive automated checks: **67**
 - Newly degraded since the previous report: **0**
-- Resolved/de-escalated since the previous report: **6**
+- Resolved/de-escalated since the previous report: **0**
 - Ordinary redirects: **27**
 
 `gone` means HTTP 404/410. `blocked` means the destination rejected the automated checker (for example 403/429). A single `unreachable` result is treated as inconclusive; it becomes actionable only after repeated scheduled failures. `suspicious-redirect` means a URL resolves successfully but appears to have been repointed to unrelated content.
 
 For genuine link rot, Southall Stories can use Micro.blog’s archived-link feature to recover or replace the destination while preserving the original reporting context.
-
-## Resolved or de-escalated since last check
-
-- [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf) — was `gone`; removed or replaced in the Southall Stories corpus.
-  - [Health Risks of Exposure to Benzene](https://southallstories.uk/2018/08/03/health-risks-of-exposure-to/)
-- [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/522459/Benzene_IM_PHE_050516.pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/522459/Benzene_IM_PHE_050516.pdf) — was `gone`; removed or replaced in the Southall Stories corpus.
-  - [Health Risks of Exposure to Benzene](https://southallstories.uk/2018/08/03/health-risks-of-exposure-to/)
-- [LGC Awards 2027](https://awards.lgcplus.com/lgca2026/en/page/2026-shortlist) — was `suspicious-redirect`; removed or replaced in the Southall Stories corpus.
-  - [Boomerang! Ten Years Sorting Out Fly-tipping](https://southallstories.uk/2026/03/01/boomerang-ten-years-sorting-out/)
-  - [This Is Our Home. It's a Tip.](https://southallstories.uk/2026/04/30/this-is-our-home-its/)
-- [https://docs.google.com/document/d/e/2PACX1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zEoDwo205cAiMcRsCxoy2x8DogF/pub](https://docs.google.com/document/d/e/2PACX1vTtn2vpBsl8Z4Lqn1NjEOQjZIJ2JXbmnTjrflIKZTVsOMZRqy75zEoDwo205cAiMcRsCxoy2x8DogF/pub) — was `gone`; removed or replaced in the Southall Stories corpus.
-  - [Lies, Damned Lies, and Statistics?](https://southallstories.uk/2018/11/02/lies-damned-lies-and-statistics/)
-- [https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf](https://www.ealing.gov.uk/download/downloads/id/3349/ed102_-_ealing_in_london_2_edition_2_spring_2011.pdf) — was `gone`; removed or replaced in the Southall Stories corpus.
-  - [Ealing Monopoly](https://southallstories.uk/2022/03/25/ealing-monopoly/)
-- [https://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018](https://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018) — was `gone`; removed or replaced in the Southall Stories corpus.
-  - [Look at these Bricks!](https://southallstories.uk/2021/05/03/look-at-these-bricks/)
 
 ## Needs attention
 
