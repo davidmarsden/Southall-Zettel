@@ -33,8 +33,8 @@ def first(properties: dict, key: str, default=None):
     return value
 
 
-def fetch_page(token: str, offset: int) -> list[dict]:
-    query = urlencode({"q": "source", "limit": PAGE_SIZE, "offset": offset})
+def fetch_json(token: str, params: dict[str, object]) -> dict:
+    query = urlencode(params)
     request = Request(
         f"{ENDPOINT}?{query}",
         headers={
@@ -45,6 +45,53 @@ def fetch_page(token: str, offset: int) -> list[dict]:
     )
     with urlopen(request, timeout=30) as response:
         payload = json.load(response)
+    if not isinstance(payload, dict):
+        raise RuntimeError("Unexpected Micropub response: root is not an object")
+    return payload
+
+
+def configured_destinations(token: str, allowed_hosts: set[str]) -> list[str]:
+    """Return Micropub destination UIDs whose canonical or display host is allowed."""
+    payload = fetch_json(token, {"q": "config"})
+    destinations = payload.get("destination", [])
+    if not isinstance(destinations, list):
+        raise RuntimeError("Unexpected Micropub q=config response: destination is not a list")
+
+    matches: list[str] = []
+    available: list[str] = []
+    for destination in destinations:
+        if not isinstance(destination, dict):
+            continue
+        uid = str(destination.get("uid") or "").strip()
+        name = str(destination.get("name") or "").strip()
+        if not uid:
+            continue
+
+        uid_host = (urlparse(uid).hostname or "").lower()
+        name_host = (urlparse(name if "://" in name else f"https://{name}").hostname or "").lower()
+        available.append(f"{name or uid} [{uid}]")
+        if uid_host in allowed_hosts or name_host in allowed_hosts:
+            if uid not in matches:
+                matches.append(uid)
+
+    if not matches:
+        detail = ", ".join(available) if available else "none returned"
+        raise RuntimeError(
+            f"No Micro.blog destination matched hosts {sorted(allowed_hosts)}; configured destinations: {detail}"
+        )
+    return matches
+
+
+def fetch_page(token: str, destination: str, offset: int) -> list[dict]:
+    payload = fetch_json(
+        token,
+        {
+            "q": "source",
+            "limit": PAGE_SIZE,
+            "offset": offset,
+            "mp-destination": destination,
+        },
+    )
     items = payload.get("items", [])
     if not isinstance(items, list):
         raise RuntimeError("Unexpected Micropub q=source response: items is not a list")
@@ -53,21 +100,26 @@ def fetch_page(token: str, offset: int) -> list[dict]:
 
 def live_posts(token: str, allowed_hosts: set[str]) -> list[dict]:
     result: list[dict] = []
-    offset = 0
-    while True:
-        page = fetch_page(token, offset)
-        if not page:
-            break
-        for item in page:
-            props = item.get("properties") or {}
-            url = str(first(props, "url", "") or "")
-            host = (urlparse(url).hostname or "").lower()
-            status = str(first(props, "post-status", "published") or "published")
-            if host in allowed_hosts and status == "published":
-                result.append(item)
-        if len(page) < PAGE_SIZE:
-            break
-        offset += PAGE_SIZE
+    seen_urls: set[str] = set()
+
+    for destination in configured_destinations(token, allowed_hosts):
+        offset = 0
+        while True:
+            page = fetch_page(token, destination, offset)
+            if not page:
+                break
+            for item in page:
+                props = item.get("properties") or {}
+                url = str(first(props, "url", "") or "")
+                host = (urlparse(url).hostname or "").lower()
+                status = str(first(props, "post-status", "published") or "published")
+                key = url.rstrip("/")
+                if host in allowed_hosts and status == "published" and key not in seen_urls:
+                    result.append(item)
+                    seen_urls.add(key)
+            if len(page) < PAGE_SIZE:
+                break
+            offset += PAGE_SIZE
     return result
 
 
