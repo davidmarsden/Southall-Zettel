@@ -33,6 +33,18 @@ def first(properties: dict, key: str, default=None):
     return value
 
 
+def host_from_urlish(value: str) -> str:
+    """Return a lowercase hostname for URL/hostname-shaped text, else empty."""
+    value = value.strip()
+    if not value:
+        return ""
+    candidate = value if "://" in value else f"https://{value}"
+    try:
+        return (urlparse(candidate).hostname or "").lower()
+    except ValueError:
+        return ""
+
+
 def fetch_json(token: str, params: dict[str, object]) -> dict:
     query = urlencode(params)
     request = Request(
@@ -67,8 +79,8 @@ def configured_destinations(token: str, allowed_hosts: set[str]) -> list[str]:
         if not uid:
             continue
 
-        uid_host = (urlparse(uid).hostname or "").lower()
-        name_host = (urlparse(name if "://" in name else f"https://{name}").hostname or "").lower()
+        uid_host = host_from_urlish(uid)
+        name_host = host_from_urlish(name)
         available.append(f"{name or uid} [{uid}]")
         if uid_host in allowed_hosts or name_host in allowed_hosts:
             if uid not in matches:
