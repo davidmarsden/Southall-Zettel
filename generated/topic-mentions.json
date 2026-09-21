@@ -393,6 +393,15 @@
       ],
       "path": "posts/2026/05/29/individuality.md",
       "title": "Individuality"
+    },
+    {
+      "date": "2026-09-16T13:47:09+00:00",
+      "matched_aliases": [
+        "air quality",
+        "benzene"
+      ],
+      "path": "posts/2026/09/16/the-gasworks-and-me-and.md",
+      "title": "The Gasworks and Me (and You)"
     }
   ],
   "children-centres": [
@@ -868,6 +877,14 @@
       ],
       "path": "posts/2026/05/29/individuality.md",
       "title": "Individuality"
+    },
+    {
+      "date": "2026-09-15T21:42:12+00:00",
+      "matched_aliases": [
+        "complaint"
+      ],
+      "path": "posts/2026/09/15/holding-the-line.md",
+      "title": "Holding The Line"
     }
   ],
   "governance": [
@@ -1132,6 +1149,16 @@
       ],
       "path": "posts/2026/05/29/individuality.md",
       "title": "Individuality"
+    },
+    {
+      "date": "2026-09-15T21:42:12+00:00",
+      "matched_aliases": [
+        "Governance",
+        "governance",
+        "council leader"
+      ],
+      "path": "posts/2026/09/15/holding-the-line.md",
+      "title": "Holding The Line"
     }
   ],
   "housing": [
@@ -1488,6 +1515,15 @@
       ],
       "path": "posts/2026/05/25/feeling-the-heat.md",
       "title": "Feeling the Heat"
+    },
+    {
+      "date": "2026-09-16T13:47:09+00:00",
+      "matched_aliases": [
+        "Housing",
+        "housing"
+      ],
+      "path": "posts/2026/09/16/the-gasworks-and-me-and.md",
+      "title": "The Gasworks and Me (and You)"
     }
   ],
   "local-democracy": [
@@ -1887,6 +1923,14 @@
       ],
       "path": "posts/2026/05/25/feeling-the-heat.md",
       "title": "Feeling the Heat"
+    },
+    {
+      "date": "2026-09-15T21:42:12+00:00",
+      "matched_aliases": [
+        "councillor"
+      ],
+      "path": "posts/2026/09/15/holding-the-line.md",
+      "title": "Holding The Line"
     }
   ],
   "pensions-divestment": [
@@ -2326,6 +2370,16 @@
       ],
       "path": "posts/2026/05/29/individuality.md",
       "title": "Individuality"
+    },
+    {
+      "date": "2026-09-16T13:47:09+00:00",
+      "matched_aliases": [
+        "planning",
+        "development",
+        "developer"
+      ],
+      "path": "posts/2026/09/16/the-gasworks-and-me-and.md",
+      "title": "The Gasworks and Me (and You)"
     }
   ],
   "public-health": [
@@ -2561,6 +2615,23 @@
       ],
       "path": "posts/2026/05/25/feeling-the-heat.md",
       "title": "Feeling the Heat"
+    },
+    {
+      "date": "2026-09-15T21:42:12+00:00",
+      "matched_aliases": [
+        "COPD"
+      ],
+      "path": "posts/2026/09/15/holding-the-line.md",
+      "title": "Holding The Line"
+    },
+    {
+      "date": "2026-09-16T13:47:09+00:00",
+      "matched_aliases": [
+        "COPD",
+        "asthma"
+      ],
+      "path": "posts/2026/09/16/the-gasworks-and-me-and.md",
+      "title": "The Gasworks and Me (and You)"
     }
   ],
   "waste-flytipping": [
@@ -2850,6 +2921,14 @@
       ],
       "path": "posts/2026/05/25/feeling-the-heat.md",
       "title": "Feeling the Heat"
+    },
+    {
+      "date": "2026-09-15T21:42:12+00:00",
+      "matched_aliases": [
+        "recycling"
+      ],
+      "path": "posts/2026/09/15/holding-the-line.md",
+      "title": "Holding The Line"
     }
   ]
 }

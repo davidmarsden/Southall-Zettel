@@ -33,7 +33,7 @@ I had regular episodes of shortness of breath throughout young adulthood that we
 
 Fourteen years ago, I needed a thoracotomy on my right lung after a chest infection went wrong. I developed pleurisy, a collapsed lung and an empyema. In the post-op, my surgeon said my lung was "as good as new".
 
-In the years before covid, I had frequent chest infections requiring antibiotics and time off work to recover. Then and now, I wonder if that was triggered by the [Southall Gasworks](https://davidmarsden.info/2024/10/29/the-southall-gasworks.html) remediation and air pollution? 
+In the years before covid, I had frequent chest infections requiring antibiotics and time off work to recover. Then and now, I wonder if that was triggered by the [Southall Gasworks](https://davidmarsden.info/2024/10/30/the-southall-gasworks-story.html) remediation and air pollution? 
 
 I now see that [studies show](https://www.nature.com/articles/s41598-024-67210-7) that exposure to volatile organic compounds (including benzene, naphthalene and toluene) is related to COPD.
 

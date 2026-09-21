@@ -7117,6 +7117,252 @@
       "type": "links-to"
     },
     {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:dominion-centre",
+      "target": "post:posts/2026/09/15/holding-the-line.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:ealing",
+      "target": "post:posts/2026/09/15/holding-the-line.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:ealing-council",
+      "target": "post:posts/2026/09/15/holding-the-line.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:environment-agency",
+      "target": "post:posts/2026/09/15/holding-the-line.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:peter-mason",
+      "target": "post:posts/2026/09/15/holding-the-line.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall",
+      "target": "post:posts/2026/09/15/holding-the-line.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-gasworks",
+      "target": "post:posts/2026/09/15/holding-the-line.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-green",
+      "target": "post:posts/2026/09/15/holding-the-line.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-town-hall",
+      "target": "post:posts/2026/09/15/holding-the-line.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:the-green",
+      "target": "post:posts/2026/09/15/holding-the-line.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:council-accountability",
+      "target": "post:posts/2026/09/15/holding-the-line.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:governance",
+      "target": "post:posts/2026/09/15/holding-the-line.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:local-democracy",
+      "target": "post:posts/2026/09/15/holding-the-line.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:public-health",
+      "target": "post:posts/2026/09/15/holding-the-line.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:waste-flytipping",
+      "target": "post:posts/2026/09/15/holding-the-line.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "post:posts/2024/10/31/copd.md",
+      "type": "links-to"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "post:posts/2026/01/11/toxic-town-have-you-been.md",
+      "type": "links-to"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "post:posts/2026/01/12/a-fire-we-were-warned.md",
+      "type": "links-to"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "post:posts/2026/01/18/demolition-man-peter-masons-legacy.md",
+      "type": "links-to"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "post:posts/2026/01/20/the-council-investigation-that-found.md",
+      "type": "links-to"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "post:posts/2026/01/25/the-ea-files-what-regulators.md",
+      "type": "links-to"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "post:posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "type": "links-to"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "post:posts/2026/02/18/the-broken-manifesto-promises-that.md",
+      "type": "links-to"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "post:posts/2026/02/19/ealings-burning.md",
+      "type": "links-to"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "post:posts/2026/03/01/boomerang-ten-years-sorting-out.md",
+      "type": "links-to"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "post:posts/2026/04/21/you-never-forget-the-smell.md",
+      "type": "links-to"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "post:posts/2026/05/02/the-smell-of-success.md",
+      "type": "links-to"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "post:posts/2026/05/07/computer-says-no.md",
+      "type": "links-to"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "post:posts/2026/05/07/who-does-peter-mason-really.md",
+      "type": "links-to"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "type": "links-to"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "post:posts/2026/05/25/feeling-the-heat.md",
+      "type": "links-to"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "post:posts/2026/05/29/individuality.md",
+      "type": "links-to"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:berkeley-group",
+      "target": "post:posts/2026/09/16/the-gasworks-and-me-and.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:ealing",
+      "target": "post:posts/2026/09/16/the-gasworks-and-me-and.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:ealing-council",
+      "target": "post:posts/2026/09/16/the-gasworks-and-me-and.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall",
+      "target": "post:posts/2026/09/16/the-gasworks-and-me-and.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-gasworks",
+      "target": "post:posts/2026/09/16/the-gasworks-and-me-and.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:air-pollution",
+      "target": "post:posts/2026/09/16/the-gasworks-and-me-and.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:housing",
+      "target": "post:posts/2026/09/16/the-gasworks-and-me-and.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:planning-development",
+      "target": "post:posts/2026/09/16/the-gasworks-and-me-and.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:public-health",
+      "target": "post:posts/2026/09/16/the-gasworks-and-me-and.md",
+      "type": "mentioned-in"
+    },
+    {
       "provenance": "source-post-link",
       "source": "post:posts/2026/05/25/feeling-the-heat.md",
       "target": "domain:actonw3.com",
@@ -7155,6 +7401,12 @@
     {
       "provenance": "source-post-link",
       "source": "post:posts/2026/05/09/liftoff-ealing-elections-special.md",
+      "target": "domain:andrewteale.me.uk",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
       "target": "domain:andrewteale.me.uk",
       "type": "cites-domain"
     },
@@ -7310,6 +7562,12 @@
     },
     {
       "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "domain:bbc.co.uk",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
       "source": "post:posts/2026/05/07/the-man-in-the-middle.md",
       "target": "domain:berkeleyfoundation.org.uk",
       "type": "cites-domain"
@@ -7450,6 +7708,12 @@
       "provenance": "source-post-link",
       "source": "post:posts/2025/09/26/ealing-for-sale.md",
       "target": "domain:common-wealth.org",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "domain:commons.southallstories.uk",
       "type": "cites-domain"
     },
     {
@@ -7634,6 +7898,12 @@
     },
     {
       "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "domain:davidmarsden.info",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
       "source": "post:posts/2026/04/05/on-the-bins-again.md",
       "target": "domain:democracy.brent.gov.uk",
       "type": "cites-domain"
@@ -7738,6 +8008,12 @@
       "provenance": "source-post-link",
       "source": "post:posts/2026/05/01/back-to-the-future.md",
       "target": "domain:ealing-audit.southallstories.uk",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "domain:ealing.civiccommons.co.uk",
       "type": "cites-domain"
     },
     {
@@ -7851,6 +8127,12 @@
     {
       "provenance": "source-post-link",
       "source": "post:posts/2026/05/25/feeling-the-heat.md",
+      "target": "domain:ealing.gov.uk",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
       "target": "domain:ealing.gov.uk",
       "type": "cites-domain"
     },
@@ -8091,6 +8373,12 @@
     {
       "provenance": "source-post-link",
       "source": "post:posts/2026/05/29/individuality.md",
+      "target": "domain:ealing.news",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
       "target": "domain:ealing.news",
       "type": "cites-domain"
     },
@@ -8648,6 +8936,12 @@
     },
     {
       "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "domain:lgo.org.uk",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
       "source": "post:posts/2026/05/07/who-does-peter-mason-really.md",
       "target": "domain:lgpsboard.org",
       "type": "cites-domain"
@@ -8986,6 +9280,12 @@
       "provenance": "source-post-link",
       "source": "post:posts/2026/05/03/cactuses-never-die.md",
       "target": "domain:palquest.org",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/16/the-gasworks-and-me-and.md",
+      "target": "domain:pam.ealing.gov.uk",
       "type": "cites-domain"
     },
     {
@@ -9536,6 +9836,18 @@
     },
     {
       "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "domain:southallstories.uk",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/16/the-gasworks-and-me-and.md",
+      "target": "domain:southallstories.uk",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
       "source": "post:posts/2026/05/25/feeling-the-heat.md",
       "target": "domain:southalltransition.org",
       "type": "cites-domain"
@@ -10016,6 +10328,12 @@
     },
     {
       "provenance": "source-post-link",
+      "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "domain:x.com",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
       "source": "post:posts/2026/02/13/bangarang-pirate-pete-and-the.md",
       "target": "domain:youngealingfoundation.org.uk",
       "type": "cites-domain"
@@ -10077,6 +10395,12 @@
     {
       "provenance": "source-post-link",
       "source": "post:posts/2026/05/25/feeling-the-heat.md",
+      "target": "domain:youtu.be",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/09/16/the-gasworks-and-me-and.md",
       "target": "domain:youtu.be",
       "type": "cites-domain"
     },
@@ -12554,6 +12878,20 @@
       "type": "post"
     },
     {
+      "date": "2026-09-15T21:42:12+00:00",
+      "id": "post:posts/2026/09/15/holding-the-line.md",
+      "label": "Holding The Line",
+      "path": "posts/2026/09/15/holding-the-line.md",
+      "type": "post"
+    },
+    {
+      "date": "2026-09-16T13:47:09+00:00",
+      "id": "post:posts/2026/09/16/the-gasworks-and-me-and.md",
+      "label": "The Gasworks and Me (and You)",
+      "path": "posts/2026/09/16/the-gasworks-and-me-and.md",
+      "type": "post"
+    },
+    {
       "id": "entity:air-quality-scrutiny-panel",
       "label": "Air Quality Scrutiny Panel",
       "path": "entities/organisations/air-quality-scrutiny-panel.md",
@@ -13481,7 +13819,7 @@
     {
       "id": "domain:andrewteale.me.uk",
       "label": "andrewteale.me.uk",
-      "post_count": 4,
+      "post_count": 5,
       "type": "source-domain"
     },
     {
@@ -13529,7 +13867,7 @@
     {
       "id": "domain:bbc.co.uk",
       "label": "bbc.co.uk",
-      "post_count": 6,
+      "post_count": 7,
       "type": "source-domain"
     },
     {
@@ -13617,6 +13955,12 @@
       "type": "source-domain"
     },
     {
+      "id": "domain:commons.southallstories.uk",
+      "label": "commons.southallstories.uk",
+      "post_count": 1,
+      "type": "source-domain"
+    },
+    {
       "id": "domain:communitypoweredreporting.co.uk",
       "label": "communitypoweredreporting.co.uk",
       "post_count": 10,
@@ -13685,7 +14029,7 @@
     {
       "id": "domain:davidmarsden.info",
       "label": "davidmarsden.info",
-      "post_count": 6,
+      "post_count": 7,
       "type": "source-domain"
     },
     {
@@ -13725,6 +14069,12 @@
       "type": "source-domain"
     },
     {
+      "id": "domain:ealing.civiccommons.co.uk",
+      "label": "ealing.civiccommons.co.uk",
+      "post_count": 1,
+      "type": "source-domain"
+    },
+    {
       "id": "domain:ealing.cmis.uk.com",
       "label": "ealing.cmis.uk.com",
       "post_count": 1,
@@ -13733,7 +14083,7 @@
     {
       "id": "domain:ealing.gov.uk",
       "label": "ealing.gov.uk",
-      "post_count": 18,
+      "post_count": 19,
       "type": "source-domain"
     },
     {
@@ -13751,7 +14101,7 @@
     {
       "id": "domain:ealing.news",
       "label": "ealing.news",
-      "post_count": 19,
+      "post_count": 20,
       "type": "source-domain"
     },
     {
@@ -14037,6 +14387,12 @@
       "type": "source-domain"
     },
     {
+      "id": "domain:lgo.org.uk",
+      "label": "lgo.org.uk",
+      "post_count": 1,
+      "type": "source-domain"
+    },
+    {
       "id": "domain:lgpsboard.org",
       "label": "lgpsboard.org",
       "post_count": 1,
@@ -14253,6 +14609,12 @@
       "type": "source-domain"
     },
     {
+      "id": "domain:pam.ealing.gov.uk",
+      "label": "pam.ealing.gov.uk",
+      "post_count": 1,
+      "type": "source-domain"
+    },
+    {
       "id": "domain:pbs.twimg.com",
       "label": "pbs.twimg.com",
       "post_count": 10,
@@ -14429,7 +14791,7 @@
     {
       "id": "domain:southallstories.uk",
       "label": "southallstories.uk",
-      "post_count": 48,
+      "post_count": 50,
       "type": "source-domain"
     },
     {
@@ -14615,7 +14977,7 @@
     {
       "id": "domain:x.com",
       "label": "x.com",
-      "post_count": 14,
+      "post_count": 15,
       "type": "source-domain"
     },
     {
@@ -14627,7 +14989,7 @@
     {
       "id": "domain:youtu.be",
       "label": "youtu.be",
-      "post_count": 10,
+      "post_count": 11,
       "type": "source-domain"
     },
     {

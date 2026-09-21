@@ -2,25 +2,26 @@
 
 Outbound source domains ranked by the number of Southall Stories posts citing them.
 
-- **southallstories.uk** — 48 posts
+- **southallstories.uk** — 50 posts
+- **ealing.news** — 20 posts
+- **ealing.gov.uk** — 19 posts
 - **ealing.moderngov.co.uk** — 19 posts
-- **ealing.news** — 19 posts
-- **ealing.gov.uk** — 18 posts
-- **x.com** — 14 posts
+- **x.com** — 15 posts
 - **web.archive.org** — 13 posts
+- **youtu.be** — 11 posts
 - **aroundealing.com** — 10 posts
 - **communitypoweredreporting.co.uk** — 10 posts
 - **pbs.twimg.com** — 10 posts
-- **youtu.be** — 10 posts
 - **cdn.uploads.micro.mov** — 8 posts
 - **eu.uploads.micro.blog** — 8 posts
 - **mylondon.news** — 8 posts
+- **bbc.co.uk** — 7 posts
+- **davidmarsden.info** — 7 posts
 - **drive.google.com** — 7 posts
 - **gov.uk** — 7 posts
 - **youtube.com** — 7 posts
-- **bbc.co.uk** — 6 posts
-- **davidmarsden.info** — 6 posts
 - **ealingtoday.co.uk** — 6 posts
+- **andrewteale.me.uk** — 5 posts
 - **crowdjustice.com** — 5 posts
 - **docs.google.com** — 5 posts
 - **en.wikipedia.org** — 5 posts
@@ -29,7 +30,6 @@ Outbound source domains ranked by the number of Southall Stories posts citing th
 - **open.substack.com** — 5 posts
 - **theguardian.com** — 5 posts
 - **twitter.com** — 5 posts
-- **andrewteale.me.uk** — 4 posts
 - **ealingindependents.org** — 4 posts
 - **london.gov.uk** — 4 posts
 - **stopthetowers.info** — 4 posts
@@ -82,6 +82,7 @@ Outbound source domains ranked by the number of Southall Stories posts citing th
 - **chn.ge** — 1 post
 - **citizensuk.org** — 1 post
 - **common-wealth.org** — 1 post
+- **commons.southallstories.uk** — 1 post
 - **convertunits.com** — 1 post
 - **councilclimatescorecards.uk** — 1 post
 - **cprelondon.org.uk** — 1 post
@@ -94,6 +95,7 @@ Outbound source domains ranked by the number of Southall Stories posts citing th
 - **democracy.brent.gov.uk** — 1 post
 - **democraticservices.hounslow.gov.uk** — 1 post
 - **ealing-audit.southallstories.uk** — 1 post
+- **ealing.civiccommons.co.uk** — 1 post
 - **ealing.cmis.uk.com** — 1 post
 - **ealing.u3asite.uk** — 1 post
 - **ealingair.org.uk** — 1 post
@@ -124,6 +126,7 @@ Outbound source domains ranked by the number of Southall Stories posts citing th
 - **lder.org** — 1 post
 - **lead-day-50b.notion.site** — 1 post
 - **letsrecycle.com** — 1 post
+- **lgo.org.uk** — 1 post
 - **lgpsboard.org** — 1 post
 - **lgpsdivest.org** — 1 post
 - **libdems.org.uk** — 1 post
@@ -154,6 +157,7 @@ Outbound source domains ranked by the number of Southall Stories posts citing th
 - **opencouncildata.co.uk** — 1 post
 - **orbooks.com** — 1 post
 - **palquest.org** — 1 post
+- **pam.ealing.gov.uk** — 1 post
 - **photos.app.goo.gl** — 1 post
 - **pilc.org.uk** — 1 post
 - **plands.org** — 1 post

@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [The Gasworks and Me (and You)](/../posts/2026/09/16/the-gasworks-and-me-and.md) — 2026-09-16T13:47:09+00:00
+- [Holding The Line](/../posts/2026/09/15/holding-the-line.md) — 2026-09-15T21:42:12+00:00
 - [Individuality](/../posts/2026/05/29/individuality.md) — 2026-05-29T22:09:15+0100
 - [Feeling the Heat](/../posts/2026/05/25/feeling-the-heat.md) — 2026-05-25T15:34:05+0100
 - [Lift-Off! Ealing Elections Special ](/../posts/2026/05/09/liftoff-ealing-elections-special.md) — 2026-05-09T18:20:45+0100

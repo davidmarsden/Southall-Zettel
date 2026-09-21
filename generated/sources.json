@@ -44,7 +44,8 @@
   {
     "domain": "andrewteale.me.uk",
     "posts": [
-      "posts/2026/05/06/the-meeting-that-ended-local.md"
+      "posts/2026/05/06/the-meeting-that-ended-local.md",
+      "posts/2026/09/15/holding-the-line.md"
     ],
     "url": "https://www.andrewteale.me.uk/leap/results/2018/5/#ward98"
   },
@@ -66,7 +67,8 @@
     "domain": "andrewteale.me.uk",
     "posts": [
       "posts/2026/05/06/the-drugs-dont-work.md",
-      "posts/2026/05/06/the-meeting-that-ended-local.md"
+      "posts/2026/05/06/the-meeting-that-ended-local.md",
+      "posts/2026/09/15/holding-the-line.md"
     ],
     "url": "https://www.andrewteale.me.uk/leap/results/2022/5/#ward21441"
   },
@@ -315,6 +317,13 @@
   {
     "domain": "bbc.co.uk",
     "posts": [
+      "posts/2026/09/15/holding-the-line.md"
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cd69le324jyo"
+  },
+  {
+    "domain": "bbc.co.uk",
+    "posts": [
       "posts/2025/07/11/perceval-house-w-where-local.md"
     ],
     "url": "https://www.bbc.co.uk/news/articles/cpvj1jr0kz0o"
@@ -553,6 +562,13 @@
     "url": "https://www.common-wealth.org/interactive/who-owns-britain/data-dashboard/home"
   },
   {
+    "domain": "commons.southallstories.uk",
+    "posts": [
+      "posts/2026/09/15/holding-the-line.md"
+    ],
+    "url": "https://commons.southallstories.uk"
+  },
+  {
     "domain": "communitypoweredreporting.co.uk",
     "posts": [
       "posts/2026/05/06/the-drugs-dont-work.md"
@@ -699,8 +715,14 @@
   {
     "domain": "davidmarsden.info",
     "posts": [
-      "posts/2023/01/26/response-to-ealings-air-quality.md",
       "posts/2025/07/11/perceval-house-w-where-local.md"
+    ],
+    "url": "https://davidmarsden.info/2022/12/16/the-property-lobby-the-hidden.html"
+  },
+  {
+    "domain": "davidmarsden.info",
+    "posts": [
+      "posts/2023/01/26/response-to-ealings-air-quality.md"
     ],
     "url": "https://davidmarsden.info/2022/12/16/the-property-lobby.html"
   },
@@ -709,14 +731,14 @@
     "posts": [
       "posts/2025/07/11/perceval-house-w-where-local.md"
     ],
-    "url": "https://davidmarsden.info/2023/01/16/air-quality-strategy.html"
+    "url": "https://davidmarsden.info/2023/01/26/response-to-ealings-air-quality.html"
   },
   {
     "domain": "davidmarsden.info",
     "posts": [
       "posts/2024/10/31/copd.md"
     ],
-    "url": "https://davidmarsden.info/2024/10/29/the-southall-gasworks.html"
+    "url": "https://davidmarsden.info/2024/10/30/the-southall-gasworks-story.html"
   },
   {
     "domain": "davidmarsden.info",
@@ -730,7 +752,7 @@
     "posts": [
       "posts/2025/07/11/perceval-house-w-where-local.md"
     ],
-    "url": "https://davidmarsden.info/2025/03/12/ealing-council-are-consulting-on.html"
+    "url": "https://davidmarsden.info/2025/03/12/think-of-the-children.html"
   },
   {
     "domain": "davidmarsden.info",
@@ -745,6 +767,27 @@
       "posts/2026/01/12/a-fire-we-were-warned.md"
     ],
     "url": "https://davidmarsden.info/2026/01/12/some-amazing-photos-of-last.html"
+  },
+  {
+    "domain": "davidmarsden.info",
+    "posts": [
+      "posts/2026/09/15/holding-the-line.md"
+    ],
+    "url": "https://davidmarsden.info/2026/05/16/live-at-the-counter-eurovision.html"
+  },
+  {
+    "domain": "davidmarsden.info",
+    "posts": [
+      "posts/2026/09/15/holding-the-line.md"
+    ],
+    "url": "https://davidmarsden.info/2026/08/26/danger-keep-out.html"
+  },
+  {
+    "domain": "davidmarsden.info",
+    "posts": [
+      "posts/2026/09/15/holding-the-line.md"
+    ],
+    "url": "https://davidmarsden.info/categories/southall-stories/"
   },
   {
     "domain": "davidmarsden.info",
@@ -950,6 +993,13 @@
       "posts/2026/05/01/back-to-the-future.md"
     ],
     "url": "https://ealing-audit.southallstories.uk/"
+  },
+  {
+    "domain": "ealing.civiccommons.co.uk",
+    "posts": [
+      "posts/2026/09/15/holding-the-line.md"
+    ],
+    "url": "https://ealing.civiccommons.co.uk/"
   },
   {
     "domain": "ealing.cmis.uk.com",
@@ -1254,6 +1304,13 @@
       "posts/2026/01/22/its-never-enough-until-its.md"
     ],
     "url": "https://www.ealing.gov.uk/info/201199/air_quality/2058/report_an_air_pollution_problem"
+  },
+  {
+    "domain": "ealing.gov.uk",
+    "posts": [
+      "posts/2026/09/15/holding-the-line.md"
+    ],
+    "url": "https://www.ealing.gov.uk/info/201276/council_elections/3595/council_elections_results_7_may_2026/22"
   },
   {
     "domain": "ealing.gov.uk",
@@ -1627,6 +1684,13 @@
       "posts/2026/04/23/canvassing-with-minni-dogra-a.md"
     ],
     "url": "https://www.ealing.news/news/residents-fight-to-save-southall-broadway-post-office-deliver-petition-to-pm-rishi-sunak-and-holding-local-protest-on-saturday/"
+  },
+  {
+    "domain": "ealing.news",
+    "posts": [
+      "posts/2026/09/15/holding-the-line.md"
+    ],
+    "url": "https://www.ealing.news/news/southall-residents-protest-over-ealing-rise-relocation/"
   },
   {
     "domain": "ealing.news",
@@ -2428,6 +2492,13 @@
     "url": "https://www.letsrecycle.com/news/hounslow-council-leader-faces-wheeled-bin-protest/"
   },
   {
+    "domain": "lgo.org.uk",
+    "posts": [
+      "posts/2026/09/15/holding-the-line.md"
+    ],
+    "url": "https://www.lgo.org.uk/"
+  },
+  {
     "domain": "lgpsboard.org",
     "posts": [
       "posts/2026/05/07/who-does-peter-mason-really.md"
@@ -2874,6 +2945,20 @@
       "posts/2026/05/03/cactuses-never-die.md"
     ],
     "url": "https://www.palquest.org/en/historictext/21728/al-dawayima-massacre-29-october-1948-israeli-soldier-eye-witness-account"
+  },
+  {
+    "domain": "pam.ealing.gov.uk",
+    "posts": [
+      "posts/2026/09/16/the-gasworks-and-me-and.md"
+    ],
+    "url": "https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=ZZZW7BJMTA237"
+  },
+  {
+    "domain": "pam.ealing.gov.uk",
+    "posts": [
+      "posts/2026/09/16/the-gasworks-and-me-and.md"
+    ],
+    "url": "https://pam.ealing.gov.uk/online-applications/files/04D0D49869ABA343B7405B14A536D99E/pdf/P_2008_3981-DECISION_NOTICE-2053662.pdf"
   },
   {
     "domain": "pbs.twimg.com",
@@ -3832,6 +3917,20 @@
   {
     "domain": "southallstories.uk",
     "posts": [
+      "posts/2026/09/15/holding-the-line.md"
+    ],
+    "url": "https://southallstories.uk/2026/01/22/how-to-report-nuisance-and/"
+  },
+  {
+    "domain": "southallstories.uk",
+    "posts": [
+      "posts/2026/09/15/holding-the-line.md"
+    ],
+    "url": "https://southallstories.uk/archive/"
+  },
+  {
+    "domain": "southallstories.uk",
+    "posts": [
       "posts/2026/01/11/toxic-town-have-you-been.md",
       "posts/2026/04/28/this-place-has-turned-into.md",
       "posts/2026/05/06/sixtyfour-years-on-your-side.md",
@@ -3907,6 +4006,13 @@
       "posts/2026/05/06/sixtyfour-years-on-your-side.md"
     ],
     "url": "https://southallstories.uk/cllr-dhindsas-achievements-since-1998"
+  },
+  {
+    "domain": "southallstories.uk",
+    "posts": [
+      "posts/2026/09/15/holding-the-line.md"
+    ],
+    "url": "https://southallstories.uk/search-space/?q=%22Peter+Mason%22"
   },
   {
     "domain": "southallstories.uk",
@@ -4828,6 +4934,13 @@
   {
     "domain": "southallstories.uk",
     "posts": [
+      "posts/2026/09/15/holding-the-line.md"
+    ],
+    "url": "https://southallstories.uk/uploads/2026/file-000000009ecc81f4af84659f45a47180.png"
+  },
+  {
+    "domain": "southallstories.uk",
+    "posts": [
       "posts/2026/02/19/ealings-burning.md"
     ],
     "url": "https://southallstories.uk/uploads/2026/file-00000000a92c724395c31463bf614061.png"
@@ -5017,6 +5130,27 @@
   {
     "domain": "southallstories.uk",
     "posts": [
+      "posts/2026/09/16/the-gasworks-and-me-and.md"
+    ],
+    "url": "https://southallstories.uk/uploads/2026/p-2008-3981-decision-notice-2053662-page-0001.png"
+  },
+  {
+    "domain": "southallstories.uk",
+    "posts": [
+      "posts/2026/09/16/the-gasworks-and-me-and.md"
+    ],
+    "url": "https://southallstories.uk/uploads/2026/p-2008-3981-decision-notice-2053662-page-0012.png"
+  },
+  {
+    "domain": "southallstories.uk",
+    "posts": [
+      "posts/2026/09/16/the-gasworks-and-me-and.md"
+    ],
+    "url": "https://southallstories.uk/uploads/2026/p-2008-3981-decision-notice-2053662.pdf"
+  },
+  {
+    "domain": "southallstories.uk",
+    "posts": [
       "posts/2026/01/12/a-fire-we-were-warned.md"
     ],
     "url": "https://southallstories.uk/uploads/2026/pxl-20220310-090925118.mp.jpg"
@@ -5201,6 +5335,13 @@
   {
     "domain": "southallstories.uk",
     "posts": [
+      "posts/2026/09/15/holding-the-line.md"
+    ],
+    "url": "https://southallstories.uk/uploads/2026/pxl-20260906-1444202003.jpg"
+  },
+  {
+    "domain": "southallstories.uk",
+    "posts": [
       "posts/2026/05/25/feeling-the-heat.md"
     ],
     "url": "https://southallstories.uk/uploads/2026/screenshot-2020-06-02-at-23.17.30.png"
@@ -5366,6 +5507,13 @@
       "posts/2026/01/25/the-ea-files-what-regulators.md"
     ],
     "url": "https://southallstories.uk/uploads/2026/screenshot-20260125-192247.png"
+  },
+  {
+    "domain": "southallstories.uk",
+    "posts": [
+      "posts/2026/09/16/the-gasworks-and-me-and.md"
+    ],
+    "url": "https://southallstories.uk/uploads/2026/screenshot-20260130-191937.png"
   },
   {
     "domain": "southallstories.uk",
@@ -6472,6 +6620,13 @@
     "url": "https://x.com/juliangbell/status/1010621649111183360"
   },
   {
+    "domain": "x.com",
+    "posts": [
+      "posts/2026/09/15/holding-the-line.md"
+    ],
+    "url": "https://x.com/labourneil/status/2093762758307094979"
+  },
+  {
     "domain": "youngealingfoundation.org.uk",
     "posts": [
       "posts/2026/02/13/bangarang-pirate-pete-and-the.md"
@@ -6561,6 +6716,13 @@
       "posts/2026/05/03/cactuses-never-die.md"
     ],
     "url": "https://youtu.be/qQSmuuFfWOw"
+  },
+  {
+    "domain": "youtu.be",
+    "posts": [
+      "posts/2026/09/16/the-gasworks-and-me-and.md"
+    ],
+    "url": "https://youtu.be/sLZoyZO3IXU"
   },
   {
     "domain": "youtu.be",
