@@ -15,6 +15,7 @@ Generated reverse links between posts plus entity/topic mention counts.
 - [The Meeting that Ended Local Democracy in Southall](../posts/2026/05/06/the-meeting-that-ended-local.md) — 5
 - [Toxic Town - Have You Been Affected?](../posts/2026/01/11/toxic-town-have-you-been.md) — 4
 - [A Fire We Were Warned About](../posts/2026/01/12/a-fire-we-were-warned.md) — 4
+- [What Happened to Southall?](../posts/2026/03/27/what-happened-to-southall.md) — 4
 - [On the Bins Again](../posts/2026/04/05/on-the-bins-again.md) — 4
 - ["You Never Forget the Smell of Damp": Peter Mason's Housing Record in His Own Words](../posts/2026/04/21/you-never-forget-the-smell.md) — 4
 - [First They Came for the Socialists](../posts/2026/04/24/first-they-came-for-the.md) — 4
@@ -29,6 +30,7 @@ Generated reverse links between posts plus entity/topic mention counts.
 - [When is a Hustings not a Hustings?](../posts/2026/04/30/when-is-a-hustings-not.md) — 3
 - [The Smell of Success](../posts/2026/05/02/the-smell-of-success.md) — 3
 - [Sixty-Four Years On Your Side](../posts/2026/05/06/sixtyfour-years-on-your-side.md) — 3
+- [The Drugs Don't Work](../posts/2026/05/06/the-drugs-dont-work.md) — 3
 - [The Health and Other Impacts of Southall Waterside on Southall & Hayes Residents](../posts/2019/06/25/the-health-and-other-impacts.md) — 2
 - [PHE cover-up?](../posts/2019/07/09/phe-coverup.md) — 2
 - [PHE cover-up, continued](../posts/2019/07/21/phe-coverup-continued.md) — 2
@@ -39,14 +41,13 @@ Generated reverse links between posts plus entity/topic mention counts.
 - [The EA Files: What Regulators Knew About Fire Risks at Southall Recycling Site](../posts/2026/01/25/the-ea-files-what-regulators.md) — 2
 - [The Broken Manifesto Promises that show how Labour is Failing Ealing](../posts/2026/02/18/the-broken-manifesto-promises-that.md) — 2
 - [Ealing's Burning](../posts/2026/02/19/ealings-burning.md) — 2
-- [What Happened to Southall?](../posts/2026/03/27/what-happened-to-southall.md) — 2
 - [When "deport six million" becomes mainstream: what Ealing Labour won't tell you](../posts/2026/04/24/when-deport-six-million-becomes.md) — 2
 - ["This Place Has Turned Into a Bloody Slum": Southall Wards Meeting with ECI candidates](../posts/2026/04/28/this-place-has-turned-into.md) — 2
 - [It Takes Two to Tango](../posts/2026/05/06/it-takes-two-to-tango.md) — 2
-- [The Drugs Don't Work](../posts/2026/05/06/the-drugs-dont-work.md) — 2
 - [Computer Says No](../posts/2026/05/07/computer-says-no.md) — 2
 - [Lift-Off! Ealing Elections Special ](../posts/2026/05/09/liftoff-ealing-elections-special.md) — 2
 - [Feeling the Heat](../posts/2026/05/25/feeling-the-heat.md) — 2
+- [Individuality](../posts/2026/05/29/individuality.md) — 2
 - [Health Risks of Exposure to Benzene](../posts/2018/08/03/health-risks-of-exposure-to.md) — 1
 - [Lies, Damned Lies, and Statistics?](../posts/2018/11/02/lies-damned-lies-and-statistics.md) — 1
 - [Naphthalene Poisoning Risk in People of African and Asian Heritage](../posts/2019/07/12/naphthalene-poisoning-risk-in-people.md) — 1
@@ -58,18 +59,17 @@ Generated reverse links between posts plus entity/topic mention counts.
 - [Risks to Health from Remediating Southall Gasworks](../posts/2023/05/01/risks-to-health-from-remediating.md) — 1
 - [So it Goes: AI on the Absurd Logic of Ealing Council](../posts/2025/07/12/so-it-goes-ai-on.md) — 1
 - [Cactuses Never Die](../posts/2026/05/03/cactuses-never-die.md) — 1
-- [Individuality](../posts/2026/05/29/individuality.md) — 1
 
 ## Most-mentioned entities
 
-- **Southall** — 65
-- **Ealing** — 62
-- **Ealing Council** — 50
-- **Southall Gasworks** — 42
+- **Southall** — 67
+- **Ealing** — 64
+- **Ealing Council** — 52
+- **Southall Gasworks** — 43
 - **Berkeley Group** — 33
 - **Peter Mason** — 31
 - **Ealing Labour** — 30
-- **Southall Green** — 23
+- **Southall Green** — 24
 - **Julian Bell** — 15
 - **Labour Party** — 15
 - **Environment Agency** — 14
@@ -80,8 +80,8 @@ Generated reverse links between posts plus entity/topic mention counts.
 - **Blair Peach Primary School** — 9
 - **Clean Air for Southall and Hayes** — 9
 - **Liberal Democrats** — 9
-- **Southall Broadway** — 8
-- **Community Powered Reporting** — 7
+- **Southall Broadway** — 9
+- **Community Powered Reporting** — 8
 - **Conservative Party** — 7
 - **Tony Pidgley** — 7
 - **Virendra Sharma** — 7
@@ -97,7 +97,9 @@ Generated reverse links between posts plus entity/topic mention counts.
 - **Jeremy Corbyn** — 5
 - **Norwood Green** — 5
 - **Private Eye** — 5
+- **South Road** — 5
 - **Southall Community Alliance** — 5
+- **David Marsden** — 4
 - **Ealing News** — 4
 - **Ealing Southall constituency** — 4
 - **Elizabeth Line** — 4
@@ -110,13 +112,12 @@ Generated reverse links between posts plus entity/topic mention counts.
 - **Local Government Association** — 4
 - **National Front** — 4
 - **Perceval House** — 4
-- **South Road** — 4
 - **Swaran Singh Padda** — 4
 - **Angela Fonso** — 3
 - **Bassam Mahfouz** — 3
 - **Beaconsfield Road** — 3
 - **Damian Leydon** — 3
-- **David Marsden** — 3
+- **Dormers Wells** — 3
 - **Dr John Freeman** — 3
 - **Ealing Independent Network** — 3
 - **East Acton** — 3
@@ -142,7 +143,6 @@ Generated reverse links between posts plus entity/topic mention counts.
 - **Boris Johnson** — 2
 - **Conal Urquhart** — 2
 - **Dan Cortese** — 2
-- **Dormers Wells** — 2
 - **Dr Onkar Sahota** — 2
 - **Ealing Common** — 2
 - **Ealing Council Pension Fund Panel** — 2
@@ -185,13 +185,13 @@ Generated reverse links between posts plus entity/topic mention counts.
 
 ## Most-mentioned topics
 
-- **Local democracy** — 42
-- **Planning and development** — 42
+- **Planning and development** — 44
+- **Local democracy** — 43
 - **Air pollution** — 39
-- **Council accountability** — 38
-- **Housing** — 37
-- **Waste and fly-tipping** — 32
-- **Governance** — 30
+- **Council accountability** — 39
+- **Housing** — 39
+- **Waste and fly-tipping** — 33
+- **Governance** — 31
 - **Public health** — 28
 - **Children's centres** — 16
 - **Pensions and divestment** — 5

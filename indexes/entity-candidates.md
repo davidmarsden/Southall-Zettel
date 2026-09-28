@@ -2,6 +2,28 @@
 
 Machine-generated review queue. Nothing here is a curated assertion until promoted into `entities/`.
 
+## Action Plan
+
+- **Class hint:** person_or_body
+- **Posts:** 2
+- **Mentions:** 7
+- **Score:** 27
+- **First / last:** 2023-01-26T20:32:00+0100 / 2026-09-26T12:23:49+00:00
+
+- `posts/2023/01/26/response-to-ealings-air-quality.md` — Response to Ealing's Air Quality Strategy and Action Plan Ealing Council's draft air quality strategy promises to protect residents from pollution while simultaneously allowing
+- `posts/2026/09/26/bingo-ealing-tells-the-truth.md` — it comes to processing planning applications within required or agreed timescales. In its own Barriers to Delivery and Action Plan, the council says its Development Management service handles around 5,000 applications a year , makes 100% of major dec
+
+## The Head
+
+- **Class hint:** person_or_body
+- **Posts:** 2
+- **Mentions:** 5
+- **Score:** 25
+- **First / last:** 2026-05-07T07:12:57+0100 / 2026-09-26T12:23:49+00:00
+
+- `posts/2026/05/07/computer-says-no.md` — me today to ask for a minor amendment to this article. Their email arrived without difficulty. --- The April email from the Head of Environmental Health confirmed the council was working to ensure my emails were "not unnecessarily blocked." Presuma
+- `posts/2026/09/26/bingo-ealing-tells-the-truth.md` — ation. The planning portal records just two: Pollution Technical (Environmental Health) and Waste and Street Services . The Head of Community Safety instead lodged a detailed objection through the public comments section, explicitly stating: "I am
+
 ## Demolition Man
 
 - **Class hint:** person_or_body
@@ -45,6 +67,17 @@ Machine-generated review queue. Nothing here is a curated assertion until promot
 
 - `posts/2026/04/28/this-place-has-turned-into.md` — Dogra, ECI candidate for Southall Green, was clear-eyed about the trajectory. "It's been a long journey," she said. The Southall Library building — the old Carnegie building — stands empty and derelict. The business community lost their Chamber of Commerce
 - `posts/2026/09/15/holding-the-line.md` — Station Road roundabout reminds me of the Statue of Liberty. --- {{ }} Some more photos from my walk, including the old Southall Library, The Tudor Rose, St Anselm's Church, Manor House, and Manor House Grounds. Bonus picture from last week at Southall Sta
+
+## The Drugs Don't Work
+
+- **Class hint:** unknown
+- **Posts:** 2
+- **Mentions:** 2
+- **Score:** 22
+- **First / last:** 2026-05-09T18:20:45+0100 / 2026-09-26T12:23:49+00:00
+
+- `posts/2026/05/09/liftoff-ealing-elections-special.md` — lpole Wipeout, the Liberal Democrats took all three seats. Shaw leapt from the LibDem frying pan into the Green fire. 💊 The Drugs Don't Work 💊 When The Drugs Don't Work was published two days before polling day, the argument was simple: Ealing's drug and alcoh
+- `posts/2026/09/26/bingo-ealing-tells-the-truth.md` — ding Three Horseshoes and Hanwell - The Three Horseshoes, Southall - Curriculum Vitae: Memento Vivere — David Marsden - The Drugs Don't Work — Southall Stories
 
 ## The Johnson Street
 

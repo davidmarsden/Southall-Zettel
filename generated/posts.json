@@ -3584,5 +3584,94 @@
     ],
     "images": [],
     "videos": []
+  },
+  {
+    "path": "posts/2026/09/21/we-can-remember-it-for.md",
+    "sha256": "a3b93f44470feba8bed848af205a8b2da00128325d4ab5fd9cd1478d99b7640b",
+    "post_id": 6028520,
+    "title": "We Can Remember It for You Wholesale",
+    "summary": null,
+    "date": "2026-09-21T21:40:41+00:00",
+    "lastmod": null,
+    "url": "/2026/09/21/we-can-remember-it-for/",
+    "guid": null,
+    "categories": [
+      "Investigations",
+      "Local Democracy",
+      "Community",
+      "Ethics",
+      "Civic Commons"
+    ],
+    "outbound_links": [
+      "https://civiccommons.co.uk/",
+      "https://civiccommons.co.uk/charter/",
+      "https://davidmarsden.info/2023/03/30/i-visited-the.html",
+      "https://ealing.civiccommons.co.uk/",
+      "https://southall.civiccommons.co.uk/",
+      "https://southallstories.uk/",
+      "https://southallstories.uk/2026/03/27/what-happened-to-southall/",
+      "https://southallstories.uk/2026/05/29/individuality/",
+      "https://southallstories.uk/categories/gasworks/",
+      "https://www.nationalarchives.gov.uk/education/resources/magna-carta/charter-forest-1225-westminster/",
+      "https://www.rssboard.org/rss-history",
+      "https://www.rssboard.org/rss-specification"
+    ],
+    "outbound_domains": [
+      "civiccommons.co.uk",
+      "davidmarsden.info",
+      "ealing.civiccommons.co.uk",
+      "nationalarchives.gov.uk",
+      "rssboard.org",
+      "southall.civiccommons.co.uk",
+      "southallstories.uk"
+    ],
+    "images": [],
+    "videos": []
+  },
+  {
+    "path": "posts/2026/09/26/bingo-ealing-tells-the-truth.md",
+    "sha256": "fedc408215b4caa3552efbb10863e9eae0a78551d92887e0a29f2feb21ca1df0",
+    "post_id": 6033362,
+    "title": "Bingo! Ealing Tells the Truth About Southall",
+    "summary": null,
+    "date": "2026-09-26T12:23:49+00:00",
+    "lastmod": null,
+    "url": "/2026/09/26/bingo-ealing-tells-the-truth/",
+    "guid": null,
+    "categories": [
+      "Investigations",
+      "Local Democracy",
+      "Community",
+      "Commentary"
+    ],
+    "outbound_links": [
+      "https://davidmarsden.info/2024/01/24/curriculum-vitae-memento-vivere.html",
+      "https://ealing.moderngov.co.uk/documents/s25605/Appendix%203%20-%20Consultation%20Results.pdf",
+      "https://en.wikipedia.org/wiki/Three_Horseshoes,_Southall",
+      "https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=TJ1CAVJMIF200",
+      "https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=TJ1CAVJMIF200",
+      "https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=TJ1CAVJMIF200",
+      "https://plota.co.uk/planning-appeals/ealing/",
+      "https://southallstories.uk/2026/03/27/what-happened-to-southall/",
+      "https://southallstories.uk/2026/05/06/the-drugs-dont-work/",
+      "https://www.ealing.gov.uk/download/downloads/id/18368/ealing_council_statement_of_gambling_licensing_policy_2026.pdf",
+      "https://www.ealing.gov.uk/download/downloads/id/21149/barriers_to_delivery_and_action_plan.pdf",
+      "https://www.ealing.gov.uk/download/downloads/id/21288/local_area_profile.pdf",
+      "https://www.planningatlas.co.uk/atlas/ealing",
+      "https://www.planningatlas.co.uk/atlas/ealing/applications/254625FUL",
+      "https://www.planningatlas.co.uk/atlas/ealing/wards/southall-green"
+    ],
+    "outbound_domains": [
+      "davidmarsden.info",
+      "ealing.gov.uk",
+      "ealing.moderngov.co.uk",
+      "en.wikipedia.org",
+      "pam.ealing.gov.uk",
+      "planningatlas.co.uk",
+      "plota.co.uk",
+      "southallstories.uk"
+    ],
+    "images": [],
+    "videos": []
   }
 ]

@@ -1,26 +1,26 @@
 # Outbound source domains
 
-- **southallstories.uk** — 34 posts
+- **southallstories.uk** — 36 posts
+- **ealing.gov.uk** — 19 posts
+- **ealing.moderngov.co.uk** — 19 posts
 - **ealing.news** — 19 posts
-- **ealing.gov.uk** — 18 posts
-- **ealing.moderngov.co.uk** — 18 posts
 - **x.com** — 15 posts
 - **web.archive.org** — 12 posts
 - **youtu.be** — 11 posts
 - **pbs.twimg.com** — 10 posts
 - **aroundealing.com** — 10 posts
 - **communitypoweredreporting.co.uk** — 10 posts
+- **davidmarsden.info** — 8 posts
 - **mylondon.news** — 8 posts
 - **drive.google.com** — 7 posts
 - **gov.uk** — 7 posts
-- **davidmarsden.info** — 6 posts
 - **bbc.co.uk** — 6 posts
 - **ealingtoday.co.uk** — 6 posts
+- **en.wikipedia.org** — 6 posts
 - **twitter.com** — 5 posts
 - **docs.google.com** — 5 posts
 - **youtube.com** — 5 posts
 - **crowdjustice.com** — 5 posts
-- **en.wikipedia.org** — 5 posts
 - **open.substack.com** — 5 posts
 - **facebook.com** — 5 posts
 - **linkedin.com** — 5 posts
@@ -58,6 +58,9 @@
 - **londonforum.org.uk** — 2 posts
 - **un.org** — 2 posts
 - **whocanivotefor.co.uk** — 2 posts
+- **nationalarchives.gov.uk** — 2 posts
+- **ealing.civiccommons.co.uk** — 2 posts
+- **pam.ealing.gov.uk** — 2 posts
 - **getwestlondon.co.uk** — 1 post
 - **nj.gov** — 1 post
 - **aresok.org** — 1 post
@@ -157,7 +160,6 @@
 - **lalkar.org** — 1 post
 - **lgpsboard.org** — 1 post
 - **londonciv.org.uk** — 1 post
-- **nationalarchives.gov.uk** — 1 post
 - **news.sky.com** — 1 post
 - **orbooks.com** — 1 post
 - **photos.app.goo.gl** — 1 post
@@ -187,6 +189,9 @@
 - **timeanddate.com** — 1 post
 - **trees-cities.files.svdcdn.com** — 1 post
 - **commons.southallstories.uk** — 1 post
-- **ealing.civiccommons.co.uk** — 1 post
 - **lgo.org.uk** — 1 post
-- **pam.ealing.gov.uk** — 1 post
+- **civiccommons.co.uk** — 1 post
+- **rssboard.org** — 1 post
+- **southall.civiccommons.co.uk** — 1 post
+- **planningatlas.co.uk** — 1 post
+- **plota.co.uk** — 1 post

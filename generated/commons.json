@@ -1163,21 +1163,21 @@
       "url": "https://twitter.com/EalingCouncil/status/1072457795621060611"
     },
     {
-      "article_label": "assets.publishing.service.gov.uk/government/upl…",
-      "destination_title": "Microsoft Word - BENZENE Toxicological overview v2.doc",
-      "domain": "web.archive.org",
-      "label": "Microsoft Word - BENZENE Toxicological overview v2.doc",
-      "post": "post:5550942",
-      "provenance": "source-post-link",
-      "resolved_url": "https://web.archive.org/web/20190728165227if_/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf",
-      "title_source": "pdf-title",
-      "url": "https://web.archive.org/web/20190728165227if_/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf"
-    },
-    {
       "domain": "web.archive.org",
       "label": "assets.publishing.service.gov.uk/government/upl…",
       "post": "post:5550942",
       "provenance": "source-post-link",
+      "url": "https://web.archive.org/web/20190728165227if_/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf"
+    },
+    {
+      "article_label": "assets.publishing.service.gov.uk/government/upl…",
+      "destination_title": "Compendium of Chemical Hazards",
+      "domain": "web.archive.org",
+      "label": "Compendium of Chemical Hazards",
+      "post": "post:5550942",
+      "provenance": "source-post-link",
+      "resolved_url": "https://web.archive.org/web/20190728165228if_/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/522459/Benzene_IM_PHE_050516.pdf",
+      "title_source": "pdf-title",
       "url": "https://web.archive.org/web/20190728165228if_/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/522459/Benzene_IM_PHE_050516.pdf"
     },
     {
@@ -1476,10 +1476,14 @@
       "url": "https://web.archive.org/web/20210505132417/https://ealingperformance.inphase.com/Plan/853#865"
     },
     {
+      "article_label": "ealing.gov.uk/news/article/1…",
+      "destination_title": "Nearly 900 new genuinely affordable homes in Ealing since April 2018 | Ealing Council",
       "domain": "web.archive.org",
-      "label": "ealing.gov.uk/news/article/1…",
+      "label": "Nearly 900 new genuinely affordable homes in Ealing since April 2018 | Ealing Council",
       "post": "post:5551023",
       "provenance": "source-post-link",
+      "resolved_url": "https://web.archive.org/web/20210505225051/https://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018",
+      "title_source": "html-title",
       "url": "https://web.archive.org/web/20210505225051/https://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018"
     },
     {
@@ -1966,14 +1970,10 @@
       "url": "https://web.archive.org/web/20210505132417/https://ealingperformance.inphase.com/Plan/853"
     },
     {
-      "article_label": "898",
-      "destination_title": "Nearly 900 new genuinely affordable homes in Ealing since April 2018 | Ealing Council",
       "domain": "web.archive.org",
-      "label": "Nearly 900 new genuinely affordable homes in Ealing since April 2018 | Ealing Council",
+      "label": "898",
       "post": "post:5722627",
       "provenance": "source-post-link",
-      "resolved_url": "https://web.archive.org/web/20210505225051/http://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018",
-      "title_source": "html-title",
       "url": "https://web.archive.org/web/20210505225051/http://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018"
     },
     {
@@ -2044,12 +2044,12 @@
     },
     {
       "article_label": "On Your Side!",
-      "destination_title": "BIGHOKI !! Akses Alternatif Terbaru Game Online Buat Mata Melolok Liat Jepe!",
+      "destination_title": "BIGHOKI 🍒 Link Hiburan Khusus Awal Cuma Coba Coba, Ga Sangka Malah Jepe Coy!",
       "domain": "ealinglabour.com",
-      "label": "BIGHOKI !! Akses Alternatif Terbaru Game Online Buat Mata Melolok Liat Jepe!",
+      "label": "BIGHOKI 🍒 Link Hiburan Khusus Awal Cuma Coba Coba, Ga Sangka Malah Jepe Coy!",
       "post": "post:5722627",
       "provenance": "source-post-link",
-      "resolved_url": "https://www.bighokiajaib.com/",
+      "resolved_url": "https://mondocaffegenova.com/",
       "title_source": "og:title",
       "url": "https://www.ealinglabour.com/manifesto2022/"
     },
@@ -2360,12 +2360,12 @@
     },
     {
       "article_label": "on your side",
-      "destination_title": "BIGHOKI !! Akses Alternatif Terbaru Game Online Buat Mata Melolok Liat Jepe!",
+      "destination_title": "BIGHOKI 🍒 Link Hiburan Khusus Awal Cuma Coba Coba, Ga Sangka Malah Jepe Coy!",
       "domain": "ealinglabour.com",
-      "label": "BIGHOKI !! Akses Alternatif Terbaru Game Online Buat Mata Melolok Liat Jepe!",
+      "label": "BIGHOKI 🍒 Link Hiburan Khusus Awal Cuma Coba Coba, Ga Sangka Malah Jepe Coy!",
       "post": "post:5754191",
       "provenance": "source-post-link",
-      "resolved_url": "https://www.bighokiajaib.com/",
+      "resolved_url": "https://mondocaffegenova.com/",
       "title_source": "og:title",
       "url": "https://www.ealinglabour.com/manifesto2022/"
     },
@@ -2700,14 +2700,10 @@
       "url": "https://open.substack.com/pub/theviewfromw5/p/ealing-delivers-16-percent-of-its-affordable-homes-target"
     },
     {
-      "article_label": "analysis by the London Tenants Federation",
-      "destination_title": "London’s social housing depleted by demolition, study claims",
       "domain": "architectsjournal.co.uk",
-      "label": "London’s social housing depleted by demolition, study claims",
+      "label": "analysis by the London Tenants Federation",
       "post": "post:5756463",
       "provenance": "source-post-link",
-      "resolved_url": "https://www.architectsjournal.co.uk/news/londons-social-housing-depleted-by-demolition-study-claims",
-      "title_source": "og:title",
       "url": "https://www.architectsjournal.co.uk/news/londons-social-housing-depleted-by-demolition-study-claims"
     },
     {
@@ -3461,10 +3457,14 @@
       "url": "https://open.substack.com/pub/southall/p/a-town-ignored-southall-after-16"
     },
     {
+      "article_label": "at a public meeting called by disabled adults",
+      "destination_title": "A \"S.A.D.\" Tale - The Ealing Labour Councillor's Contempt For Day Care Centre Users...",
       "domain": "sadealing.blogspot.com",
-      "label": "at a public meeting called by disabled adults",
+      "label": "A \"S.A.D.\" Tale - The Ealing Labour Councillor's Contempt For Day Care Centre Users...",
       "post": "post:5839992",
       "provenance": "source-post-link",
+      "resolved_url": "https://sadealing.blogspot.com/2010/10/sad-tale-ealing-labour-councillors.html",
+      "title_source": "og:title",
       "url": "https://sadealing.blogspot.com/2010/10/sad-tale-ealing-labour-councillors.html"
     },
     {
@@ -3660,10 +3660,14 @@
       "url": "https://www.standard.co.uk/news/politics/local-elections-london-ealing-councillor-kate-crawford-defection-labour-b1276728.html"
     },
     {
+      "article_label": "Labour abandoned its opposition to immigration control as early as 1962",
+      "destination_title": "Why immigration policy since 1962 has such a poor record of achievement | LSE British Politics",
       "domain": "blogs.lse.ac.uk",
-      "label": "Labour abandoned its opposition to immigration control as early as 1962",
+      "label": "Why immigration policy since 1962 has such a poor record of achievement | LSE British Politics",
       "post": "post:5841154",
       "provenance": "source-post-link",
+      "resolved_url": "https://blogs.lse.ac.uk/politicsandpolicy/talking-the-talk-immigration-policy-since-1962/",
+      "title_source": "og:title",
       "url": "https://blogs.lse.ac.uk/politicsandpolicy/talking-the-talk-immigration-policy-since-1962/"
     },
     {
@@ -4087,25 +4091,17 @@
       "url": "https://ealing-audit.southallstories.uk/"
     },
     {
-      "article_label": "15 January 2012",
-      "destination_title": "Wayback Machine Hamburger icon Internet Archive logo Web icon Texts icon Video icon Audio icon Software icon Images icon Donate icon Ellipses icon Donate icon User icon Upload icon Search icon Search icon Donate icon",
       "domain": "web.archive.org",
-      "label": "Wayback Machine Hamburger icon Internet Archive logo Web icon Texts icon Video icon Audio icon Software icon Images icon Donate icon Ellipses icon Donate icon User icon Upload icon Search icon Search icon Donate icon",
+      "label": "15 January 2012",
       "post": "post:5851892",
       "provenance": "source-post-link",
-      "resolved_url": "https://web.archive.org/web/20120115000000*/https://www.ealing.gov.uk/download/downloads/id/488/welcome_guide_for_new_residents",
-      "title_source": "html-title",
       "url": "https://web.archive.org/web/20120115000000*/https://www.ealing.gov.uk/download/downloads/id/488/welcome_guide_for_new_residents"
     },
     {
-      "article_label": "Wayback Machine",
-      "destination_title": "Wayback Machine Hamburger icon Internet Archive logo Web icon Texts icon Video icon Audio icon Software icon Images icon Donate icon Ellipses icon Donate icon User icon Upload icon Search icon Search icon Donate icon",
       "domain": "web.archive.org",
-      "label": "Wayback Machine Hamburger icon Internet Archive logo Web icon Texts icon Video icon Audio icon Software icon Images icon Donate icon Ellipses icon Donate icon User icon Upload icon Search icon Search icon Donate icon",
+      "label": "Wayback Machine",
       "post": "post:5851892",
       "provenance": "source-post-link",
-      "resolved_url": "https://web.archive.org/web/20241201000000*/https://www.ealing.gov.uk/download/downloads/id/488/welcome_guide_for_new_residents",
-      "title_source": "html-title",
       "url": "https://web.archive.org/web/20241201000000*/https://www.ealing.gov.uk/download/downloads/id/488/welcome_guide_for_new_residents"
     },
     {
@@ -4545,14 +4541,10 @@
       "url": "https://web.archive.org/web/20181219221205/https://www.ealinglabour.com/"
     },
     {
-      "article_label": "demolished more social homes than any other London borough",
-      "destination_title": "London’s social housing depleted by demolition, study claims",
       "domain": "architectsjournal.co.uk",
-      "label": "London’s social housing depleted by demolition, study claims",
+      "label": "demolished more social homes than any other London borough",
       "post": "post:5855337",
       "provenance": "source-post-link",
-      "resolved_url": "https://www.architectsjournal.co.uk/news/londons-social-housing-depleted-by-demolition-study-claims",
-      "title_source": "og:title",
       "url": "https://www.architectsjournal.co.uk/news/londons-social-housing-depleted-by-demolition-study-claims"
     },
     {
@@ -4711,14 +4703,10 @@
       "url": "https://www.telegraph.co.uk/gift/9249993120211e2f"
     },
     {
-      "article_label": "The Atlantic",
-      "destination_title": "Why British Jews Are Worried by Jeremy Corbyn",
       "domain": "theatlantic.com",
-      "label": "Why British Jews Are Worried by Jeremy Corbyn",
+      "label": "The Atlantic",
       "post": "post:5855337",
       "provenance": "source-post-link",
-      "resolved_url": "https://www.theatlantic.com/international/archive/2019/12/british-jews-are-worried-jeremy-corbyn-and-labour-party/603259/",
-      "title_source": "og:title",
       "url": "https://www.theatlantic.com/international/archive/2019/12/british-jews-are-worried-jeremy-corbyn-and-labour-party/603259/"
     },
     {
@@ -5540,10 +5528,14 @@
       "url": "https://www.andrewteale.me.uk/leap/results/2014/5/#ward84"
     },
     {
+      "article_label": "Salvinder Dhillon",
+      "destination_title": "Local Elections Archive Project — Southall Green Ward",
       "domain": "andrewteale.me.uk",
-      "label": "Salvinder Dhillon",
+      "label": "Local Elections Archive Project — Southall Green Ward",
       "post": "post:5863048",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.andrewteale.me.uk/leap/ward/98/",
+      "title_source": "html-title",
       "url": "https://www.andrewteale.me.uk/leap/ward/98/"
     },
     {
@@ -5712,12 +5704,12 @@
     },
     {
       "article_label": "'Green Army'",
-      "destination_title": "'The most Irish Englishman': Keir Starmer and his advisers have close links to Ireland - Cookie Policy - Roscommon Herald",
+      "destination_title": "'The most Irish Englishman': Keir Starmer and his advisers have close links to Ireland - National News - Roscommon Herald",
       "domain": "roscommonherald.ie",
-      "label": "'The most Irish Englishman': Keir Starmer and his advisers have close links to Ireland - Cookie Policy - Roscommon Herald",
+      "label": "'The most Irish Englishman': Keir Starmer and his advisers have close links to Ireland - National News - Roscommon Herald",
       "post": "post:5863048",
       "provenance": "source-post-link",
-      "resolved_url": "https://www.roscommonherald.ie/cookie-policy/the-most-irish-englishman-keir-starmer-and-his-advisers-have-close-links-to-ireland_arid-23406.html",
+      "resolved_url": "https://www.roscommonherald.ie/news/national-news/the-most-irish-englishman-keir-starmer-and-his-advisers-have-close-links-to-ireland_arid-23406.html",
       "title_source": "og:title",
       "url": "https://www.roscommonherald.ie/the-most-irish-englishman-keir-starmer-and-his-advisers-have-close-links-to-ireland_arid-23406.html"
     },
@@ -6236,15 +6228,230 @@
       "post": "post:6018683",
       "provenance": "source-post-link",
       "url": "https://youtu.be/sLZoyZO3IXU"
+    },
+    {
+      "article_label": "civiccommons.co.uk",
+      "destination_title": "Civic Commons",
+      "domain": "civiccommons.co.uk",
+      "label": "Civic Commons",
+      "post": "post:6028520",
+      "provenance": "source-post-link",
+      "resolved_url": "https://civiccommons.co.uk/",
+      "title_source": "og:title",
+      "url": "https://civiccommons.co.uk/"
+    },
+    {
+      "article_label": "Charter of the Commons",
+      "destination_title": "Charter of the Commons",
+      "domain": "civiccommons.co.uk",
+      "label": "Charter of the Commons",
+      "post": "post:6028520",
+      "provenance": "source-post-link",
+      "resolved_url": "https://civiccommons.co.uk/charter/",
+      "title_source": "og:title",
+      "url": "https://civiccommons.co.uk/charter/"
+    },
+    {
+      "article_label": "highly revered",
+      "destination_title": "Horseshit parade",
+      "domain": "davidmarsden.info",
+      "label": "Horseshit parade",
+      "post": "post:6028520",
+      "provenance": "source-post-link",
+      "resolved_url": "https://davidmarsden.info/2023/03/30/i-visited-the.html",
+      "title_source": "og:title",
+      "url": "https://davidmarsden.info/2023/03/30/i-visited-the.html"
+    },
+    {
+      "article_label": "Ealing Civic Commons",
+      "destination_title": "Ealing Civic Commons",
+      "domain": "ealing.civiccommons.co.uk",
+      "label": "Ealing Civic Commons",
+      "post": "post:6028520",
+      "provenance": "source-post-link",
+      "resolved_url": "https://ealing.civiccommons.co.uk/",
+      "title_source": "og:title",
+      "url": "https://ealing.civiccommons.co.uk/"
+    },
+    {
+      "domain": "southall.civiccommons.co.uk",
+      "label": "southall.civiccommons.co.uk",
+      "post": "post:6028520",
+      "provenance": "source-post-link",
+      "url": "https://southall.civiccommons.co.uk/"
+    },
+    {
+      "article_label": "Charter of the Forest",
+      "destination_title": "Teaching resource: Magna Carta 1214–1225",
+      "domain": "nationalarchives.gov.uk",
+      "label": "Teaching resource: Magna Carta 1214–1225",
+      "post": "post:6028520",
+      "provenance": "source-post-link",
+      "resolved_url": "https://www.nationalarchives.gov.uk/education/teaching-resources/magna-carta-1214-1225/",
+      "title_source": "og:title",
+      "url": "https://www.nationalarchives.gov.uk/education/resources/magna-carta/charter-forest-1225-westminster/"
+    },
+    {
+      "article_label": "history of RSS",
+      "destination_title": "RSS History",
+      "domain": "rssboard.org",
+      "label": "RSS History",
+      "post": "post:6028520",
+      "provenance": "source-post-link",
+      "resolved_url": "https://www.rssboard.org/rss-history",
+      "title_source": "html-title",
+      "url": "https://www.rssboard.org/rss-history"
+    },
+    {
+      "article_label": "RSS 2.0 specification",
+      "destination_title": "RSS 2.0 Specification (Current)",
+      "domain": "rssboard.org",
+      "label": "RSS 2.0 Specification (Current)",
+      "post": "post:6028520",
+      "provenance": "source-post-link",
+      "resolved_url": "https://www.rssboard.org/rss-specification",
+      "title_source": "html-title",
+      "url": "https://www.rssboard.org/rss-specification"
+    },
+    {
+      "article_label": "where I worked",
+      "destination_title": "Curriculum Vitae (Memento Vivere)",
+      "domain": "davidmarsden.info",
+      "label": "Curriculum Vitae (Memento Vivere)",
+      "post": "post:6033362",
+      "provenance": "source-post-link",
+      "resolved_url": "https://davidmarsden.info/2024/01/24/curriculum-vitae-memento-vivere.html",
+      "title_source": "og:title",
+      "url": "https://davidmarsden.info/2024/01/24/curriculum-vitae-memento-vivere.html"
+    },
+    {
+      "domain": "ealing.moderngov.co.uk",
+      "label": "Gambling Policy consultation results",
+      "post": "post:6033362",
+      "provenance": "source-post-link",
+      "url": "https://ealing.moderngov.co.uk/documents/s25605/Appendix%203%20-%20Consultation%20Results.pdf"
+    },
+    {
+      "article_label": "Three Horseshoes itself",
+      "destination_title": "Three Horseshoes, Southall - Wikipedia",
+      "domain": "en.wikipedia.org",
+      "label": "Three Horseshoes, Southall - Wikipedia",
+      "post": "post:6033362",
+      "provenance": "source-post-link",
+      "resolved_url": "https://en.wikipedia.org/wiki/Three_Horseshoes,_Southall",
+      "title_source": "og:title",
+      "url": "https://en.wikipedia.org/wiki/Three_Horseshoes,_Southall"
+    },
+    {
+      "article_label": "application documents",
+      "destination_title": "262964FUL | Change of use of ground floor from a commercial unit to bingo venue/hall; installation of condenser unit to rear elevation | 48 South Road Southall UB1 1RR",
+      "domain": "pam.ealing.gov.uk",
+      "label": "262964FUL | Change of use of ground floor from a commercial unit to bingo venue/hall; installation of condenser unit to rear elevation | 48 South Road Southall UB1 1RR",
+      "post": "post:6033362",
+      "provenance": "source-post-link",
+      "resolved_url": "https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=TJ1CAVJMIF200",
+      "title_source": "html-title",
+      "url": "https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=TJ1CAVJMIF200"
+    },
+    {
+      "article_label": "public comments on application 262964FUL",
+      "destination_title": "262964FUL | Change of use of ground floor from a commercial unit to bingo venue/hall; installation of condenser unit to rear elevation | 48 South Road Southall UB1 1RR",
+      "domain": "pam.ealing.gov.uk",
+      "label": "262964FUL | Change of use of ground floor from a commercial unit to bingo venue/hall; installation of condenser unit to rear elevation | 48 South Road Southall UB1 1RR",
+      "post": "post:6033362",
+      "provenance": "source-post-link",
+      "resolved_url": "https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=TJ1CAVJMIF200",
+      "title_source": "html-title",
+      "url": "https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=TJ1CAVJMIF200"
+    },
+    {
+      "article_label": "48 South Road, Southall",
+      "destination_title": "262964FUL | Change of use of ground floor from a commercial unit to bingo venue/hall; installation of condenser unit to rear elevation | 48 South Road Southall UB1 1RR",
+      "domain": "pam.ealing.gov.uk",
+      "label": "262964FUL | Change of use of ground floor from a commercial unit to bingo venue/hall; installation of condenser unit to rear elevation | 48 South Road Southall UB1 1RR",
+      "post": "post:6033362",
+      "provenance": "source-post-link",
+      "resolved_url": "https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=TJ1CAVJMIF200",
+      "title_source": "html-title",
+      "url": "https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=TJ1CAVJMIF200"
+    },
+    {
+      "domain": "plota.co.uk",
+      "label": "dismissed on 23 July 2026",
+      "post": "post:6033362",
+      "provenance": "source-post-link",
+      "url": "https://plota.co.uk/planning-appeals/ealing/"
+    },
+    {
+      "article_label": "Gambling Licensing Policy 2026",
+      "destination_title": "Appendix 1 Statement of Gambling Licensing Policy 2026",
+      "domain": "ealing.gov.uk",
+      "label": "Appendix 1 Statement of Gambling Licensing Policy 2026",
+      "post": "post:6033362",
+      "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.gov.uk/download/downloads/id/18368/ealing_council_statement_of_gambling_licensing_policy_2026.pdf",
+      "title_source": "pdf-title",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/18368/ealing_council_statement_of_gambling_licensing_policy_2026.pdf"
+    },
+    {
+      "article_label": "Barriers to Delivery and Action Plan",
+      "destination_title": "Barriers to Delivery and Action Plan",
+      "domain": "ealing.gov.uk",
+      "label": "Barriers to Delivery and Action Plan",
+      "post": "post:6033362",
+      "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.gov.uk/download/downloads/id/21149/barriers_to_delivery_and_action_plan.pdf",
+      "title_source": "pdf-title",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/21149/barriers_to_delivery_and_action_plan.pdf"
+    },
+    {
+      "article_label": "Gambling Local Area Profile",
+      "destination_title": "Local area profile 2026",
+      "domain": "ealing.gov.uk",
+      "label": "Local area profile 2026",
+      "post": "post:6033362",
+      "provenance": "source-post-link",
+      "resolved_url": "https://www.ealing.gov.uk/download/downloads/id/21288/local_area_profile.pdf",
+      "title_source": "pdf-title",
+      "url": "https://www.ealing.gov.uk/download/downloads/id/21288/local_area_profile.pdf"
+    },
+    {
+      "article_label": "Planning Atlas",
+      "destination_title": "Ealing Planning Data — Case Officers, Agents & Decisions | Planning Atlas",
+      "domain": "planningatlas.co.uk",
+      "label": "Ealing Planning Data — Case Officers, Agents & Decisions | Planning Atlas",
+      "post": "post:6033362",
+      "provenance": "source-post-link",
+      "resolved_url": "https://www.planningatlas.co.uk/atlas/ealing",
+      "title_source": "og:title",
+      "url": "https://www.planningatlas.co.uk/atlas/ealing"
+    },
+    {
+      "domain": "planningatlas.co.uk",
+      "label": "refused application 254625FUL",
+      "post": "post:6033362",
+      "provenance": "source-post-link",
+      "url": "https://www.planningatlas.co.uk/atlas/ealing/applications/254625FUL"
+    },
+    {
+      "article_label": "Southall Green ward profile",
+      "destination_title": "Southall Green Ward, Ealing — Planning Approval & Refusal Rates | Planning Atlas",
+      "domain": "planningatlas.co.uk",
+      "label": "Southall Green Ward, Ealing — Planning Approval & Refusal Rates | Planning Atlas",
+      "post": "post:6033362",
+      "provenance": "source-post-link",
+      "resolved_url": "https://www.planningatlas.co.uk/atlas/ealing/wards/southall-green",
+      "title_source": "og:title",
+      "url": "https://www.planningatlas.co.uk/atlas/ealing/wards/southall-green"
     }
   ],
   "counts": {
     "citation_titles_rejected_as_stale_redirects": 2,
-    "citations": 684,
-    "citations_with_destination_titles": 362,
+    "citations": 705,
+    "citations_with_destination_titles": 377,
     "entities": 121,
-    "links": 1230,
-    "posts": 71,
+    "links": 1255,
+    "posts": 73,
     "relationships": 25,
     "sources": 47,
     "topics": 10
@@ -8335,6 +8542,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:community-powered-reporting",
+      "target": "post:6028520",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:conal-urquhart",
       "target": "post:5722627",
       "type": "mentioned-in"
@@ -8443,6 +8656,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:david-marsden",
+      "target": "post:6033362",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:defra",
       "target": "post:5754191",
       "type": "mentioned-in"
@@ -8517,6 +8736,12 @@
       "provenance": "deterministic-alias-match",
       "source": "entity:dormers-wells",
       "target": "post:5863048",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:dormers-wells",
+      "target": "post:6033362",
       "type": "mentioned-in"
     },
     {
@@ -8911,6 +9136,18 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:ealing",
+      "target": "post:6028520",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:ealing",
+      "target": "post:6033362",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:ealing-common",
       "target": "post:5859956",
       "type": "mentioned-in"
@@ -9297,6 +9534,18 @@
       "provenance": "deterministic-alias-match",
       "source": "entity:ealing-council",
       "target": "post:6018683",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:ealing-council",
+      "target": "post:6028520",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:ealing-council",
+      "target": "post:6033362",
       "type": "mentioned-in"
     },
     {
@@ -11143,6 +11392,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:south-road",
+      "target": "post:6033362",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:southall",
       "target": "post:5543191",
       "type": "mentioned-in"
@@ -11533,6 +11788,18 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:southall",
+      "target": "post:6028520",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall",
+      "target": "post:6033362",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:southall-air-quality-focus-area",
       "target": "post:5543191",
       "type": "mentioned-in"
@@ -11589,6 +11856,12 @@
       "provenance": "deterministic-alias-match",
       "source": "entity:southall-broadway",
       "target": "post:5863048",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-broadway",
+      "target": "post:6033362",
       "type": "mentioned-in"
     },
     {
@@ -11875,6 +12148,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:southall-gasworks",
+      "target": "post:6028520",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:southall-green",
       "target": "post:5543191",
       "type": "mentioned-in"
@@ -12009,6 +12288,12 @@
       "provenance": "deterministic-alias-match",
       "source": "entity:southall-green",
       "target": "post:6018460",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-green",
+      "target": "post:6033362",
       "type": "mentioned-in"
     },
     {
@@ -13374,6 +13659,30 @@
       "type": "links-to"
     },
     {
+      "provenance": "source-post-link",
+      "source": "post:6028520",
+      "target": "post:5810127",
+      "type": "links-to"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:6028520",
+      "target": "post:5893155",
+      "type": "links-to"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:6033362",
+      "target": "post:5810127",
+      "type": "links-to"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:6033362",
+      "target": "post:5858389",
+      "type": "links-to"
+    },
+    {
       "provenance": "deterministic-alias-match",
       "source": "topic:air-pollution",
       "target": "post:5543191",
@@ -13933,6 +14242,12 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "topic:council-accountability",
+      "target": "post:6028520",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "topic:governance",
       "target": "post:5543191",
       "type": "mentioned-in"
@@ -14109,6 +14424,12 @@
       "provenance": "deterministic-alias-match",
       "source": "topic:governance",
       "target": "post:6018460",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:governance",
+      "target": "post:6028520",
       "type": "mentioned-in"
     },
     {
@@ -14331,6 +14652,18 @@
       "provenance": "deterministic-alias-match",
       "source": "topic:housing",
       "target": "post:6018683",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:housing",
+      "target": "post:6028520",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:housing",
+      "target": "post:6033362",
       "type": "mentioned-in"
     },
     {
@@ -14583,6 +14916,12 @@
       "provenance": "deterministic-alias-match",
       "source": "topic:local-democracy",
       "target": "post:6018460",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:local-democracy",
+      "target": "post:6028520",
       "type": "mentioned-in"
     },
     {
@@ -14865,6 +15204,18 @@
       "provenance": "deterministic-alias-match",
       "source": "topic:planning-development",
       "target": "post:6018683",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:planning-development",
+      "target": "post:6028520",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:planning-development",
+      "target": "post:6033362",
       "type": "mentioned-in"
     },
     {
@@ -15225,6 +15576,12 @@
       "provenance": "deterministic-alias-match",
       "source": "topic:waste-flytipping",
       "target": "post:6018460",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:waste-flytipping",
+      "target": "post:6033362",
       "type": "mentioned-in"
     }
   ],
@@ -16544,6 +16901,39 @@
       "summary": null,
       "title": "The Gasworks and Me (and You)",
       "url": "https://southallstories.uk/2026/09/16/the-gasworks-and-me-and/"
+    },
+    {
+      "categories": [
+        "Investigations",
+        "Local Democracy",
+        "Community",
+        "Ethics",
+        "Civic Commons"
+      ],
+      "date": "2026-09-21T21:40:41+00:00",
+      "id": "post:6028520",
+      "lastmod": null,
+      "provenance": "southall-stories-corpus",
+      "sha256": "a3b93f44470feba8bed848af205a8b2da00128325d4ab5fd9cd1478d99b7640b",
+      "summary": null,
+      "title": "We Can Remember It for You Wholesale",
+      "url": "https://southallstories.uk/2026/09/21/we-can-remember-it-for/"
+    },
+    {
+      "categories": [
+        "Investigations",
+        "Local Democracy",
+        "Community",
+        "Commentary"
+      ],
+      "date": "2026-09-26T12:23:49+00:00",
+      "id": "post:6033362",
+      "lastmod": null,
+      "provenance": "southall-stories-corpus",
+      "sha256": "fedc408215b4caa3552efbb10863e9eae0a78551d92887e0a29f2feb21ca1df0",
+      "summary": null,
+      "title": "Bingo! Ealing Tells the Truth About Southall",
+      "url": "https://southallstories.uk/2026/09/26/bingo-ealing-tells-the-truth/"
     }
   ],
   "publisher": "Southall-Zettel",

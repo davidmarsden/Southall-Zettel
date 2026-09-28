@@ -9,11 +9,11 @@ Curated entities with generated mention counts.
 - [Berkeley Group](../entities/organisations/berkeley-group.md) — 33 posts
 - [Blair Peach Primary School](../entities/organisations/blair-peach-primary-school.md) — 3 posts
 - [Clean Air for Southall and Hayes](../entities/organisations/clean-air-for-southall-and-hayes.md) — 9 posts
-- [Community Powered Reporting](../entities/organisations/community-powered-reporting.md) — 7 posts
+- [Community Powered Reporting](../entities/organisations/community-powered-reporting.md) — 8 posts
 - [Conservative Party](../entities/organisations/conservative-party.md) — 7 posts
 - [Defra](../entities/organisations/defra.md) — 5 posts
 - [Ealing Community Independents](../entities/organisations/ealing-community-independents.md) — 13 posts
-- [Ealing Council](../entities/organisations/ealing-council.md) — 50 posts
+- [Ealing Council](../entities/organisations/ealing-council.md) — 52 posts
 - [Ealing Council Pension Fund Panel](../entities/organisations/ealing-council-pension-fund-panel.md) — 2 posts
 - [Ealing Friends of Palestine](../entities/organisations/ealing-friends-of-palestine.md) — 1 post
 - [Ealing Friends of the Earth](../entities/organisations/ealing-friends-of-the-earth.md) — 1 post
@@ -62,7 +62,7 @@ Curated entities with generated mention counts.
 - [Craig Smith](../entities/people/craig-smith.md) — 1 post
 - [Damian Leydon](../entities/people/damian-leydon.md) — 3 posts
 - [Dan Cortese](../entities/people/dan-cortese.md) — 2 posts
-- [David Marsden](../entities/people/david-marsden.md) — 3 posts
+- [David Marsden](../entities/people/david-marsden.md) — 4 posts
 - [Dr John Freeman](../entities/people/dr-john-freeman.md) — 3 posts
 - [Dr Onkar Sahota](../entities/people/onkar-sahota.md) — 2 posts
 - [Gurdip Singh Chaggar](../entities/people/gurdip-singh-chaggar.md) — 2 posts
@@ -95,8 +95,8 @@ Curated entities with generated mention counts.
 
 - [Beaconsfield Road](../entities/places/beaconsfield-road.md) — 3 posts
 - [Dominion Centre](../entities/places/dominion-centre.md) — 6 posts
-- [Dormers Wells](../entities/places/dormers-wells.md) — 2 posts
-- [Ealing](../entities/places/ealing.md) — 62 posts
+- [Dormers Wells](../entities/places/dormers-wells.md) — 3 posts
+- [Ealing](../entities/places/ealing.md) — 64 posts
 - [Ealing Common](../entities/places/ealing-common.md) — 2 posts
 - [Ealing Southall constituency](../entities/places/ealing-southall-constituency.md) — 4 posts
 - [East Acton](../entities/places/east-acton.md) — 3 posts
@@ -115,12 +115,12 @@ Curated entities with generated mention counts.
 - [River Brent](../entities/places/river-brent.md) — 2 posts
 - [Saklatvala Hall](../entities/places/saklatvala-hall.md) — 2 posts
 - [Scotts Road](../entities/places/scotts-road.md) — 3 posts
-- [South Road](../entities/places/south-road.md) — 4 posts
-- [Southall](../entities/places/southall.md) — 65 posts
+- [South Road](../entities/places/south-road.md) — 5 posts
+- [Southall](../entities/places/southall.md) — 67 posts
 - [Southall Air Quality Focus Area](../entities/places/southall-air-quality-focus-area.md) — 2 posts
-- [Southall Broadway](../entities/places/southall-broadway.md) — 8 posts
-- [Southall Gasworks](../entities/places/southall-gasworks.md) — 42 posts
-- [Southall Green](../entities/places/southall-green.md) — 23 posts
+- [Southall Broadway](../entities/places/southall-broadway.md) — 9 posts
+- [Southall Gasworks](../entities/places/southall-gasworks.md) — 43 posts
+- [Southall Green](../entities/places/southall-green.md) — 24 posts
 - [Southall Market](../entities/places/southall-market.md) — 3 posts
 - [Southall Market Car Park](../entities/places/southall-market-car-park.md) — 3 posts
 - [Southall Town Hall](../entities/places/southall-town-hall.md) — 6 posts
