@@ -148,7 +148,7 @@
   },
   {
     "path": "posts/2018/09/11/berkeleys-school-governors-board-member.md",
-    "sha256": "3787e0c41899ae98f04a245a1ce930332d8239ef9113679b92ae556f135b9890",
+    "sha256": "5c19b90abea0d1c010399f133ca51ecfcf457d8ed1e2a802ef23047b038662bc",
     "post_id": 5551024,
     "title": "Berkeley's School Governors Board Member",
     "summary": "Concerns have been raised about air pollution from the Berkeley Group's construction affecting students' health at Blair Peach Primary School.",
@@ -169,9 +169,11 @@
       "Exposes"
     ],
     "outbound_links": [
+      "https://drive.google.com/file/d/1hB66yX40-q-YYi6EKOTvE20DTx422_g3/view?usp=drivesdk",
       "https://t2m.io/z6shGyFn"
     ],
     "outbound_domains": [
+      "drive.google.com",
       "t2m.io"
     ],
     "images": [],

@@ -37,9 +37,19 @@ This is from the minutes of that meeting (29/11/17). <span class="nop nop-end"> 
 RW = Richard Watler (@rickwatler, who has now blocked me on Twitter) <span class="nop nop-end"> 6/7</span></p>
     <p>#Southall children being physically harmed by @BerkeleyGroupUK's #airpollution at #SouthallWaterside, contaminated old gasworks site.<br>
 <br>
-Don't believe me? Take a look for yourself!<br>
+Don't believe me? [Take a look for yourself!](https://drive.google.com/file/d/1hB66yX40-q-YYi6EKOTvE20DTx422_g3/view?usp=drivesdk)<br>
 <br>
 @johnmcdonnellMP @CarolineLucas @juliangbell @VirendraSharma <br>
 <br>
  7/7<a class="entity-url" data-preview="true" href="https://t2m.io/z6shGyFn">t2m.io/z6shGyFn</a></p>
 </div>
+
+
+<figure class="handwritten-page" style="position:relative;margin:0;display:block"><img src="https://southallstories.uk/uploads/2026/appendix-1.-blair-peach-primary-school-page-0007.png" alt="Handwritten page 1 of 8" style="display:block;width:100%;height:auto"></figure>
+<figure class="handwritten-page" style="position:relative;margin:0;display:block"><img src="https://southallstories.uk/uploads/2026/appendix-1.-blair-peach-primary-school-page-0008.png" alt="Handwritten page 2 of 8" style="display:block;width:100%;height:auto"></figure>
+<figure class="handwritten-page" style="position:relative;margin:0;display:block"><img src="https://southallstories.uk/uploads/2026/appendix-1.-blair-peach-primary-school-page-0009.png" alt="Handwritten page 3 of 8" style="display:block;width:100%;height:auto"></figure>
+<figure class="handwritten-page" style="position:relative;margin:0;display:block"><img src="https://southallstories.uk/uploads/2026/appendix-1.-blair-peach-primary-school-page-0010.png" alt="Handwritten page 4 of 8" style="display:block;width:100%;height:auto"></figure>
+<figure class="handwritten-page" style="position:relative;margin:0;display:block"><img src="https://southallstories.uk/uploads/2026/appendix-1.-blair-peach-primary-school-page-0011.png" alt="Handwritten page 5 of 8" style="display:block;width:100%;height:auto"></figure>
+<figure class="handwritten-page" style="position:relative;margin:0;display:block"><img src="https://southallstories.uk/uploads/2026/appendix-1.-blair-peach-primary-school-page-0013.png" alt="Handwritten page 6 of 8" style="display:block;width:100%;height:auto"></figure>
+<figure class="handwritten-page" style="position:relative;margin:0;display:block"><img src="https://southallstories.uk/uploads/2026/appendix-1.-blair-peach-primary-school-page-0012.png" alt="Handwritten page 7 of 8" style="display:block;width:100%;height:auto"></figure>
+<figure class="handwritten-page" style="position:relative;margin:0;display:block"><img src="https://southallstories.uk/uploads/2026/appendix-1.-blair-peach-primary-school-page-0014.png" alt="Handwritten page 8 of 8" style="display:block;width:100%;height:auto"></figure>
