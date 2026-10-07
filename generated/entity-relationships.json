@@ -11,6 +11,9 @@
     "note": "The cited reporting records Mahfouz explaining and promoting Ealing Council's fly-tipping enforcement response in 2016.",
     "review_status": "reviewed",
     "to": "ealing-council",
+    "topics": [
+      "waste-flytipping"
+    ],
     "type": "flytipping_response_for"
   },
   {
@@ -26,6 +29,9 @@
     "note": "The cited reporting records Mason publicly addressing fly-tipping in Southall and later fronting Ealing Council's crackdown and performance claims.",
     "review_status": "reviewed",
     "to": "ealing-council",
+    "topics": [
+      "waste-flytipping"
+    ],
     "type": "flytipping_response_for"
   },
   {

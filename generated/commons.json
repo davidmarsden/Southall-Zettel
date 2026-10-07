@@ -16976,6 +16976,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:ealing-council",
+      "topics": [],
       "type": "panel_of",
       "valid_from": null,
       "valid_to": null
@@ -16998,6 +16999,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:southall-gasworks",
+      "topics": [],
       "type": "scrutinised",
       "valid_from": null,
       "valid_to": null
@@ -17017,6 +17019,9 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:ealing-council",
+      "topics": [
+        "topic:waste-flytipping"
+      ],
       "type": "flytipping_response_for",
       "valid_from": null,
       "valid_to": null
@@ -17039,6 +17044,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:southall-gasworks",
+      "topics": [],
       "type": "developer_of",
       "valid_from": null,
       "valid_to": null
@@ -17058,6 +17064,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:southall-gasworks",
+      "topics": [],
       "type": "adjacent_to",
       "valid_from": null,
       "valid_to": null
@@ -17080,6 +17087,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:air-quality-scrutiny-panel",
+      "topics": [],
       "type": "appeared_before",
       "valid_from": null,
       "valid_to": null
@@ -17099,6 +17107,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:berkeley-group",
+      "topics": [],
       "type": "employed_by",
       "valid_from": null,
       "valid_to": null
@@ -17118,6 +17127,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:ealing-council",
+      "topics": [],
       "type": "officer_of",
       "valid_from": null,
       "valid_to": null
@@ -17137,6 +17147,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:southall-gasworks",
+      "topics": [],
       "type": "planning_authority_for",
       "valid_from": null,
       "valid_to": null
@@ -17156,6 +17167,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:berkeley-group",
+      "topics": [],
       "type": "purchased_affordable_homes_from",
       "valid_from": null,
       "valid_to": null
@@ -17178,6 +17190,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:berkeley-group",
+      "topics": [],
       "type": "received_mipim_sponsorship_from",
       "valid_from": null,
       "valid_to": null
@@ -17197,6 +17210,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:southall-gasworks",
+      "topics": [],
       "type": "regulates_remediation_at",
       "valid_from": null,
       "valid_to": null
@@ -17216,6 +17230,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:norwood-road",
+      "topics": [],
       "type": "developer_of",
       "valid_from": null,
       "valid_to": null
@@ -17235,6 +17250,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:southall-community-alliance",
+      "topics": [],
       "type": "chair_of",
       "valid_from": null,
       "valid_to": null
@@ -17254,6 +17270,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:berkeley-group",
+      "topics": [],
       "type": "employed_by",
       "valid_from": null,
       "valid_to": null
@@ -17276,6 +17293,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:ealing-council",
+      "topics": [],
       "type": "leader_of",
       "valid_from": null,
       "valid_to": null
@@ -17298,6 +17316,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:berkeley-group",
+      "topics": [],
       "type": "mipim_trip_sponsored_in_part_by",
       "valid_from": null,
       "valid_to": null
@@ -17320,6 +17339,9 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:ealing-council",
+      "topics": [
+        "topic:waste-flytipping"
+      ],
       "type": "flytipping_response_for",
       "valid_from": null,
       "valid_to": null
@@ -17339,6 +17361,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:ealing-council",
+      "topics": [],
       "type": "leader_of",
       "valid_from": null,
       "valid_to": null
@@ -17361,6 +17384,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:berkeley-group",
+      "topics": [],
       "type": "mipim_trip_sponsored_in_part_by",
       "valid_from": null,
       "valid_to": null
@@ -17380,6 +17404,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:southall-gasworks",
+      "topics": [],
       "type": "health_risk_adviser_for",
       "valid_from": null,
       "valid_to": null
@@ -17399,6 +17424,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:southall",
+      "topics": [],
       "type": "located_in",
       "valid_from": null,
       "valid_to": null
@@ -17418,6 +17444,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:southall-town-team",
+      "topics": [],
       "type": "member_of",
       "valid_from": null,
       "valid_to": null
@@ -17437,6 +17464,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:southall",
+      "topics": [],
       "type": "located_in",
       "valid_from": null,
       "valid_to": null
@@ -17456,6 +17484,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:southall",
+      "topics": [],
       "type": "located_in",
       "valid_from": null,
       "valid_to": null
@@ -17475,6 +17504,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:ealing-council",
+      "topics": [],
       "type": "facilitated_by",
       "valid_from": null,
       "valid_to": null
@@ -17494,6 +17524,7 @@
       "provenance": "reviewed-relationship",
       "review_status": "reviewed",
       "to": "entity:berkeley-group",
+      "topics": [],
       "type": "founder_of",
       "valid_from": null,
       "valid_to": null
