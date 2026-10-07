@@ -19,143 +19,489 @@
     "links"
   ],
   "properties": {
-    "schema_version": {"const": 1},
-    "export_name": {"type": "string"},
-    "publisher": {"type": "string"},
-    "canonical_corpus": {"type": "string", "format": "uri"},
+    "schema_version": {
+      "const": 1
+    },
+    "export_name": {
+      "type": "string"
+    },
+    "publisher": {
+      "type": "string"
+    },
+    "canonical_corpus": {
+      "type": "string",
+      "format": "uri"
+    },
     "policy": {
       "type": "object",
-      "required": ["candidates_exported", "raw_source_urls_exported", "article_citations_exported", "full_post_text_exported", "reviewed_relationships_only"],
+      "required": [
+        "candidates_exported",
+        "raw_source_urls_exported",
+        "article_citations_exported",
+        "full_post_text_exported",
+        "reviewed_relationships_only"
+      ],
       "properties": {
-        "candidates_exported": {"const": false},
-        "raw_source_urls_exported": {"const": false},
-        "article_citations_exported": {"const": true},
-        "citation_destination_titles_enriched": {"const": true},
-        "full_post_text_exported": {"const": false},
-        "reviewed_relationships_only": {"const": true}
+        "candidates_exported": {
+          "const": false
+        },
+        "raw_source_urls_exported": {
+          "const": false
+        },
+        "article_citations_exported": {
+          "const": true
+        },
+        "citation_destination_titles_enriched": {
+          "const": true
+        },
+        "full_post_text_exported": {
+          "const": false
+        },
+        "reviewed_relationships_only": {
+          "const": true
+        }
       },
       "additionalProperties": false
     },
-    "counts": {"type": "object"},
-    "entities": {"type": "array", "items": {"$ref": "#/$defs/entity"}},
-    "topics": {"type": "array", "items": {"$ref": "#/$defs/topic"}},
-    "posts": {"type": "array", "items": {"$ref": "#/$defs/post"}},
-    "relationships": {"type": "array", "items": {"$ref": "#/$defs/relationship"}},
-    "sources": {"type": "array", "items": {"$ref": "#/$defs/source"}},
-    "citations": {"type": "array", "items": {"$ref": "#/$defs/citation"}},
-    "links": {"type": "array", "items": {"$ref": "#/$defs/link"}}
+    "counts": {
+      "type": "object"
+    },
+    "entities": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/entity"
+      }
+    },
+    "topics": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/topic"
+      }
+    },
+    "posts": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/post"
+      }
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/relationship"
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/source"
+      }
+    },
+    "citations": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/citation"
+      }
+    },
+    "links": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/link"
+      }
+    }
   },
   "$defs": {
     "entity": {
       "type": "object",
-      "required": ["id", "name", "review_status", "provenance"],
+      "required": [
+        "id",
+        "name",
+        "review_status",
+        "provenance"
+      ],
       "properties": {
-        "id": {"type": "string", "pattern": "^entity:"},
-        "name": {"type": "string"},
-        "type": {"type": ["string", "null"]},
-        "aliases": {"type": "array", "items": {"type": "string"}},
-        "description": {"type": ["string", "null"]},
-        "review_status": {"const": "reviewed"},
-        "provenance": {"const": "curated-entity"}
+        "id": {
+          "type": "string",
+          "pattern": "^entity:"
+        },
+        "name": {
+          "type": "string"
+        },
+        "type": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "aliases": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "description": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "review_status": {
+          "const": "reviewed"
+        },
+        "provenance": {
+          "const": "curated-entity"
+        }
       }
     },
     "topic": {
       "type": "object",
-      "required": ["id", "name", "review_status", "provenance"],
+      "required": [
+        "id",
+        "name",
+        "review_status",
+        "provenance"
+      ],
       "properties": {
-        "id": {"type": "string", "pattern": "^topic:"},
-        "name": {"type": "string"},
-        "aliases": {"type": "array", "items": {"type": "string"}},
-        "review_status": {"const": "reviewed"},
-        "provenance": {"const": "curated-topic"}
+        "id": {
+          "type": "string",
+          "pattern": "^topic:"
+        },
+        "name": {
+          "type": "string"
+        },
+        "aliases": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "review_status": {
+          "const": "reviewed"
+        },
+        "provenance": {
+          "const": "curated-topic"
+        }
       }
     },
     "post": {
       "type": "object",
-      "required": ["id", "title", "date", "url", "provenance"],
+      "required": [
+        "id",
+        "title",
+        "date",
+        "url",
+        "provenance"
+      ],
       "properties": {
-        "id": {"type": "string", "pattern": "^post:"},
-        "title": {"type": "string"},
-        "summary": {"type": ["string", "null"]},
-        "date": {"type": "string"},
-        "lastmod": {"type": ["string", "null"]},
-        "url": {"type": "string", "format": "uri"},
-        "categories": {"type": "array", "items": {"type": "string"}},
-        "sha256": {"type": ["string", "null"]},
-        "provenance": {"const": "southall-stories-corpus"}
+        "id": {
+          "type": "string",
+          "pattern": "^post:"
+        },
+        "title": {
+          "type": "string"
+        },
+        "summary": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "date": {
+          "type": "string"
+        },
+        "lastmod": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "categories": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "sha256": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "provenance": {
+          "const": "southall-stories-corpus"
+        }
       }
     },
     "relationship": {
       "type": "object",
-      "required": ["id", "from", "to", "type", "directional", "evidence", "review_status", "provenance"],
+      "required": [
+        "id",
+        "from",
+        "to",
+        "type",
+        "directional",
+        "evidence",
+        "review_status",
+        "provenance"
+      ],
       "properties": {
-        "id": {"type": "string", "pattern": "^relationship:"},
-        "from": {"type": "string", "pattern": "^entity:"},
-        "to": {"type": "string", "pattern": "^entity:"},
-        "type": {"type": "string"},
-        "directional": {"type": "boolean"},
+        "id": {
+          "type": "string",
+          "pattern": "^relationship:"
+        },
+        "from": {
+          "type": "string",
+          "pattern": "^entity:"
+        },
+        "to": {
+          "type": "string",
+          "pattern": "^entity:"
+        },
+        "type": {
+          "type": "string"
+        },
+        "directional": {
+          "type": "boolean"
+        },
         "evidence": {
           "type": "array",
           "items": {
             "type": "object",
-            "required": ["id"],
-            "properties": {"id": {"type": "string", "pattern": "^(post|source):"}},
+            "required": [
+              "id"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^(post|source):"
+              }
+            },
             "additionalProperties": false
           }
         },
-        "confidence": {"type": ["string", "null"]},
-        "created_by": {"type": ["string", "null"]},
-        "review_status": {"const": "reviewed"},
-        "valid_from": {"type": ["string", "null"]},
-        "valid_to": {"type": ["string", "null"]},
-        "note": {"type": ["string", "null"]},
-        "provenance": {"const": "reviewed-relationship"}
+        "confidence": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "created_by": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "review_status": {
+          "const": "reviewed"
+        },
+        "valid_from": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "valid_to": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "note": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "provenance": {
+          "const": "reviewed-relationship"
+        },
+        "topics": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^topic:"
+          },
+          "uniqueItems": true
+        }
       }
     },
     "source": {
       "type": "object",
-      "required": ["id", "title", "review_status", "provenance"],
+      "required": [
+        "id",
+        "title",
+        "review_status",
+        "provenance"
+      ],
       "properties": {
-        "id": {"type": "string", "pattern": "^source:"},
-        "title": {"type": "string"},
-        "publisher": {"type": ["string", "null"]},
-        "source_type": {"type": ["string", "null"]},
-        "canonical_url": {"type": ["string", "null"]},
-        "archive_urls": {"type": "array", "items": {"type": "string"}},
-        "publication_date": {"type": ["string", "null"]},
-        "meeting_date": {"type": ["string", "null"]},
-        "cited_by": {"type": "array", "items": {"type": "string", "pattern": "^post:"}},
-        "related_entities": {"type": "array", "items": {"type": "string", "pattern": "^entity:"}},
-        "related_topics": {"type": "array", "items": {"type": "string", "pattern": "^topic:"}},
-        "review_status": {"const": "reviewed"},
-        "temporal_status": {"type": ["string", "null"]},
-        "provenance": {"const": "reviewed-source-record"}
+        "id": {
+          "type": "string",
+          "pattern": "^source:"
+        },
+        "title": {
+          "type": "string"
+        },
+        "publisher": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "source_type": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "canonical_url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "archive_urls": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "publication_date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "meeting_date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "cited_by": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^post:"
+          }
+        },
+        "related_entities": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^entity:"
+          }
+        },
+        "related_topics": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^topic:"
+          }
+        },
+        "review_status": {
+          "const": "reviewed"
+        },
+        "temporal_status": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "provenance": {
+          "const": "reviewed-source-record"
+        }
       }
     },
     "citation": {
       "type": "object",
-      "required": ["post", "label", "url", "domain", "provenance"],
+      "required": [
+        "post",
+        "label",
+        "url",
+        "domain",
+        "provenance"
+      ],
       "properties": {
-        "post": {"type": "string", "pattern": "^post:"},
-        "label": {"type": "string"},
-        "article_label": {"type": ["string", "null"]},
-        "destination_title": {"type": ["string", "null"]},
-        "title_source": {"type": ["string", "null"], "enum": ["og:title", "html-title", "pdf-title", null]},
-        "resolved_url": {"type": ["string", "null"]},
-        "url": {"type": "string", "format": "uri"},
-        "domain": {"type": "string"},
-        "provenance": {"const": "source-post-link"}
+        "post": {
+          "type": "string",
+          "pattern": "^post:"
+        },
+        "label": {
+          "type": "string"
+        },
+        "article_label": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "destination_title": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "title_source": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "og:title",
+            "html-title",
+            "pdf-title",
+            null
+          ]
+        },
+        "resolved_url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "domain": {
+          "type": "string"
+        },
+        "provenance": {
+          "const": "source-post-link"
+        }
       },
       "additionalProperties": false
     },
     "link": {
       "type": "object",
-      "required": ["source", "target", "type", "provenance"],
+      "required": [
+        "source",
+        "target",
+        "type",
+        "provenance"
+      ],
       "properties": {
-        "source": {"type": "string"},
-        "target": {"type": "string"},
-        "type": {"enum": ["mentioned-in", "links-to"]},
-        "provenance": {"enum": ["deterministic-alias-match", "source-post-link"]}
+        "source": {
+          "type": "string"
+        },
+        "target": {
+          "type": "string"
+        },
+        "type": {
+          "enum": [
+            "mentioned-in",
+            "links-to"
+          ]
+        },
+        "provenance": {
+          "enum": [
+            "deterministic-alias-match",
+            "source-post-link"
+          ]
+        }
       },
       "additionalProperties": false
     }
