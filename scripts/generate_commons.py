@@ -240,6 +240,7 @@ def main() -> None:
             "type": rel["type"],
             "directional": bool(rel.get("directional", True)),
             "evidence": evidence,
+            "topics": [typed("topic", t) for t in rel.get("topics") or []],
             "confidence": rel.get("confidence"),
             "created_by": rel.get("created_by"),
             "review_status": rel.get("review_status"),
