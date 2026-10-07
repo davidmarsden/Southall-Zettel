@@ -7,6 +7,8 @@ relationships:
     directional: true
     evidence:
       - posts/2026/03/01/boomerang-ten-years-sorting-out.md
+    topics:
+      - waste-flytipping
     confidence: high
     created_by: human
     review_status: reviewed
@@ -20,6 +22,8 @@ relationships:
     evidence:
       - posts/2026/02/13/bangarang-pirate-pete-and-the.md
       - posts/2026/03/01/boomerang-ten-years-sorting-out.md
+    topics:
+      - waste-flytipping
     confidence: high
     created_by: human
     review_status: reviewed
