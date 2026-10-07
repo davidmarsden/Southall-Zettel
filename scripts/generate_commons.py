@@ -111,6 +111,9 @@ def validate_export(data: dict) -> None:
         for evidence in rel.get("evidence", []):
             if evidence["id"] not in evidence_ids:
                 raise ValueError(f"Relationship {rel['id']} has unknown evidence {evidence['id']}")
+        for ref in rel.get("topics", []):
+            if ref not in topic_ids:
+                raise ValueError(f"Relationship {rel['id']} references unknown topic {ref}")
 
     for source in data["sources"]:
         if source.get("review_status") != "reviewed":
