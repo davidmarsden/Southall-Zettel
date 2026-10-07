@@ -10703,6 +10703,33 @@
       "created_by": "human",
       "directional": true,
       "evidence": [
+        "posts/2026/03/01/boomerang-ten-years-sorting-out.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:bassam-mahfouz",
+      "target": "entity:ealing-council",
+      "type": "flytipping_response_for"
+    },
+    {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+        "posts/2026/03/01/boomerang-ten-years-sorting-out.md"
+      ],
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "source": "entity:peter-mason",
+      "target": "entity:ealing-council",
+      "type": "flytipping_response_for"
+    },
+    {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
         "posts/2026/01/18/demolition-man-peter-masons-legacy.md"
       ],
       "provenance": "reviewed-relationship",

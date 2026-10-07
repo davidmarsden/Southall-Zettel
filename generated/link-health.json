@@ -6055,7 +6055,7 @@
       "failure_streak": 2,
       "health": "unreachable",
       "http_status": null,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Repeated automated checks failed. Verify manually before editing; this may still be temporary or bot-related.",
       "repeat_failure": true,
       "resolved_url": null,
@@ -6569,7 +6569,7 @@
       "failure_streak": 2,
       "health": "unreachable",
       "http_status": null,
-      "new_problem": true,
+      "new_problem": false,
       "recommendation": "Repeated automated checks failed. Verify manually before editing; this may still be temporary or bot-related.",
       "repeat_failure": true,
       "resolved_url": null,
@@ -12664,24 +12664,8 @@
       "url": "https://youngealingfoundation.org.uk/images/downloads/ealing/TACKLING-YOUTH-VIOLENCE-IN-SNG-22-1.pdf"
     }
   ],
-  "new_problem_count": 2,
+  "new_problem_count": 0,
   "problem_count": 28,
-  "resolved_since_last_check": [
-    {
-      "affected_posts": [
-        {
-          "article_label": "Toxic Town",
-          "path": "posts/2026/01/11/toxic-town-have-you-been.md",
-          "title": "Toxic Town - Have You Been Affected?",
-          "url": "https://southallstories.uk/2026/01/11/toxic-town-have-you-been/"
-        }
-      ],
-      "current_health": "healthy",
-      "destination_title": "Watch Toxic Town | Netflix Official Site",
-      "previous_health": "unreachable",
-      "resolution": "link-recovered-or-deescalated",
-      "url": "https://www.netflix.com/gb/title/81372304?s=a&trkid=13747225&trg=cp&vlang=en&clip=81971836"
-    }
-  ],
-  "resolved_since_last_check_count": 1
+  "resolved_since_last_check": [],
+  "resolved_since_last_check_count": 0
 }

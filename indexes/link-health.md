@@ -5,18 +5,13 @@ Automated health checks for external links cited by the Southall Stories researc
 - Checked/cached links: **561**
 - Actionable problems: **28**
 - Inconclusive automated checks: **66**
-- Newly degraded since the previous report: **2**
-- Resolved/de-escalated since the previous report: **1**
+- Newly degraded since the previous report: **0**
+- Resolved/de-escalated since the previous report: **0**
 - Ordinary redirects: **28**
 
 `gone` means HTTP 404/410. `blocked` means the destination rejected the automated checker (for example 403/429). A single `unreachable` result is treated as inconclusive; it becomes actionable only after repeated scheduled failures. `suspicious-redirect` means a URL resolves successfully but appears to have been repointed to unrelated content.
 
 For genuine link rot, Southall Stories can use Micro.blog’s archived-link feature to recover or replace the destination while preserving the original reporting context.
-
-## Resolved or de-escalated since last check
-
-- [Watch Toxic Town | Netflix Official Site](https://www.netflix.com/gb/title/81372304?s=a&trkid=13747225&trg=cp&vlang=en&clip=81971836) — was `unreachable`; now `healthy` and no longer actionable.
-  - [Toxic Town - Have You Been Affected?](https://southallstories.uk/2026/01/11/toxic-town-have-you-been/)
 
 ## Needs attention
 

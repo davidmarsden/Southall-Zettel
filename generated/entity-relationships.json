@@ -4,6 +4,35 @@
     "created_by": "human",
     "directional": true,
     "evidence": [
+      "posts/2026/03/01/boomerang-ten-years-sorting-out.md"
+    ],
+    "from": "bassam-mahfouz",
+    "id": "bassam-mahfouz-flytipping-response",
+    "note": "The cited reporting records Mahfouz explaining and promoting Ealing Council's fly-tipping enforcement response in 2016.",
+    "review_status": "reviewed",
+    "to": "ealing-council",
+    "type": "flytipping_response_for"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
+      "posts/2026/02/13/bangarang-pirate-pete-and-the.md",
+      "posts/2026/03/01/boomerang-ten-years-sorting-out.md"
+    ],
+    "from": "peter-mason",
+    "id": "peter-mason-flytipping-response",
+    "note": "The cited reporting records Mason publicly addressing fly-tipping in Southall and later fronting Ealing Council's crackdown and performance claims.",
+    "review_status": "reviewed",
+    "to": "ealing-council",
+    "type": "flytipping_response_for"
+  },
+  {
+    "confidence": "high",
+    "created_by": "human",
+    "directional": true,
+    "evidence": [
       "posts/2026/01/18/demolition-man-peter-masons-legacy.md"
     ],
     "from": "peter-mason",

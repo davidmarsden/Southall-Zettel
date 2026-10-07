@@ -2,6 +2,25 @@
 
 Curated edges with explicit evidence. These are assertions, not co-occurrence.
 
+## Bassam Mahfouz → Ealing Council
+
+- **Type:** `flytipping_response_for`
+- **Confidence:** high
+- **Review:** reviewed
+- **Evidence:**
+  - `posts/2026/03/01/boomerang-ten-years-sorting-out.md`
+- **Note:** The cited reporting records Mahfouz explaining and promoting Ealing Council's fly-tipping enforcement response in 2016.
+
+## Peter Mason → Ealing Council
+
+- **Type:** `flytipping_response_for`
+- **Confidence:** high
+- **Review:** reviewed
+- **Evidence:**
+  - `posts/2026/02/13/bangarang-pirate-pete-and-the.md`
+  - `posts/2026/03/01/boomerang-ten-years-sorting-out.md`
+- **Note:** The cited reporting records Mason publicly addressing fly-tipping in Southall and later fronting Ealing Council's crackdown and performance claims.
+
 ## Peter Mason → Ealing Council
 
 - **Type:** `leader_of`

@@ -6475,7 +6475,7 @@
     "entities": 121,
     "links": 1255,
     "posts": 73,
-    "relationships": 25,
+    "relationships": 27,
     "sources": 47,
     "topics": 10
   },
@@ -17008,6 +17008,25 @@
       "directional": true,
       "evidence": [
         {
+          "id": "post:5772909"
+        }
+      ],
+      "from": "entity:bassam-mahfouz",
+      "id": "relationship:bassam-mahfouz-flytipping-response",
+      "note": "The cited reporting records Mahfouz explaining and promoting Ealing Council's fly-tipping enforcement response in 2016.",
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "to": "entity:ealing-council",
+      "type": "flytipping_response_for",
+      "valid_from": null,
+      "valid_to": null
+    },
+    {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        {
           "id": "post:5551106"
         },
         {
@@ -17280,6 +17299,28 @@
       "review_status": "reviewed",
       "to": "entity:berkeley-group",
       "type": "mipim_trip_sponsored_in_part_by",
+      "valid_from": null,
+      "valid_to": null
+    },
+    {
+      "confidence": "high",
+      "created_by": "human",
+      "directional": true,
+      "evidence": [
+        {
+          "id": "post:5754191"
+        },
+        {
+          "id": "post:5772909"
+        }
+      ],
+      "from": "entity:peter-mason",
+      "id": "relationship:peter-mason-flytipping-response",
+      "note": "The cited reporting records Mason publicly addressing fly-tipping in Southall and later fronting Ealing Council's crackdown and performance claims.",
+      "provenance": "reviewed-relationship",
+      "review_status": "reviewed",
+      "to": "entity:ealing-council",
+      "type": "flytipping_response_for",
       "valid_from": null,
       "valid_to": null
     },
