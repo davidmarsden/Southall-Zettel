@@ -1,5 +1,30 @@
 schema_version: 1
 relationships:
+  - id: bassam-mahfouz-flytipping-response
+    from: bassam-mahfouz
+    to: ealing-council
+    type: flytipping_response_for
+    directional: true
+    evidence:
+      - posts/2026/03/01/boomerang-ten-years-sorting-out.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: The cited reporting records Mahfouz explaining and promoting Ealing Council's fly-tipping enforcement response in 2016.
+
+  - id: peter-mason-flytipping-response
+    from: peter-mason
+    to: ealing-council
+    type: flytipping_response_for
+    directional: true
+    evidence:
+      - posts/2026/02/13/bangarang-pirate-pete-and-the.md
+      - posts/2026/03/01/boomerang-ten-years-sorting-out.md
+    confidence: high
+    created_by: human
+    review_status: reviewed
+    note: The cited reporting records Mason publicly addressing fly-tipping in Southall and later fronting Ealing Council's crackdown and performance claims.
+
   - id: peter-mason-leader-of-ealing-council
     from: peter-mason
     to: ealing-council
