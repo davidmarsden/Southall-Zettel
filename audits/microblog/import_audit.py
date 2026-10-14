@@ -38,7 +38,7 @@ def import_rows(source):
                 "normalized_url": normalized(url),
                 "affected_post": (row["affected_post"] or "").strip(),
                 "audit_result": (row["audit_result"] or "").strip(),
-                "section": (row.get("section") or "broken-links").strip(),
+                "section": (row.get("section") or "").strip(),
                 "notes": (row.get("notes") or "").strip(),
             })
     return rows
