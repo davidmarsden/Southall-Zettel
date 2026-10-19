@@ -4,16 +4,16 @@ Curated entities with generated mention counts.
 
 ## Organisation
 
-- [Air Quality Scrutiny Panel](../entities/organisations/air-quality-scrutiny-panel.md) — 6 posts
+- [Air Quality Scrutiny Panel](../entities/organisations/air-quality-scrutiny-panel.md) — 7 posts
 - [Around Ealing](../entities/organisations/around-ealing.md) — 2 posts
-- [Berkeley Group](../entities/organisations/berkeley-group.md) — 33 posts
+- [Berkeley Group](../entities/organisations/berkeley-group.md) — 34 posts
 - [Blair Peach Primary School](../entities/organisations/blair-peach-primary-school.md) — 3 posts
 - [Clean Air for Southall and Hayes](../entities/organisations/clean-air-for-southall-and-hayes.md) — 9 posts
 - [Community Powered Reporting](../entities/organisations/community-powered-reporting.md) — 8 posts
 - [Conservative Party](../entities/organisations/conservative-party.md) — 7 posts
 - [Defra](../entities/organisations/defra.md) — 5 posts
 - [Ealing Community Independents](../entities/organisations/ealing-community-independents.md) — 13 posts
-- [Ealing Council](../entities/organisations/ealing-council.md) — 52 posts
+- [Ealing Council](../entities/organisations/ealing-council.md) — 53 posts
 - [Ealing Council Pension Fund Panel](../entities/organisations/ealing-council-pension-fund-panel.md) — 2 posts
 - [Ealing Friends of Palestine](../entities/organisations/ealing-friends-of-palestine.md) — 1 post
 - [Ealing Friends of the Earth](../entities/organisations/ealing-friends-of-the-earth.md) — 1 post
@@ -22,7 +22,7 @@ Curated entities with generated mention counts.
 - [Ealing News](../entities/organisations/ealing-news.md) — 4 posts
 - [Environment Agency](../entities/organisations/environment-agency.md) — 14 posts
 - [European Court of Human Rights](../entities/organisations/european-court-of-human-rights.md) — 2 posts
-- [FM Conway](../entities/organisations/fm-conway.md) — 4 posts
+- [FM Conway](../entities/organisations/fm-conway.md) — 5 posts
 - [Greater London Authority](../entities/organisations/greater-london-authority.md) — 5 posts
 - [Green Party](../entities/organisations/green-party.md) — 4 posts
 - [Henry Construction](../entities/organisations/henry-construction.md) — 2 posts
@@ -39,13 +39,13 @@ Curated entities with generated mention counts.
 - [Local Government Association](../entities/organisations/local-government-association.md) — 4 posts
 - [London Assembly](../entities/organisations/london-assembly.md) — 2 posts
 - [London Forum](../entities/organisations/london-forum.md) — 2 posts
-- [Metropolitan Police](../entities/organisations/metropolitan-police.md) — 3 posts
+- [Metropolitan Police](../entities/organisations/metropolitan-police.md) — 4 posts
 - [National Front](../entities/organisations/national-front.md) — 4 posts
 - [National Grid](../entities/organisations/national-grid.md) — 3 posts
 - [Private Eye](../entities/organisations/private-eye.md) — 5 posts
-- [Public Health England](../entities/organisations/public-health-england.md) — 13 posts
+- [Public Health England](../entities/organisations/public-health-england.md) — 14 posts
 - [Socialist Workers Party](../entities/organisations/socialist-workers-party.md) — 2 posts
-- [Southall Community Alliance](../entities/organisations/southall-community-alliance.md) — 5 posts
+- [Southall Community Alliance](../entities/organisations/southall-community-alliance.md) — 6 posts
 - [Southall Town Team](../entities/organisations/southall-town-team.md) — 2 posts
 - [Stop The Towers](../entities/organisations/stop-the-towers.md) — 2 posts
 - [Your Voice, Your Town](../entities/organisations/your-voice-your-town.md) — 7 posts
@@ -88,15 +88,15 @@ Curated entities with generated mention counts.
 - [Swaran Singh Padda](../entities/people/swaran-singh-padda.md) — 4 posts
 - [Tasha Tah](../entities/people/tasha-tah.md) — 2 posts
 - [Tony Blair](../entities/people/tony-blair.md) — 2 posts
-- [Tony Pidgley](../entities/people/tony-pidgley.md) — 7 posts
+- [Tony Pidgley](../entities/people/tony-pidgley.md) — 8 posts
 - [Virendra Sharma](../entities/people/virendra-sharma.md) — 7 posts
 
 ## Place
 
-- [Beaconsfield Road](../entities/places/beaconsfield-road.md) — 3 posts
+- [Beaconsfield Road](../entities/places/beaconsfield-road.md) — 4 posts
 - [Dominion Centre](../entities/places/dominion-centre.md) — 6 posts
 - [Dormers Wells](../entities/places/dormers-wells.md) — 3 posts
-- [Ealing](../entities/places/ealing.md) — 64 posts
+- [Ealing](../entities/places/ealing.md) — 66 posts
 - [Ealing Common](../entities/places/ealing-common.md) — 2 posts
 - [Ealing Southall constituency](../entities/places/ealing-southall-constituency.md) — 4 posts
 - [East Acton](../entities/places/east-acton.md) — 3 posts
@@ -114,16 +114,16 @@ Curated entities with generated mention counts.
 - [Perceval House](../entities/places/perceval-house.md) — 4 posts
 - [River Brent](../entities/places/river-brent.md) — 2 posts
 - [Saklatvala Hall](../entities/places/saklatvala-hall.md) — 2 posts
-- [Scotts Road](../entities/places/scotts-road.md) — 3 posts
+- [Scotts Road](../entities/places/scotts-road.md) — 4 posts
 - [South Road](../entities/places/south-road.md) — 5 posts
-- [Southall](../entities/places/southall.md) — 67 posts
+- [Southall](../entities/places/southall.md) — 69 posts
 - [Southall Air Quality Focus Area](../entities/places/southall-air-quality-focus-area.md) — 2 posts
-- [Southall Broadway](../entities/places/southall-broadway.md) — 9 posts
-- [Southall Gasworks](../entities/places/southall-gasworks.md) — 43 posts
-- [Southall Green](../entities/places/southall-green.md) — 24 posts
+- [Southall Broadway](../entities/places/southall-broadway.md) — 10 posts
+- [Southall Gasworks](../entities/places/southall-gasworks.md) — 44 posts
+- [Southall Green](../entities/places/southall-green.md) — 25 posts
 - [Southall Market](../entities/places/southall-market.md) — 3 posts
 - [Southall Market Car Park](../entities/places/southall-market-car-park.md) — 3 posts
-- [Southall Town Hall](../entities/places/southall-town-hall.md) — 6 posts
+- [Southall Town Hall](../entities/places/southall-town-hall.md) — 7 posts
 - [Southall West](../entities/places/southall-west.md) — 2 posts
 - [Southall Young Adult Centre](../entities/places/southall-young-adult-centre.md) — 3 posts
 - [The Green](../entities/places/the-green.md) — 11 posts

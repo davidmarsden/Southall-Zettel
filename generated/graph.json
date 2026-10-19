@@ -7513,6 +7513,162 @@
       "type": "links-to"
     },
     {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:ealing",
+      "target": "post:posts/2026/10/16/rise-at-southall-town-hall.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:ealing-council",
+      "target": "post:posts/2026/10/16/rise-at-southall-town-hall.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:metropolitan-police",
+      "target": "post:posts/2026/10/16/rise-at-southall-town-hall.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall",
+      "target": "post:posts/2026/10/16/rise-at-southall-town-hall.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-community-alliance",
+      "target": "post:posts/2026/10/16/rise-at-southall-town-hall.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-town-hall",
+      "target": "post:posts/2026/10/16/rise-at-southall-town-hall.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:council-accountability",
+      "target": "post:posts/2026/10/16/rise-at-southall-town-hall.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:planning-development",
+      "target": "post:posts/2026/10/16/rise-at-southall-town-hall.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:air-quality-scrutiny-panel",
+      "target": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:beaconsfield-road",
+      "target": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:berkeley-group",
+      "target": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:ealing",
+      "target": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:fm-conway",
+      "target": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:public-health-england",
+      "target": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:scotts-road",
+      "target": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall",
+      "target": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-broadway",
+      "target": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-gasworks",
+      "target": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall-green",
+      "target": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:tony-pidgley",
+      "target": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:air-pollution",
+      "target": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:council-accountability",
+      "target": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:governance",
+      "target": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:local-democracy",
+      "target": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:planning-development",
+      "target": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:public-health",
+      "target": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "type": "mentioned-in"
+    },
+    {
       "provenance": "source-post-link",
       "source": "post:posts/2026/05/25/feeling-the-heat.md",
       "target": "domain:actonw3.com",
@@ -8014,6 +8170,12 @@
       "provenance": "source-post-link",
       "source": "post:posts/2026/05/06/the-drugs-dont-work.md",
       "target": "domain:data.ealing.gov.uk",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "target": "domain:data.southallstories.uk",
       "type": "cites-domain"
     },
     {
@@ -8571,6 +8733,12 @@
     {
       "provenance": "source-post-link",
       "source": "post:posts/2026/09/15/holding-the-line.md",
+      "target": "domain:ealing.news",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/10/16/rise-at-southall-town-hall.md",
       "target": "domain:ealing.news",
       "type": "cites-domain"
     },
@@ -9422,6 +9590,12 @@
     },
     {
       "provenance": "source-post-link",
+      "source": "post:posts/2026/10/16/rise-at-southall-town-hall.md",
+      "target": "domain:nwlondoner.co.uk",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
       "source": "post:posts/2026/05/06/the-meeting-that-ended-local.md",
       "target": "domain:one-nation.org.uk",
       "type": "cites-domain"
@@ -10100,6 +10274,18 @@
     },
     {
       "provenance": "source-post-link",
+      "source": "post:posts/2026/10/16/rise-at-southall-town-hall.md",
+      "target": "domain:southallstories.uk",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "target": "domain:southallstories.uk",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
       "source": "post:posts/2026/05/25/feeling-the-heat.md",
       "target": "domain:southalltransition.org",
       "type": "cites-domain"
@@ -10448,6 +10634,12 @@
     },
     {
       "provenance": "source-post-link",
+      "source": "post:posts/2026/10/16/rise-at-southall-town-hall.md",
+      "target": "domain:web.archive.org",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
       "source": "post:posts/2026/04/05/on-the-bins-again.md",
       "target": "domain:wembleymatters.blogspot.com",
       "type": "cites-domain"
@@ -10473,6 +10665,12 @@
     {
       "provenance": "source-post-link",
       "source": "post:posts/2026/05/25/feeling-the-heat.md",
+      "target": "domain:whatdotheyknow.com",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
+      "source": "post:posts/2026/10/16/rise-at-southall-town-hall.md",
       "target": "domain:whatdotheyknow.com",
       "type": "cites-domain"
     },
@@ -13185,6 +13383,20 @@
       "type": "post"
     },
     {
+      "date": "2026-10-16T19:36:50+00:00",
+      "id": "post:posts/2026/10/16/rise-at-southall-town-hall.md",
+      "label": "RISE at Southall Town Hall: \"No Recorded Information Held\"",
+      "path": "posts/2026/10/16/rise-at-southall-town-hall.md",
+      "type": "post"
+    },
+    {
+      "date": "2026-10-17T18:00:43+00:00",
+      "id": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "label": "What the gasworks air monitoring shows: preliminary findings",
+      "path": "posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "type": "post"
+    },
+    {
       "id": "entity:air-quality-scrutiny-panel",
       "label": "Air Quality Scrutiny Panel",
       "path": "entities/organisations/air-quality-scrutiny-panel.md",
@@ -14326,6 +14538,12 @@
       "type": "source-domain"
     },
     {
+      "id": "domain:data.southallstories.uk",
+      "label": "data.southallstories.uk",
+      "post_count": 1,
+      "type": "source-domain"
+    },
+    {
       "id": "domain:davidmarsden.info",
       "label": "davidmarsden.info",
       "post_count": 9,
@@ -14400,7 +14618,7 @@
     {
       "id": "domain:ealing.news",
       "label": "ealing.news",
-      "post_count": 20,
+      "post_count": 21,
       "type": "source-domain"
     },
     {
@@ -14866,6 +15084,12 @@
       "type": "source-domain"
     },
     {
+      "id": "domain:nwlondoner.co.uk",
+      "label": "nwlondoner.co.uk",
+      "post_count": 1,
+      "type": "source-domain"
+    },
+    {
       "id": "domain:one-nation.org.uk",
       "label": "one-nation.org.uk",
       "post_count": 1,
@@ -15114,7 +15338,7 @@
     {
       "id": "domain:southallstories.uk",
       "label": "southallstories.uk",
-      "post_count": 53,
+      "post_count": 55,
       "type": "source-domain"
     },
     {
@@ -15270,7 +15494,7 @@
     {
       "id": "domain:web.archive.org",
       "label": "web.archive.org",
-      "post_count": 13,
+      "post_count": 14,
       "type": "source-domain"
     },
     {
@@ -15282,7 +15506,7 @@
     {
       "id": "domain:whatdotheyknow.com",
       "label": "whatdotheyknow.com",
-      "post_count": 4,
+      "post_count": 5,
       "type": "source-domain"
     },
     {

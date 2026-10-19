@@ -727,6 +727,13 @@
     "url": "https://data.ealing.gov.uk/wp-content/uploads/Drugs-and-Alcohol-in-Ealing-Adults-JSNA-2019.pdf"
   },
   {
+    "domain": "data.southallstories.uk",
+    "posts": [
+      "posts/2026/10/17/what-the-gasworks-air-monitoring.md"
+    ],
+    "url": "https://data.southallstories.uk/air-monitoring-2018-19/"
+  },
+  {
     "domain": "davidmarsden.info",
     "posts": [
       "posts/2025/07/11/perceval-house-w-where-local.md"
@@ -1763,6 +1770,13 @@
       "posts/2026/04/23/canvassing-with-minni-dogra-a.md"
     ],
     "url": "https://www.ealing.news/news/residents-fight-to-save-southall-broadway-post-office-deliver-petition-to-pm-rishi-sunak-and-holding-local-protest-on-saturday/"
+  },
+  {
+    "domain": "ealing.news",
+    "posts": [
+      "posts/2026/10/16/rise-at-southall-town-hall.md"
+    ],
+    "url": "https://www.ealing.news/news/southall-residents-plan-protest-over-ealing-rise-relocation/"
   },
   {
     "domain": "ealing.news",
@@ -2938,6 +2952,13 @@
       "posts/2026/01/22/its-never-enough-until-its.md"
     ],
     "url": "http://nuisance.southallstories.uk/"
+  },
+  {
+    "domain": "nwlondoner.co.uk",
+    "posts": [
+      "posts/2026/10/16/rise-at-southall-town-hall.md"
+    ],
+    "url": "https://www.nwlondoner.co.uk/news/23092026-southall-residents-organise-second-protest-outside-drug-rehab-facility"
   },
   {
     "domain": "one-nation.org.uk",
@@ -4832,6 +4853,34 @@
   {
     "domain": "southallstories.uk",
     "posts": [
+      "posts/2026/10/17/what-the-gasworks-air-monitoring.md"
+    ],
+    "url": "https://southallstories.uk/uploads/2026/01-key-numbers.png"
+  },
+  {
+    "domain": "southallstories.uk",
+    "posts": [
+      "posts/2026/10/17/what-the-gasworks-air-monitoring.md"
+    ],
+    "url": "https://southallstories.uk/uploads/2026/02-map-naphthalene.png"
+  },
+  {
+    "domain": "southallstories.uk",
+    "posts": [
+      "posts/2026/10/17/what-the-gasworks-air-monitoring.md"
+    ],
+    "url": "https://southallstories.uk/uploads/2026/03-wind-rose.png"
+  },
+  {
+    "domain": "southallstories.uk",
+    "posts": [
+      "posts/2026/10/17/what-the-gasworks-air-monitoring.md"
+    ],
+    "url": "https://southallstories.uk/uploads/2026/04-winter-vs-forecast.png"
+  },
+  {
+    "domain": "southallstories.uk",
+    "posts": [
       "posts/2026/05/02/the-smell-of-success.md"
     ],
     "url": "https://southallstories.uk/uploads/2026/20220125-180120.jpg"
@@ -5402,6 +5451,13 @@
       "posts/2026/01/12/a-fire-we-were-warned.md"
     ],
     "url": "https://southallstories.uk/uploads/2026/pxl-20220310-090928288.jpg"
+  },
+  {
+    "domain": "southallstories.uk",
+    "posts": [
+      "posts/2026/10/16/rise-at-southall-town-hall.md"
+    ],
+    "url": "https://southallstories.uk/uploads/2026/pxl-20220409-094824828.mp2.jpg"
   },
   {
     "domain": "southallstories.uk",
@@ -6620,6 +6676,13 @@
     "url": "https://web.archive.org/web/20260420032016/https://www.awards.lgcplus.com/lgca2026/en/page/2026-shortlist"
   },
   {
+    "domain": "web.archive.org",
+    "posts": [
+      "posts/2026/10/16/rise-at-southall-town-hall.md"
+    ],
+    "url": "https://web.archive.org/web/20261016105718/https://www.ealing.gov.uk/info/201202/healthy_lifestyles/3627/recovery_intervention_services_ealing_rise/8"
+  },
+  {
     "domain": "wembleymatters.blogspot.com",
     "posts": [
       "posts/2026/04/05/on-the-bins-again.md"
@@ -6644,6 +6707,13 @@
   {
     "domain": "whatdotheyknow.com",
     "posts": [
+      "posts/2026/10/16/rise-at-southall-town-hall.md"
+    ],
+    "url": "https://www.whatdotheyknow.com/request/eirfoi_equality_assessment_and_i"
+  },
+  {
+    "domain": "whatdotheyknow.com",
+    "posts": [
       "posts/2026/02/18/the-broken-manifesto-promises-that.md"
     ],
     "url": "https://www.whatdotheyknow.com/request/how_many_homes_have_been_complet/response/2002978/attach/5/FOI%20Internal%20Review%2022%200065%20FINAL.pdf"
@@ -6654,6 +6724,13 @@
       "posts/2026/02/14/section-money-where-did-southalls.md"
     ],
     "url": "https://www.whatdotheyknow.com/request/how_much_section_106_money_has_e/response/2061857/attach/5/EIR%20Internal%20Review%2022%200404%20FINAL.pdf?cookie_passthrough=1"
+  },
+  {
+    "domain": "whatdotheyknow.com",
+    "posts": [
+      "posts/2026/10/16/rise-at-southall-town-hall.md"
+    ],
+    "url": "https://www.whatdotheyknow.com/request/southall_rise_relocation_and_evi#incoming-3594559"
   },
   {
     "domain": "whocanivotefor.co.uk",

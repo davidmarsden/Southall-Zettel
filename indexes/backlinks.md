@@ -62,60 +62,62 @@ Generated reverse links between posts plus entity/topic mention counts.
 
 ## Most-mentioned entities
 
-- **Southall** — 67
-- **Ealing** — 64
-- **Ealing Council** — 52
-- **Southall Gasworks** — 43
-- **Berkeley Group** — 33
+- **Southall** — 69
+- **Ealing** — 66
+- **Ealing Council** — 53
+- **Southall Gasworks** — 44
+- **Berkeley Group** — 34
 - **Peter Mason** — 31
 - **Ealing Labour** — 30
-- **Southall Green** — 24
+- **Southall Green** — 25
 - **Julian Bell** — 15
 - **Labour Party** — 15
 - **Environment Agency** — 14
+- **Public Health England** — 14
 - **Blair Peach** — 13
 - **Ealing Community Independents** — 13
-- **Public Health England** — 13
 - **The Green** — 11
+- **Southall Broadway** — 10
 - **Blair Peach Primary School** — 9
 - **Clean Air for Southall and Hayes** — 9
 - **Liberal Democrats** — 9
-- **Southall Broadway** — 9
 - **Community Powered Reporting** — 8
+- **Tony Pidgley** — 8
+- **Air Quality Scrutiny Panel** — 7
 - **Conservative Party** — 7
-- **Tony Pidgley** — 7
+- **Southall Town Hall** — 7
 - **Virendra Sharma** — 7
 - **Your Voice, Your Town** — 7
-- **Air Quality Scrutiny Panel** — 6
 - **Dominion Centre** — 6
 - **Jasbir Kaur Anand** — 6
 - **Minni Dogra** — 6
-- **Southall Town Hall** — 6
+- **Southall Community Alliance** — 6
 - **West London** — 6
 - **Defra** — 5
+- **FM Conway** — 5
 - **Greater London Authority** — 5
 - **Jeremy Corbyn** — 5
 - **Norwood Green** — 5
 - **Private Eye** — 5
 - **South Road** — 5
-- **Southall Community Alliance** — 5
+- **Beaconsfield Road** — 4
 - **David Marsden** — 4
 - **Ealing News** — 4
 - **Ealing Southall constituency** — 4
 - **Elizabeth Line** — 4
-- **FM Conway** — 4
 - **Green Party** — 4
 - **High Court** — 4
 - **Jags Sanghera** — 4
 - **Joe Bhangu** — 4
 - **Johnson Street** — 4
 - **Local Government Association** — 4
+- **Metropolitan Police** — 4
 - **National Front** — 4
 - **Perceval House** — 4
+- **Scotts Road** — 4
 - **Swaran Singh Padda** — 4
 - **Angela Fonso** — 3
 - **Bassam Mahfouz** — 3
-- **Beaconsfield Road** — 3
 - **Damian Leydon** — 3
 - **Dormers Wells** — 3
 - **Dr John Freeman** — 3
@@ -128,11 +130,9 @@ Generated reverse links between posts plus entity/topic mention counts.
 - **John Martin** — 3
 - **Kate Crawford** — 3
 - **King Street** — 3
-- **Metropolitan Police** — 3
 - **National Grid** — 3
 - **Parkside Yards** — 3
 - **Richard Watler** — 3
-- **Scotts Road** — 3
 - **Southall Market** — 3
 - **Southall Market Car Park** — 3
 - **Southall Young Adult Centre** — 3
@@ -185,13 +185,13 @@ Generated reverse links between posts plus entity/topic mention counts.
 
 ## Most-mentioned topics
 
-- **Planning and development** — 44
-- **Local democracy** — 43
-- **Air pollution** — 39
-- **Council accountability** — 39
+- **Planning and development** — 46
+- **Local democracy** — 44
+- **Council accountability** — 41
+- **Air pollution** — 40
 - **Housing** — 39
 - **Waste and fly-tipping** — 33
-- **Governance** — 31
-- **Public health** — 28
+- **Governance** — 32
+- **Public health** — 29
 - **Children's centres** — 16
 - **Pensions and divestment** — 5

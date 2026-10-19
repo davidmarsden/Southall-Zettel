@@ -3675,5 +3675,70 @@
     ],
     "images": [],
     "videos": []
+  },
+  {
+    "path": "posts/2026/10/16/rise-at-southall-town-hall.md",
+    "sha256": "2dd73fc34baeb4df1a2268a7bc2c5a7d21b48018eff3f61527ad0954d64e5529",
+    "post_id": 6047968,
+    "title": "RISE at Southall Town Hall: \"No Recorded Information Held\"",
+    "summary": null,
+    "date": "2026-10-16T19:36:50+00:00",
+    "lastmod": null,
+    "url": "/2026/10/16/rise-at-southall-town-hall/",
+    "guid": null,
+    "categories": [
+      "Investigations",
+      "Local Democracy",
+      "Community",
+      "BREAKING NEWS"
+    ],
+    "outbound_links": [
+      "https://web.archive.org/web/20261016105718/https://www.ealing.gov.uk/info/201202/healthy_lifestyles/3627/recovery_intervention_services_ealing_rise/8",
+      "https://www.ealing.news/news/southall-residents-plan-protest-over-ealing-rise-relocation/",
+      "https://www.nwlondoner.co.uk/news/23092026-southall-residents-organise-second-protest-outside-drug-rehab-facility",
+      "https://www.whatdotheyknow.com/request/eirfoi_equality_assessment_and_i",
+      "https://www.whatdotheyknow.com/request/southall_rise_relocation_and_evi#incoming-3594559"
+    ],
+    "outbound_domains": [
+      "ealing.news",
+      "nwlondoner.co.uk",
+      "web.archive.org",
+      "whatdotheyknow.com"
+    ],
+    "images": [],
+    "videos": []
+  },
+  {
+    "path": "posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+    "sha256": "152fa767c351dd1ccfc4274380cc7291e80086a47439103360854a374da1ee76",
+    "post_id": 6048996,
+    "title": "What the gasworks air monitoring shows: preliminary findings",
+    "summary": null,
+    "date": "2026-10-17T18:00:43+00:00",
+    "lastmod": null,
+    "url": "/2026/10/17/what-the-gasworks-air-monitoring/",
+    "guid": null,
+    "categories": [
+      "Investigations",
+      "Environment",
+      "Gasworks",
+      "Berkeley Group",
+      "Research",
+      "Health",
+      "BREAKING NEWS"
+    ],
+    "outbound_links": [
+      "https://data.southallstories.uk/air-monitoring-2018-19/",
+      "https://southallstories.uk/uploads/2026/01-key-numbers.png",
+      "https://southallstories.uk/uploads/2026/02-map-naphthalene.png",
+      "https://southallstories.uk/uploads/2026/03-wind-rose.png",
+      "https://southallstories.uk/uploads/2026/04-winter-vs-forecast.png"
+    ],
+    "outbound_domains": [
+      "data.southallstories.uk",
+      "southallstories.uk"
+    ],
+    "images": [],
+    "videos": []
   }
 ]

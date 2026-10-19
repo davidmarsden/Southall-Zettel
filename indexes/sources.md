@@ -1,11 +1,11 @@
 # Outbound source domains
 
-- **southallstories.uk** — 36 posts
+- **southallstories.uk** — 37 posts
+- **ealing.news** — 20 posts
 - **ealing.gov.uk** — 19 posts
 - **ealing.moderngov.co.uk** — 19 posts
-- **ealing.news** — 19 posts
 - **x.com** — 15 posts
-- **web.archive.org** — 12 posts
+- **web.archive.org** — 13 posts
 - **youtu.be** — 11 posts
 - **pbs.twimg.com** — 10 posts
 - **aroundealing.com** — 10 posts
@@ -27,6 +27,7 @@
 - **andrewteale.me.uk** — 5 posts
 - **visitsouthall.co.uk** — 4 posts
 - **theguardian.com** — 4 posts
+- **whatdotheyknow.com** — 4 posts
 - **ealingindependents.org** — 4 posts
 - **london.gov.uk** — 3 posts
 - **threadreaderapp.com** — 3 posts
@@ -36,7 +37,6 @@
 - **ealingmatters.org.uk** — 3 posts
 - **standard.co.uk** — 3 posts
 - **dosomethinggood.ealing.gov.uk** — 3 posts
-- **whatdotheyknow.com** — 3 posts
 - **ealinglabour.co.uk** — 3 posts
 - **instituteforgovernment.org.uk** — 3 posts
 - **assets.publishing.service.gov.uk** — 2 posts
@@ -195,3 +195,5 @@
 - **southall.civiccommons.co.uk** — 1 post
 - **planningatlas.co.uk** — 1 post
 - **plota.co.uk** — 1 post
+- **nwlondoner.co.uk** — 1 post
+- **data.southallstories.uk** — 1 post

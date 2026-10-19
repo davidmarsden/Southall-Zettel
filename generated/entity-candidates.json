@@ -1,5 +1,32 @@
 [
   {
+    "name": "Community Safety",
+    "class_hint": "person_or_body",
+    "score": 35,
+    "post_count": 2,
+    "mention_count": 15,
+    "first_mention": "2026-09-26T12:23:49+00:00",
+    "last_mention": "2026-10-16T19:36:50+00:00",
+    "variant_forms": [
+      "Community Safety"
+    ],
+    "representative_posts": [
+      "posts/2026/09/26/bingo-ealing-tells-the-truth.md",
+      "posts/2026/10/16/rise-at-southall-town-hall.md"
+    ],
+    "contexts": [
+      {
+        "post": "posts/2026/09/26/bingo-ealing-tells-the-truth.md",
+        "snippet": "ting objection does not come from one of the residents living near the site. It comes from Ealing Council's own Head of Community Safety . And the manner of the intervention is unusual. Community Safety does not appear among the formal consultees for the 4"
+      },
+      {
+        "post": "posts/2026/10/16/rise-at-southall-town-hall.md",
+        "snippet": "he building. The response does not say what changed as a result. The council also says officers and RISE spoke with its Community Safety team, the Metropolitan Police, Southall Community Alliance and representatives of the neighbouring Mandir, but that it"
+      }
+    ],
+    "review_status": "candidate"
+  },
+  {
     "name": "Action Plan",
     "class_hint": "person_or_body",
     "score": 27,
@@ -81,6 +108,33 @@
     "review_status": "candidate"
   },
   {
+    "name": "Karl Whiteman",
+    "class_hint": "person_or_body",
+    "score": 22,
+    "post_count": 2,
+    "mention_count": 2,
+    "first_mention": "2018-11-02T21:54:00+0100",
+    "last_mention": "2026-10-17T18:00:43+00:00",
+    "variant_forms": [
+      "Karl Whiteman"
+    ],
+    "representative_posts": [
+      "posts/2018/11/02/lies-damned-lies-and-statistics.md",
+      "posts/2026/10/17/what-the-gasworks-air-monitoring.md"
+    ],
+    "contexts": [
+      {
+        "post": "posts/2018/11/02/lies-damned-lies-and-statistics.md",
+        "snippet": "y,I finally received a response to my email of 29 September, in which I asked Tony to confirmm what his trusty sidekick Karl Whiteman told us when we met with the both, that benzene levels were 'averaging 3.25 parts per million (ppm) [sic], and never ex"
+      },
+      {
+        "post": "posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+        "snippet": "ld In September 2018, at a meeting with residents attended by Berkeley's chairman, Tony Pidgley, and executive director Karl Whiteman, residents were told emissions were all \"within legal limits\". That same month, at Ealing's air quality scrutiny panel,"
+      }
+    ],
+    "review_status": "candidate"
+  },
+  {
     "name": "Manor House",
     "class_hint": "place_or_site",
     "score": 22,
@@ -108,6 +162,33 @@
     "review_status": "candidate"
   },
   {
+    "name": "Middle Eastern",
+    "class_hint": "person_or_body",
+    "score": 22,
+    "post_count": 2,
+    "mention_count": 2,
+    "first_mention": "2025-07-11T13:50:30+0100",
+    "last_mention": "2026-10-17T18:00:43+00:00",
+    "variant_forms": [
+      "Middle Eastern"
+    ],
+    "representative_posts": [
+      "posts/2025/07/11/perceval-house-w-where-local.md",
+      "posts/2026/10/17/what-the-gasworks-air-monitoring.md"
+    ],
+    "contexts": [
+      {
+        "post": "posts/2025/07/11/perceval-house-w-where-local.md",
+        "snippet": "taneously represents a diverse community while working to exclude people from that community based on their views about Middle Eastern politics. It's a masterclass in representation: represent everyone, except the people whose politics you disagree with."
+      },
+      {
+        "post": "posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+        "snippet": "lood cells. People with G6PD deficiency, an inherited condition far more common in families of South Asian, African and Middle Eastern heritage, are more vulnerable; Public Health England said so for this site in July 2019. In March 2019 PHE said naphtha"
+      }
+    ],
+    "review_status": "candidate"
+  },
+  {
     "name": "Misty In Roots",
     "class_hint": "person_or_body",
     "score": 22,
@@ -130,6 +211,33 @@
       {
         "post": "posts/2026/09/15/holding-the-line.md",
         "snippet": "nd back in May, as an antidote to all the election stuff, I also took my eldest lad to meet the legendary Southall band Misty In Roots at the Dominion Centre in Southall Green. “without the knowledge of your history you cannot determine your destiny” Now"
+      }
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "name": "Safer Communities",
+    "class_hint": "person_or_body",
+    "score": 22,
+    "post_count": 2,
+    "mention_count": 2,
+    "first_mention": "2026-05-06T17:44:53+0100",
+    "last_mention": "2026-10-16T19:36:50+00:00",
+    "variant_forms": [
+      "Safer Communities"
+    ],
+    "representative_posts": [
+      "posts/2026/05/06/the-meeting-that-ended-local.md",
+      "posts/2026/10/16/rise-at-southall-town-hall.md"
+    ],
+    "contexts": [
+      {
+        "post": "posts/2026/05/06/the-meeting-that-ended-local.md",
+        "snippet": "nths earlier, in part by promising members closer engagement with the constituency he was failing. Ealing's Director of Safer Communities and Housing was asked what he would do if he were in residents' shoes. His response was instant and emphatic: \"MOVE!.\""
+      },
+      {
+        "post": "posts/2026/10/16/rise-at-southall-town-hall.md",
+        "snippet": "uncil The only pre-opening assessment the council says it holds is an email of 8 January 2025 from a team leader in its Safer Communities team. The officer was writing about a proposed side entrance to the Town Hall for RISE clients. The officer praised RIS"
       }
     ],
     "review_status": "candidate"

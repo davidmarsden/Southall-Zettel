@@ -2,12 +2,12 @@
 
 Outbound source domains ranked by the number of Southall Stories posts citing them.
 
-- **southallstories.uk** — 53 posts
+- **southallstories.uk** — 55 posts
+- **ealing.news** — 21 posts
 - **ealing.gov.uk** — 20 posts
 - **ealing.moderngov.co.uk** — 20 posts
-- **ealing.news** — 20 posts
 - **x.com** — 15 posts
-- **web.archive.org** — 13 posts
+- **web.archive.org** — 14 posts
 - **youtu.be** — 11 posts
 - **aroundealing.com** — 10 posts
 - **communitypoweredreporting.co.uk** — 10 posts
@@ -30,11 +30,11 @@ Outbound source domains ranked by the number of Southall Stories posts citing th
 - **open.substack.com** — 5 posts
 - **theguardian.com** — 5 posts
 - **twitter.com** — 5 posts
+- **whatdotheyknow.com** — 5 posts
 - **ealingindependents.org** — 4 posts
 - **london.gov.uk** — 4 posts
 - **stopthetowers.info** — 4 posts
 - **visitsouthall.co.uk** — 4 posts
-- **whatdotheyknow.com** — 4 posts
 - **caselaw.nationalarchives.gov.uk** — 3 posts
 - **dosomethinggood.ealing.gov.uk** — 3 posts
 - **ealing.nub.news** — 3 posts
@@ -96,6 +96,7 @@ Outbound source domains ranked by the number of Southall Stories posts citing th
 - **dailymotion.com** — 1 post
 - **data.defra.gov.uk** — 1 post
 - **data.ealing.gov.uk** — 1 post
+- **data.southallstories.uk** — 1 post
 - **democracy.brent.gov.uk** — 1 post
 - **democraticservices.hounslow.gov.uk** — 1 post
 - **ealing-audit.southallstories.uk** — 1 post
@@ -153,6 +154,7 @@ Outbound source domains ranked by the number of Southall Stories posts citing th
 - **nj.gov** — 1 post
 - **northlondonnews.co.uk** — 1 post
 - **nuisance.southallstories.uk** — 1 post
+- **nwlondoner.co.uk** — 1 post
 - **one-nation.org.uk** — 1 post
 - **onlinelibrary.wiley.com** — 1 post
 - **ons.gov.uk** — 1 post

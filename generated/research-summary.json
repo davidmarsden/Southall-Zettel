@@ -1,14 +1,14 @@
 {
   "curated_sources": 47,
   "entities": 121,
-  "entity_mentions": 785,
-  "graph_edges": 2079,
-  "graph_nodes": 456,
+  "entity_mentions": 803,
+  "graph_edges": 2112,
+  "graph_nodes": 460,
   "internal_post_links": 153,
-  "posts": 73,
+  "posts": 75,
   "reviewed_relationships": 27,
-  "source_domains": 205,
-  "source_urls": 996,
-  "topic_mentions": 317,
+  "source_domains": 207,
+  "source_urls": 1007,
+  "topic_mentions": 325,
   "topics": 10
 }

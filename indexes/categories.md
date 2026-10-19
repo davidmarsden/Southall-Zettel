@@ -1,26 +1,26 @@
 # Categories
 
 - **Commentary** — 57
-- **Local Democracy** — 43
+- **Local Democracy** — 44
 - **Ealing Labour** — 37
-- **Environment** — 35
-- **Health** — 30
-- **Community** — 30
-- **Investigations** — 26
-- **Gasworks** — 24
+- **Environment** — 36
+- **Health** — 31
+- **Community** — 31
+- **Investigations** — 28
+- **Gasworks** — 25
 - **Exposes** — 23
 - **Pollution** — 22
-- **Berkeley Group** — 20
+- **Berkeley Group** — 21
 - **Features** — 19
 - **Corruption** — 16
 - **Campaigns** — 15
-- **Research** — 12
+- **Research** — 13
 - **Personal** — 12
 - **Ethics** — 9
 - **Housing** — 9
 - **AI** — 8
+- **BREAKING NEWS** — 6
 - **Children's Centres** — 5
 - **Updates** — 5
-- **BREAKING NEWS** — 4
 - **Podcast** — 3
 - **Civic Commons** — 1

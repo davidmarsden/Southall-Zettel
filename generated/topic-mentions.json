@@ -402,6 +402,19 @@
       ],
       "path": "posts/2026/09/16/the-gasworks-and-me-and.md",
       "title": "The Gasworks and Me (and You)"
+    },
+    {
+      "date": "2026-10-17T18:00:43+00:00",
+      "matched_aliases": [
+        "air quality",
+        "benzene",
+        "naphthalene",
+        "odour",
+        "odours",
+        "emissions"
+      ],
+      "path": "posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "title": "What the gasworks air monitoring shows: preliminary findings"
     }
   ],
   "children-centres": [
@@ -894,6 +907,24 @@
       ],
       "path": "posts/2026/09/21/we-can-remember-it-for.md",
       "title": "We Can Remember It for You Wholesale"
+    },
+    {
+      "date": "2026-10-16T19:36:50+00:00",
+      "matched_aliases": [
+        "freedom of information",
+        "FOI"
+      ],
+      "path": "posts/2026/10/16/rise-at-southall-town-hall.md",
+      "title": "RISE at Southall Town Hall: \"No Recorded Information Held\""
+    },
+    {
+      "date": "2026-10-17T18:00:43+00:00",
+      "matched_aliases": [
+        "scrutiny",
+        "complaints"
+      ],
+      "path": "posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "title": "What the gasworks air monitoring shows: preliminary findings"
     }
   ],
   "governance": [
@@ -1177,6 +1208,14 @@
       ],
       "path": "posts/2026/09/21/we-can-remember-it-for.md",
       "title": "We Can Remember It for You Wholesale"
+    },
+    {
+      "date": "2026-10-17T18:00:43+00:00",
+      "matched_aliases": [
+        "council leader"
+      ],
+      "path": "posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "title": "What the gasworks air monitoring shows: preliminary findings"
     }
   ],
   "housing": [
@@ -1978,6 +2017,14 @@
       ],
       "path": "posts/2026/09/21/we-can-remember-it-for.md",
       "title": "We Can Remember It for You Wholesale"
+    },
+    {
+      "date": "2026-10-17T18:00:43+00:00",
+      "matched_aliases": [
+        "councillors"
+      ],
+      "path": "posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "title": "What the gasworks air monitoring shows: preliminary findings"
     }
   ],
   "pensions-divestment": [
@@ -2445,6 +2492,23 @@
       ],
       "path": "posts/2026/09/26/bingo-ealing-tells-the-truth.md",
       "title": "Bingo! Ealing Tells the Truth About Southall"
+    },
+    {
+      "date": "2026-10-16T19:36:50+00:00",
+      "matched_aliases": [
+        "planning"
+      ],
+      "path": "posts/2026/10/16/rise-at-southall-town-hall.md",
+      "title": "RISE at Southall Town Hall: \"No Recorded Information Held\""
+    },
+    {
+      "date": "2026-10-17T18:00:43+00:00",
+      "matched_aliases": [
+        "planning",
+        "developer"
+      ],
+      "path": "posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "title": "What the gasworks air monitoring shows: preliminary findings"
     }
   ],
   "public-health": [
@@ -2697,6 +2761,15 @@
       ],
       "path": "posts/2026/09/16/the-gasworks-and-me-and.md",
       "title": "The Gasworks and Me (and You)"
+    },
+    {
+      "date": "2026-10-17T18:00:43+00:00",
+      "matched_aliases": [
+        "Public health",
+        "public health"
+      ],
+      "path": "posts/2026/10/17/what-the-gasworks-air-monitoring.md",
+      "title": "What the gasworks air monitoring shows: preliminary findings"
     }
   ],
   "waste-flytipping": [

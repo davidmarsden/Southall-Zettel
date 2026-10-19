@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [What the gasworks air monitoring shows: preliminary findings](/../posts/2026/10/17/what-the-gasworks-air-monitoring.md) — 2026-10-17T18:00:43+00:00
+- [RISE at Southall Town Hall: "No Recorded Information Held"](/../posts/2026/10/16/rise-at-southall-town-hall.md) — 2026-10-16T19:36:50+00:00
 - [Bingo! Ealing Tells the Truth About Southall](/../posts/2026/09/26/bingo-ealing-tells-the-truth.md) — 2026-09-26T12:23:49+00:00
 - [We Can Remember It for You Wholesale](/../posts/2026/09/21/we-can-remember-it-for.md) — 2026-09-21T21:40:41+00:00
 - [The Gasworks and Me (and You)](/../posts/2026/09/16/the-gasworks-and-me-and.md) — 2026-09-16T13:47:09+00:00
