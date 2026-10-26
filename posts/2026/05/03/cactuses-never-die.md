@@ -427,10 +427,10 @@ He left voluntarily when right-wing factions in the party the party began attack
 ---
 
 
-Before that, he had put his name forward to be an Ealing Labour councillor candidate. He says he was told by one of the current sitting councillors in Greenford Broadway that he had been rejected, because, in that councillor's words:
+Before that, he had put his name forward to be an Ealing Labour councillor candidate. He says he was told by a Labour councillor that he had been rejected, because, in that councillor's words:
 
 
-> You're Palestinian. You're left-wing". 
+> "You're Palestinian. You're left-wing". 
 
 
 At the candidate assessment panel, Yousef recalls, he was asked whether he agreed to follow the Party whip. He declined — telling the panel, he says, that he was independent-minded and would assess each local issue on its merits rather than blindly follow the national party line.

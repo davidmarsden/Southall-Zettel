@@ -363,7 +363,7 @@ available at the time."
 The remediation of the contaminated land is set to complete 2038.
 
 
-Meanwhile, Peter Mason and his then-leader Julian Bell were accepting all-expenses-paid trips to the MIPIM property developers' conference in Cannes, courtesy of Berkeley Group — the company whose contractor was producing [the poisonous air that Southall's children were breathing](https://southallstories.uk/2018/09/11/berkeleys-school-governors-board-member/) in their school playgrounds.
+Meanwhile, Peter Mason and his then-leader Julian Bell were accepting all-expenses-paid trips to the MIPIM property developers' conference in Cannes, courtesy of a consortium that included Berkeley Group — the company whose contractor was producing [the poisonous air that Southall's children were breathing](https://southallstories.uk/2018/09/11/berkeleys-school-governors-board-member/) in their school playgrounds.
 
 
 Orwell's observation was about totalitarianism. But the instruction it describes — reject the evidence of your eyes and ears — does not require a totalitarian state. It only requires officials who have learned that language can be made to mean its opposite, and institutions willing to let them get away with it.

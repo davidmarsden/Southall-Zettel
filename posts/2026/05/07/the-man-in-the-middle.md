@@ -190,17 +190,18 @@ In other words: Jags Sanghera's professional role, for over a decade, has been t
 
 
 
-An example of Sanghera's engagement with the community is from his [2023 "consultation" report](https://drive.google.com/file/d/1NZEHS3AV-h-pDZkP5dcT_hJ4tKNt5mXv/view?usp=drivesdk). 
+An example of Sanghera's engagement with the community is from Berkeley's [2023 "consultation" report](https://drive.google.com/file/d/1NZEHS3AV-h-pDZkP5dcT_hJ4tKNt5mXv/view?usp=drivesdk). 
+
+
+The consultation report for The Green Quarter was prepared by BECG (now rebranded as Cavendish), the lobbying firm that [hired former Ealing leader Julian Bell and former Berkeley executive Judith Salomon](https://web.archive.org/web/20210920045525/https://becg.com/becg-appoints-two-new-strategic-advisors-to-boost-political-and-communications-offer-to-clients-in-the-built-environment/). It gave The Green Quarter's community inbox as the contact, and featured Jags Sanghera's face prominently in its pages, including as the host of an "open door" consultation event, and at a meeting of Berkeley's "independent" [Community Engagement Steering Group](https://www.ealing.news/news/southall-community-groups-invited-to-apply-for-25k-fund/), also chaired by BECG.
+
+
+The consultation asked local residents adjacent to the Gasworks site, many of whom have suffered years of bad smells, toxic air pollution, ill-health, damage to the structure of their homes and roads, loss of enjoyment of their gardens, and loss of light into their homes what they thought. 
 
 
 
 
-In it, Sanghera asked local residents adjacent to the Gasworks site, many of whom have suffered years of bad smells, toxic air pollution, ill-health, damage to the structure of their homes and roads, loss of enjoyment of their gardens, and loss of light into their homes what they thought. 
-
-
-
-
-This is what Sanghera published about them:
+This is what Berkeley and BECG published about them:
 
 
 
@@ -211,7 +212,6 @@ This is what Sanghera published about them:
 
 
 To anyone who knows anything about Southall and the impact of the Gasworks redevelopment on local residents, it's an absolutely shocking and appalling thing to say. It shows a complete lack of empathy, and a total absence of any sense of regret, responsibility or [accountability](https://southallstories.uk/2026/05/06/the-meeting-that-ended-local/). 
-
 
 
 

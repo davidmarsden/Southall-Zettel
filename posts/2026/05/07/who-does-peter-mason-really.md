@@ -319,7 +319,7 @@ What followed was a pattern of deselection extending well beyond the ideological
 
 
 
-When Ealing Labour says ECI candidates are "hardly independent" because some were expelled, they do not mention that it was Mason himself who was instrumental in those expulsions. The people he expelled did not choose to leave. He removed them.
+When Ealing Labour says ECI candidates are "hardly independent" because some were expelled, they do not mention that it was Mason himself who was instrumental in those expulsions. The people he expelled did not choose to leave. As a member of the NCC, the body that decides expulsions, he removed them.
 
 
 

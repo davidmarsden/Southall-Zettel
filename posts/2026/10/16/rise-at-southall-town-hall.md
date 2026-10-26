@@ -12,6 +12,10 @@ categories:
 - BREAKING NEWS
 url: /2026/10/16/rise-at-southall-town-hall/
 ---
+*Updated 23 October 2026 with a response from Ealing Council. See the end of this article.* 
+
+---
+
 Ealing Council has told Southall residents that it updated its equality assessment, consulted partners and considered local impacts when it moved its drug and alcohol treatment service, RISE, into Southall Town Hall. It has also said there is "no evidence" that the move is behind the problems residents are reporting.
 
 
@@ -94,6 +98,32 @@ A further response, on what the council's Community Safety team advised about th
 
 
 ---
+
+Ealing Council was invited to comment and has said a response will follow.
+
+---
+
+On 23 October, an Ealing Council spokesperson said: 
+
+> “We take residents’ concerns about crime and anti-social behaviour in Southall very seriously. We are working closely with the police and other partners to tackle these issues and help prevent them in the longer term.
+
+
+> “Services supporting people with drug and alcohol dependency have been part of Southall for many years and play an important role in helping people into recovery and reducing harm in our communities. Criminal and anti-social behaviour is unacceptable, but it is important not to assume that people accessing treatment are responsible for crime in the area, or that the issues being reported are being caused by RISE.
+
+
+> “The causes of crime and anti-social behaviour are complex, which is why the [process] of gathering evidence is so important, and we will continue to act on residents’ concerns and the information available.
+
+
+> “At the same time, we recognise that some people sleeping rough and others facing complex challenges need support. People access RISE voluntarily to receive help with their drug or alcohol use and improve their health and wellbeing. Our approach combines appropriate enforcement action with compassionate outreach, so that people who need help are supported while those who break the law face the consequences.
+
+
+> “We are increasing CCTV monitoring and on-the-ground patrols, with further targeted police activity planned. We are also stepping up outreach to help people sleeping rough move into accommodation and support. We have listened to residents and businesses and will continue taking action to protect the town centre and ensure Southall remains a place people can be proud of.”
+
+---
+
+The statement no longer says there is "no evidence" that the problems are caused by RISE, and does not repeat the claim about displacement from enforcement elsewhere. It did not answer my questions about the basis for the 7 August statement, the January 2025 safety warning or the council's wording on its equality assessment. Those questions will be put again before a fuller article to come.
+
+--- 
 
 
 **Sources**

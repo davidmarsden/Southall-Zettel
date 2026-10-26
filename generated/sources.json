@@ -1774,6 +1774,13 @@
   {
     "domain": "ealing.news",
     "posts": [
+      "posts/2026/05/07/the-man-in-the-middle.md"
+    ],
+    "url": "https://www.ealing.news/news/southall-community-groups-invited-to-apply-for-25k-fund/"
+  },
+  {
+    "domain": "ealing.news",
+    "posts": [
       "posts/2026/10/16/rise-at-southall-town-hall.md"
     ],
     "url": "https://www.ealing.news/news/southall-residents-plan-protest-over-ealing-rise-relocation/"
@@ -6624,6 +6631,13 @@
       "posts/2021/05/03/look-at-these-bricks.md"
     ],
     "url": "https://web.archive.org/web/20210505225051/https://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018"
+  },
+  {
+    "domain": "web.archive.org",
+    "posts": [
+      "posts/2026/05/07/the-man-in-the-middle.md"
+    ],
+    "url": "https://web.archive.org/web/20210920045525/https://becg.com/becg-appoints-two-new-strategic-advisors-to-boost-political-and-communications-offer-to-clients-in-the-built-environment/"
   },
   {
     "domain": "web.archive.org",

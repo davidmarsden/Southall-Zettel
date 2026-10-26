@@ -10622,6 +10622,12 @@
     },
     {
       "provenance": "source-post-link",
+      "source": "post:posts/2026/05/07/the-man-in-the-middle.md",
+      "target": "domain:web.archive.org",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
       "source": "post:posts/2026/05/07/who-does-peter-mason-really.md",
       "target": "domain:web.archive.org",
       "type": "cites-domain"
@@ -15494,7 +15500,7 @@
     {
       "id": "domain:web.archive.org",
       "label": "web.archive.org",
-      "post_count": 14,
+      "post_count": 15,
       "type": "source-domain"
     },
     {
