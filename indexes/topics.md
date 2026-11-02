@@ -6,9 +6,9 @@ Curated topics with generated mention counts.
 - [Children's centres](../topics/children-centres.md) — 16 posts
 - [Council accountability](../topics/council-accountability.md) — 41 posts
 - [Governance](../topics/governance.md) — 32 posts
-- [Housing](../topics/housing.md) — 39 posts
+- [Housing](../topics/housing.md) — 40 posts
 - [Local democracy](../topics/local-democracy.md) — 44 posts
 - [Pensions and divestment](../topics/pensions-divestment.md) — 5 posts
-- [Planning and development](../topics/planning-development.md) — 46 posts
+- [Planning and development](../topics/planning-development.md) — 47 posts
 - [Public health](../topics/public-health.md) — 29 posts
 - [Waste and fly-tipping](../topics/waste-flytipping.md) — 33 posts

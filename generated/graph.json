@@ -1826,6 +1826,36 @@
     },
     {
       "provenance": "deterministic-alias-match",
+      "source": "entity:ealing",
+      "target": "post:posts/2024/12/28/developers-if-you-really-want.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:ealing-labour",
+      "target": "post:posts/2024/12/28/developers-if-you-really-want.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "entity:southall",
+      "target": "post:posts/2024/12/28/developers-if-you-really-want.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:housing",
+      "target": "post:posts/2024/12/28/developers-if-you-really-want.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
+      "source": "topic:planning-development",
+      "target": "post:posts/2024/12/28/developers-if-you-really-want.md",
+      "type": "mentioned-in"
+    },
+    {
+      "provenance": "deterministic-alias-match",
       "source": "entity:berkeley-group",
       "target": "post:posts/2025/07/11/perceval-house-w-where-local.md",
       "type": "mentioned-in"
@@ -13092,6 +13122,13 @@
       "id": "post:posts/2024/12/14/southall-odours.md",
       "label": "Southall Odours",
       "path": "posts/2024/12/14/southall-odours.md",
+      "type": "post"
+    },
+    {
+      "date": "2024-12-28T15:48:00+00:00",
+      "id": "post:posts/2024/12/28/developers-if-you-really-want.md",
+      "label": "Developers, if you Really Want to Help",
+      "path": "posts/2024/12/28/developers-if-you-really-want.md",
       "type": "post"
     },
     {

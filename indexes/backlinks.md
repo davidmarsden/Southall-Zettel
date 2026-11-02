@@ -62,13 +62,13 @@ Generated reverse links between posts plus entity/topic mention counts.
 
 ## Most-mentioned entities
 
-- **Southall** — 69
-- **Ealing** — 66
+- **Southall** — 70
+- **Ealing** — 67
 - **Ealing Council** — 53
 - **Southall Gasworks** — 44
 - **Berkeley Group** — 34
+- **Ealing Labour** — 31
 - **Peter Mason** — 31
-- **Ealing Labour** — 30
 - **Southall Green** — 25
 - **Julian Bell** — 15
 - **Labour Party** — 15
@@ -185,11 +185,11 @@ Generated reverse links between posts plus entity/topic mention counts.
 
 ## Most-mentioned topics
 
-- **Planning and development** — 46
+- **Planning and development** — 47
 - **Local democracy** — 44
 - **Council accountability** — 41
 - **Air pollution** — 40
-- **Housing** — 39
+- **Housing** — 40
 - **Waste and fly-tipping** — 33
 - **Governance** — 32
 - **Public health** — 29

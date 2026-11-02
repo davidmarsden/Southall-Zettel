@@ -1264,6 +1264,29 @@
     "videos": []
   },
   {
+    "path": "posts/2024/12/28/developers-if-you-really-want.md",
+    "sha256": "c605b5c2327e8dd03736f5797c90a86608407691b89d2c66a5c6aed52f3913f1",
+    "post_id": 6058025,
+    "title": "Developers, if you Really Want to Help",
+    "summary": null,
+    "date": "2024-12-28T15:48:00+00:00",
+    "lastmod": null,
+    "url": "/2024/12/28/developers-if-you-really-want/",
+    "guid": null,
+    "categories": [
+      "Environment",
+      "Community",
+      "Commentary",
+      "Health",
+      "Personal",
+      "Ethics"
+    ],
+    "outbound_links": [],
+    "outbound_domains": [],
+    "images": [],
+    "videos": []
+  },
+  {
     "path": "posts/2025/07/11/perceval-house-w-where-local.md",
     "sha256": "c7534a29b011aaf305fb02b384185c72adf36c947f2c1affbed2bc72e77e744d",
     "post_id": 5543316,

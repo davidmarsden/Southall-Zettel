@@ -1325,6 +1325,14 @@
       "title": "Southall Odours"
     },
     {
+      "date": "2024-12-28T15:48:00+00:00",
+      "matched_aliases": [
+        "new homes"
+      ],
+      "path": "posts/2024/12/28/developers-if-you-really-want.md",
+      "title": "Developers, if you Really Want to Help"
+    },
+    {
       "date": "2025-07-11T13:50:30+0100",
       "matched_aliases": [
         "affordable homes"
@@ -2232,6 +2240,15 @@
       ],
       "path": "posts/2024/05/19/the-cuckoos-nest.md",
       "title": "The Cuckoo's Nest"
+    },
+    {
+      "date": "2024-12-28T15:48:00+00:00",
+      "matched_aliases": [
+        "planning",
+        "developers"
+      ],
+      "path": "posts/2024/12/28/developers-if-you-really-want.md",
+      "title": "Developers, if you Really Want to Help"
     },
     {
       "date": "2025-07-11T13:50:30+0100",

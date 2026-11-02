@@ -18,7 +18,7 @@ Curated entities with generated mention counts.
 - [Ealing Friends of Palestine](../entities/organisations/ealing-friends-of-palestine.md) — 1 post
 - [Ealing Friends of the Earth](../entities/organisations/ealing-friends-of-the-earth.md) — 1 post
 - [Ealing Independent Network](../entities/organisations/ealing-independent-network.md) — 3 posts
-- [Ealing Labour](../entities/organisations/ealing-labour.md) — 30 posts
+- [Ealing Labour](../entities/organisations/ealing-labour.md) — 31 posts
 - [Ealing News](../entities/organisations/ealing-news.md) — 4 posts
 - [Environment Agency](../entities/organisations/environment-agency.md) — 14 posts
 - [European Court of Human Rights](../entities/organisations/european-court-of-human-rights.md) — 2 posts
@@ -96,7 +96,7 @@ Curated entities with generated mention counts.
 - [Beaconsfield Road](../entities/places/beaconsfield-road.md) — 4 posts
 - [Dominion Centre](../entities/places/dominion-centre.md) — 6 posts
 - [Dormers Wells](../entities/places/dormers-wells.md) — 3 posts
-- [Ealing](../entities/places/ealing.md) — 66 posts
+- [Ealing](../entities/places/ealing.md) — 67 posts
 - [Ealing Common](../entities/places/ealing-common.md) — 2 posts
 - [Ealing Southall constituency](../entities/places/ealing-southall-constituency.md) — 4 posts
 - [East Acton](../entities/places/east-acton.md) — 3 posts
@@ -116,7 +116,7 @@ Curated entities with generated mention counts.
 - [Saklatvala Hall](../entities/places/saklatvala-hall.md) — 2 posts
 - [Scotts Road](../entities/places/scotts-road.md) — 4 posts
 - [South Road](../entities/places/south-road.md) — 5 posts
-- [Southall](../entities/places/southall.md) — 69 posts
+- [Southall](../entities/places/southall.md) — 70 posts
 - [Southall Air Quality Focus Area](../entities/places/southall-air-quality-focus-area.md) — 2 posts
 - [Southall Broadway](../entities/places/southall-broadway.md) — 10 posts
 - [Southall Gasworks](../entities/places/southall-gasworks.md) — 44 posts

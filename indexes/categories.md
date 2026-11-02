@@ -1,11 +1,11 @@
 # Categories
 
-- **Commentary** — 57
+- **Commentary** — 58
 - **Local Democracy** — 44
+- **Environment** — 37
 - **Ealing Labour** — 37
-- **Environment** — 36
-- **Health** — 31
-- **Community** — 31
+- **Health** — 32
+- **Community** — 32
 - **Investigations** — 28
 - **Gasworks** — 25
 - **Exposes** — 23
@@ -15,8 +15,8 @@
 - **Corruption** — 16
 - **Campaigns** — 15
 - **Research** — 13
-- **Personal** — 12
-- **Ethics** — 9
+- **Personal** — 13
+- **Ethics** — 10
 - **Housing** — 9
 - **AI** — 8
 - **BREAKING NEWS** — 6

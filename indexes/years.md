@@ -52,6 +52,7 @@
 
 ## 2024
 
+- [Developers, if you Really Want to Help](/../posts/2024/12/28/developers-if-you-really-want.md) — 2024-12-28T15:48:00+00:00
 - [Southall Odours](/../posts/2024/12/14/southall-odours.md) — 2024-12-14T16:19:00+0100
 - [COPD](/../posts/2024/10/31/copd.md) — 2024-10-31T22:44:00+0100
 - [The Cuckoo's Nest](/../posts/2024/05/19/the-cuckoos-nest.md) — 2024-05-19T12:25:00+0100
