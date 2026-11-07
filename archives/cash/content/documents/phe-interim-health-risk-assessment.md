@@ -1,0 +1,177 @@
+---
+title: "Interim Health Risk Assessment of Air Quality Monitoring Results: Southall Waterside Development"
+slug: documents/phe-interim-health-risk-assessment
+order: 12
+original_url: "https://southallandhayescleanair.org.uk/wp-content/uploads/2020/01/Public_Health_England___Southall_Waterside_Interim_Health_Risk_Assessment-5.pdf"
+wayback_url: "https://web.archive.org/web/20200926021258/https://southallandhayescleanair.org.uk/wp-content/uploads/2020/01/Public_Health_England___Southall_Waterside_Interim_Health_Risk_Assessment-5.pdf"
+captured: "2020-09-26"
+document_type: "Public Health England report (13 pages)"
+author: "Public Health England"
+licence: "Crown copyright. Reproduced under the Open Government Licence v3.0."
+summary: "PHE's review of developer-commissioned air quality monitoring at the former Southall Gasworks, as hosted by CASH."
+---
+
+<p class="note">Full-text transcription of the 13-page PDF hosted by CASH. Page breaks are not marked, footnotes are gathered at the end, and Table 1 has been rebuilt from the PDF's text layer. Figure 1 (a map of monitoring locations copied from the Atkins report) is not reproduced; see the original PDF. This is a Public Health England document, not a CASH publication. Crown copyright, reproduced under the Open Government Licence v3.0.</p>
+
+## Non-Technical Summary
+
+Public Health England (PHE) has been asked by Ealing Council to review air quality monitoring data for the former Southall Gasworks site, known as the Southall Waterside Development following public concerns regarding the ongoing construction works at the site. Air quality monitoring has been carried out by Atkins (an environmental consultancy), on behalf of Berkley West Thames (the developer). Monitoring for total volatile organic compounds (VOC) in air started in January 2017 and enhanced VOC monitoring has been done since June 2018.
+
+The data provided to PHE by Ealing Council has been compared to available health based air quality guidelines and standards or assessment levels. Where the concentrations in air are shown to be lower than appropriate health based standards or guidelines, it may be assessed that the risk to health is minimal. On the basis of the available monitoring data, average levels of VOCs have been below or comparable to guideline or assessment levels. There have been occasions where the levels of benzene, naphthalene and 4-isopropyltoluene have been recorded above health based guidelines. These exceedances have been short lived, whereas the guidelines used for comparison are based on annual average concentrations. The exceedances have also remained below levels likely to cause acute or short term health effects. Furthermore, it should be noted that monitoring stations are positioned on the site boundary and the concentrations of the compounds in air will have diluted further before reaching the surrounding population, reducing the potential risk. The results for the air quality monitoring are considered unlikely to pose a direct toxicological risk to the long-term health of the nearby population.
+
+However, it is useful to note the public concerns in relation to odours. The human nose is very sensitive to odours, and substances that are perceived as odorous are commonly present at levels below which there is a direct toxicological effect. Odours can cause nuisance amongst the population possibly leading to stress and anxiety. Some people may experience symptoms such as nausea, headaches or dizziness, as a reaction to odours even when the substances that cause those smells are themselves not harmful to health. The levels of VOCs on this site have occasionally been recorded in excess of odour thresholds and it is possible that the surrounding population may have experienced some odours as part of the ongoing construction works.
+
+PHE recommends that all measures are taken to reduce the off-site odours from the construction site, as it is acknowledged that odours can affect an individual’s wellbeing.
+
+## Background and Scope
+
+Concerns have been raised by the community about the redevelopment of a site known as the Southall Waterside Development, located at the former Southall Gasworks. The community are concerned about redevelopment activities causing poor air quality or nuisance and adversely impacting the community’s health. PHE have been asked by Ealing Council to review air quality monitoring data for the site in order to undertake an independent public health risk assessment.
+
+Atkins (an environmental consultancy) have been appointed by Berkley West Thames (the developer) to carry out air quality monitoring for the site and have provided the following reports for PHE to review:
+
+- Southall Waterside, Tenax monitoring analysis, no.A720-E05-SW-XX-ATK-EN-TN-0001, version P2.
+- Southall Waterside, Response to PHE request for further information, no.A720-E05-SW-XX-ATK-EN-TN-0005, version P2.
+
+## Methodology: Air quality standards and assessment levels
+
+The data provided to PHE has been compared to available health based air quality guidelines and standards or assessment levels for the detected chemicals. There are a variety of health based standards and assessment levels that have been developed by a number of organisations. The hierarchy of standards and assessment levels used for this assessment is shown below:
+
+- UK and European Air Quality Standards.<sup>1</sup>
+- World Health Organisation (WHO) air quality guidelines.<sup>2,3</sup>
+- Other UK air quality assessment levels.<sup>4,5</sup>
+- National air quality assessment levels (other than UK).
+
+Where two or more UK or National (other than UK) air quality assessment levels are identified, the lowest value has been applied.
+
+Where available, authoritative guidance on minimal risk levels or odour thresholds have also been used.
+
+The US Agency for Toxic Substances Disease Registry has derived minimum risk levels (MRL) for some chemicals. An MRL is an estimate of the daily human exposure to a hazardous substance that is likely to be without appreciable risk of adverse non-cancer health effects over a specified duration of exposure. MRLs are derived for acute (1-14 days), intermediate (>14-364 days), and chronic (365 days and longer) exposure durations.<sup>6</sup>
+
+## Methodology: Monitoring Locations and Chemical Analysis
+
+Air quality monitoring at fixed sites around the site perimeter was established from January 2017, initially with testing for total volatile organic compounds (photoionization detector (PID) testing method), which was later supplemented with enhanced (Tenax testing method) sampling from June 2018. The fixed monitoring locations are detailed in Figure 1 below.
+
+<div class="figure-note" markdown="1">
+
+**Figure 1 – Position of fixed-site monitoring locations** (figure copied from Atkins report; not reproduced here)
+
+- Purple points: Fixed monitoring stations for total volatile organic compounds (PID) installed in January 2017, with additional enhanced monitoring (Tenax tubes) from June 2018
+- Red points: Enhanced monitoring stations (Tenax) installed in June 2018
+- Blue points: Enhanced monitoring station (Tenax) installed 18th September 2018
+
+</div>
+
+The developer has provided monitoring data from between 1st June and 25th September 2018. The monitoring has included testing of groups of chemicals called aliphatic and aromatic hydrocarbons (banding C5-16) and select semi-volatile and volatile organic compounds (SVOC and VOC). These chemicals are commonly found on former gas works sites and are commonly associated with fuels (i.e. petrol and diesel). Some of these chemicals have odorant properties i.e. have a smell, which is considered unpleasant, whereas other chemicals do not smell.
+
+The following observations are made on the monitoring locations, methods and chemical testing undertaken:
+
+- Monitoring points are positioned on all boundaries of the site and as such, would allow assessment of air quality concentrations should the wind direction change.
+- Monitoring points are positioned between the site and the community including sensitive locations such as Beaconsfield Primary School, Blair Peach Primary School, Guru Nanak Sikh Academy and residential properties to the north, east and south. This would allow assessment of levels of chemicals before any potential impacts on the surrounding population.
+- The site has historically been used for a variety of industrial land uses including the Southall Gas Works, all of which have the potential to impact the type and concentration of chemicals present in soil and air as part of the remediation works. The air quality monitoring aims to assess or capture the likely chemicals present on such sites.
+
+## Air Quality Monitoring Results
+
+For each of the chemicals detected and that have an available air quality standard or guidance value, PHE have calculated the average and maximum values from the data.
+
+Additionally, it is noted that the most likely source of chemicals is the ongoing work in the soil treatment hospital positioned in the south-western portion of the site. The calculation of a site-wide average value includes results from all monitoring results (i.e. from the soil hospital in the south-western portion of the site and in the north-eastern portion of the site where chemical concentrations would likely decrease as they have been diluted in air). Residents present to the south of the site are in closer proximity to the soil hospital, therefore average chemical concentrations from the two monitoring stations closest to the soil hospital (monitor Air 1 and ES14) have been calculated for a precautionary assessment.
+
+By calculating the average values over the 16 week enhanced monitoring period, the chemical concentrations recorded can be checked against air quality standards and guidance, as the standards are based on the chemical concentration across a number of appropriate time periods. No assessment has been undertaken where a chemical has recorded concentrations beneath laboratory limits of detection.
+
+Table 1 shows a summary of the identified VOC concentrations from the monitoring results, compared with available health based standards or assessment levels. Not all chemicals have stipulated UK air quality standards, assessment levels or WHO guidelines. Where this is the case, relevant alternative guidelines have been used for assessment of the reported concentrations of those chemicals in the air.
+
+### Table 1 – Summary of Identified Chemicals and their Air Quality Assessment Levels
+
+All values in μg/m³.
+
+<div class="table-wrap" tabindex="0" role="region" aria-label="Table 1">
+
+| Chemical | Concentration range recorded | Average concentration recorded | Average near the soil hospital | UK / EU Air Quality Standard | WHO Air Quality Guideline | Other UK Assessment Level | Assessment Level (other than UK) | USA ATSDR minimum risk levels | Odour threshold |
+|---|---|---|---|---|---|---|---|---|---|
+| Benzene | <0.6 – 16.6 | 2.46 | 4.1 | 5 (annual average) | 0.17 – 17 | – | – | 19.5 (intermediate) | 5,000 (US EPA)<sup>7</sup> |
+| Naphthalene | <0.2 – 173.5 | 10.49 | 29.2 | – | 10 (annual average) | 530 (EAL annual limit) | – | 3.73 (chronic) | 7.5 to 420 (US EPA)<sup>8</sup> |
+| Toluene | <0.6 – 24.7 | 2.5 | 4.76 | – | 260 (weekly average) | – | – | 3,800 (chronic) | 1,000 (WHO)<sup>9</sup> |
+| Styrene | <0.7 – 8.2 | 1.1 | 1.08 | – | 260 (weekly average) | – | – | 1,000 (chronic) | 70 (WHO)<sup>9</sup> |
+| Xylene (o, m, p) | <1.5 – 21.9 | 3.5 | 5.33 | – | – | 4,410 (EAL annual limit) | – | 2,648 (intermediate) | 4,776 (US EPA)<sup>10</sup> |
+| Trimethylbenzenes, all isomers or mixture | <1.6 – 15\* | 2.8\* | 3.61\* | – | – | 1,250 (EAL annual limit) | 60 (US EPA RfC) | – | 590 |
+| Trichloroethene | <0.8 – 1.9 | 1.27 | 1.3 | – | 2.3 – 230 | 1,100 (EAL annual limit) | – | – | – |
+| Ethylbenzene | <0.5 – 5.4 | 1.01 | 1.41 | – | – | 4,410 (EAL annual limit) | – | 8,827 (intermediate) | 738 |
+| sec-Butylbenzene | <0.9 – <1.6 | 1.31 | <1.3 | – | – | – | – | – | 47 |
+| 4-Isopropyltoluene | <0.9 – 137.6 | 2.79 | 2.12 | – | – | – | 2 (AGÖF)<sup>11</sup> | – | – |
+
+</div>
+
+<div class="table-notes" markdown="1">
+
+\* Sum of 1,2,4-trimethylbenzene and 1,3,5-trimethylbenzene isomer concentrations reported.
+&lt;: Chemical is recorded beneath laboratory detection limits. This is the lowest concentration that the laboratory can detect the presence of a chemical. This will vary between each chemical and the same chemical during different sampling events.
+EAL: Environmental Assessment Level. AAD: Ambient Air Directive.
+–: either no standard or guidance is available for the chemical or a more suitable value is available.
+Acute symptom threshold: Lowest value at which acute symptoms (i.e. headache / nausea) are experienced.
+
+</div>
+
+## Air Quality Monitoring Results and Discussion
+
+From the available data, the majority of the identified chemicals were significantly lower than the relevant air quality guidelines or standards, with the exception of benzene, naphthalene and 4-isopropyltoluene, which were intermittently above the guideline values.
+
+Concentrations of toluene, styrene, xylenes, trimethylbenzenes, trichloroethene and ethylbenzene were recorded beneath their assessment levels and often beneath the laboratory limits of detection. As such, it can be concluded that the health risks posed by these chemicals are very low or negligible.
+
+Benzene is an important chemical required for the manufacture of a wide range of materials including plastics, foams, dyes, detergents, solvents and insecticides. Exposure to benzene is mainly through inhalation and major sources include vehicle exhaust, evaporation of petrol and petrol manufacturing. Average levels of benzene across the site (2.46 μg/m³) and at the soil hospital (4.1 μg/m³) were below the UK air quality standard of 5 μg/m³ as an annual average. There were nine weeks when the maximal level of benzene at five locations was above the UK AQS. Monitoring locations during this period were positioned on the western boundary (monitoring location Air5) and southern boundary (monitoring locations Air1, Air3, ES14 and ES16), with AQS exceedance concentrations ranging between 5.6 and 16.6 μg/m³ (average of peak concentration of 9.3 μg/m³).
+
+The WHO has developed air quality guideline values in which, for non-cancer causing compounds, inhalation of an air pollutant in concentrations and for exposure times below a guideline value will not have adverse effects on health, and, in the case of odorous compounds, will not create a nuisance of indirect health significance. For proven cancer-causing compounds, the guidelines provide an estimate of lifetime cancer risk. The average benzene levels across the site have been comparable to the WHO guideline corresponding to an estimated excess lifetime cancer risk of 1 in 100,000. Comparison of the average site results against the WHO guideline value is highly precautionary as the WHO guideline corresponds to an annual average exposure. It is also useful to note that benzene is present in the environment from a number of different sources and the WHO has stated that ambient (natural) air concentrations of benzene in rural and urban areas are approximately 1 μg/m³ and 5–20 μg/m³ respectively (depending on the type of area).
+
+Whilst occasional peak benzene concentrations (maximum 16.6 μg/m³) were recorded above the UK Air Quality Standard (AQS), it should be noted that the standard is based on an annual average and the slight exceedance would not be expected to represent an increased threat to health. As such, it can be concluded that the health risk from the reported benzene concentrations are minimal.
+
+Naphthalene is present in the environment from various sources such as vehicle exhaust, use of solvents or creosote. The main route of exposure is inhalation, especially in the vicinity of heavy traffic, petrol stations and oil refineries. The average site-wide concentration of 10.49 μg/m³ is comparable to the WHO Indoor Air Quality Guideline of 10 μg/m³ as an annual average. Average concentrations at the soil hospital (29.2 μg/m³) have been above the WHO guideline value, however, these levels are not representative of the surrounding population’s exposure as they have been recorded at the site and will have diluted, as evinced by the site wide average, before impacting surrounding residents. Based on the data provided and considering that the site wide average is comparable to the WHO air quality guideline for annual average exposures, which is a precautionary assessment approach, as well as allowing for dilution of naphthalene in air prior to reaching the surrounding population, the health risks posed by naphthalene are considered to be minimal.
+
+There are no available air quality guidelines for sec-butylbenzene. One sample of sec-butylbenzene was recorded above the laboratory limit of detection (recorded concentration 1 μg/m³ and laboratory limit of detection of between <0.9 and <1.6 μg/m³). Noting the short period this chemical was present and the low concentration recorded, close to the limit of detection, the associated health risks are considered to be minimal.
+
+4-isopropyltoluene (also known as ρ-cymene) is an ingredient of essential oils and is noted for its sweet and characteristic odour<sup>12</sup>; although there is no identified odour threshold, ρ-Cymene is a very versatile chemical which can be used in a wide variety of applications including polishes and sanitation goods such as soaps and detergents. Its use as a fragrance agent in commercial and consumer products may result in its release into the environment. Concentrations of this chemical were all recorded beneath laboratory limits of detection, with the exception of the period between the 3rd and 14th August, during which it was recorded above limits of detection on seven of ten monitoring locations between 1 and 138 μg/m³ (average concentration during this period of 22 μg/m³ on all monitoring equipment). Concentrations during this period were recorded in excess of the AGÖF guidance value of 2 μg/m³; however, the average concentration at the site boundary was 2.79 which is comparable to levels collected from 15 micro environments in Birmingham<sup>13</sup> (homes, offices, restaurants, cinemas, libraries, buses, cars, etc) that contained average p-cymene concentrations ranging from 0.3 to 4.9 μg/m³. Overall health impacts are considered to be minimal, ρ-cymene may have been a constituent of the odour suppressant used on site noting the short period and the fact that there is no ongoing exposure, with concentrations recorded beneath the laboratory detection limit and health standard during all other monitoring periods.
+
+Five monitoring stations have measured concentrations of total volatile organic compounds (TVOC) since January 2017, which were reported by Atkins to have been installed for the protection of on-site workers. There are difficulties with the assessment of readings for total volatile organic compounds, as the total value includes a range of chemicals, all of which have varying levels of toxicity. The measurement of TVOC is in parts per million (ppm), as opposed to micrograms per cubic meter (μg/m³). PPM records the frequency of VOCs present in air; however, given that there is a range of VOCs included in this measurement, it is hard to convert ppm to μg/m³, given the different weight of each VOC. Therefore, there are difficulties with the comparison of these values to the air quality assessment levels presented in Table 1.
+
+A graphical representation of TVOC concentrations for 10-minute averages has been presented by Atkins, which identifies concentrations to have typically been recorded between 0 and 2 ppm, with short term peaks typically recorded between 3 and 12 ppm (one peak of 67 ppm was recorded). Furthermore, eight hour average concentrations have been presented for monitoring data from 2018 and are typically below 1 ppm.
+
+PHE have applied a precautionary value of 1.5 ppm to represent a potential hazard to health for sub-chronic inhalation exposure)<sup>14</sup>. Graphical concentrations are generally observed to fall at or beneath this precautionary value and where there are peaks in concentrations of total volatile organic compounds, these are short lived and unlikely to be representative of long-term and chronic exposure. Furthermore, it is noted that the monitoring stations are positioned on the site boundary, and TVOC levels in air would likely further dilute before reaching the surrounding population. Based on the above, it is considered that the human health risks are minimal; however, the data should be subject to further assessment.
+
+## Conclusions
+
+Overall the results for the air quality monitoring are considered unlikely to pose a risk to the long-term health of the nearby population. Whilst occasional concentrations of benzene, naphthalene and 4-isopropyltoluene have been recorded in excess of their assessment criteria, these exceedances have been short lived and standards are based on annual average concentrations; therefore, concentrations have been below levels likely to cause health effects. Furthermore, monitoring stations are positioned on the site boundary and it is likely that airborne concentrations will dilute further before reaching the local population, limiting potential health impacts.
+
+It is important to make a distinction between concerns about odour and any toxicological effect from exposure to airborne chemicals. The human nose is very sensitive to odours, and substances that are perceived as odorous are commonly present at levels below which there is a direct toxicological effect. Odours can cause nuisance amongst the population, possibly leading to stress and anxiety. Some people may experience symptoms such as nausea, headaches or dizziness as a reaction to odours even when the substances that cause those smells are themselves not harmful to health.
+
+The monitoring data has occasionally identified that chemicals may have been recorded in excess of odour thresholds and it is possible that the surrounding population may have been subject to some odours as part of the ongoing construction works.
+
+This interim health risk assessment is based on the currently available monitoring data. PHE understands that further air quality monitoring is to be undertaken by the developer and this report may be updated as appropriate when such data is available.
+
+PHE recommends that all measures are taken to reduce the off-site odours from the construction site, as it is acknowledged that odours can affect an individual’s wellbeing.
+
+## Appendix 1: Limitations
+
+Based on the monitoring data presented, Public Health England would note the following limitations to the risk assessment:
+
+- Detailed monitoring data has only been provided for a 16 week period. Laboratory analysis was not consistently undertaken at all monitoring locations during this period (i.e. 16 week monitoring data is not available for all locations). Some air quality standards are based on annual averages and as such, factors that may impact air quality through the course of the year (e.g. different site working practices, different weather conditions etc) would not have been picked up in the results. It should be noted that monitoring was undertaken during the summer when greater temperatures are likely to have resulted in greater concentrations of VOCs in air; as such, it is possible that concentrations recorded during cooler weather periods will decrease.
+- Monitoring periods have not been consistent across the twelve sampling weeks, with periods ranging between 140 hours and 260 hours. It is considered that monitoring periods should have been kept consistent for result replicability.
+- There are different techniques for air quality monitoring, each of which has advantages and disadvantages. Passive sampling has been undertaken, which has limitations in that the results may not be reflective of ‘shorter-term’ concentrations (i.e. during site operational hours), which would allow appropriate comparison against air quality standards for different time periods. The total volatile organic compound monitoring which was commenced in January 2017, includes ‘shorter-term’ values of chemicals in air; however, this monitoring technique does not detail the exact chemical recorded and as such there are difficulties in undertaking a risk assessment of this data.
+- PHE have not been presented with full details on past land use for the site which would indicate the likely chemicals present on site and inform the conceptual site model. As such, PHE are unable to comment on the appropriateness of the air quality sampling undertaken; however, note that the VOC and SVOC tested are broadly consistent with the chemicals identified elsewhere on former gas works.
+- It is understood that no air quality monitoring was undertaken to provide a baseline prior to construction starting. Therefore it is difficult to scientifically determine whether the ongoing development has impacted air quality. Ealing Council have ambient air quality monitoring stations as part of their statutory role; although these do not monitor volatile organic compounds.<sup>15</sup>
+- The monitoring data for total volatile organic compounds has only been provided in graphical form. Further assessment of risk could be undertaken if concentrations were provided for each monitoring location over the time period; including comparisons against recorded diffusion tube concentrations.
+- PHE have only considered air quality based on the data provided to them. It is considered that both the Environment Agency and Ealing Council would have reviewed information on potential soil and groundwater pollution associated with the planning permission for the development.
+
+## Footnotes
+
+1. UK Air Quality Objectives — <https://uk-air.defra.gov.uk/assets/documents/Air_Quality_Objectives_Update.pdf>
+2. World Health Organization, Air Quality Guidelines for Europe, Second Edition, 2000 — <http://www.euro.who.int/__data/assets/pdf_file/0005/74732/E71922.pdf>
+3. WHO (2010) WHO Guidelines for Indoor Air Quality: Selected Pollutants — <http://www.euro.who.int/__data/assets/pdf_file/0009/128169/e94535.pdf?ua=1>
+4. Environmental Assessment Levels — <https://www.gov.uk/guidance/air-emissions-risk-assessment-for-your-environmental-permit#environmental-standards-for-air-emissions>
+5. EH40/2005 Workplace exposure limits, Third Edition 2018
+6. <https://www.atsdr.cdc.gov/mrls/index.asp>
+7. United States Environmental Protection Agency, Benzene — <https://www.epa.gov/sites/production/files/2016-09/documents/benzene.pdf>
+8. World Health Organisation, Guidelines for Indoor Air Quality, 2010
+9. World Health Organisation, Air Quality Guidelines for Europe, Second Edition 2000
+10. United States Environmental Protection Agency — <https://www.epa.gov/sites/production/files/2016-09/documents/xylenes.pdf>
+11. AGÖF, The German Association of Ecological Research Institutes, Guidance Values for Volatile Organic Compounds in Air — <https://www.agoef.de/orientierungswerte/agoef-voc-guidance-values.html>
+12. p-Cymene datasheet — <https://pubchem.ncbi.nlm.nih.gov/compound/7463#section=Top>
+13. <https://toxnet.nlm.nih.gov/cgi-bin/sis/search2/r?dbs+hsdb:@term+@na+P-CYMENE>
+14. Public Health England, Chemical Hazards and Poisons Report, September 2011, Issue 20
+15. <https://www.ealing.gov.uk/downloads/download/4240/air_quality_action_plan_aqap>
