@@ -1,0 +1,254 @@
+---
+title: Advice in respect of the Southall Waterside development and the F.M. Conway Limited site (North Hyde Gardens) — updated counsel's opinion to the London Borough of Ealing, 20 July 2021
+slug: elsewhere/ealing-counsel-advice-2021-07-20
+order: 28
+source_url: https://www.ealing.gov.uk/download/downloads/id/16684/counsel_opinion.pdf
+publisher: 'Ealing Council (counsel: Stuart Jessop)'
+date: '2021-07-20'
+retrieved: '2026-11-08'
+document_type: Ealing Council record · 2021-07-20
+summary: Second opinion commissioned under Mason's plan. It again finds no evidence of statutory nuisance or prejudice to health on the PHE 2019 and 2020 reports. It flags a mismatch between residents' strength of feeling and the very low complaint numbers (two in 2021) and suggests smell diaries. It notes that CASH or residents could bring their own s.82 EPA proceedings, and puts the cost of a contested abatement notice well above GBP 100k.
+---
+
+<p class="note">Source: https://www.ealing.gov.uk/download/downloads/id/16684/counsel_opinion.pdf (live PDF published by Ealing Council; server filename "Southall_Waterside_Counsel_Opinion___July_21.pdf"; fetched 2026-11-08). Author: Stuart Jessop, Barrister, 6 Pump Court, dated 20 July 2021; instructions dated 29 June 2021 (commissioned after Cllr Peter Mason's 19 May 2021 letter to CASH promised legal advice on an abatement notice). 15 pages. Public-sector document. Excerpts reproduced verbatim (paras 1–2, 12, 34–38, 48–51, 66–77, with page headers stripped). Omitted paragraphs (3–11, 13–33, 39–47, 52–65) cover counsel's experience, site background largely repeating the June 2020 advice, statutory-nuisance law, the contaminated-land exemption and the BPM defence — see source.</p>
+
+1. I am asked to advise the London Borough of Ealing (LBE) in respect of its duties and obligations in
+relation to complaints of odour nuisance and escape of gasses from two sites. The first is known
+as the Southall Waterside development also known as the former Southall gas works. The second
+is known as North Hyde Gardens which is currently operated as a roadstone coating plant by F.M.
+Conway Limited. It is located close to the border with the LBE but is wholly within the London
+Borough of Hillingdon (LBH).
+2. I am asked to advise on the duties and obligations of LBE generally and specifically answer
+questions posed within my written instructions dated 29th June 2021. I have been provided with
+extensive instructions both within this brief, previously sent written briefs, various letters
+between the Leader of the Council and others, reports from Public Health England (PHE), reports
+and letters from CASH, material in respect of complaints and the investigation, and emails and
+with material relevant to these instructions. The relevant material is voluminous, and I have not
+been provided with nearly all of what is available. I also rely on the written instructions provided
+when I was first asked to advise on this issue in 2019 and 2020, as well as two substantial
+conferences held in both years. I rely further on my advice sent to the Council in June 2020. At
+that time, I advised that a further report from PHE should be obtained. A report was obtained in
+July 2020 and that report has since been made available to me.
+12. Members of the public, including those associated with the residents’ campaign group known as
+‘Clean Air for Southall and Hayes’ or CASH, alleged that a statutory odour nuisance has existed
+and continues to exist arising from the works in progress to redevelop the former Southall gas
+works site and that therefore the council should serve an abatement notice on those responsible,
+under section 80 of the Environmental Protection Act 1990. I am told that the same campaign
+group has previously been active in alleging odour nuisance from the roadstone coating plant
+operated by FM Conway limited. LBE officers believe that a large proportion of recent complaints
+since summer 2019 are attributable to the industrial site in Hayes in the vicinity of the Conway
+plant, with that plant, in the absence of evidence that other plants are implicated, being the likely
+source of the odour. However, I am instructed that those who have attended in response to the
+complaints and in compliance with the local authority’s duty to inspect the area and investigate
+allegations of statutory nuisance, have found it extremely difficult to ascertain the source of any
+odour experienced, and have not themselves experienced a statutory nuisance.
+34. I have been given a copy and have read a report from Centric Lab which appears to have been
+produced in 2020 and I am told was commissioned by the resident’s group CASH. The report
+criticises alleged weaknesses in the PHE report published in the summer of 2019 in that it based
+its assessment on WHO guidelines which did not consider the biological make-up and individual
+susceptibility of the Southall community. The report appears to focus entirely on alleged
+complaints relating to gases emitted from the Southall Waterside development site only.
+35. I will make a few observations on this report. First, the sample size of 10 persons appears very
+small. Second, the report alleges that the WHO guideline thresholds for risk to health do not
+consider external stressors which might affect the impact of such gasses on an individual’s health.
+However, the WHO are likely to have considered other generally applicable factors which might
+increase the impact on health when setting thresholds for risk, in my opinion. Third, the report
+concludes that those responsible for the site should do all they can to “de-risk” it and makes a ten-
+
+
+point recommendation. I am instructed that each of these recommendations is either being fully
+met or is no longer applicable, because for example the soil hospital operations have now stopped.
+36. I have now also considered the PHE report dated July 2020. As to whether there has been a
+statutory nuisance based on likelihood of injury to health, both PHE reports of 2019 and 2020 say
+there is a low risk or none at all. The 2020 report concludes as follows:
+“The results obtained from the air quality monitoring indicate there is unlikely to be a direct
+toxicological risk to the health of the nearby population from the levels of VOCs detected.”
+37. Based on these reports it cannot be said that it was likely that any gases escaping from the Southall
+Waterside site were likely to cause injury to health. On that basis I do not accept that the LBE can
+be criticised in concluding that there was and is no statutory nuisance, which was prejudicial to
+health. The soil hospital has finished, and complaints have substantially reduced. I am told that
+officers from LBE therefore do not believe that if a nuisance did exist before, that it would recur.
+In my opinion, the evidence from Public Health England does not support the contention that
+there has been a statutory nuisance so as to be prejudicial to health or that such a nuisance is
+likely to occur or reoccur. Of course, the local authority must keep this under review and consider
+any contrary evidence which is brought to their attention.
+38. One option would be to commission a further independent report from an expert other than one
+from PHE. I do not say this is essential but it might assist in dealing with the concerns of CASH and
+the community who appear not to accept the validity of the PHE reports.
+Nuisance
+48. I note a range of initiatives are being proposed or are already established, for example the
+permanent presence of an officer on site. The assessment of any smell also needs to be examined
+and considered inside the homes of those experiencing it to establish whether the locality of the
+
+
+person experiencing the nuisance has any material effect on that person’s judgment as to whether
+a nuisance is witnessed. The Council must also ensure that complaints are not being missed, either
+because residents have lost confidence in complaints being responded to or for some other
+reason. I note the recent use of an App in this regard. This and other initiatives should be reviewed
+so that the Council are getting the most up to date and accurate picture of what the residents are
+experiencing so that there can be confidence that officer’s assessments of the alleged nuisance
+are based upon all available information and that the Council are continuing to fulfil their duty to
+investigate.
+49. It is worth noting that the law does not insist on the evidence of the nuisance being provided by
+the Council’s officers. In theory it is possible for a case to be built on the evidence of the residents
+alone, particularly if it has proven difficult for officers to witness the odour. In my view, a case is
+likely to be considerably weaker without officer’s evidence and, in any proceedings, it is highly
+likely that the officers’ views would need to be disclosed. This would obviously weaken the
+Council’s case further. Much would depend on the level and quality of evidence from the
+residents. Therefore, it would in my view be essential to have some objective assessment of the
+odour.
+50. The Conway site warrants a particular focus. Officers believe that when they have witnessed odour
+in the area it appears to be a smell of tarmac and to have emanated from the area around the
+Conway site. This warrants further investigation. Section 81(2) provides that where the act, default
+or sufferance which resulted in the statutory nuisance took place outside the area of the local
+authority where its effects were experienced, the duties of the local authority are as if that act,
+default or sufferance had taken place within that local authority’s area. So, if it could be
+established that a statutory nuisance occurred in the area of the LBE due to the Conway site (which
+is located within the London Borough of Hillingdon) then the duty on the LBE would be to serve a
+notice.
+51. At the time of writing though, officers from the LBE are of the view that there has been no
+statutory nuisance from either site or indeed from any other site in the area concerned.
+Contaminated Land
+66. The Council as the local planning authority should consider whether conditions have been or are
+being breached. A proper review should be conducted. There may have been no specific
+complaints of breaches of conditions but it might be that some of the complaints of nuisance
+received or otherwise made by residents through CASH, amount to concerns that conditions have
+been breached.
+70. It would be useful to know details of any attempts by CASH and the residents to engage with these
+regulators and the response of the EA and the LBH to this. I am instructed that a series of site
+meetings were arranged by Berkeley and of the few people who attended reports are that they
+were content with what they saw. A public open meeting which Berkeley / Atkins / EA and LBE
+attended was also arranged. The contaminated land officer has had no correspondence from CASH
+and no evidence (scientific data or argument) submitted proving a viable linkage still exists
+between the site and receptors (humans living on or near the site).
+Section 82 Environmental Protection Act 1990
+71. It should be noted that the ability to enforce the statutory nuisance regime is not restricted to a
+local authority only. Private citizens may bring proceedings under section 82 of the Environmental
+Protection Act 1990 in respect of statutory nuisance. Any person aggrieved by a statutory nuisance
+may bring proceedings by making a complaint to the magistrates’ court. This is separate to any
+civil action that might be taken. This would clearly cover the resident who could show that they
+were affected personally by a statutory nuisance and in my opinion is highly likely to include any
+association acting on behalf of such a resident if it can show that its associates are affected by it.
+Obviously any resident or other person seeking to bring such proceedings should obtain legal
+advice in the first instance.
+Conclusion
+72. The Council is not satisfied that a statutory nuisance exists. It cannot therefore serve an
+abatement notice. In my opinion there is no evidence before me that a statutory nuisance does
+exist or will likely occur or recur. However, despite the number of complaints falling to very low
+numbers, residents continue to assert that they are experiencing a odour nuisance. This
+discrepancy must be investigated. The Council should conduct a review of its methods used so far
+and consider other measures to accurately measure the odour experienced at or near the sites. If
+the level of perception of a nuisance existing is not matched by the level of complaints received,
+the Council should ask itself why that is so and where such evidence might be obtained. For
+example, have residents compiled smell diaries or do they have other evidence of nuisance
+existing currently which they have not brought to the Council’s attention?
+
+
+73. There is, at present, no evidence of prejudice to health. The PHE reports do not support such a
+finding in my view. The Council could consider an independent expert if the residents do not have
+faith in the reports commissioned so far, but I do not see this is essential.
+74. If a statutory nuisance is found to exist or is likely to occur or recur, then the Council must serve a
+notice on the person responsible for the nuisance. There is an argument that this duty does not
+arise where a defence of BPM is likely to succeed, but this is uncertain. However, there are
+substantial difficulties is serving a notice. The first is that it has been extremely difficult to attribute
+the source of any odour experienced. Any failure here would mean that an appeal would succeed.
+Indeed, without being able to determine who is responsible for the nuisance, a notice cannot be
+served in the first place. The second difficulty is that a BPM defence is likely to be successful, given
+the compliance of each site with the permits.
+75. A person aggrieved by the nuisance can bring proceedings themselves for an abatement order in
+the magistrates’ court. So, CASH or the residents themselves could make a complaint to the
+magistrates’ court in respect of a nuisance. The court can make an order abating the nuisance and
+impose a fine. Obviously, those contemplating such proceedings should seek legal advice first.
+76. Given the difficulties as set out above, a better solution is likely to be achieved through tighter
+monitoring and regulation of the permit regulated by the LBH. It is the Conway site which is
+thought to be the source of any odour present. However, so far, each regulator has said that the
+site under their supervision has complied with the permits in respect of odour.
+Specific Questions Posed
+77. I now address the specific questions posed by those instructing me.
+a. As plainly as possible, please explain the statutory framework which the management and
+enforcement of environmental nuisance, of the type alleged at the Southall Waterside site,
+is undertaken.
+I have set out the relevant statutory framework above.
+b. In answering the above, please identify what the Council should consider before taking
+enforcement action including any minimum evidential threshold necessary for identified
+action. Where there is Council discretion, please comment on how the Council is best advised
+to exercise this discretion.
+Once a local authority is satisfied that a statutory duty exists it has no discretion in respect
+of the service of an abatement notice. It must serve one. There is some merit in the
+contention that where a best practicable means defence is likely to succeed there is no
+such duty, but this is by no means clear cut. In any case, that situation has not arisen here
+because the local authority is of the view that no statutory nuisance exists or is likely to
+occur or recur. In those circumstances the local authority cannot serve an abatement
+notice.
+c. In your opinion and on the evidence provided to you, has the Council correctly interpreted
+the scope of its discretion to serve an abatement notice and/or any other identified
+enforcement steps?
+
+
+Yes. The decision as to whether officers, acting on behalf of the local authority, are
+satisfied that there exists a statutory nuisance or that one is likely to occur or reoccur, is
+a matter of judgment for those officers. I have advised above that there appears to be a
+mismatch between the number of complaints received and the strength of feeling from
+residents about the presence of a statutory nuisance such that the Council should take
+steps to ensure it has placed itself in the best possible position to consider their
+assessment of the situation accurately. I note several proposals within the documents
+sent to me, such as a permanent officer presence at the site and better forums for
+conveying complaints and these should be supported. The Council must guard against
+there being a feeling that the residents’ concerns are not being addressed as this will likely
+affect the accuracy of the picture the officers are being asked to assess because fewer
+complaints will be made. The Council should review its investigative methods used so far.
+It should ensure it has used all available assessment tools so that it is confident it is
+accurately measuring the odour at the sites and near to them. It should be alive to the
+possibility that residents may have become hypersensitive to the odour and may be
+experiencing a nuisance when others, not resident to the area may not. There have only
+been two complaints this year. If that is not reflective of the real situation then there must
+be evidence that the Council do not have. This should be acquired. One way of doing this
+is through smell diaries for example. However, subject to all the above, it is my opinion
+that the officers have acted properly. If a person aggrieved by any nuisance does not
+agree with the Council’s assessment, then it can bring proceedings under section 82 of
+the Act.
+d. Has the Council fully and reasonably explored all enforcement or management options
+available to remove or mitigate odour or other sources of nuisance complaint at the Southall
+Waterside and North Hyde Gardens sites?
+Further to the investigative review and measures suggested above, the Council must
+continue to work with both the EA and the LB of Hillingdon as regulators of the sites in
+question. This does not absolve the Council of its duties under the Act but compliance
+with the permits which enable the use of the sites and regulate them is obviously an
+important factor. The Council should continue to monitor compliance with any planning
+conditions and consider enforcement if there are any breaches.
+e. If not, then what further enforcement or management options could the Council reasonably
+pursue?
+I have dealt with these above.
+f. In the experience of Counsel, what is your opinion on the prospective financial cost of pursing
+an abatement notice which was challenged. Please also comment on any other associated
+risks of pursuing a challenge.
+This is difficult to assess. However, such a case would be high profile, complex and would
+likely require the assistance of senior or Queen’s Counsel on both sides. As an indication I
+have dealt with similar, although perhaps not as high profile, cases where Queen’s
+Counsel has been on the opposing side. Costs in that case were more than £100,000. They
+
+
+are likely to be significantly higher in this case and the Council’s own legal costs would
+need to be considered, potentially doubling this figure or perhaps even higher than that.
+Other risks concern the evidential difficulties of bringing such proceedings, even if the
+Council was satisfied of a statutory nuisance existing. It will be difficult to determine the
+source of any odour and to correctly attribute any nuisance to a particular site. Further,
+the person served with a notice would have the right of appeal and would likely contend
+that they have employed best practicable means. This might be difficult to counter. In my
+view there would be a huge financial risk involved in any proceedings and, on the evidence
+supplied to me thus far, a high likelihood of failure. Instead the Council should work with
+all those affected and with the sites concerned to ensure any odour is reduced to
+acceptable levels.
+g. Is there anything further the Council could reasonably do to fulfil its statutory and other
+responsibilities in relation to the Southall Waterside and North Hyde Gardens sites?
+The Council needs to carry on complying with its duties as set out above in the main body
+of this advice. Both sites should be encouraged to limit further any odour being emitted
+from their sites. The Council must continue to work with the regulators in this regard. It
+should seek to continually monitor the air quality in and around the site and be receptive
+to any emerging evidence. It must continue to investigate complaints and proactively
+assess the odour at the sites.
+20 July 2021
+Barrister
+6 Pump Court
+Temple
+London

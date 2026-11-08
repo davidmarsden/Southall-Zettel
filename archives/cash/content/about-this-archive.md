@@ -26,6 +26,10 @@ The campaign's public record of the Southall Gasworks controversy, including res
 - Each page shows its original address, capture date and a link to the archived snapshot, so anything here can be checked against the source.
 - Left out: the Contact page (the archive could not return it), a default WordPress "Hello world!" placeholder post, and private phone numbers printed on the Save Our Southall leaflet.
 
+## Beyond the website
+
+The [Beyond the website](elsewhere.html) section adds CASH material and official records found elsewhere online: the campaign’s petitions, crowdfunding page and letters, Ealing Council correspondence and legal advice, and GLA and parliamentary records. Each preserved text gives its source address and retrieval date.
+
 ## Corrections and takedown
 
 If you are connected with CASH and want something corrected, credited differently or removed, please contact Southall Stories via [southallstories.uk](https://southallstories.uk).

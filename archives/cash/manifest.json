@@ -53,6 +53,12 @@
       "source": "archives/cash/content/resources.md"
     },
     {
+      "title": "Beyond the website",
+      "slug": "elsewhere",
+      "document_type": "Gathered from across the web",
+      "source": "archives/cash/content/elsewhere.md"
+    },
+    {
       "title": "About this archive",
       "slug": "about-this-archive",
       "source": "archives/cash/content/about-this-archive.md"
@@ -83,6 +89,73 @@
       "captured": "2020-09-26",
       "document_type": "Public Health England report (13 pages)",
       "source": "archives/cash/content/documents/phe-interim-health-risk-assessment.md"
+    },
+    {
+      "title": "Clean Air for Southall and Hayes! Stop the contaminated old gasworks polluting our kids! (Change.org petition)",
+      "slug": "elsewhere/changeorg-petition-2018",
+      "document_type": "Petition · 2018-07-08",
+      "source": "archives/cash/content/elsewhere/changeorg-petition-2018.md"
+    },
+    {
+      "title": "Change.org petition updates (2018) — \"Clean Air for Southall and Hayes! Stop the contaminated old gasworks polluting our kids!\"",
+      "slug": "elsewhere/changeorg-petition-updates-2018",
+      "document_type": "Petition · 2018-07-30",
+      "source": "archives/cash/content/elsewhere/changeorg-petition-updates-2018.md"
+    },
+    {
+      "title": "Southall Broadway Ward Forum 29 July 2019 — Air quality in Southall, concerns about health and the odour (Ealing Council briefing note)",
+      "slug": "elsewhere/ealing-southall-broadway-ward-forum-2019-07-29",
+      "document_type": "Ealing Council record · 2019-07-29",
+      "source": "archives/cash/content/elsewhere/ealing-southall-broadway-ward-forum-2019-07-29.md"
+    },
+    {
+      "title": "Stop Poisoning the Southall Community! (CrowdJustice case page)",
+      "slug": "elsewhere/crowdjustice-case",
+      "wayback_url": "https://web.archive.org/web/20250807162708/https://www.crowdjustice.com/case/cleanairforsouthallandhayes/",
+      "document_type": "CASH document · 2019-07-31",
+      "source": "archives/cash/content/elsewhere/crowdjustice-case.md"
+    },
+    {
+      "title": "Advice in respect of the Southall Waterside development and the F.M. Conway Limited site (North Hyde Gardens) — counsel's opinion to the London Borough of Ealing",
+      "slug": "elsewhere/ealing-counsel-advice-2020-06-19",
+      "document_type": "Ealing Council record · 2020-06-19",
+      "source": "archives/cash/content/elsewhere/ealing-counsel-advice-2020-06-19.md"
+    },
+    {
+      "title": "Air Pollution: Brownfield Redevelopment — House of Commons, Oral Answers (Environment, Food and Rural Affairs), 21 January 2021",
+      "slug": "elsewhere/hansard-2021-01-21-air-pollution-brownfield",
+      "document_type": "Parliamentary record · 2021-01-21",
+      "source": "archives/cash/content/elsewhere/hansard-2021-01-21-air-pollution-brownfield.md"
+    },
+    {
+      "title": "Letter from Cllr Peter Mason (Leader of Ealing Council) to Clean Air for Southall & Hayes, 19 May 2021 — the \"seven-point plan\"",
+      "slug": "elsewhere/ealing-mason-letter-to-cash-2021-05-19",
+      "document_type": "Ealing Council record · 2021-05-19",
+      "source": "archives/cash/content/elsewhere/ealing-mason-letter-to-cash-2021-05-19.md"
+    },
+    {
+      "title": "Advice in respect of the Southall Waterside development and the F.M. Conway Limited site (North Hyde Gardens) — updated counsel's opinion to the London Borough of Ealing, 20 July 2021",
+      "slug": "elsewhere/ealing-counsel-advice-2021-07-20",
+      "document_type": "Ealing Council record · 2021-07-20",
+      "source": "archives/cash/content/elsewhere/ealing-counsel-advice-2021-07-20.md"
+    },
+    {
+      "title": "CASH open letter to Cllr Peter Mason (22 July 2022) and the Council Leader's reply (2 November 2022)",
+      "slug": "elsewhere/cash-open-letter-2022-07-22-and-council-reply",
+      "document_type": "CASH document · 2022-07-22",
+      "source": "archives/cash/content/elsewhere/cash-open-letter-2022-07-22-and-council-reply.md"
+    },
+    {
+      "title": "Funding studies into chemicals released by redevelopment — Mayor's Question 2023/1854",
+      "slug": "elsewhere/gla-mqt-2023-1854",
+      "document_type": "Greater London Authority record · 2023-05-23",
+      "source": "archives/cash/content/elsewhere/gla-mqt-2023-1854.md"
+    },
+    {
+      "title": "Cllr Peter Mason reply to Zack Polanski AM, 28 September 2023 — Southall Gasworks & CASH section",
+      "slug": "elsewhere/ealing-mason-reply-to-polanski-2023-09-28",
+      "document_type": "Ealing Council record · 2023-09-28",
+      "source": "archives/cash/content/elsewhere/ealing-mason-reply-to-polanski-2023-09-28.md"
     }
   ],
   "videos": [

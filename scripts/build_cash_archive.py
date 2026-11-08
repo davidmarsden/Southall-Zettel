@@ -91,8 +91,47 @@ document.addEventListener('click', function (e) {
 </script>"""
 
 
+TYPE_GROUPS = [
+    ("CASH’s own words", {"cash-authored", "petition"}),
+    ("Official records", {"council-record", "gla-record", "parliament"}),
+    ("Reports", {"report"}),
+    ("Video", {"video"}),
+    ("Press coverage", {"news"}),
+    ("Social media and other", {"social", "other"}),
+]
+
+
+def catalogue_html(slug: str) -> str:
+    """Render archives/cash/elsewhere.json as grouped, annotated lists."""
+    items = json.loads((ROOT / "elsewhere.json").read_text(encoding="utf-8"))
+    out = []
+    for heading, types in TYPE_GROUPS:
+        group = sorted((i for i in items if i["type"] in types), key=lambda i: i.get("date") or "0000")
+        if not group:
+            continue
+        out.append(f'<h2>{html.escape(heading)} <span class="count">{len(group)}</span></h2><ul class="catalogue">')
+        for i in group:
+            date = fmt_date(i["date"]) if i.get("date") else "Undated"
+            links = []
+            if i.get("page"):
+                links.append(f'<a class="chip chip-primary" href="{rel(slug, i["page"])}">Read preserved text</a>')
+            if i.get("live_status") != "dead":
+                links.append(f'<a class="chip" href="{html.escape(i["url"])}" rel="noopener external">Original</a>')
+            if i.get("wayback_url"):
+                links.append(f'<a class="chip" href="{html.escape(i["wayback_url"])}" rel="noopener external">Wayback</a>')
+            quote = f'<blockquote>{html.escape(i["quote"])}</blockquote>' if i.get("quote") else ""
+            out.append(
+                f'<li><p class="meta">{html.escape(i["publisher"])} · <time>{html.escape(date)}</time></p>'
+                f'<h3>{html.escape(i["title"])}</h3><p>{html.escape(i["summary"])}</p>{quote}'
+                f'<p class="chips">{"".join(links)}</p></li>'
+            )
+        out.append("</ul>")
+    return "\n".join(out)
+
+
 def render_md(src: str, slug: str) -> str:
     src = re.sub(r"^\{\{youtube (.+?)\}\}$", youtube_block, src, flags=re.M)
+    src = src.replace("{{catalogue}}", catalogue_html(slug))
     src = re.sub(r"\]\(wayback:([^)\s]+)\)", lambda m: f"]({wayback_image(m.group(1), slug)})", src)
     src = re.sub(r"\]\(wayback-file:([^)\s]+)\)", lambda m: f"]({wayback_file(m.group(1))})", src)
     # Let Markdown inside every raw HTML block container be parsed.
@@ -138,6 +177,18 @@ def nav_html(pages: list[dict], current: dict) -> str:
 
 
 def provenance_html(p: dict) -> str:
+    if p.get("source_url"):  # material gathered from elsewhere on the web
+        rows = [
+            ("Published by", html.escape(p.get("publisher", ""))),
+            ("Source", f'<a class="mono" href="{html.escape(p["source_url"])}" rel="noopener external">{html.escape(p["source_url"])}</a>'),
+            ("Retrieved", html.escape(fmt_date(p["retrieved"]))),
+        ]
+        if p.get("date"):
+            rows.insert(1, ("Dated", html.escape(fmt_date(p["date"]))))
+        if p.get("wayback_url"):
+            rows.append(("Archived copy", f'<a href="{html.escape(p["wayback_url"])}" rel="noopener external">View on the Wayback Machine</a>'))
+        dl = "".join(f"<div><dt>{k}</dt><dd>{v}</dd></div>" for k, v in rows)
+        return f'<aside class="provenance" aria-label="Source of this page"><dl>{dl}</dl></aside>'
     if not p.get("original_url"):
         return ""
     rows = [
