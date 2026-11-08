@@ -15,7 +15,7 @@ summary: "Campaign news from Clean Air for Southall and Hayes, 2019–2020."
 
 At the beginning of August, the Ealing Green Party invited Amrik Maher and CASH and local citizen scientist Tim Webb to give their views on air pollution and the situation in Southall. The result was a fascinating talk! Check it out and see!
 
-[Watch the talk on YouTube](https://youtu.be/sSTr45B1zP0?t=0)
+{{youtube sSTr45B1zP0 | The Air is Toxic in Southall | Ealing Green Party | Linked from the original page}}
 
 ## Open letter to Ealing Council Leader Julian Bell {#open-letter}
 
@@ -49,6 +49,8 @@ Meena Hans, who commissioned the video, says “The people of Southall are curre
 
 “We will always fight for that right.”
 
+{{youtube gqvGSVtiEHo | Stop Poisoning Southall: documentary made by Meena Hans of Ealing Green Party | Ealing Green Party | Embedded on the original page}}
+
 [Read residents’ testimonies](case-studies.html)
 
 ## BBC London: substances on the site ‘a threat to health’ {#bbc-london}
@@ -56,6 +58,8 @@ Meena Hans, who commissioned the video, says “The people of Southall are curre
 On 7 January 2020 BBC London reported air quality expert Professor Harrison from the University of Birmingham as saying levels of some toxic substances released during redevelopment of the site were above safe levels and could exacerbate asthma and lead to cancer. This is the first time that an air quality expert has said publicly what CASH has been raising the alarm about for three years. Prof Harrison said the levels of toxic substances listed on an air quality monitoring report by the Atkins consultants were cause for concern.
 
 The BBC report, which aired on the lunchtime, evening and nightly news, included interviews with a family on Beaconsfield Road who believe their elderly father’s sudden death was linked to the site and with a family whose young son has been hospitalised for asthma many times since work began.
+
+{{youtube 7q5XUsLhsrw | Clean air for Southall and Hayes BBC London | Southalls Finest | Embedded on the original page}}
 
 [Read the BBC report](https://www.bbc.co.uk/news/uk-england-london-51006391)
 

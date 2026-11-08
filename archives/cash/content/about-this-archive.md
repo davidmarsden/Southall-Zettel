@@ -21,7 +21,8 @@ The campaign's public record of the Southall Gasworks controversy, including res
 - Every page was rebuilt from snapshots held by the [Internet Archive's Wayback Machine](https://web.archive.org/web/2022/https://southallandhayescleanair.org.uk/), using the latest capture made **before** the domain changed hands (captures from August 2020 to May 2022).
 - Text is reproduced **as published**, including original spelling. Navigation, layout and design are new.
 - The three PDFs CASH hosted are given as full-text transcriptions, each linking to its archived original.
-- Images load directly from the Wayback Machine.
+- Photographs were recovered byte-for-byte from the Wayback Machine and are stored with the archive.
+- Videos embedded on the original pages are still hosted on YouTube by their original channels. They are shown here with YouTube’s privacy-enhanced player, which loads only when you press play.
 - Each page shows its original address, capture date and a link to the archived snapshot, so anything here can be checked against the source.
 - Left out: the Contact page (the archive could not return it), a default WordPress "Hello world!" placeholder post, and private phone numbers printed on the Save Our Southall leaflet.
 

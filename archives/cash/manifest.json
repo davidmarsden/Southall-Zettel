@@ -85,6 +85,26 @@
       "source": "archives/cash/content/documents/phe-interim-health-risk-assessment.md"
     }
   ],
+  "videos": [
+    {
+      "youtube_id": "sSTr45B1zP0",
+      "title": "The Air is Toxic in Southall",
+      "channel": "Ealing Green Party",
+      "context": "Linked from the original page"
+    },
+    {
+      "youtube_id": "gqvGSVtiEHo",
+      "title": "Stop Poisoning Southall: documentary made by Meena Hans of Ealing Green Party",
+      "channel": "Ealing Green Party",
+      "context": "Embedded on the original page"
+    },
+    {
+      "youtube_id": "7q5XUsLhsrw",
+      "title": "Clean air for Southall and Hayes BBC London",
+      "channel": "Southalls Finest",
+      "context": "Embedded on the original page"
+    }
+  ],
   "images": [
     "2020/01/At-Virendras-office-1024x684.jpg",
     "2020/01/Die-In-Action-Southall-1024x684.jpg",

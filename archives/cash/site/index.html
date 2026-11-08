@@ -68,7 +68,9 @@
     <h2 id="the-talk">The Air is Toxic in Southall – The Talk</h2>
 <p><img loading="lazy" decoding="async" alt="Promotional graphic for the talk &quot;The Air is Toxic in Southall&quot;" src="images/The-Air-is-Toxic-in-Southall.jpg"></p>
 <p>At the beginning of August, the Ealing Green Party invited Amrik Maher and CASH and local citizen scientist Tim Webb to give their views on air pollution and the situation in Southall. The result was a fascinating talk! Check it out and see!</p>
-<p><a href="https://youtu.be/sSTr45B1zP0?t=0" rel="noopener external">Watch the talk on YouTube</a></p>
+<figure class="video" data-yt="sSTr45B1zP0">
+<p><a class="video-frame" href="https://www.youtube.com/watch?v=sSTr45B1zP0" rel="noopener external" aria-label="Play video: The Air is Toxic in Southall"><img loading="lazy" decoding="async" src="https://i.ytimg.com/vi/sSTr45B1zP0/hqdefault.jpg" alt="" loading="lazy" decoding="async"><span class="play" aria-hidden="true"></span></a><figcaption>The Air is Toxic in Southall <span>· Ealing Green Party on YouTube</span> <span class="vnote">Linked from the original page</span></figcaption></p>
+</figure>
 <h2 id="open-letter">Open letter to Ealing Council Leader Julian Bell</h2>
 <p><img loading="lazy" decoding="async" alt="Screenshot accompanying CASH's open letter to Ealing Council" src="https://web.archive.org/web/2021im_/https://southallandhayescleanair.org.uk/wp-content/uploads/2020/09/Screen-Shot-2020-09-25-at-20.09.30-1024x628.png"></p>
 <p>Air pollution is also a race issue, with BAME communities disproportionately affected.</p>
@@ -85,10 +87,16 @@
 <p>“The residents have not been supported by their local councillors, by Ealing Council or by their MP, so here we have given some of the residents affected a chance to tell their stories.</p>
 <p>“Everyone has the right to breathe clean air and not be poisoned in their own homes and streets.</p>
 <p>“We will always fight for that right.”</p>
+<figure class="video" data-yt="gqvGSVtiEHo">
+<p><a class="video-frame" href="https://www.youtube.com/watch?v=gqvGSVtiEHo" rel="noopener external" aria-label="Play video: Stop Poisoning Southall: documentary made by Meena Hans of Ealing Green Party"><img loading="lazy" decoding="async" src="https://i.ytimg.com/vi/gqvGSVtiEHo/hqdefault.jpg" alt="" loading="lazy" decoding="async"><span class="play" aria-hidden="true"></span></a><figcaption>Stop Poisoning Southall: documentary made by Meena Hans of Ealing Green Party <span>· Ealing Green Party on YouTube</span> <span class="vnote">Embedded on the original page</span></figcaption></p>
+</figure>
 <p><a href="case-studies.html">Read residents’ testimonies</a></p>
 <h2 id="bbc-london">BBC London: substances on the site ‘a threat to health’</h2>
 <p>On 7 January 2020 BBC London reported air quality expert Professor Harrison from the University of Birmingham as saying levels of some toxic substances released during redevelopment of the site were above safe levels and could exacerbate asthma and lead to cancer. This is the first time that an air quality expert has said publicly what CASH has been raising the alarm about for three years. Prof Harrison said the levels of toxic substances listed on an air quality monitoring report by the Atkins consultants were cause for concern.</p>
 <p>The BBC report, which aired on the lunchtime, evening and nightly news, included interviews with a family on Beaconsfield Road who believe their elderly father’s sudden death was linked to the site and with a family whose young son has been hospitalised for asthma many times since work began.</p>
+<figure class="video" data-yt="7q5XUsLhsrw">
+<p><a class="video-frame" href="https://www.youtube.com/watch?v=7q5XUsLhsrw" rel="noopener external" aria-label="Play video: Clean air for Southall and Hayes BBC London"><img loading="lazy" decoding="async" src="https://i.ytimg.com/vi/7q5XUsLhsrw/hqdefault.jpg" alt="" loading="lazy" decoding="async"><span class="play" aria-hidden="true"></span></a><figcaption>Clean air for Southall and Hayes BBC London <span>· Southalls Finest on YouTube</span> <span class="vnote">Embedded on the original page</span></figcaption></p>
+</figure>
 <p><a href="https://www.bbc.co.uk/news/uk-england-london-51006391" rel="noopener external">Read the BBC report</a></p>
 <h2 id="die-in">CASH protests outside Southall town hall</h2>
 <p>Residents were joined by Green Party co-leader Sian Berry, GLA member Caroline Russell and members of Extinction Rebellion for a ‘die-in’ outside Southall town hall on 23 November. About 100 people took part in the protest, with speeches from CASH members as well as Sian Berry and Caroline Russell that demanded Ealing Council take immediate action to stop work on the site and investigate concerns about the health impact of this development.</p>
@@ -115,5 +123,18 @@
       Not affiliated with CASH. <a href="about-this-archive.html">Provenance, corrections and takedown</a>.</p>
   </div>
 </footer>
+<script>
+document.addEventListener('click', function (e) {
+  var a = e.target.closest('.video-frame'); if (!a) return;
+  var fig = a.closest('.video'); var id = fig && fig.dataset.yt; if (!id) return;
+  e.preventDefault();
+  var f = document.createElement('iframe');
+  f.src = 'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&rel=0';
+  f.title = a.getAttribute('aria-label').replace('Play video: ', '');
+  f.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+  f.allowFullscreen = true; f.className = 'video-frame';
+  a.replaceWith(f); f.focus();
+});
+</script>
 </body>
 </html>
