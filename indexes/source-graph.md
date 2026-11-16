@@ -49,6 +49,7 @@ Outbound source domains ranked by the number of Southall Stories posts citing th
 - **archive.ph** — 2 posts
 - **assets.publishing.service.gov.uk** — 2 posts
 - **change.org** — 2 posts
+- **data.southallstories.uk** — 2 posts
 - **ealing.civiccommons.co.uk** — 2 posts
 - **ealing.netlify.app** — 2 posts
 - **ealingitree.online** — 2 posts
@@ -96,7 +97,6 @@ Outbound source domains ranked by the number of Southall Stories posts citing th
 - **dailymotion.com** — 1 post
 - **data.defra.gov.uk** — 1 post
 - **data.ealing.gov.uk** — 1 post
-- **data.southallstories.uk** — 1 post
 - **democracy.brent.gov.uk** — 1 post
 - **democraticservices.hounslow.gov.uk** — 1 post
 - **ealing-audit.southallstories.uk** — 1 post

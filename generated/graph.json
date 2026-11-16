@@ -8204,6 +8204,12 @@
     },
     {
       "provenance": "source-post-link",
+      "source": "post:posts/2023/01/26/response-to-ealings-air-quality.md",
+      "target": "domain:data.southallstories.uk",
+      "type": "cites-domain"
+    },
+    {
+      "provenance": "source-post-link",
       "source": "post:posts/2026/10/17/what-the-gasworks-air-monitoring.md",
       "target": "domain:data.southallstories.uk",
       "type": "cites-domain"
@@ -14583,7 +14589,7 @@
     {
       "id": "domain:data.southallstories.uk",
       "label": "data.southallstories.uk",
-      "post_count": 1,
+      "post_count": 2,
       "type": "source-domain"
     },
     {

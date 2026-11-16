@@ -734,6 +734,13 @@
     "url": "https://data.southallstories.uk/air-monitoring-2018-19/"
   },
   {
+    "domain": "data.southallstories.uk",
+    "posts": [
+      "posts/2023/01/26/response-to-ealings-air-quality.md"
+    ],
+    "url": "https://data.southallstories.uk/ealing-air-quality-strategy-2023/"
+  },
+  {
     "domain": "davidmarsden.info",
     "posts": [
       "posts/2025/07/11/perceval-house-w-where-local.md"

@@ -94,6 +94,10 @@ photos_with_metadata:
 - url: https://eu.uploads.micro.blog/251858/2025/6aa8ea88ed.jpg
 url: "/2023/01/26/response-to-ealings-air-quality/"
 ---
+*Update 15 November 2026: this is a VERY long read, so I made a [summary page](https://data.southallstories.uk/ealing-air-quality-strategy-2023/), which has all the main points and is much easier to take in.*
+
+---
+
 Ealing Council's [draft Air Quality Strategy][1] is a 64 page document together with a 40 page [Action Plan][2], and the consultation period runs until 30 January 2023. It's taken me the best part of six weeks, all my spare time over Christmas and New Year, to get through it all, make notes and cross-reference to try to make sense of it all and offer some feedback. 
 
 Really, there must be a much longer consultation period if Ealing Council is genuinely interested in residents' views.

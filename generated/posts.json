@@ -980,7 +980,7 @@
   },
   {
     "path": "posts/2023/01/26/response-to-ealings-air-quality.md",
-    "sha256": "0d8c6c10027762775471835d4aebcc2aba9731c3abc18a6100e7007cf2d54de7",
+    "sha256": "c7efa4e298ebb254901d6ca652f91c116d881f3a1fe6fd68e4f6655e6ba5203d",
     "post_id": 5543191,
     "title": "Response to Ealing's Air Quality Strategy and Action Plan",
     "summary": "Ealing Council's draft air quality strategy promises to protect residents from pollution while simultaneously allowing the very developments and practices that poison Southall's air.",
@@ -998,6 +998,7 @@
       "Pollution"
     ],
     "outbound_links": [
+      "https://data.southallstories.uk/ealing-air-quality-strategy-2023/",
       "https://southallstories.uk/uploads/2025/0996242a03.jpg",
       "https://southallstories.uk/uploads/2025/12c505256e.jpg",
       "https://southallstories.uk/uploads/2025/1629717036.jpg",
@@ -1024,6 +1025,7 @@
       "https://southallstories.uk/uploads/2025/feee9005e2.jpg"
     ],
     "outbound_domains": [
+      "data.southallstories.uk",
       "southallstories.uk"
     ],
     "images": [

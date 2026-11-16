@@ -2,6 +2,13 @@
   "canonical_corpus": "https://southallstories.uk",
   "citations": [
     {
+      "domain": "data.southallstories.uk",
+      "label": "summary page",
+      "post": "post:5543191",
+      "provenance": "source-post-link",
+      "url": "https://data.southallstories.uk/ealing-air-quality-strategy-2023/"
+    },
+    {
       "article_label": "Southall Gasworks",
       "destination_title": "The Southall Gasworks Story",
       "domain": "davidmarsden.info",
@@ -525,10 +532,14 @@
       "url": "https://ealing.nub.news/news/local-news/former-ealing-council-housing-leader-admits-he-39made-a-mistake39-accepting-3000-from-developer-for-cannes-property-conference"
     },
     {
+      "article_label": "\"I own half of Southall\"",
+      "destination_title": "S.A.D. - The Campaign To Save Ealing Day Care",
       "domain": "sadealing.blogspot.com",
-      "label": "\"I own half of Southall\"",
+      "label": "S.A.D. - The Campaign To Save Ealing Day Care",
       "post": "post:5543696",
       "provenance": "source-post-link",
+      "resolved_url": "https://sadealing.blogspot.com/2010_10_03_archive.html?m=1",
+      "title_source": "og:title",
       "url": "https://sadealing.blogspot.com/2010_10_03_archive.html?m=1"
     },
     {
@@ -550,10 +561,14 @@
       "url": "https://twitter.com/DvdMrsdn/status/1587711673942646785?t=U0luZmPHCxRb9wGAC5Ffkw&s=19"
     },
     {
+      "article_label": "resident",
+      "destination_title": "Wayback Machine",
       "domain": "web.archive.org",
-      "label": "resident",
+      "label": "Wayback Machine",
       "post": "post:5543696",
       "provenance": "source-post-link",
+      "resolved_url": "https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf",
+      "title_source": "html-title",
       "url": "https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf"
     },
     {
@@ -1159,10 +1174,14 @@
       "url": "https://twitter.com/EalingCouncil/status/1072457795621060611"
     },
     {
+      "article_label": "assets.publishing.service.gov.uk/government/upl…",
+      "destination_title": "Microsoft Word - BENZENE Toxicological overview v2.doc",
       "domain": "web.archive.org",
-      "label": "assets.publishing.service.gov.uk/government/upl…",
+      "label": "Microsoft Word - BENZENE Toxicological overview v2.doc",
       "post": "post:5550942",
       "provenance": "source-post-link",
+      "resolved_url": "https://web.archive.org/web/20190728165227if_/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf",
+      "title_source": "pdf-title",
       "url": "https://web.archive.org/web/20190728165227if_/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/337516/hpa_benzene_toxicological_overview_v2.pdf"
     },
     {
@@ -1177,14 +1196,10 @@
       "url": "https://web.archive.org/web/20190728165228if_/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/522459/Benzene_IM_PHE_050516.pdf"
     },
     {
-      "article_label": "convertunits.com/molarmass/Benz…",
-      "destination_title": "Molecular weight of Benzene",
       "domain": "convertunits.com",
-      "label": "Molecular weight of Benzene",
+      "label": "convertunits.com/molarmass/Benz…",
       "post": "post:5550942",
       "provenance": "source-post-link",
-      "resolved_url": "https://www.convertunits.com/molarmass/Benzene",
-      "title_source": "html-title",
       "url": "https://www.convertunits.com/molarmass/Benzene"
     },
     {
@@ -1934,24 +1949,36 @@
       "url": "https://ealingmatters.org.uk/wp-content/uploads/2021/09/210901-EM-newsletter-11-final.pdf"
     },
     {
+      "article_label": "form",
+      "destination_title": "The demolition of Ealing homes is one part of developer's trail of chaos around London",
       "domain": "open.substack.com",
-      "label": "form",
+      "label": "The demolition of Ealing homes is one part of developer's trail of chaos around London",
       "post": "post:5722627",
       "provenance": "source-post-link",
+      "resolved_url": "https://theviewfromw5.substack.com/p/demolition-of-ealing-homes-part-of-trail-chaos?triedRedirect=true",
+      "title_source": "og:title",
       "url": "https://open.substack.com/pub/theviewfromw5/p/demolition-of-ealing-homes-part-of-trail-chaos"
     },
     {
+      "article_label": "Ealing delivers 16 percent of its affordable homes target",
+      "destination_title": "Ealing delivers 16 percent of its affordable homes target",
       "domain": "open.substack.com",
       "label": "Ealing delivers 16 percent of its affordable homes target",
       "post": "post:5722627",
       "provenance": "source-post-link",
+      "resolved_url": "https://theviewfromw5.substack.com/p/ealing-delivers-16-percent-of-its-affordable-homes-target?triedRedirect=true",
+      "title_source": "og:title",
       "url": "https://open.substack.com/pub/theviewfromw5/p/ealing-delivers-16-percent-of-its-affordable-homes-target"
     },
     {
+      "article_label": "stunt",
+      "destination_title": "A history of insolvency and a £10 million dividend",
       "domain": "open.substack.com",
-      "label": "stunt",
+      "label": "A history of insolvency and a £10 million dividend",
       "post": "post:5722627",
       "provenance": "source-post-link",
+      "resolved_url": "https://theviewfromw5.substack.com/p/history-of-insolvency-and-10-million-dividend?triedRedirect=true",
+      "title_source": "og:title",
       "url": "https://open.substack.com/pub/theviewfromw5/p/history-of-insolvency-and-10-million-dividend"
     },
     {
@@ -1966,17 +1993,25 @@
       "url": "https://threadreaderapp.com/thread/1389215486244708353.html"
     },
     {
+      "article_label": "723",
+      "destination_title": "Affordable housing",
       "domain": "web.archive.org",
-      "label": "723",
+      "label": "Affordable housing",
       "post": "post:5722627",
       "provenance": "source-post-link",
+      "resolved_url": "https://web.archive.org/web/20210505132417/https://ealingperformance.inphase.com/Plan/853",
+      "title_source": "html-title",
       "url": "https://web.archive.org/web/20210505132417/https://ealingperformance.inphase.com/Plan/853"
     },
     {
+      "article_label": "898",
+      "destination_title": "Nearly 900 new genuinely affordable homes in Ealing since April 2018 | Ealing Council",
       "domain": "web.archive.org",
-      "label": "898",
+      "label": "Nearly 900 new genuinely affordable homes in Ealing since April 2018 | Ealing Council",
       "post": "post:5722627",
       "provenance": "source-post-link",
+      "resolved_url": "https://web.archive.org/web/20210505225051/http://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018",
+      "title_source": "html-title",
       "url": "https://web.archive.org/web/20210505225051/http://www.ealing.gov.uk/news/article/1925/nearly_900_new_genuinely_affordable_homes_in_ealing_since_april_2018"
     },
     {
@@ -2047,12 +2082,12 @@
     },
     {
       "article_label": "On Your Side!",
-      "destination_title": "Daftar BIGHOKI : Ajak Circle Lo Mabar Sekarang, Kumpulin Poin Referral Buat Bagi-Bagi Komisi!",
+      "destination_title": "BIGHOKI x PG Pocket — Main Satu Tangan Auto Cair! Kombo Pecah Terus Tanpa Henti!",
       "domain": "ealinglabour.com",
-      "label": "Daftar BIGHOKI : Ajak Circle Lo Mabar Sekarang, Kumpulin Poin Referral Buat Bagi-Bagi Komisi!",
+      "label": "BIGHOKI x PG Pocket — Main Satu Tangan Auto Cair! Kombo Pecah Terus Tanpa Henti!",
       "post": "post:5722627",
       "provenance": "source-post-link",
-      "resolved_url": "https://ebet188bbbbbb.com/dashboard",
+      "resolved_url": "https://republik77hoki.com/slot/pg_slot",
       "title_source": "og:title",
       "url": "https://www.ealinglabour.com/manifesto2022/"
     },
@@ -2133,10 +2168,14 @@
       "url": "http://nuisance.southallstories.uk/"
     },
     {
+      "article_label": "The nuisance is the person",
+      "destination_title": "Complaints policy | Complaints | Ealing Council",
       "domain": "web.archive.org",
-      "label": "The nuisance is the person",
+      "label": "Complaints policy | Complaints | Ealing Council",
       "post": "post:5724865",
       "provenance": "source-post-link",
+      "resolved_url": "https://web.archive.org/web/20260209113825/https://www.ealing.gov.uk/info/201033/council_and_local_decisions/516/complaints/6",
+      "title_source": "html-title",
       "url": "https://web.archive.org/web/20260209113825/https://www.ealing.gov.uk/info/201033/council_and_local_decisions/516/complaints/6"
     },
     {
@@ -2268,17 +2307,25 @@
       "url": "https://en.wikipedia.org/wiki/Relationship_of_Peter_Mandelson_and_Jeffrey_Epstein"
     },
     {
+      "article_label": "listened to the residents",
+      "destination_title": "Real Change, Not Empty Consultations",
       "domain": "open.substack.com",
-      "label": "listened to the residents",
+      "label": "Real Change, Not Empty Consultations",
       "post": "post:5754191",
       "provenance": "source-post-link",
+      "resolved_url": "https://southall.substack.com/p/real-change-not-empty-consultations?triedRedirect=true",
+      "title_source": "og:title",
       "url": "https://open.substack.com/pub/southall/p/real-change-not-empty-consultations"
     },
     {
+      "article_label": "deserve better",
+      "destination_title": "Southall Deserves Better",
       "domain": "open.substack.com",
-      "label": "deserve better",
+      "label": "Southall Deserves Better",
       "post": "post:5754191",
       "provenance": "source-post-link",
+      "resolved_url": "https://southall.substack.com/p/southall-deserves-better?triedRedirect=true",
+      "title_source": "og:title",
       "url": "https://open.substack.com/pub/southall/p/southall-deserves-better"
     },
     {
@@ -2300,10 +2347,14 @@
       "url": "https://vm.tiktok.com/ZNRfJ3fLA/"
     },
     {
+      "article_label": "complained about rubbish and litter",
+      "destination_title": "Wayback Machine",
       "domain": "web.archive.org",
-      "label": "complained about rubbish and litter",
+      "label": "Wayback Machine",
       "post": "post:5754191",
       "provenance": "source-post-link",
+      "resolved_url": "https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf",
+      "title_source": "html-title",
       "url": "https://web.archive.org/web/20040615012717/http://www.southallgasworks.com/Media/ConsultationReport.pdf"
     },
     {
@@ -2363,12 +2414,12 @@
     },
     {
       "article_label": "on your side",
-      "destination_title": "Daftar BIGHOKI : Ajak Circle Lo Mabar Sekarang, Kumpulin Poin Referral Buat Bagi-Bagi Komisi!",
+      "destination_title": "BIGHOKI x PG Pocket — Main Satu Tangan Auto Cair! Kombo Pecah Terus Tanpa Henti!",
       "domain": "ealinglabour.com",
-      "label": "Daftar BIGHOKI : Ajak Circle Lo Mabar Sekarang, Kumpulin Poin Referral Buat Bagi-Bagi Komisi!",
+      "label": "BIGHOKI x PG Pocket — Main Satu Tangan Auto Cair! Kombo Pecah Terus Tanpa Henti!",
       "post": "post:5754191",
       "provenance": "source-post-link",
-      "resolved_url": "https://ebet188bbbbbb.com/dashboard",
+      "resolved_url": "https://republik77hoki.com/slot/pg_slot",
       "title_source": "og:title",
       "url": "https://www.ealinglabour.com/manifesto2022/"
     },
@@ -2696,10 +2747,14 @@
       "url": "https://labour.org.uk/change/"
     },
     {
+      "article_label": "about 16% of the target",
+      "destination_title": "Ealing delivers 16 percent of its affordable homes target",
       "domain": "open.substack.com",
-      "label": "about 16% of the target",
+      "label": "Ealing delivers 16 percent of its affordable homes target",
       "post": "post:5756463",
       "provenance": "source-post-link",
+      "resolved_url": "https://theviewfromw5.substack.com/p/ealing-delivers-16-percent-of-its-affordable-homes-target?triedRedirect=true",
+      "title_source": "og:title",
       "url": "https://open.substack.com/pub/theviewfromw5/p/ealing-delivers-16-percent-of-its-affordable-homes-target"
     },
     {
@@ -2943,10 +2998,14 @@
       "url": "https://ealing.u3asite.uk/wp-content/uploads/2024/09/ealingwastemngtandrecyclingpresjune2022.pdf"
     },
     {
+      "article_label": "Campaign of the Year",
+      "destination_title": "LGC Awards 2026",
       "domain": "web.archive.org",
-      "label": "Campaign of the Year",
+      "label": "LGC Awards 2026",
       "post": "post:5772909",
       "provenance": "source-post-link",
+      "resolved_url": "https://web.archive.org/web/20260420032016/https://www.awards.lgcplus.com/lgca2026/en/page/2026-shortlist",
+      "title_source": "og:title",
       "url": "https://web.archive.org/web/20260420032016/https://www.awards.lgcplus.com/lgca2026/en/page/2026-shortlist"
     },
     {
@@ -3164,10 +3223,14 @@
       "url": "https://northlondonnews.co.uk/local/brent/brent-council/brent-fly-tipping-fines-surge-500-amid-crackdown-2026/"
     },
     {
+      "article_label": "Wembley Matters report on a council scrutiny committee",
+      "destination_title": "Brent forms Waste Warriors team to beat fly-tippers",
       "domain": "wembleymatters.blogspot.com",
-      "label": "Wembley Matters report on a council scrutiny committee",
+      "label": "Brent forms Waste Warriors team to beat fly-tippers",
       "post": "post:5820251",
       "provenance": "source-post-link",
+      "resolved_url": "https://wembleymatters.blogspot.com/2012/11/brent-forms-waste-warriors-team-to-beat.html",
+      "title_source": "og:title",
       "url": "https://wembleymatters.blogspot.com/2012/11/brent-forms-waste-warriors-team-to-beat.html"
     },
     {
@@ -3449,17 +3512,25 @@
       "url": "https://ealingindependents.org/what-we-stand-for/"
     },
     {
+      "article_label": "whose interests they really serve",
+      "destination_title": "A Town Ignored: Southall After 16 Years Under Labour",
       "domain": "open.substack.com",
-      "label": "whose interests they really serve",
+      "label": "A Town Ignored: Southall After 16 Years Under Labour",
       "post": "post:5839992",
       "provenance": "source-post-link",
+      "resolved_url": "https://southall.substack.com/p/a-town-ignored-southall-after-16?triedRedirect=true",
+      "title_source": "og:title",
       "url": "https://open.substack.com/pub/southall/p/a-town-ignored-southall-after-16"
     },
     {
+      "article_label": "at a public meeting called by disabled adults",
+      "destination_title": "A \"S.A.D.\" Tale - The Ealing Labour Councillor's Contempt For Day Care Centre Users...",
       "domain": "sadealing.blogspot.com",
-      "label": "at a public meeting called by disabled adults",
+      "label": "A \"S.A.D.\" Tale - The Ealing Labour Councillor's Contempt For Day Care Centre Users...",
       "post": "post:5839992",
       "provenance": "source-post-link",
+      "resolved_url": "https://sadealing.blogspot.com/2010/10/sad-tale-ealing-labour-councillors.html",
+      "title_source": "og:title",
       "url": "https://sadealing.blogspot.com/2010/10/sad-tale-ealing-labour-councillors.html"
     },
     {
@@ -3743,10 +3814,14 @@
       "url": "https://lithub.com/on-deadly-policing-and-the-1979-southall-protests/"
     },
     {
+      "article_label": "Average rents rose by 12.4% in a single year",
+      "destination_title": "Ealing sees major increase in homelessness",
       "domain": "theviewfromw5.substack.com",
-      "label": "Average rents rose by 12.4% in a single year",
+      "label": "Ealing sees major increase in homelessness",
       "post": "post:5841154",
       "provenance": "source-post-link",
+      "resolved_url": "https://theviewfromw5.substack.com/p/ealing-major-increase-homelessness",
+      "title_source": "og:title",
       "url": "https://theviewfromw5.substack.com/p/ealing-major-increase-homelessness"
     },
     {
@@ -3865,17 +3940,25 @@
       "url": "https://aroundealing.com/wp-content/uploads/2015/11/around_ealing_winter_2015-16.pdf"
     },
     {
+      "article_label": "Henry Construction",
+      "destination_title": "Ealing Council still hopes to recoup some money after the demolition of homes",
       "domain": "open.substack.com",
-      "label": "Henry Construction",
+      "label": "Ealing Council still hopes to recoup some money after the demolition of homes",
       "post": "post:5849581",
       "provenance": "source-post-link",
+      "resolved_url": "https://theviewfromw5.substack.com/p/ealing-council-hopes-to-recoup-money-from-collapse-of-henry-construction?triedRedirect=true",
+      "title_source": "og:title",
       "url": "https://open.substack.com/pub/theviewfromw5/p/ealing-council-hopes-to-recoup-money-from-collapse-of-henry-construction"
     },
     {
+      "article_label": "Conal Urquhart's investigation",
+      "destination_title": "Ealing delivers 16 percent of its affordable homes target",
       "domain": "open.substack.com",
-      "label": "Conal Urquhart's investigation",
+      "label": "Ealing delivers 16 percent of its affordable homes target",
       "post": "post:5849581",
       "provenance": "source-post-link",
+      "resolved_url": "https://theviewfromw5.substack.com/p/ealing-delivers-16-percent-of-its-affordable-homes-target?triedRedirect=true",
+      "title_source": "og:title",
       "url": "https://open.substack.com/pub/theviewfromw5/p/ealing-delivers-16-percent-of-its-affordable-homes-target"
     },
     {
@@ -4035,10 +4118,14 @@
       "url": "https://ealing.moderngov.co.uk/documents/s23017/Council%20Plan%20Performance%20Report%20Q2%20202526.pdf"
     },
     {
+      "article_label": "LGC award",
+      "destination_title": "LGC Awards 2026",
       "domain": "web.archive.org",
-      "label": "LGC award",
+      "label": "LGC Awards 2026",
       "post": "post:5850105",
       "provenance": "source-post-link",
+      "resolved_url": "https://web.archive.org/web/20260420032016/https://www.awards.lgcplus.com/lgca2026/en/page/2026-shortlist",
+      "title_source": "og:title",
       "url": "https://web.archive.org/web/20260420032016/https://www.awards.lgcplus.com/lgca2026/en/page/2026-shortlist"
     },
     {
@@ -4507,10 +4594,14 @@
       "url": "https://photos.app.goo.gl/4dN7oLJizqrSCZeG6"
     },
     {
+      "article_label": "just 180 had been completed",
+      "destination_title": "Ealing delivers 16 percent of its affordable homes target",
       "domain": "theviewfromw5.substack.com",
-      "label": "just 180 had been completed",
+      "label": "Ealing delivers 16 percent of its affordable homes target",
       "post": "post:5855337",
       "provenance": "source-post-link",
+      "resolved_url": "https://theviewfromw5.substack.com/p/ealing-delivers-16-percent-of-its-affordable-homes-target",
+      "title_source": "og:title",
       "url": "https://theviewfromw5.substack.com/p/ealing-delivers-16-percent-of-its-affordable-homes-target"
     },
     {
@@ -4525,10 +4616,14 @@
       "url": "https://threadreaderapp.com/scrolly/2052069108624089239"
     },
     {
+      "article_label": "Internet Archive",
+      "destination_title": "Ealing Labour",
       "domain": "web.archive.org",
-      "label": "Internet Archive",
+      "label": "Ealing Labour",
       "post": "post:5855337",
       "provenance": "source-post-link",
+      "resolved_url": "https://web.archive.org/web/20181219221205/https://www.ealinglabour.com/",
+      "title_source": "og:title",
       "url": "https://web.archive.org/web/20181219221205/https://www.ealinglabour.com/"
     },
     {
@@ -5287,10 +5382,14 @@
       "url": "https://thegreenquartercommunity.co.uk/wp-content/uploads/2025/12/The-Green-Quarter-Community-Newsletter-December-2025.pdf"
     },
     {
+      "article_label": "hired former Ealing leader Julian Bell and former Berkeley executive Judith Salomon",
+      "destination_title": "BECG appoints two new strategic advisors to boost political and communications offer to clients in the built environment - BECG",
       "domain": "web.archive.org",
-      "label": "hired former Ealing leader Julian Bell and former Berkeley executive Judith Salomon",
+      "label": "BECG appoints two new strategic advisors to boost political and communications offer to clients in the built environment - BECG",
       "post": "post:5859956",
       "provenance": "source-post-link",
+      "resolved_url": "https://web.archive.org/web/20210920045525/https://becg.com/becg-appoints-two-new-strategic-advisors-to-boost-political-and-communications-offer-to-clients-in-the-built-environment/",
+      "title_source": "og:title",
       "url": "https://web.archive.org/web/20210920045525/https://becg.com/becg-appoints-two-new-strategic-advisors-to-boost-political-and-communications-offer-to-clients-in-the-built-environment/"
     },
     {
@@ -5316,25 +5415,17 @@
       "url": "https://www.andrewteale.me.uk/leap/ward/85/#2010-05-06"
     },
     {
-      "article_label": "Berkeley Foundation",
-      "destination_title": "Our People | Berkeley Foundation",
       "domain": "berkeleyfoundation.org.uk",
-      "label": "Our People | Berkeley Foundation",
+      "label": "Berkeley Foundation",
       "post": "post:5859956",
       "provenance": "source-post-link",
-      "resolved_url": "https://www.berkeleyfoundation.org.uk/our-people",
-      "title_source": "html-title",
       "url": "https://www.berkeleyfoundation.org.uk/our-people"
     },
     {
-      "article_label": "the story was published on 23 January 2024",
-      "destination_title": "Community Chest Programme Supports Western Road Urban Garden | News and Insights",
       "domain": "berkeleygroup.co.uk",
-      "label": "Community Chest Programme Supports Western Road Urban Garden | News and Insights",
+      "label": "the story was published on 23 January 2024",
       "post": "post:5859956",
       "provenance": "source-post-link",
-      "resolved_url": "https://www.berkeleygroup.co.uk/news-and-insights/news-and-features/2024/community-chest-programme-supports-western-road-urban-garden",
-      "title_source": "og:title",
       "url": "https://www.berkeleygroup.co.uk/news-and-insights/news-and-features/2024/community-chest-programme-supports-western-road-urban-garden"
     },
     {
@@ -6051,10 +6142,14 @@
       "url": "https://www.theguardian.com/environment/2019/may/04/brownfield-site-new-homes-building-wrecking-health-southall"
     },
     {
+      "article_label": "temperature",
+      "destination_title": "Weather in July 2018 in Southall, England, United Kingdom",
       "domain": "timeanddate.com",
-      "label": "temperature",
+      "label": "Weather in July 2018 in Southall, England, United Kingdom",
       "post": "post:5884473",
       "provenance": "source-post-link",
+      "resolved_url": "https://www.timeanddate.com/weather/@2637490/historic?month=7&year=2018",
+      "title_source": "html-title",
       "url": "https://www.timeanddate.com/weather/@2637490/historic?month=7&year=2018"
     },
     {
@@ -6506,8 +6601,8 @@
   ],
   "counts": {
     "citation_titles_rejected_as_stale_redirects": 2,
-    "citations": 714,
-    "citations_with_destination_titles": 376,
+    "citations": 715,
+    "citations_with_destination_titles": 398,
     "entities": 121,
     "links": 1286,
     "posts": 76,
@@ -15853,7 +15948,7 @@
       "id": "post:5543191",
       "lastmod": "2025-09-07T11:55:06+0100",
       "provenance": "southall-stories-corpus",
-      "sha256": "0d8c6c10027762775471835d4aebcc2aba9731c3abc18a6100e7007cf2d54de7",
+      "sha256": "c7efa4e298ebb254901d6ca652f91c116d881f3a1fe6fd68e4f6655e6ba5203d",
       "summary": "Ealing Council's draft air quality strategy promises to protect residents from pollution while simultaneously allowing the very developments and practices that poison Southall's air.",
       "title": "Response to Ealing's Air Quality Strategy and Action Plan",
       "url": "https://southallstories.uk/2023/01/26/response-to-ealings-air-quality/"
